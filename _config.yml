@@ -42,6 +42,11 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      excerpt_separator: "<!--more-->"
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
