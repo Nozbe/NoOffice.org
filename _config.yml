@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: book.NoOffice.org
+name: NoOffice.org
 
 # Short bio or description (displayed in the header)
-description: NoOffice Book - Works is not a place to go, it's a thing that you do
+description: No Office book - work is not a place to go, it's a thing that you do
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/1301067?s=40&v=4
@@ -39,14 +39,27 @@ permalink: /:title/
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: ""
     values:
       layout: "default"
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: ""
     values:
-      excerpt_separator: "<!--more-->"
+      excerpt_separator: "<!--More-->"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "drafts"
+    values:
+      layout: "post"
+
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:

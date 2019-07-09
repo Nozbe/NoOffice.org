@@ -14,6 +14,6 @@ The idea is this:
 ## Folder structure:
 
 - README
-- Index - TOC
-- /book/ - English version of the book
-- /chapters/ - when all the finished chapters will be compiled
+- /index - main home page
+- /about - about this project
+- /book/ - Table of Contents and all the chapters in the "book" folder.
