@@ -1,5 +1,5 @@
 ---
-layout: post
+tags: [essay]
 title: Why in any company you should be using version control for anything — how we use Github not only for code, but also for writing!
 ---
 
