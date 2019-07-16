@@ -13,7 +13,7 @@ So sad. That’s just so sad.
 
 *Originally posted on [my personal blog](https://sliwinski.com/sv-remote)*
 
-<!--more-->
+<!--More-->
 
 ### Sadly Silicon Valley is in the Industrial Age of work.
 
