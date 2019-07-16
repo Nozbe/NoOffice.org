@@ -1,6 +1,6 @@
 ---
 tags: [essay]
-title: Why oh why in any company you should be using version control for anything — how we use Github not only for code, but also for writing!
+title: Why really in any company you should be using version control for anything — how we use Github not only for code, but also for writing!
 ---
 
 ![Why in any company you should be using version control for anything — how we use Github not only for code, but also for writing!](/img/github.jpg)
@@ -11,4 +11,4 @@ Working with GitHub with my team — and using it on the go on my iPad Pro t
 
 [Read the entire story...](https://sliwinski.com)
 
-<!--More-->
+<!--more-->
