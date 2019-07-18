@@ -1,17 +1,15 @@
 ---
 tags: [essay]
-title: It’s official: working from home is the best :-)
+title: "It’s official: working from home is the best :-)"
 ---
+
+In Nozbe we’re a small team of 24 people in the core team and 10+ cooperating people and companies. Altogether a bunch of more than 30 people. And we all work from home. Yet many “management gurus” still find it hard to embrace this kind of working arrangement and that’s why articles with titles like this one are being written every now and then: [it’s official, working from home is the worst](http://fusion.net/story/212971/working-from-home-telecommuting-sucks/). At first I totally dismissed that article but then I found it quite inspiring as it represents most of the urban legends about working from home so in this post I’d like to go through that very article and give arguments for future discussion about working remotely. [Something Silicon Valley still has to embrace.](https://sliwinski.com/sv-remote) Here are a few typical remote working myths I found in the above mentioned article:
+
+![Best place to work](/img/nooffice-best.jpg)
 
 *Originally posted on [my personal blog](https://sliwinski.com/nooffice-best)*
 
 <!--More-->
-
-In Nozbe we’re a small team of 24 people in the core team and 10+ cooperating people and companies. Altogether a bunch of more than 30 people. And we all work from home. Yet many “management gurus” still find it hard to embrace this kind of working arrangement and that’s why articles with titles like this one are being written every now and then: [it’s official, working from home is the worst](http://fusion.net/story/212971/working-from-home-telecommuting-sucks/). At first I totally dismissed that article but then I found it quite inspiring as it represents most of the urban legends about working from home so in this post I’d like to go through that very article and give arguments for future discussion about working remotely. [Something Silicon Valley still has to embrace.](/sv-remote) Here are a few typical remote working myths I found in the above mentioned article:
-
-[![Best place to work](/nooffice-best.jpg)][m]
-
-*I originally posted this on [Medium][m] where I post about remote working as a part of [NoOffice publication][mo]. I'd appreciate if you [followed me there][mu] and recommended my posts, thanks!*
 
 ### Myth 1: While working from home rarely can be a good thing, doing it too much reduces productivity and happiness…
 

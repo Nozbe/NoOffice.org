@@ -1,6 +1,6 @@
 ---
 tags: [essay]
-title: Silicon Valley is disrupting everything but the way they work: Getting remote work done.
+title: "Silicon Valley is disrupting everything but the way they work: Getting remote work done."
 ---
 
 Recently Peter Thiel’s book “Zero To One” was translated to Polish and my friends started commenting on it on Facebook. I read the book a year ago and while I enjoyed it, one thing that stood out to me was the author’s take on “remote work”:
