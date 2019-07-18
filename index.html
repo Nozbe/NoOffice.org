@@ -1,8 +1,8 @@
 ---
-title: NoOffice.org - work is not a place to go, it's a thing that you do.
+title: NoOffice.org - the definitive guide to working remotely!
 ---
 
-<h1>NoOffice.org - the definitive guide to working remotely!</h1>
+<h1>{{ page.title}}</h1>
 
 <p>My name is Michael Sliwinski and I'll be openly working on my upcoming book "No Office - work is not a place to go, it's a thing that you do" via this web site. <a href="/about">Read more about this project and how you can contribute</a>.</p>
 
@@ -10,17 +10,17 @@ title: NoOffice.org - work is not a place to go, it's a thing that you do.
 
 <div class="posts">
 {% for post in site.posts limit:3 %}
-
 <div class="post">
-	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	<div class="date">
 	{{ post.date | date: "%B %e, %Y" }} 
 	</div>
 	<div class="entry">
 	{{ post.excerpt }}
 	</div>
+	<a href="{{ post.url }}">Read the entire essay...</a>
 </div>
 {% endfor %}
 </div>
 
-<p>Want to browse the past? <a href="/archive">Check out the archives</a>.</p>
+<p>Want to browse the past? <a href="/blog">Check out all the blog archives</a>.</p>
