@@ -5,7 +5,7 @@ title: "Which mobile apps we use to run our Nozbe company? - video of my present
 
 Last month I was kindly invited to one of the biggest mobile conferences in Europe - [Mobiconf 2018](https://2018.mobiconf.org/speakers/) and I had a chance to do a follow up to my [Infoshare 2018](https://sliwinski.com/infoshare) presentation on the way we work. Today it's Saturday so if you want to get inspired how to work better next week, make sure to check it out:
 
-{% include ytPlayer.html id=X9wMtl8fBU0 %}
+{% include ytPlayer.html id="X9wMtl8fBU0" %}
 
 *Originally posted on [my personal blog](https://sliwinski.com/mobiconfvideo)*
 
