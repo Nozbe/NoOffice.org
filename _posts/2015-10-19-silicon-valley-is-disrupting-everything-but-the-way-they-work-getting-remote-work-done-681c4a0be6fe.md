@@ -35,4 +35,4 @@ I run a small company of 24 people and 12 contractors and we all work from home.
 
 We feel for the Silicon Valley based creators of the tools we use to get it all done. We feel for them because they can’t enjoy the lifestyle we have because their co founders and VCs wouldn’t allow that. To all the SV lords I’d like to end this article with a quote:
 
-> [Work is not a place to go. It’s a thing that you do.](https://sliwinski.com/noofficebook/)
+> Work is not a place to go. It’s a thing that you do.

@@ -19,8 +19,6 @@ First off, all the productivity gurus these days tell you we can only achieve be
 
 Of course there isn’t. For two reasons:
 
-...
-
 1. There is no family conflict when you work from home, because you’re closer to your family, you have flexible working hours and your family is happy you’re around. So there’s nothing to mitigate.
 2. Working in an office indeed is a great way to mitigate work family conflict because when you work 12 hour days and commute you hardly see your family anyway, so avoidance is the best way of mitigation :-)
 
@@ -44,7 +42,7 @@ Yes, those famous inspiring “corridor” chats. Rather than let random chats i
 
 ### Myth 7: It makes sense that some of the biggest tech companies in Silicon Valley, including Google, Facebook and Apple, have discouraged working from home…
 
-[I’ve posted about it a week ago.](/sv-remote) But let’s repeat here: it makes no sense at all. Have you seen their offices? [Their open spaces where it’s hard to get anything done?](https://sliwinski.com/thepodcast-5) It makes sense for them as much as it makes sense for the banks to build headquarters in the centers of big cities. Just because they do it doesn’t mean it’s right. The SV companies have the resources to do it and they hire lots of developers. If any company had so many engineers, they’d also eventually come up with something useful. But our small team does so much with just that, a small, effectively-working remote team.
+[I’ve posted about it a week ago.](https://sliwinski.com/sv-remote) But let’s repeat here: it makes no sense at all. Have you seen their offices? [Their open spaces where it’s hard to get anything done?](https://sliwinski.com/thepodcast-5) It makes sense for them as much as it makes sense for the banks to build headquarters in the centers of big cities. Just because they do it doesn’t mean it’s right. The SV companies have the resources to do it and they hire lots of developers. If any company had so many engineers, they’d also eventually come up with something useful. But our small team does so much with just that, a small, effectively-working remote team.
 
 ### Myth 8: When you have a really tight-knit group of co-workers, those people tend to be a lot happier.
 
@@ -69,7 +67,8 @@ You can develop a sense of belonging by fostering company culture though tools w
 > We work from home for better lifestyle for us and our company. Not to save money on offices. Although it’s a nice added bonus.
 
 > We work remotely because it gives us freedom to design our perfect work life balance.
-There are many more good things about working remotely and many more issues to explain and urban legends to be analyzed. I’ll do it all in the [upcoming columns here on Medium](/tag/medium) so make sure to subscribe.
+
+There are many more good things about working remotely and many more issues to explain and urban legends to be analyzed.
 
 Stay tuned and meanwhile don’t be a stranger and let me know what you think and how do you see yourself working remotely instead of doing it in a traditional office. What are your biggest pros and cons? Any concerns? Any hidden benefits?
 
