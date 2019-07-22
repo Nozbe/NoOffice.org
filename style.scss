@@ -142,6 +142,24 @@ img {
     clear: both;
 }
 
+//Fixes for responsive video embed
+//https://avexdesigns.com/responsive-youtube-embed
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
