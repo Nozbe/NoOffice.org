@@ -51,7 +51,7 @@ That’s the thing. That’s the core of productivity. We don’t need just more
 
 Facebook is known for hiring the best programmers in the world. How do they expect them to perform at their best in an “Open Space”?
 
-![Open Office](/openoffice2.jpg)
+![Open Office](/img/openoffice2.jpg)
 
 But “open space” fosters collaboration and bonds teams, right?
 
