@@ -202,19 +202,19 @@ And to sum it up, here are a few clips from our past reunions:
 
 ### Our last reunion in Wrocław:
 
-{% include ytPlayer.html id=lkIkqD1frIA %}
+{% include ytPlayer.html id="lkIkqD1frIA" %}
 
 ### Last spring in Toruń:
 
-{% include ytPlayer.html id=Z2RpaI8dgmM %}
+{% include ytPlayer.html id="Z2RpaI8dgmM" %}
 
 ### Spring of 2016, Sopot:
 
-{% include ytPlayer.html id=8KJsP4ht2YQ %}
+{% include ytPlayer.html id="8KJsP4ht2YQ" %}
 
 ### Fall of 2015, Łódź:
 
-{% include ytPlayer.html id=gbNrXpd5i6g %}
+{% include ytPlayer.html id="gbNrXpd5i6g" %}
 
 
 <!--

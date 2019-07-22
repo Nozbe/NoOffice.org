@@ -7,7 +7,7 @@ In this presentation that I did in front of an audience of 500+ people at [InfoS
 
 ### Why an all-remote team can be successful and work better!?
 
-{% include ytPlayer.html id=3NNZu5xepe4 %}
+{% include ytPlayer.html id="3NNZu5xepe4" %}
 
 *Originally posted on [my personal blog](https://sliwinski.com/infoshare)*
 

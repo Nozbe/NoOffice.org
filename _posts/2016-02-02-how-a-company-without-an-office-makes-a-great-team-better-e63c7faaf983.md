@@ -81,7 +81,7 @@ I don’t know. It did scale when I was alone. And when we were three. And now w
 
 To prove my point here’s a video from our last year’s “Nozbe Reunion:”
 
-{% include ytPlayer.html id=gbNrXpd5i6g %}
+{% include ytPlayer.html id="gbNrXpd5i6g" %}
 
 [n]: https://nozbe.com/
 [tp]: https://thepodcast.fm
