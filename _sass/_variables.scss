@@ -18,6 +18,9 @@ $white: #fff;
 
 @media (prefers-color-scheme: dark) {
 // Grays
+body {
+	margin-top: 50px;
+}
 $black: #fff;
 $darkerGray: #eee;
 $darkGray: #666;
