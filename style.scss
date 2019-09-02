@@ -18,9 +18,14 @@ html {
 }
 
 body {
-  background: $white;
   font: 18px/1.4 $helvetica;
+  background: $white;
   color: $darkGray;
+  
+  	@include dark-mode {
+  	background: $black;
+  	color: $lightGray;
+  	}
 }
 
 .container {

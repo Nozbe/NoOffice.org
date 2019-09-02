@@ -6,25 +6,13 @@
 //$blue: #4183C4;
 $blue: #8A2BE2;
 
-@media (prefers-color-scheme: dark) {
 // Grays
-$black: #fff;
-$darkerGray: #eee;
-$darkGray: #666;
-$gray: #333;
-$lightGray: #222;
-$white: #000;
-}
-
-// Grays
-$black: #000 !default;
-$darkerGray: #222 !default;
-$darkGray: #333 !default;
-$gray: #666 !default;
-$lightGray: #eee !default;
-$white: #fff !default;
-
-
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
@@ -36,4 +24,9 @@ $georgia: Georgia, serif;
   @media screen and (max-width: 640px) {
     @content;
   }
+}
+
+//Dark mode mixin
+@mixin dark-mode {
+  @media (prefers-color-scheme: dark) { @content; }
 }
