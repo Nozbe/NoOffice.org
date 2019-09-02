@@ -8,18 +8,18 @@ $blue: #8A2BE2;
 
 //@media (prefers-color-scheme: light) {
 // Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+$black: #000 !default;
+$darkerGray: #222 !default;
+$darkGray: #333 !default;
+$gray: #666 !default;
+$lightGray: #eee !default;
+$white: #fff !default;
 //}
 
 @media (prefers-color-scheme: dark) {
 // Grays
 body {
-	margin-top: 50px;
+	margin-top: 100px;
 }
 $black: #fff;
 $darkerGray: #eee;
