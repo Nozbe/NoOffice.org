@@ -6,16 +6,6 @@
 //$blue: #4183C4;
 $blue: #8A2BE2;
 
-//@media (prefers-color-scheme: light) {
-// Grays
-$black: #000 !default;
-$darkerGray: #222 !default;
-$darkGray: #333 !default;
-$gray: #666 !default;
-$lightGray: #eee !default;
-$white: #fff !default;
-//}
-
 @media (prefers-color-scheme: dark) {
 // Grays
 $black: #fff;
@@ -25,6 +15,15 @@ $gray: #333;
 $lightGray: #222;
 $white: #000;
 }
+
+// Grays
+$black: #000 !default;
+$darkerGray: #222 !default;
+$darkGray: #333 !default;
+$gray: #666 !default;
+$lightGray: #eee !default;
+$white: #fff !default;
+
 
 
 // Font stacks
