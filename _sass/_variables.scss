@@ -5,6 +5,7 @@
 // Colors
 $blue: #4183C4;
 
+@media (prefers-color-scheme: light) {
 // Grays
 $black: #000;
 $darkerGray: #222;
@@ -12,6 +13,18 @@ $darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
 $white: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+// Grays
+$black: #fff;
+$darkerGray: #eee;
+$darkGray: #666;
+$gray: #333;
+$lightGray: #222;
+$white: #000;
+}
+
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
