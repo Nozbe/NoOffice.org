@@ -124,7 +124,7 @@ img {
   @include dark-mode {
     opacity: .75;
     transition: opacity .5s ease-in-out;
-    $:hover { opacity: 1; }
+    &:hover { opacity: 1; }
   }
 }
 
