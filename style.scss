@@ -22,10 +22,10 @@ body {
   background: $white;
   color: $darkGray;
   
-  	@include dark-mode {
-  	background: $black;
-  	color: $lightGray;
-  	}
+  @include dark-mode {
+    background: $black;
+    color: $lightGray;
+  }
 }
 
 .container {
@@ -47,6 +47,10 @@ h1, h2, h3, h4, h5, h6 {
   @include mobile {
     line-height: 1.4;
   }
+  @include dark-mode {
+    color: $lighterGray;
+  }
+
 }
 
 h1 {
@@ -80,6 +84,10 @@ a {
   &:hover, &:active {
     color: $blue;
   }
+  @include dark-mode {
+    color: $blueLight;
+  }
+
 }
 
 ul, ol {
@@ -113,6 +121,11 @@ strong, b {
 
 img {
   max-width: 100%;
+  @include dark-mode {
+    opacity: .75;
+    transition: opacity .5s ease-in-out;
+    $:hover { opacity: 1; }
+  }
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -221,6 +234,10 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  @include dark-mode {
+    color: $lightGray;
+  }
+
 }
 
 .site-description {
@@ -248,14 +265,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+/*    color: $darkGray; */
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+/*    color: $blue; */
     }
   }
 }
@@ -299,6 +316,10 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  @include dark-mode {
+    background-color: $darkGray;
+  }
+
 }
 
 footer {
