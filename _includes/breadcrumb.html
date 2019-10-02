@@ -1,4 +1,5 @@
 <div class="breadcrumb">
+<a href="{{ site.baseurl }}{{ site.data.toc.toc_url }}">{{ site.data.toc.toc_title }}</a> &#187;
 {% for item in site.data.toc.toc %}
 {% if item.part == page.part %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>{% endif %}
   {% for entry in item.chapters %}
