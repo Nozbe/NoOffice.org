@@ -4,6 +4,7 @@ title: About the No Office book project
 
 # {{page.title}}
 
+* TOC
 {:toc}
 
 ## Your host - Michael Sliwinski
