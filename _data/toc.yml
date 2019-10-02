@@ -4,10 +4,10 @@ toc:
   url: /book/intro/
   part: intro
   chapters:
-  - page: Introduction
+  - title: Introduction
     subtitle: Why do you really need an office?
     url: /book/introduction/
-  - page: Acknowledgements
+  - title: Acknowledgements
     subtitle: Thanking everyone at Nozbe for their amazing work!
     url: /book/acknowledgements/
 - title: Part 1
@@ -15,6 +15,6 @@ toc:
   url: /book/part1/
   part: one
   chapters:
-  - page: Chapter 1 - Focus
+  - title: Chapter 1 - Focus
     subtitle: All everyone needs these days is... focus
     url: /book/focus/

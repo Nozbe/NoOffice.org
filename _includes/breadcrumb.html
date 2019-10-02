@@ -2,7 +2,7 @@
 {% for item in site.data.toc.toc %}
 {% if item.part == page.part %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>{% endif %}
   {% for entry in item.chapters %}
-  {% if entry.url == page.url %}&#187; {{ entry.page }}{% endif %}
+  {% if entry.url == page.url %}&#187; {{ entry.title }}{% endif %}
   {% endfor %}
 {% endfor %}
 </div>

@@ -2,12 +2,13 @@
 <h3>Continue reading...</h3>
 {% for item in site.data.toc.toc %}
 <ul>
-{% if item.part == page.part %}<li><a href="{{ site.baseurl }}{{ item.url }}" {% if item.url == page.url %}class="bold"{% endif %}>{{ item.title }}</a>{% endif %}
+{% if item.part == page.part %}<li><a href="{{ site.baseurl }}{{ item.url }}" {% if item.url == page.url %}class="bold"{% endif %}>{{ item.title }}</a>
   <ul>
   {% for entry in item.chapters %}
   <li><a href="{{ site.baseurl }}{{ entry.url }}" {% if entry.url == page.url %}class="bold"{% endif %}>{{ entry.title }}</a><br />{{ entry.subtitle }}
   {% endfor %}
   </ul>
+{% endif %}
 </ul>
 {% endfor %}
 </div>

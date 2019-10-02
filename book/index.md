@@ -9,7 +9,7 @@ title: No Office book - Table of Contents
 <p>{{ item.subtitle }}</p>
 <ul>
 {% for entry in item.chapters %}
-<li><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.page }}</a><br />
+<li><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a><br />
 {{ entry.subtitle }}
 </li>
 {% endfor %}
