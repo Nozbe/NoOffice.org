@@ -1,5 +1,5 @@
 ---
-title: Introduction to No Office book
+title: Why do you need an office anyway?
 layout: chapter
 part: intro
 ---
@@ -12,4 +12,4 @@ part: intro
 
 ## {{ page.url }}
 
-## Another one!
+## You really don't need one, you know?
