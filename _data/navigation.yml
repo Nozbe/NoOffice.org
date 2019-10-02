@@ -1,0 +1,14 @@
+docs_list_title: Navigation
+docs:
+
+- title: Home
+  url: "/index.html"
+
+- title: Book
+  url: "/book/index.html"
+
+- title: Blog
+  url: "/blog.html"
+
+- title: About
+  url: "/about.html"

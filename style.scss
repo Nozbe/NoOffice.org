@@ -119,6 +119,10 @@ strong, b {
   font-weight: bold;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 img {
   max-width: 100%;
   @include dark-mode {
@@ -265,14 +269,12 @@ nav {
 
   a {
     margin-left: 20px;
-/*    color: $darkGray; */
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-/*    color: $blue; */
     }
   }
 }
