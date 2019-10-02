@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Acknowledgements
 layout: chapter
 part: intro
 ---
@@ -10,4 +10,6 @@ part: intro
 * TOC
 {:toc}
 
-## Why do you need an office anyway?
+## Thanks!
+
+CONTENT

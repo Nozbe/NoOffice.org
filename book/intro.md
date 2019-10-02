@@ -1,5 +1,5 @@
 ---
-title: Introduction to No Office book
+title: Hello
 layout: chapter
 part: intro
 ---
@@ -10,6 +10,4 @@ part: intro
 * TOC
 {:toc}
 
-## {{ page.url }}
-
-## Another one!
+## It's all about NoOffice

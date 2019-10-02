@@ -1,7 +1,7 @@
 ---
-title: Introduction
+title: TITLE
 layout: chapter
-part: intro
+part: PART
 ---
 
 # {{ page.title }}
@@ -10,4 +10,6 @@ part: intro
 * TOC
 {:toc}
 
-## Why do you need an office anyway?
+## SUBTITLE
+
+CONTENT
