@@ -2,13 +2,13 @@ docs_list_title: Navigation
 docs:
 
 - title: Home
-  url: "/index.html"
+  url: "/"
 
 - title: Book
-  url: "/book/index.html"
+  url: "/book/"
 
 - title: Blog
-  url: "/blog.html"
+  url: "/blog/"
 
 - title: About
-  url: "/about.html"
+  url: "/about/"
