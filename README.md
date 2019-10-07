@@ -1,19 +1,43 @@
 # NoOffice.org
-New NoOffice.org web site for writing the ultimate book about remote working out in the open!
 
-Tomasz will have to install it here!
+New NoOffice.org web site for openly writing the ultimate book about remote working out in the open!
 
-The idea is this:
+## Licensed under Creative-Commons license
 
-- Create a web site in Jekyll with Table of contents and nothing else. No blog. No nothing. Just Jekyll sites.
-- Start filling out the table of contents with files written here.
-- Ask for feedback as comments in the GitHub repository
-- Pull requests also via GitHub
-- Later translations also via GitHub.
+See [license.md](https://github.com/Nozbe/NoOffice.org/tree/master/license.md) for details.
 
-## Folder structure:
+## Written on GitHub in Markdown
 
-- README
-- /index - main home page
-- /about - about this project
-- /book/ - Table of Contents and all the chapters in the "book" folder.
+The contents of the book are in the [/book folder](https://github.com/Nozbe/NoOffice.org/tree/master/book/)
+
+To create a new chapter file follow these simple steps:
+
+1. Simply create a blank text file "example.md" in the "book" folder.
+2. Add two things in to the front matter (between "---" signs):
+  * "layout" and just set it to "chapter"
+  * "part" set to the part of the book
+  * "title" of the chapter you're writing
+3. Once you've saved this file, please add it as well to the [Table of Contents file: toc.yml](https://github.com/Nozbe/NoOffice.org/tree/master/_data/toc.yml) under appropriate book part and chapter, for example:
+  * `- title: TITLE`
+  * `subtitle: SUBTITLE`
+  * `url: /book/example/`
+4. (optional and default) You can add "a mini chapter-only table of contents" if the chapter very long by pasting these two lines of code right after the front matter of the page:
+  * `* TOC`
+  * `{:toc}`
+
+Here's a [simple template](https://github.com/Nozbe/NoOffice.org/tree/master/book/_template.md) for minimal code and maximum content:
+
+```
+---
+layout: chapter
+part: PART
+title: TITLE
+---
+
+* TOC (optional)
+{:toc}
+
+## SUBTITLE
+
+CONTENT
+```
