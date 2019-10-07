@@ -1,9 +1,7 @@
 ---
+layout: page
 title: About the No Office book project
 ---
-
-# {{page.title}}
-{:.no_toc}
 
 * TOC
 {:toc}

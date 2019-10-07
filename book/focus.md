@@ -4,9 +4,6 @@ layout: chapter
 part: one
 ---
 
-# {{ page.title }}
-{:.no_toc}
-
 * TOC
 {:toc}
 

@@ -1,13 +1,10 @@
 ---
-title: TITLE
 layout: chapter
 part: PART
+title: TITLE
 ---
 
-# {{ page.title }}
-{:.no_toc}
-
-* TOC
+* TOC (optional)
 {:toc}
 
 ## SUBTITLE

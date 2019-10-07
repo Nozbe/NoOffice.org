@@ -1,8 +1,7 @@
 ---
+layout: page
 title: No Office book - Table of Contents
 ---
-
-# {{ page.title }}
 
 {% for item in site.data.toc.toc %}
 <h3><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h3>
