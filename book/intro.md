@@ -1,7 +1,7 @@
 ---
-title: Hello
 layout: chapter
 part: intro
+title: "Introduction to #NoOffice"
 ---
 
 * TOC
