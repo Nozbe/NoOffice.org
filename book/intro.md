@@ -4,10 +4,9 @@ layout: chapter
 part: intro
 ---
 
-# {{ page.title }}
-{:.no_toc}
-
 * TOC
 {:toc}
 
 ## It's all about NoOffice
+
+## Everybody should be able to work remotely!
