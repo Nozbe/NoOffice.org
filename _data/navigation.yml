@@ -1,4 +1,5 @@
-docs:
+nav_footer: "(brought to you by <a href='https://sliwinski.com'>Michael Sliwinski</a> - the founder of <a href='https://nozbe.com'>Nozbe</a>)"
+nav:
 
 - title: Home
   url: "/"

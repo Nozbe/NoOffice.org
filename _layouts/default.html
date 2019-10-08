@@ -14,6 +14,7 @@
     <link rel="icon" type="image/png" href="{{ site.avatar }}">
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <!-- Expanded by Michael Sliwinski - https://NoOffice.org -->
   </head>
 
   <body>
@@ -28,7 +29,7 @@
           </div>
 
           <nav>
-          {% for item in site.data.navigation.docs %}
+          {% for item in site.data.navigation.nav %}
           <a href="{{ site.baseurl }}{{ item.url }}" {% if item.url == page.url %}class="bold"{% endif %}>{{ item.title }}</a>
           {% endfor %}
           </nav>
@@ -44,7 +45,7 @@
       <div class="container">
         <footer class="footer">
           &copy; {{ site.time | date: '%Y' }} <a href="{{ site.baseurl }}/">{{ site.name }}</a>
-          (brought to you by <a href="https://sliwinski.com">Michael Sliwinski</a> - the founder of <a href="https://nozbe.com">Nozbe</a>)
+          { site.data.navigation.nav_footer }
         </footer>
       </div>
     </div>

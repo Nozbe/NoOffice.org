@@ -1,6 +1,6 @@
 ---
 layout: page
-title: No Office book - Table of Contents
+title: Table of Contents
 ---
 
 {% for item in site.data.toc.toc %}

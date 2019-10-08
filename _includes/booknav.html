@@ -1,5 +1,5 @@
 <div class="booknav">
-<h3>Continue reading...</h3>
+<h3>{{ site.data.toc.toc_continue }}</h3>
 {% for item in site.data.toc.toc %}
 <ul>
 {% if item.part == page.part %}<li><a href="{{ site.baseurl }}{{ item.url }}" {% if item.url == page.url %}class="bold"{% endif %}>{{ item.title }}</a><br />{{ item.subtitle }}</li>
@@ -12,3 +12,4 @@
 </ul>
 {% endfor %}
 </div>
+<a href="{{ site.baseurl }}{{ site.data.toc.toc_url }}">{{ site.data.toc.toc_back }}</a>
