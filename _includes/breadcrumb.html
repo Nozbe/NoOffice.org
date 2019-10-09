@@ -2,9 +2,9 @@
 <a href="{{ site.baseurl }}{{ site.data.toc.toc_url }}">{{ site.data.toc.toc_title }}</a> &#187;
 {% for item in site.data.toc.toc %}
 {% if item.part == page.part %}
-{% if item.url == page.url %}{{ item.title }}{% else %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>{% endif %}
+{% if item.url == page.url %}{{ item.title }}{% if item.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}{% else %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>{% endif %}
   {% for entry in item.chapters %}
-  {% if entry.url == page.url %}&#187; {{ entry.title }}{% endif %}
+  {% if entry.url == page.url %}&#187; {{ entry.title }}{% if entry.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}{% endif %}
   {% endfor %}
   {% endif %}
 {% endfor %}

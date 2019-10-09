@@ -2,10 +2,10 @@
 <h3>{{ site.data.toc.toc_continue }}</h3>
 {% for item in site.data.toc.toc %}
 <ul>
-{% if item.part == page.part %}<li><a href="{{ site.baseurl }}{{ item.url }}" {% if item.url == page.url %}class="bold"{% endif %}>{{ item.title }}</a><br />{{ item.subtitle }}</li>
+{% if item.part == page.part %}<li{% if item.url == page.url %} class="bold"{% endif %}>{% if item.status == "empty" %}{{ item.title }}{% else %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}{% if item.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}</a>{% endif %}<br />{{ item.subtitle }}</li>
   <ul>
   {% for entry in item.chapters %}
-  <li><a href="{{ site.baseurl }}{{ entry.url }}" {% if entry.url == page.url %}class="bold"{% endif %}>{{ entry.title }}</a><br />{{ entry.subtitle }}
+  <li{% if entry.url == page.url %} class="bold"{% endif %}>{% if entry.status == "empty" %}{{ entry.title }}{% else %}<a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}{% if entry.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}</a>{% endif %}<br />{{ entry.subtitle }}</li>
   {% endfor %}
   </ul>
 {% endif %}
