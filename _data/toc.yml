@@ -2,23 +2,29 @@ toc_title: NoOffice book
 toc_url: /book/
 toc_back: Back to the Table of Contents
 toc_continue: Continue reading...
+toc_draft: "[Draft]"
 toc:
 - title: Intro
   subtitle: How can you work without an office?
   url: /book/intro/
   part: intro
+  status: ready # options are: empty (no document created even), draft (rough draft) and ready (published document)
   chapters:
   - title: Introduction
     subtitle: Why do you really need an office?
     url: /book/introduction/
+    status: draft
   - title: Acknowledgements
     subtitle: Thanking everyone at Nozbe for their amazing work!
     url: /book/acknowledgements/
+    status: empty
 - title: Part 1
   subtitle: How to get the communication done in an all-remote team
   url: /book/part1/
   part: one
+  status: empty
   chapters:
   - title: Chapter 1 - Focus
     subtitle: All everyone needs these days is... focus
     url: /book/focus/
+    status: empty

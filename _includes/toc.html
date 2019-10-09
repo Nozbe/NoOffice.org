@@ -1,0 +1,13 @@
+<div class="toc">
+{% for item in site.data.toc.toc %}
+<h3>{% if item.status == "empty" %}{{ item.title }}{% else %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}{% if item.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}</a>{% endif %}</h3>
+<p>{{ item.subtitle }}</p>
+<ul>
+{% for entry in item.chapters %}
+<li><h4>{% if entry.status == "empty" %}{{ entry.title }}{% else %}<a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}{% if entry.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}</a>{% endif %}</h4>
+{{ entry.subtitle }}
+</li>
+{% endfor %}
+</ul>
+{% endfor %}
+</div>
