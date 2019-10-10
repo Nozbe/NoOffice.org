@@ -3,6 +3,8 @@ layout: page
 title: Table of Contents
 ---
 
-I'm testing Table of Contents now, in a few days I should post the first draft of the table of contents here.
+This is the initial version of the Table of Contents of the #NoOffice book.
+
+**Last update: October 9, 2019**
 
 {% include toc.html %}

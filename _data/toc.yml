@@ -4,23 +4,39 @@ toc_back: Back to the Table of Contents
 toc_continue: Continue reading...
 toc_draft: "[Draft]"
 toc:
-- title: Intro
-  subtitle: How can you work without an office?
+- title: "Welcome to #NoOffice"
+  subtitle: A successful company does not need an office as much as it thinks it does.
   url: /book/intro/
   part: intro
   status: ready # options are: empty (no document created even), draft (rough draft) and ready (published document)
   chapters:
+  - title: Acknowledgements
+    subtitle: I would love to thank everyone who contributed to this book.
+    url: /book/acknowledgements/
+    status: draft
   - title: Introduction
-    subtitle: Why do you really need an office?
+    subtitle: An all-remote team can be successful... and work better!
     url: /book/introduction/
     status: draft
-  - title: Acknowledgements
-    subtitle: Thanking everyone at Nozbe for their amazing work!
-    url: /book/acknowledgements/
-    status: empty
-- title: Part 1
-  subtitle: How to get the communication done in an all-remote team
-  url: /book/part1/
+  - title: Why remote work rocks
+    subtitle: What are the benefits of remote work?
+    url: /book/benefits/
+    status: draft
+  - title: Why you might need an office
+    subtitle: What are the reasons for businesses to have offices
+    url: /book/office/
+    status: draft
+  - title: The dark side of remote work
+    subtitle: Perception and control - main problems with remote work?
+    url: /book/benefits/
+    status: draft
+  - title: Why this book?
+    subtitle: Why I've written this book and who it's for.
+    url: /book/why/
+    status: draft
+- title: Part 1 - Getting communication done in a team
+  subtitle: Sucess of any business is based on good internal communication skills.
+  url: /book/one/
   part: one
   status: empty
   chapters:
