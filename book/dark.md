@@ -1,7 +1,7 @@
 ---
-Layout: chapter
-Part: intro
-Title: The dark side of remote work
+layout: chapter
+part: intro
+title: The dark side of remote work
 ---
 
 ## It's not all "cupcakes and rainbows" here

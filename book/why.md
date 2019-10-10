@@ -1,7 +1,7 @@
 ---
-Layout: chapter
-Part: intro
-Title: Why this book?
+layout: chapter
+part: intro
+title: Why this book?
 ---
 
 

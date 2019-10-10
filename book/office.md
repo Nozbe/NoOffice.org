@@ -1,7 +1,7 @@
 ---
-Layout: chapter
-Part: intro
-Title: Why might you actually need an office?
+layout: chapter
+part: intro
+title: Why might you actually need an office?
 ---
 
 ## There's a reason why business have offices, right?
