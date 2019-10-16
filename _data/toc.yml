@@ -40,9 +40,13 @@ toc:
   subtitle: Sucess of any business is based on good internal communication skills.
   url: /book/one/
   part: one
-  status: empty
+  status: draft
   chapters:
   - title: Chapter 1 - Focus
     subtitle: All everyone needs these days is... focus
     url: /book/focus/
     status: empty
+- title: Part 2 - More NoOffice
+  subtitle: More chapters coming soon here
+  part: two
+  status: empty
