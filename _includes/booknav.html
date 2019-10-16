@@ -1,3 +1,8 @@
+
+<p class="bold">{{ site.data.toc.toc_continue }} <a href="{{ site.baseurl }}{{ next_url }}">{{ next_title }}</a></p>
+
+{% comment %}
+
 <div class="booknav">
 <h3>{{ site.data.toc.toc_continue }}</h3>
 {% for item in site.data.toc.toc %}
@@ -12,4 +17,7 @@
 </ul>
 {% endfor %}
 </div>
-<a href="{{ site.baseurl }}{{ site.data.toc.toc_url }}">{{ site.data.toc.toc_back }}</a>
+
+{% endcomment %} 
+
+<p><a href="{{ site.baseurl }}{{ site.data.toc.toc_url }}">{{ site.data.toc.toc_back }}</a></p>
