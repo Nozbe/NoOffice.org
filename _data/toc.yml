@@ -9,6 +9,7 @@ toc:
   url: /book/intro/
   part: intro
   status: ready # options are: empty (no document created even), draft (rough draft) and ready (published document)
+  ref: "" # reference URL that inspired this blog post
   chapters:
   - title: Acknowledgements
     subtitle: I would love to thank everyone who contributed to this book.
@@ -18,6 +19,7 @@ toc:
     subtitle: An all-remote team can be successful... and work better!
     url: /book/introduction/
     status: draft
+    ref: "https://nooffice.org/why-an-all-remote-team-can-be-successful-and-work-better-why-go-nooffice-video-a6694138ed1c/"
   - title: Why remote work rocks
     subtitle: What are the benefits of remote work?
     url: /book/benefits/
