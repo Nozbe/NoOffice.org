@@ -3,10 +3,15 @@
 {% assign next = "" %}
 {% for item in site.data.toc.toc %}
 {% if item.part == page.part %}
-{% if next %}{% assign next_url = item.url %}{% assign next_title = item.title %}{% assign next = "" %}{% endif %}
-{% if item.url == page.url %}{% assign next = "true" %}{{ item.title }}{% if item.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}{% else %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>{% endif %}
+{% if item.url == page.url %}{{ item.title }}{% assign next = "true" %}
+  {% if item.status == "draft" %}{{ site.data.toc.toc_draft }}{% endif %}
+  {% else %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>{% endif %}
   {% for entry in item.chapters %}
-  {% if entry.url == page.url %}&#187; {{ entry.title }}{% if entry.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}{% endif %}
+   {% if next %}{% assign next_url = entry.url %}{% assign next_title = entry.title %}{% assign next = "" %}{% endif %}
+   {% if entry.url == page.url %}&#187; {{ entry.title }}
+    {% if entry.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}
+    {% assign next = "true" %}
+   {% endif %}
   {% endfor %}
   {% endif %}
 {% endfor %}
