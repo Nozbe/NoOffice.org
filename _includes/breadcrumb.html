@@ -1,25 +1,20 @@
 <div class="breadcrumb">
 <a href="{{ site.baseurl }}{{ site.data.toc.toc_url }}">{{ site.data.toc.toc_title }}</a> &#187;
-{% assign next = "" %}
+{% assign next = false %}
 {% for item in site.data.toc.toc %}
 {% if item.part == page.part %}
-{% if item.url == page.url %}{{ item.title }}{% assign next = "true" %}
+{% if item.url == page.url %}{{ item.title }}{% assign next = true %}
   {% if item.status == "draft" %}{{ site.data.toc.toc_draft }}{% endif %}
   {% else %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>{% endif %}
   {% for entry in item.chapters %}
-   {% if next %}{% assign next_url = entry.url %}{% assign next_title = entry.title %}{% assign next = "" %}{% endif %}
+   {% if next %}{% assign next_url = entry.url %}{% assign next_title = entry.title %}{% assign next = false %}{% endif %}
    {% if entry.url == page.url %}&#187; {{ entry.title }}
     {% if entry.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}
-    {% assign next = "true" %}
+    {% assign next = true %}
    {% endif %}
   {% endfor %}
   {% endif %}
 {% endfor %}
 </div>
-
-{% assign test = "" %}
-{% assign test = "passed" %}
-
-{{ test }}
 
 {{ next_title }} : {{ next_url }}
