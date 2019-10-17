@@ -288,7 +288,8 @@ nav {
     display: block;
     width: 50%;
     float: left;
-    margin: 1em;
+    margin: 1em 0;
+    padding: 0 1em;
     
     @include mobile {
       float: none;
