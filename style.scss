@@ -279,7 +279,7 @@ nav {
   }
 }
 
-nav_post {
+.nav_post {
   display: block;
   width: auto;
   overflow: hidden;
@@ -289,10 +289,21 @@ nav_post {
     width: 50%;
     float: left;
     margin: 1em 0;
+    
+    @include mobile {
+      float: none;
+      width: 100%;
+    }
+
   }
   
   .next {
     text-align: right;
+
+    @include mobile {
+      text-align: center;
+    }
+
   }
 }
 
