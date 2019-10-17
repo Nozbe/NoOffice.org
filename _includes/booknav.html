@@ -2,24 +2,5 @@
 <div class="booknav">
 <p class="bold">{{ site.data.toc.toc_continue }} <a href="{{ site.baseurl }}{{ next_url }}">{{ next_title }}</a></p>
 
-{% comment %}
-
-This code is no longer necessary - now we just display the link to the next chapter or section instead of the list of all chapters in a section.
-
-<h3>{{ site.data.toc.toc_continue }}</h3>
-{% for item in site.data.toc.toc %}
-<ul>
-{% if item.part == page.part %}<li{% if item.url == page.url %} class="bold"{% endif %}>{% if item.status == "empty" %}{{ item.title }}{% else %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}{% if item.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}</a>{% endif %}<br />{{ item.subtitle }}</li>
-  <ul>
-  {% for entry in item.chapters %}
-  <li{% if entry.url == page.url %} class="bold"{% endif %}>{% if entry.status == "empty" %}{{ entry.title }}{% else %}<a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}{% if entry.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}</a>{% endif %}<br />{{ entry.subtitle }}</li>
-  {% endfor %}
-  </ul>
-{% endif %}
-</ul>
-{% endfor %}
-
-{% endcomment %} 
-
 <p><a href="{{ site.baseurl }}{{ site.data.toc.toc_url }}">{{ site.data.toc.toc_back }}</a></p>
 </div>
