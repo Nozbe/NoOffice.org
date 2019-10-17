@@ -2,7 +2,7 @@
 <a href="{{ site.baseurl }}{{ site.data.toc.toc_url }}">{{ site.data.toc.toc_title }}</a> &#187;
 {% assign next = false %}
 {% assign next_got = false %}
-{% assign part_sel = 0 %}
+{% assign part_sel = 1000 %}
 {% for item in site.data.toc.toc %}
 {% if item.part == page.part %}{% assign part_sel = forloop.index %}
 {% if item.url == page.url %}{{ item.title }}{% assign next = true %}
@@ -27,5 +27,7 @@
 
 {% comment %}
 We're getting {{ next_title }} and {{ next_url }} parameters from here. Not just navigation.
+
+Still there's a bug here - need to check forloop index and stuff to make sure I'm pointing to the third chapter... and also take into account if the chapter is "empty" as in = not written... and don't navigate there...?
 {% endcomment %} 
 
