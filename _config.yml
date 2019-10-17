@@ -60,6 +60,8 @@ defaults:
     values:
       layout: "post"
 
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
@@ -79,6 +81,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate # Enable pagination
 
 # Exclude these files from your production _site
 exclude:
