@@ -4,8 +4,8 @@
 <p>{{ item.subtitle }}</p>
 <ul>
 {% for entry in item.chapters %}
-<li><p class="bold">{% if entry.status == "empty" %}{{ entry.title }}{% else %}<a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}{% if entry.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}</a>{% endif %}</p>
-    <p>{{ entry.subtitle }}</p></li>
+<li><strong>{% if entry.status == "empty" %}{{ entry.title }}{% else %}<a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}{% if entry.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}</a>{% endif %}</strong><br />
+    {{ entry.subtitle }}</li>
 {% endfor %}
 </ul>
 {% endfor %}

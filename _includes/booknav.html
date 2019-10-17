@@ -1,9 +1,11 @@
 
+<div class="booknav">
 <p class="bold">{{ site.data.toc.toc_continue }} <a href="{{ site.baseurl }}{{ next_url }}">{{ next_title }}</a></p>
 
 {% comment %}
 
-<div class="booknav">
+This code is no longer necessary - now we just display the link to the next chapter or section instead of the list of all chapters in a section.
+
 <h3>{{ site.data.toc.toc_continue }}</h3>
 {% for item in site.data.toc.toc %}
 <ul>
@@ -16,8 +18,8 @@
 {% endif %}
 </ul>
 {% endfor %}
-</div>
 
 {% endcomment %} 
 
 <p><a href="{{ site.baseurl }}{{ site.data.toc.toc_url }}">{{ site.data.toc.toc_back }}</a></p>
+</div>
