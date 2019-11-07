@@ -1,0 +1,24 @@
+nav_footer: "(brought to you by <a href='https://sliwinski.com'>Michael Sliwinski</a> - the founder of <a href='https://nozbe.com'>Nozbe</a>)"
+
+nav:
+
+- title: Home
+  url: "/"
+- title: Book
+  url: "/book/"
+- title: Blog
+  url: "/blog/"
+- title: About
+  url: "/about/"
+
+tags:
+
+- name: essay
+  url: "/tag/essay/"
+  title: "Essays on #NoOffice"
+  subtitle: "All essays on #NoOffice and all-remote work published before and while working on the book."
+- name: video
+  url: "/tag/video/"
+  title: "Video presentations"
+  subtitle: "Videos and keynote presentations around remote working and promoting #NoOffice communication and lifestlye"
+

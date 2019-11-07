@@ -11,6 +11,7 @@ layout: default
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
+    ({% for tag in page.tags %}{{ comma }}<a href="/tag/{{ tag }}">{{ tag }}</a>{% assign comma = "," %}{% endfor %})
   </div>
 
 </article>

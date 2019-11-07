@@ -29,7 +29,7 @@
           </div>
 
           <nav>
-          {% for item in site.data.navigation.nav %}
+          {% for item in site.data.main.nav %}
           <a href="{{ site.baseurl }}{{ item.url }}" {% if item.url == page.url %}class="bold"{% endif %}>{{ item.title }}</a>
           {% endfor %}
           </nav>
@@ -45,7 +45,7 @@
       <div class="container">
         <footer class="footer">
           &copy; {{ site.time | date: '%Y' }} <a href="{{ site.baseurl }}/">{{ site.name }}</a>
-          {{ site.data.navigation.nav_footer }}
+          {{ site.data.main.nav_footer }}
         </footer>
       </div>
     </div>

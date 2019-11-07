@@ -1,0 +1,6 @@
+<nav>
+  {% for item in site.data.main.tags %}
+  <a href="{{ site.baseurl }}{{ item.url }}" title="{{ item.subtitle }}" {% if item.url == page.url %}class="bold"{% assign tag_name = item.name %}{% assign tag_title = item.title %}{% assign tag_subtitle = item.subtitle %}{% endif %}>{{ item.title }}</a>
+  {% endfor %}
+</nav>
+<br clear="all" />

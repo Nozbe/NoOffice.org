@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{% include tags.html %}
+
+<h1>{{ tag_title }}</h1>
+
+{{ tag_subtitle | markdownify }}
+
+<div class="posts">
+{% for post in site.tags[tag_name] limit:1 %}
+<div class="post">
+	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<div class="date">
+	{{ post.date | date: "%B %e, %Y" }}
+	</div>
+	<div class="entry">
+	{{ post.excerpt }}
+	</div>
+</div>
+{% endfor %}
+</div>
+
+<h3>{{ site.data.main.past }}</h3>
+
+<div class="posts">
+{% for post in site.tags[tag_name] offset:1 %}
+<div class="post">
+	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	<div class="date">
+	{{ post.date | date: "%B %e, %Y" }}
+	</div>
+</div>
+{% endfor %}
+</div>
