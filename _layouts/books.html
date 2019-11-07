@@ -4,10 +4,16 @@ layout: default
 
 {% include book_nav.html %}
 
-# {{ chapter_title }}
+<article class="page">
+<h1>{{ chapter_title }}</h1>
 
+<div class="entry">
 {{ chapter_subtitle }}
+</div>
 
+<div class="entry">
 {{ content }}
+</div>
+</article>
 
 {% include book_next.html %}
