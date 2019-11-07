@@ -33,6 +33,9 @@
           <a href="{{ site.baseurl }}{{ item.url }}" {% if item.url == page.url %}class="bold"{% endif %}>{{ item.title }}</a>
           {% endfor %}
           </nav>
+          
+          {% include search.html %}
+          
         </header>
       </div>
     </div>

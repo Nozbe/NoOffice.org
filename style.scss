@@ -254,9 +254,76 @@ img {
   }
 }
 
+
+#search-container {
+  clear: left;
+  float: left;
+  padding: 5px 0px;
+  position: relative;
+  width: 300px;
+}
+
+#search-input {
+  background-color: $lighterGray;
+  border: 1px solid $lightGray;
+  color: $darkGray;
+  padding: 2px;
+  font-size: 18px;
+  margin: 0;
+  width: inherit;
+}
+
+#search-results {
+  position: absolute;
+  top: auto;
+  z-index: 100;
+  margin: 0;
+  padding: 0px;
+  list-style: none;
+}
+
+#search-results li {
+  padding: 5px;
+  background: $lighterGray;
+}
+
+@media screen and (max-width: 640px) {
+  #search-container {
+    clear: none;
+    float: none;
+    margin : 0 auto;
+  }
+  #search-results li {
+    text-align: left;
+  }
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: $gray;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: $gray;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: $gray;
+}
+
+@media (prefers-color-scheme: dark) {
+  #search-input {
+    background-color: $darkerGray;
+    border: 1px solid $darkGray;
+    color: $lightGray;
+  }
+  #search-results li {
+    background: $darkerGray;
+  }
+}
+
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 9px;
   font-family: $helveticaNeue;
   font-size: 18px;
 
