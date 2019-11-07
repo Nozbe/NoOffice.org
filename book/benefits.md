@@ -1,5 +1,4 @@
 ---
-layout: chapter
 part: intro
 title: What are the benefits of remote work?
 ---

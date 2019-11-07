@@ -1,5 +1,4 @@
 ---
-layout: chapter
 part: PART
 title: TITLE
 ---

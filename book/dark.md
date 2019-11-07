@@ -1,5 +1,4 @@
 ---
-layout: chapter
 part: intro
 title: The dark side of remote work
 ---

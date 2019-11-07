@@ -1,6 +1,5 @@
 ---
 title: Part 1 - Communication
-layout: chapter
 part: one
 ---
 

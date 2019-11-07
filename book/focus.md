@@ -1,6 +1,5 @@
 ---
 title: Focus
-layout: chapter
 part: one
 ---
 

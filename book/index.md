@@ -7,4 +7,4 @@ This is the initial version of the Table of Contents of the #NoOffice book.
 
 **Last update: October 9, 2019**
 
-{% include toc.html %}
+{% include book_toc.html %}

@@ -1,5 +1,4 @@
 ---
-layout: chapter
 part: intro
 title: "Welcome to #NoOffice"
 ---

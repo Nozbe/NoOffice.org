@@ -14,7 +14,6 @@ To create a new chapter file follow these simple steps:
 
 1. Simply create a blank text file "example.md" in the "book" folder.
 2. Add two things in to the front matter (between "---" signs):
-  * "layout" and just set it to "chapter"
   * "part" set to the part of the book
   * "title" of the chapter you're writing
 3. Once you've saved this file, please add it as well to the [Table of Contents file: toc.yml](https://github.com/Nozbe/NoOffice.org/tree/master/_data/toc.yml) under appropriate book part and chapter, for example:
@@ -29,7 +28,6 @@ Here's a [simple template](https://github.com/Nozbe/NoOffice.org/tree/master/boo
 
 ```
 ---
-layout: chapter
 part: PART
 title: TITLE
 ---

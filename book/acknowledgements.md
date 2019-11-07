@@ -1,6 +1,5 @@
 ---
 title: Acknowledgements
-layout: chapter
 part: intro
 ---
 
