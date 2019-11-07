@@ -5,7 +5,11 @@ layout: default
 {% include book_nav.html %}
 
 <article class="page">
-<h1>{{ page.title }}</h1>
+<h1>{{ chapter_title }}</h1>
+
+<div class="entry">
+{{ chapter_subtitle }}
+</div>
 
 <div class="entry">
 {{ content }}

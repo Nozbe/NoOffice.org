@@ -1,6 +1,6 @@
 ---
 part: intro
-title: What are the benefits of remote work?
+title: Benefits of remote work
 ---
 
 ## OK, Michael, tell me what do you like so much about running a #NoOffice team?

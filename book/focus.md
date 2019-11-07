@@ -1,6 +1,6 @@
 ---
-title: Focus
 part: one
+title: Focus
 ---
 
 * TOC

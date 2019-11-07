@@ -1,6 +1,6 @@
 ---
 part: intro
-title: Why might you actually need an office?
+title: Why office?
 ---
 
 ## There's a reason why business have offices, right?

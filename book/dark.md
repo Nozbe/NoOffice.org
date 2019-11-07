@@ -1,6 +1,6 @@
 ---
 part: intro
-title: The dark side of remote work
+title: Dark side
 ---
 
 ## It's not all "cupcakes and rainbows" here

@@ -1,6 +1,6 @@
 ---
-title: Part 1 - Communication
 part: one
+title: Part 1 - Communication
 ---
 
 * TOC

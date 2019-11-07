@@ -1,6 +1,6 @@
 ---
-title: Introduction
 part: intro
+title: Introduction
 ---
 
 * TOC
