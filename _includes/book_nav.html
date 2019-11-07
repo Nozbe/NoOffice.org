@@ -1,4 +1,4 @@
-<div class="breadcrumb">
+<div class="book_nav">
 <a href="{{ site.baseurl }}{{ site.data.toc.toc_url }}">{{ site.data.toc.toc_title }}</a> &#187;
 {% assign next = false %}
 {% assign next_got = false %}
@@ -6,6 +6,7 @@
 {% for item in site.data.toc.toc %}
 {% if item.part == page.part %}{% assign part_sel = forloop.index %}
 {% if item.url == page.url %}{{ item.title }}{% assign next = true %}
+  {% assign chapter_title = item.title %}{% assign chapter_subtitle = item.subtitle %}
   {% if item.status == "draft" %}{{ site.data.toc.toc_draft }}{% endif %}
   {% else %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>{% endif %}
   {% for entry in item.chapters %}
