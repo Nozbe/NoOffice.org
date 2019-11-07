@@ -1,7 +1,6 @@
 ---
 part: intro
 layout: books
-title: Acknowledgements
 ---
 
 * TOC
