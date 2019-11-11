@@ -3,11 +3,22 @@
 <p>2. {{ site.book[0].title }}</p>
 
 {% for chapter in site.book %}
+
+{% assign slugs = slugs | append: chapter.slug | append:'||' %}
+
+{% assign slugarray = slugs | split: '||' %}
+
 <pre>
 title: {{ chapter.title }}
 sub: {{ chapter.subtitle }}
 slug: {{ chapter.slug }}
 </pre>
+{% endfor %}
+
+
+{% for slug in slugarray %}
+{{ slug }}--
+
 {% endfor %}
 
 <div class="toc">
