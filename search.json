@@ -23,4 +23,15 @@ layout: null
      {% endif %}
    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
+  ,
+  {% for page in site.book %}
+   {
+     {% if page.title != nil %}
+        "title"    : "{{ page.title | escape }}",
+        "url"      : "{{ site.baseurl }}{{ page.url }}",
+        "date"     : "{{ page.date }}",
+        "desc"     : "{{ page.subtitle | escape }}"
+     {% endif %}
+   } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
 ]
