@@ -1,6 +1,6 @@
 ---
-part: intro
 title: Acknowledgements
+subtitle: I would love to thank everyone who contributed to this book.
 ---
 
 * TOC

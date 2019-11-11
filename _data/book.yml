@@ -1,0 +1,25 @@
+title: NoOffice book
+back: Back to the Table of Contents
+continue: "Next Chapter:"
+draft: "[Draft]"
+toc:
+- url: intro
+  status: ready # options are: empty (no document created even), draft (rough draft) and ready (published document)
+  chapters:
+  - url: acknowledgements
+    status: draft
+  - url: introduction
+    status: draft
+  - url: benefits
+    status: draft
+  - url: office
+    status: draft
+  - url: dark
+    status: draft
+  - url: why
+    status: draft
+- url: one
+  status: draft
+  chapters:
+  - url: focus
+    status: draft

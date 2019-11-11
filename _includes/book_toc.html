@@ -1,10 +1,10 @@
 <div class="toc">
-{% for item in site.data.toc.toc %}
-<h2>{% if item.status == "empty" %}{{ item.title }}{% else %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}{% if item.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}</a>{% endif %}</h2>
+{% for item in site.data.book.toc %}
+<h2><a href="{{ site.baseurl }}/book/{{ item.url }}">{{ item.url }}{% if item.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></h2>
 <p>{{ item.subtitle }}</p>
 <ul>
 {% for entry in item.chapters %}
-<li><strong>{% if entry.status == "empty" %}{{ entry.title }}{% else %}<a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}{% if entry.status == "draft" %} {{ site.data.toc.toc_draft }}{% endif %}</a>{% endif %}</strong><br />
+<li><strong><a href="{{ site.baseurl }}/book/{{ entry.url }}">{{ entry.url }}{% if entry.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></strong><br />
     {{ entry.subtitle }}</li>
 {% endfor %}
 </ul>

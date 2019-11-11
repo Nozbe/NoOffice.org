@@ -1,6 +1,6 @@
 ---
-part: intro
-title: Dark side
+title: The dark side of remote work
+subtitle: Perception and control - main problems with remote work?
 ---
 
 ## It's not all "cupcakes and rainbows" here

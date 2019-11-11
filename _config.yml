@@ -55,7 +55,8 @@ defaults:
       layout: "post"
   -
     scope:
-      path: "book"
+      path: ""
+      type: "book"
     values:
       layout: "book"
   -
@@ -66,6 +67,12 @@ defaults:
 
 paginate: 10
 paginate_path: "/blog/page:num/"
+
+# Book collection (optional)
+collections:
+  book:
+    output: true
+    permalink: /book/:path/
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:

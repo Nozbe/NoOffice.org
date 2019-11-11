@@ -1,6 +1,6 @@
 ---
-part: one
-title: Focus
+title: Chapter 1 - Focus
+subtitle: All everyone needs these days is... focus
 ---
 
 * TOC
