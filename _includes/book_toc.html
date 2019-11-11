@@ -2,6 +2,15 @@
 
 <p>2. {{ site.book.docs.benefits.title }}</p>
 
+
+{% for chapter in site.book %}
+<pre>
+title: {{ chapter.title }}
+sub: {{ chapter.subtitle }}
+
+</pre>
+{% endfor %}
+
 <div class="toc">
 {% for item in site.data.book.toc %}
 <h2><a href="{{ site.baseurl }}/book/{{ item.url }}">{{ item.url }}{% if item.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></h2>
