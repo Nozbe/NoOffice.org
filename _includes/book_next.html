@@ -1,13 +1,6 @@
 
 <div class="booknav">
 
-<pre>
-|{{ next_url }}|
-|{{ next_title }}|
-|{{ next_got }}|
-
-</pre>
-
 {% if next_got == true %}
 <p class="bold">{{ site.data.book.continue }} <a href="{{ site.baseurl }}/book/{{ next_url }}">{{ next_title }}</a></p>
 {% endif %}

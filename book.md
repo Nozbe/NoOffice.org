@@ -1,4 +1,5 @@
 ---
+part: toc
 layout: page
 title: Table of Contents
 ---
