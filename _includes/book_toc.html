@@ -6,7 +6,6 @@
 
 {% assign slugs = slugs | append: chapter.slug | append:'||' %}
 
-{% assign slugarray = slugs | split: '||' %}
 
 <pre>
 title: {{ chapter.title }}
@@ -16,8 +15,11 @@ slug: {{ chapter.slug }}
 {% endfor %}
 
 
-{% for slug in slugarray %}
-{{ slug }}--
+{% assign slugs = slugs | split: '||' %}
+
+
+{% for slug in slugs %}
+--{{ slug }}--
 
 {% endfor %}
 
