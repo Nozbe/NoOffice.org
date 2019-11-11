@@ -2,6 +2,11 @@
 We're creating arrays for slugs, titles and subtitles based on the contents of the _book collection so that we can use it later.
 {% endcomment %}
 
+<pre>
+{{ page.url }}
+{{ page.slug }}
+</pre>
+
 {% for chapter in site.book %}
   {% assign slugs = slugs | append: chapter.slug | append:'||' %}
   {% assign titles = titles | append: chapter.title | append:'||' %}
@@ -12,7 +17,7 @@ We're creating arrays for slugs, titles and subtitles based on the contents of t
 {% assign subtitles = subtitles | split: '||' %}
 
 <div class="book_nav">
-<a href="{{ site.baseurl }}{{ site.data.book.url }}">{{ site.data.book.title }}</a> &#187;
+<a href="{{ site.baseurl }}/book">{{ site.data.book.title }}</a> &#187;
 {% assign next = false %}
 {% assign next_got = false %}
 {% assign part_sel = 1000 %}
