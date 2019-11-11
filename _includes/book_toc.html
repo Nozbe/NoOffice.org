@@ -1,3 +1,5 @@
+{{ site.book.benefits.title }}
+
 <div class="toc">
 {% for item in site.data.book.toc %}
 <h2><a href="{{ site.baseurl }}/book/{{ item.url }}">{{ item.url }}{% if item.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></h2>
