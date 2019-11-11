@@ -3,34 +3,42 @@
 <p>2. {{ site.book[0].title }}</p>
 
 {% for chapter in site.book %}
-
 {% assign slugs = slugs | append: chapter.slug | append:'||' %}
-
-
-<pre>
-title: {{ chapter.title }}
-sub: {{ chapter.subtitle }}
-slug: {{ chapter.slug }}
-</pre>
+{% assign titles = titles | append: chapter.title | append:'||' %}
+{% assign subtitles = subtitles | append: chapter.subtitle | append:'||' %}
 {% endfor %}
 
 
 {% assign slugs = slugs | split: '||' %}
-
+{% assign titles = titles | split: '||' %}
+{% assign subtitles = subtitles | split: '||' %}
 
 {% for slug in slugs %}
---{{ slug }}--
-
 {% endfor %}
 
 <div class="toc">
 {% for item in site.data.book.toc %}
-<h2><a href="{{ site.baseurl }}/book/{{ item.url }}">{{ item.url }}{% if item.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></h2>
-<p>{{ item.subtitle }}</p>
+{% for slug in slugs %}
+  {% if item.url == slug %}
+  {% assign chapter_title = titles[forloop.index0] %}
+  {% assign chapter_subtitle = subtitles[forloop.index0] %}
+  {% assign chapter_part = slug %}
+  {% endif %}
+{% endfor %}
+
+<h2><a href="{{ site.baseurl }}/book/{{ item.url }}">{{ chapter_title }}{% if item.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></h2>
+<p>{{ chapter_subtitle }}</p>
 <ul>
 {% for entry in item.chapters %}
-<li><strong><a href="{{ site.baseurl }}/book/{{ entry.url }}">{{ entry.url }}{% if entry.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></strong><br />
-    {{ entry.subtitle }}</li>
+{% for slug in slugs %}
+  {% if entry.url == slug %}
+  {% assign chapter_title = titles[forloop.index0] %}
+  {% assign chapter_subtitle = subtitles[forloop.index0] %}
+  {% endif %}
+{% endfor %}
+
+<li><strong><a href="{{ site.baseurl }}/book/{{ entry.url }}">{{ chapter_title }}{% if entry.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></strong><br />
+    {{ chapter_subtitle }}</li>
 {% endfor %}
 </ul>
 {% endfor %}
