@@ -1,6 +1,9 @@
 
 <div class="booknav">
+
+{% unless next_url == blank %}
 <p class="bold">{{ site.data.book.continue }} <a href="{{ site.baseurl }}/book/{{ next_url }}">{{ next_title }}</a></p>
+{% endunless %}
 
 <p><a href="{{ site.baseurl }}/book/">{{ site.data.book.back }}</a></p>
 </div>

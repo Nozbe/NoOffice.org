@@ -1,3 +1,3 @@
 ---
-title: Essays on working remotely
+title: "Tag: Essay"
 ---

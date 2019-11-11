@@ -1,5 +1,5 @@
 ---
-tags: [essay]
+tags: [video]
 title: "Which mobile apps we use to run our Nozbe company? - video of my presentation at Mobiconf 2018"
 ---
 

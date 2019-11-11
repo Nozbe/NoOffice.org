@@ -1,7 +1,7 @@
 ---
+part: intro
 title: Why this book?
 subtitle: Why I've written this book and who it's for.
-part: intro
 ---
 
 

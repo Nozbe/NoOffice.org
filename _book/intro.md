@@ -1,7 +1,7 @@
 ---
+part: intro
 title: "Welcome to #NoOffice"
 subtitle: A successful company does not need an office as much as it thinks it does.
-part: intro
 ref: "https://nooffice.org/why-an-all-remote-team-can-be-successful-and-work-better-why-go-nooffice-video-a6694138ed1c/"
 ---
 
