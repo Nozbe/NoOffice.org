@@ -1,6 +1,7 @@
 ---
 title: Part 1 - Getting communication done in a team
 subtitle: Sucess of any business is based on good internal communication skills.
+part: one
 ---
 
 * TOC

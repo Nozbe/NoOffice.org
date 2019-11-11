@@ -1,21 +1,3 @@
-
-{% for chapter in site.book %}
-{% assign slugs = slugs | append: chapter.slug | append:'||' %}
-{% assign titles = titles | append: chapter.title | append:'||' %}
-{% assign subtitles = subtitles | append: chapter.subtitle | append:'||' %}
-{% endfor %}
-{% assign slugs = slugs | split: '||' %}
-{% assign titles = titles | split: '||' %}
-{% assign subtitles = subtitles | split: '||' %}
-
-<pre>
-{% for subtitle in subtitles %}
-{{ forloop.index0 }} {{ subtitle }}
-{% endfor %}
-
-</pre>
-
-
 <div class="toc">
 {% for item in site.data.book.toc %}
 {% for slug in slugs %}

@@ -1,6 +1,7 @@
 ---
 title: Why you might need an office
 subtitle: What are the reasons for businesses to have offices
+part: intro
 ---
 
 ## There's a reason why business have offices, right?

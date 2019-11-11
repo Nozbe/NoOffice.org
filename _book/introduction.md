@@ -1,6 +1,7 @@
 ---
 title: Introduction
 subtitle: An all-remote team can be successful... and work better!
+part: intro
 ref: "https://nooffice.org/why-an-all-remote-team-can-be-successful-and-work-better-why-go-nooffice-video-a6694138ed1c/"
 ---
 

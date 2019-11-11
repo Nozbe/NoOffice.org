@@ -1,6 +1,7 @@
 ---
 title: Why remote work rocks
-subtitle: 
+subtitle: What are the benefits of remote work?
+part: intro
 ---
 
 ## OK, Michael, tell me what do you like so much about running a #NoOffice team?
