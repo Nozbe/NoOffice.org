@@ -41,6 +41,8 @@
             {% elsif item.url contains '/blog/' %}
               {% if page.layout == 'post' %}
                 class="bold"
+              {% elsif page.layout == 'tag' %}
+                class="bold"
               {% endif %}
             {% endif %}
           {% endif %}
