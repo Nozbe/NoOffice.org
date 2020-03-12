@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 5 - Fight, argue and commit!
+title: Fight, argue and commit!
 subtitle: "Don't be afraid of a healthy disagreement that pushes your team forward!"
 ---
 

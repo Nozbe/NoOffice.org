@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 25 - Holidays
+title: Holidays
 subtitle: "Encourage your team to really break off from work to properly recharge batteries!"
 ---
 

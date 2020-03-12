@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 19 - Work-life balance
+title: Work-life balance
 subtitle: "How to deal with work-at-home challenges."
 ---
 

@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 18 - Home setup
+title: Home setup
 subtitle: "How to set up your work environment at home and not go nuts."
 ---
 

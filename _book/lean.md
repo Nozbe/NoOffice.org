@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 9 - Eliminate waste
+title: Eliminate waste
 subtitle: "Practice lean approach by constantly improving the way you're doing things."
 ---
 

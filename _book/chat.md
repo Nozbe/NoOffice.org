@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 17 - Chat and Notifications
+title: Chat and Notifications
 subtitle: "Don't let yourself get distracted. Avoid FOMO. Find bliss in asynchronous work."
 ---
 

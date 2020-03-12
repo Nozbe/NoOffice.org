@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 4 - Meetings are optional
+title: Meetings are optional
 subtitle: "Schedule regular meetings but make them optional"
 ---
 

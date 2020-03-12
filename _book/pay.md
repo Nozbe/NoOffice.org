@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 10 - Pay fairly
+title: Pay fairly
 subtitle: "Use salary formula to calculate fair salaries and forget individual negotiations."
 ---
 

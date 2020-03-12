@@ -1,6 +1,6 @@
 ---
 part: outro
-title: Outro - Office is optional
+title: Office is optional
 subtitle: "Office is just a tool, and you can get away without it and have a more effective team than ever!"
 ---
 

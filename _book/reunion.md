@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 23 - Reunite the team
+title: Reunite the team
 subtitle: "How we meet reguarly on our semi-annual Nozbe Reunions."
 ---
 

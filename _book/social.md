@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 24 - Socialize
+title: Socialize
 subtitle: "Promote socializing outside of work to talk to real humans."
 ---
 

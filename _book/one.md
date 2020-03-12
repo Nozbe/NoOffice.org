@@ -1,6 +1,6 @@
 ---
 part: one
-title: Part 1 - You’re using your Office wrong!
+title: You’re using your Office wrong!
 subtitle: Office or Not, start working the right way!
 ---
 

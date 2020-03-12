@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 7 - Pyramid of Communication
+title: Pyramid of Communication
 subtitle: "Discover a new and more effective way to communicate in a team"
 ---
 

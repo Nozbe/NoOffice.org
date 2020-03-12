@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 20 - Hire remotely
+title: Hire remotely
 subtitle: "Hire the best people for the job - anywhere they are."
 ---
 

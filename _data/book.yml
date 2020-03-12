@@ -18,68 +18,100 @@ toc:
     chname: Chapter 3
 - url: one
   status: draft
+  chname: Part 1
   chapters:
   - url: focus
     status: draft
+    chname: Chapter 4
   - url: write
     status: draft
+    chname: Chapter 5
   - url: email
     status: draft
+    chname: Chapter 6
   - url: meetings
     status: draft
+    chname: Chapter 7
   - url: fight
     status: draft
+    chname: Chapter 8
   - url: vlog
     status: draft
+    chname: Chapter 9
   - url: pyramid
     status: draft
+    chname: Chapter 10
   - url: decide
     status: draft
+    chname: Chapter 11
   - url: lean
     status: draft
+    chname: Chapter 12
   - url: pay
     status: draft
+    chname: Chapter 13
   - url: perks
     status: draft
+    chname: Chapter 14
   - url: review
     status: draft
+    chname: Chapter 15
   - url: friday
     status: draft
+    chname: Chapter 16
   - url: week
     status: draft
+    chname: Chapter 17
 - url: two
   status: draft
+  chname: Part 2
   chapters:
   - url: trust
     status: draft
+    chname: Chapter 18
   - url: mobile
     status: draft
+    chname: Chapter 19
   - url: chat
     status: draft
+    chname: Chapter 20
   - url: home
     status: draft
+    chname: Chapter 21
   - url: deal
     status: draft
+    chname: Chapter 22
   - url: hire
     status: draft
+    chname: Chapter 23
   - url: connect
     status: draft
+    chname: Chapter 24
   - url: meet
     status: draft
+    chname: Chapter 25
   - url: reunion
     status: draft
+    chname: Chapter 26
   - url: social
     status: draft
+    chname: Chapter 27
   - url: holiday
     status: draft
+    chname: Chapter 28
   - url: many
     status: draft
+    chname: Chapter 29
   - url: security
     status: draft
+    chname: Chapter 30
   - url: transparency
     status: draft
+    chname: Chapter 31
 - url: outro
   status: draft
+  chname: Outro
   chapters:
   - url: thanks
-  status: draft
+    status: draft
+    chname: Thank you

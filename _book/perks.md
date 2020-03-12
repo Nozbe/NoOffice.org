@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 11 - Be generous
+title: Be generous
 subtitle: "Give people perks that promote good habits and regularly donate to charity"
 ---
 

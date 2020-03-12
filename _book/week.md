@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 14 - Experiment with Workweek
+title: Experiment with Workweek
 subtitle: "Shake things up and see what makes your ideal work."
 ---
 

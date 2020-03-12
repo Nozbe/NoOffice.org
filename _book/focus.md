@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 1 - Focus
+title: Focus
 subtitle: All everyone needs these days is... focus
 ---
 

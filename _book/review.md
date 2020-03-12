@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 12 - Review your work
+title: Review your work
 subtitle: "Use quarterly review to track your and your team's progress"
 ---
 

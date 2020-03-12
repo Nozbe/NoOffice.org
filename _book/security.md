@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 27 - Security is key
+title: Security is key
 subtitle: "Don't neglect security of your team and systems."
 ---
 

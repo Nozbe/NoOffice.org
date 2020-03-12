@@ -1,6 +1,6 @@
 ---
 part: two
-title: Part 2 - What if there was no office?
+title: What if there was no office?
 subtitle: There is no office, there is only work that needs to be done.
 ---
 

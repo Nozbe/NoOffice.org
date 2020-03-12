@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 13 - Mighty Fridays
+title: Mighty Fridays
 subtitle: "Make Fridays special with a regular review and personal development session."
 ---
 

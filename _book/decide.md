@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 8 - Make smart decisions
+title: Make smart decisions
 subtitle: "How we make decisions in a more deliberate way. Our decision-making process."
 ---
 

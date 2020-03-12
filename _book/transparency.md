@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 28 - Transparency
+title: Transparency
 subtitle: "Your team will be more transparent than ever, even if it's spread geographically!"
 ---
 

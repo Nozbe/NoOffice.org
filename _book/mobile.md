@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 16 - Paperless and mobile
+title: Paperless and mobile
 subtitle: "Paper is bad and wasteful. Mobile access to everything is great!"
 ---
 

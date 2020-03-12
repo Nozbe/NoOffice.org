@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 22 - Meet customers
+title: Meet your customers
 subtitle: "Meet your customers regularly and connect with your peers"
 ---
 

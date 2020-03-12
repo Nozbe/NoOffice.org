@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 21 - Connect
+title: Connect
 subtitle: "Make sure people connect regularly"
 ---
 

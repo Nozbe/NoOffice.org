@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 3 - Ban email
+title: Ban email
 subtitle: "Don't use email for internal communication at all! Only with the outside world!"
 ref: https://sliwinski.com/emailban
 ---

@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 15 - Trust is the best
+title: Trust is the best
 subtitle: "Control is good, but trust is so much better!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 2 - Write stuff down!
+title: Write stuff down!
 subtitle: "Create a culture of a written word and don't depend on he-say-she says"
 ---
 

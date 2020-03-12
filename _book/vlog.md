@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 6 - Learn to vlog
+title: Learn to vlog
 subtitle: "Replace all-hands meeting with vlogging!"
 ---
 

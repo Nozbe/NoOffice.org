@@ -1,6 +1,6 @@
 ---
 part: two
-title: Chapter 26 - Many offices
+title: You can have many offices
 subtitle: "No Office really means many different offices - depending on how you feel!"
 ---
 
