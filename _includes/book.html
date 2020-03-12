@@ -39,9 +39,10 @@ We're creating arrays for slugs, titles and subtitles based on the contents of t
     {% for slug in slugs %}
       {% if entry.url == slug %}
         {% assign chapter_title = titles[forloop.index0] %}
+        {% assign chapter_chname = entry.chname %}
       {% endif %}
     {% endfor %}
-    {% if next %}{% assign next_url = entry.url %}{% assign next_title = chapter_title %}{% assign next = false %}{% assign next_got = true %}{% endif %}
+    {% if next %}{% assign next_url = entry.url %}{% assign next_title = chapter_title %}{% assign next_chname = entry.chname %}{% assign next = false %}{% assign next_got = true %}{% endif %}
     {% if entry.url == page.slug %}&#187; {{ chapter_title }} {% if entry.status == "draft" %} {{ site.data.book.draft }}{% endif %}
       {% assign next = true %}
     {% endif %}
@@ -49,7 +50,7 @@ We're creating arrays for slugs, titles and subtitles based on the contents of t
 {% else %}
   {% if forloop.index > part_sel %}
     {% if next_got == false %}
-      {% assign next_url = item.url %}{% assign next_title = chapter_title %}{% assign next_got = true %}
+      {% assign next_url = item.url %}{% assign next_title = chapter_title %}{% assign next_chname = item.chname %}{% assign next_got = true %}
     {% endif %}
   {% endif %}
 {% endif %}
