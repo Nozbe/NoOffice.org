@@ -6,8 +6,8 @@ title: Table of Contents
 
 {% include book.html %}
 
-This is the initial version of the Table of Contents of the #NoOffice book.
+This is the 2020 version of the Table of Contents of the #NoOffice book.
 
-**Last update: November 11, 2019**
+**Last update: March 12, 2020**
 
 {% include book_toc.html %}

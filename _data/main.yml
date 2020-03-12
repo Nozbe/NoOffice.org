@@ -24,4 +24,11 @@ tags:
   url: "/tag/video/"
   title: "Video presentations"
   subtitle: "Videos and keynote presentations around remote working and promoting #NoOffice communication and lifestlye"
+- name: diary
+  url: "/tag/diary/"
+  title: "Diary of writing the book"
+  subtitle: "Step by step. Day by day. Writing No Office book as people need it now more than ever."
+
+
+
 
