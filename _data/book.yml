@@ -6,20 +6,75 @@ toc:
 - url: intro
   status: ready # options are: empty (no document created even), draft (rough draft) and ready (published document)
   chapters:
-  - url: acknowledgements
+ - url: dream
     status: draft
-  - url: introduction
+  - url: team
     status: draft
-  - url: benefits
-    status: draft
-  - url: office
-    status: draft
-  - url: dark
-    status: draft
-  - url: why
+  - url: future
     status: draft
 - url: one
   status: draft
   chapters:
   - url: focus
     status: draft
+  - url: write
+    status: draft
+  - url: email
+    status: draft
+  - url: meetings
+    status: draft
+  - url: fight
+    status: draft
+  - url: vlog
+    status: draft
+  - url: pyramid
+    status: draft
+  - url: decide
+    status: draft
+  - url: lean
+    status: draft
+  - url: pay
+    status: draft
+  - url: perks
+    status: draft
+  - url: review
+    status: draft
+  - url: friday
+    status: draft
+  - url: week
+    status: draft
+- url: two
+  status: draft
+  chapters:
+  - url: trust
+    status: draft
+  - url: mobile
+    status: draft
+  - url: chat
+    status: draft
+  - url: home
+    status: draft
+  - url: deal
+    status: draft
+  - url: hire
+    status: draft
+  - url: connect
+    status: draft
+  - url: meet
+    status: draft
+  - url: reunion
+    status: draft
+  - url: social
+    status: draft
+  - url: holiday
+    status: draft
+  - url: many
+    status: draft
+  - url: security
+    status: draft
+  - url: transparency
+    status: draft
+- url: outro
+  status: draft
+  - url: thanks
+  status: draft

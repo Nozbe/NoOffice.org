@@ -1,13 +1,14 @@
 ---
 part: intro
-title: "Welcome to #NoOffice"
-subtitle: A successful company does not need an office as much as it thinks it does.
-ref: "https://nooffice.org/why-an-all-remote-team-can-be-successful-and-work-better-why-go-nooffice-video-a6694138ed1c/"
+title: "Modern work is changing"
+subtitle: Embrace change of a more flexible, transparent and geographically dispersed work
 ---
 
-## Even if your company has a physical office space - you should read this book!
+- Time to embrace the change
 
-This book isn't aimed only at people and teams interested in remote work. It's based on more than a decade of experience running an all-remote company but as you'll see in the upcoming chapters, my main argument is that an office is not a requirement for a business to be successful. Yes, an office can be a useful tool, but it's completely optional. What really matters is the way you're working together in a team towards common goals. Because:
+- One thing are the tools but teams and businesses need a guide
+
+- After more than 13 years of running Nozbe I’m more excited than ever on doing what I’m doing - not only because I work on software that makes teams and people awesome, but also the way I work on it!
 
 > Work is not a place to go, it's a thing that you do.
 

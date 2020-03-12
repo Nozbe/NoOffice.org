@@ -1,12 +1,14 @@
 ---
 part: one
-title: Part 1 - Getting communication done in a team
-subtitle: Sucess of any business is based on good internal communication skills.
+title: Part 1 - You’re using your Office wrong!
+subtitle: Office or Not, start working the right way!
 ---
 
 * TOC
 {:toc}
 
-## How to get the communication done in an all-remote team
+- It doesn’t matter if you have an office or not, most of the companies don’t work very efficiently
 
-CONTENT
+- As a productivity company with 500K+ users and around 100K teams using Nozbe, we’ve learned a lot about team productivity
+
+- These are the best team productivity tips that worked for us
