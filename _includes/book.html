@@ -25,6 +25,7 @@ We're creating arrays for slugs, titles and subtitles based on the contents of t
       {% assign chapter_subtitle = subtitles[forloop.index0] %}
       {% assign chapter_chname = item.chname %}
       {% assign chapter_part = slug %}
+      {% assign page_chname = item.chname %}
     {% endif %}
   {% endfor %}
   
@@ -33,7 +34,7 @@ We're creating arrays for slugs, titles and subtitles based on the contents of t
     {{ chapter_chname }} - {{ chapter_title }}
     {% assign next = true %}
     {% if item.status == "draft" %}{{ site.data.book.draft }}{% endif %}
-  {% else %}<a href="{{ site.baseurl }}/book/{{ item.url }}" title="{{ chapter_subtitle }}">{{ chapter_chname }} - {{ chapter_title }}</a>
+  {% else %}<a href="{{ site.baseurl }}/book/{{ item.url }}" title="{{ chapter_subtitle }} - {{ chapter_title }}">{{ chapter_chname }} - {{ chapter_title }}</a>
   {% endif %}
   {% for entry in item.chapters %}
     {% for slug in slugs %}
