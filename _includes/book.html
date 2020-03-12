@@ -45,6 +45,7 @@ We're creating arrays for slugs, titles and subtitles based on the contents of t
     {% endfor %}
     {% if next %}{% assign next_url = entry.url %}{% assign next_title = chapter_title %}{% assign next_chname = entry.chname %}{% assign next = false %}{% assign next_got = true %}{% endif %}
     {% if entry.url == page.slug %}&#187; {{ chapter_chname }} - {{ chapter_title }} {% if entry.status == "draft" %} {{ site.data.book.draft }}{% endif %}
+      {% assign page_chname = chapter_chname %}
       {% assign next = true %}
     {% endif %}
   {% endfor %}
