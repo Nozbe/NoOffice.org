@@ -6,7 +6,7 @@ toc:
 - url: intro
   status: ready # options are: empty (no document created even), draft (rough draft) and ready (published document)
   chapters:
- - url: dream
+  - url: dream
     status: draft
   - url: team
     status: draft
