@@ -76,5 +76,6 @@ toc:
     status: draft
 - url: outro
   status: draft
+  chapters:
   - url: thanks
   status: draft
