@@ -8,7 +8,7 @@
   {% endif %}
 {% endfor %}
 
-<h2><a href="{{ site.baseurl }}/book/{{ item.url }}">{{ chapter_title }}{% if item.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></h2>
+<h2><a href="{{ site.baseurl }}/book/{{ item.url }}">{{ item.chname }} - {{ chapter_title }}{% if item.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></h2>
 <p>{{ chapter_subtitle }}</p>
 <ul>
 {% for entry in item.chapters %}
@@ -19,7 +19,7 @@
   {% endif %}
 {% endfor %}
 
-<li><strong><a href="{{ site.baseurl }}/book/{{ entry.url }}">{{ chapter_title }}{% if entry.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></strong><br />
+<li><strong><a href="{{ site.baseurl }}/book/{{ entry.url }}">{{ entry.chname }} - {{ chapter_title }}{% if entry.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></strong><br />
     {{ chapter_subtitle }}</li>
 {% endfor %}
 </ul>

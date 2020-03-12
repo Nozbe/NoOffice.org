@@ -1,17 +1,21 @@
-title: NoOffice book
+title: "Book: No Office"
 back: Back to the Table of Contents
-continue: "Next Chapter:"
+continue: "Next:"
 draft: "[Draft]"
 toc:
 - url: intro
-  status: ready # options are: empty (no document created even), draft (rough draft) and ready (published document)
+  status: draft # options are: draft (rough draft) and ready (published document)
+  chname: Intro
   chapters:
   - url: dream
     status: draft
+    chname: Chapter 1
   - url: team
     status: draft
+    chname: Chapter 2
   - url: future
     status: draft
+    chname: Chapter 3
 - url: one
   status: draft
   chapters:
