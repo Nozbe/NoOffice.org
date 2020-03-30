@@ -4,14 +4,14 @@ continue: "Next:"
 draft: "[Draft]"
 toc:
 - url: intro
-  status: draft # options are: draft (rough draft) and ready (published document)
+  status: done # options are: draft (rough draft), done (just written) and ready (published document)
   chname: Intro
   chapters:
   - url: dream
-    status: draft
+    status: done
     chname: Chapter 1
   - url: team
-    status: draft
+    status: done
     chname: Chapter 2
   - url: future
     status: draft
