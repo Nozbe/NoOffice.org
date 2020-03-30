@@ -7,82 +7,74 @@ subtitle: "Can you build a - No Office - team?"
 * TOC
 {:toc}
 
-- Started being disorganized
+As I mentioned in the previous chapter - I built Nozbe because I started being disorganized. I read the book by David Allen "Getting Things Done - the art of stress-free productivity" which inspired me to build an app that would help me work better.
 
-	- Moved to Warsaw
+I built an early prototype when I was still living in Bruxelles and then kept improving it only to launch it in February 2007 when I already moved with my wife to Warsaw. I initially didn't know if anyone would want it.
 
-	- Built Nozbe
+However, after just announcing it to a group of productivity-geeks I met on the Internet, Nozbe user base exploded to 5,000 users after just 3 months. It was still my side project, but after a year it started brining in more revenue than my "day job" of an Internet Marketing consultant. And it brought me significantly more joy. So I took it full time and started slowly getting out of consulting gigs.
 
-	- It resonated with people
+At Nozbe I was a one-man-shop. I did the coding, the marketing and answering customer support emails. And while I loved each part of it, I quickly realized that I needed a better programmer than myself if I wanted to really take Nozbe to a whole new level.
 
-	- Became my main project
+## How I hired my first programmer - currently Nozbe CTO - in a city 200km away...
 
-	- After a year as side-project, wanted to hire a dev
+As I was living in Warsaw at the time, I thought of hiring someone local to help me with programming. I started looking for candidates and found quite a few that felt like a good fit - but the best one - Tom - wasn't from Warsaw. He was finishing his college degree in Toruń, which is 200 km away. And his home town is near Poznan, which is 300 km away from Warsaw. And he didn't want to move to Warsaw.
 
-	- Wasn’t ready to “live the startup dream” and open an office. Didn’t see the point.
+Initially I was skeptical about all this. Can I really build a truly "virtual" team? Especially at such an early stage of my startup? Will I be able to hand in my entire code base to a person so far away? Will it ever work?
 
-	- 1 year into Nozbe, I decided to make it my day job
+We met in Warsaw for the final interview. Later we met again for a whole-day work session. We clicked. I wanted Tom. We decided to give it a try.
 
-	- Still was hoping I could continue work wherever I wanted
+I didn't realize it at the time, but what happened here was me experiencing the first major benefit of a "No Office" company. It's that you don't hire the best person you can find around you. You hire the best person for the job, period. Doesn't matter where they are.
 
-	- Didn’t want to constrain myself
+## Why do I need an office then?
 
-- Was ready to build a team behind this Nozbe product
+After a year of working together with Tom, I needed a person to help me with customer support. I turned to a person who was already helping me when I was working as a marketing consultant. She accepted the job and even though she lived at the time pretty close to me - just on the other side of Warsaw, she explicitly said she didn't want to have to go to an office if I ever wanted to have one.
 
-	- I also needed some help - I decided to hire a programmer
+Two full-time employees. Zero office. So far so good.
 
-	- Remembered the “Mitarbeiter” word - was looking for partners in crime :-)
+In the next few years my team grew to more than 10 people. None of them was from the same city. We were all "virtually together" as Nozbe grew in popularity not only in the USA, but also Japan and Poland.
 
-	- Was focused on getting the best person for the job, was hoping they’d be in Warsaw
+Again, Nozbe users didn't care where my office was. They didn't know I was working from a two-bedroom apartment.
 
-- Meet Tom
+They only knew one Nozbe's address: **Nozbe.com**
 
-	- I went with the best one I could get - and he happened to be a student from a city 200 miles away from Warsaw
+## More people joined... because we didn't have an office!
 
-	- I didn’t want to build an office in Warsaw, I didn’t see the point
+I remember hiring Hubert - our lead designer - who lives in a small town on the south border of Poland. Headhunters were trying to get him to move to Warsaw, but he wouldn't budge. He didn't want to move. Yet he wanted a change, because in his small town the wages were not really high. He wanted to earn more, have a more exciting job... but still live where he's used to living. Is that even possible?
 
-	- We met and we started working together
+This is when I discovered another advantage of "No Office" way of doing things - you can not only hire the best talent but you can also provide them with great work opportunities and a better salary... without making them move from the place they call home.
 
-	- Said he wanted to work on something challenging but didn’t want to go to any office - was finishing college
+This is why Hubert started working with us... and why he's still enjoying working with us after so many years.
 
-	- Two years later after he graduated from university and got married, he moved back to his home town
+## Some people really took advantage of our lack of office...
 
-	- Now he lives in his home town, has a wife and 2 kids and is still constantly being challenged by me
+I hired Magda as my assistant after she came recommended from a close friend. Initially Magda was very skeptical about the whole "no office" situation. She was from Warsaw and she was used to the whole "wake up, put make up and go to a big glass office" kind of thing. But she kept an open mind and decided to give it a try.
 
-- Meet Hubert
+After a few months she asked me: "Michael, can I move to France? It's been my dream to live in France and since we don't have an office anyway, this wouldn't affect really affect my work, right?"
 
-	- Looking for a great designer
+I asked her back: "Do they have Internet in France?"
 
-	- The best one was working at a firm in southern Poland
+We both laughed and that was it.
 
-	- When I did the final interview, he told me how much he was earning... and I had to double his salary
+She moved to France for two years and then she came back to Warsaw. Dream came true. Work was done. She's still with the company and I can't imagine working without her.
 
-	- Confirmed my dream - hire the best talent and give them a great work and salary... without making them move from the place they call home
+This is where I discovered another benefit of a "No Office" company - you can keep the talented people even when they want to change their lifestyle dramatically. What happens when a team member wants to change their life and move? Typically, they'd have to quit. Magda changed a country of residence to France and back after two years. And she stayed with the same company.
 
-	- He had offers from Warsaw in the past but he didn’t want to move. Now he didn’t have to
+Alternatively you can offer your people a better lifestyle - they can now freely choose where they want to live. Very often when people settled in their position at our company for a few months, they'd start thinking about moving - some to their home towns, others to their dream locations...
 
-	- He’s still with us, living where he wants to live and works for a global company
+And they get to do all that - because work for them is not a place to go - it's a thing they do.
 
-- Meet Magda
+## Sometimes the only thing that's constant... is the job!
 
-	- She was living in Warsaw
+Another of our team members is Luke, one of our customer support reps, who works part time for Nozbe. Luke thrives on change. He's been living in 30 apartments by now, he's been living in Poland, Belgium and the Netherlands. He always admits that he loves change. He hates boredom. He loves to shake things up.
 
-	- At first, she was surprised not to have to go to an office every day
+Yet the only thing that's constant in his life is his job at Nozbe. This job that goes with him and that he can perform (and he does it really well!) on his laptop from anywhere in the world. This one constant job that enables him his crazy catch-me-if-you-can lifestyle. Recently on one of our one-on-one conversations he admitted to me: "Michael, everything changes in my life... except for my work at Nozbe".
 
-	- After half a year she got used to it
+## Can I grow the team like this forever?
 
-	- So much so that she asked if she could move to France
+Now that I have more than 20 people on my team (and we've had a team of this size for a number of years), I can with full confidence say, that yes - you can grow a team without a central office. And there are much bigger teams than mine. There are companies twice or three times bigger than Nozbe with an all-remote workforce. There are even 1000+ people companies that don't have an office. We'll talk about them in more detail in the next chapters of this book.
 
-	- I asked if they had Internet in France
+Back to Tom - my first hire is still with me. But he's not in college anymore. He lives back in his home town. With his wife and two boys. Over the 12 years with Nozbe he's life situation changed dramatically yet his job remained the same.
 
-	- She lived in France for the next two years. I didn’t really notice
+## The one thing
 
-	- Now she’s back in Warsaw but it doesn’t matter as she keeps doing her work!
-
-- Can I grow the team like this?
-
-- Work is not a place to go, it’s a thing you... and everyone around you... is doing
-
-	- So with No Office mentality, you can hire the best people for the job, and let them choose their lifestyle
-
-	- You don’t have to constrain them to where you are. Let them have the best lifestyle possible - that’s the ultimate employee benefit
+With a "no office" mentality you can not only hire the best person for a job, period. It's much more than that. You don't constrain their lifestyle - they get to choose where and how they live. When their situation changes, they graduate, they marry, they have kids, they move to a different location... but their work can be the only constant thing in their life.
