@@ -20,7 +20,7 @@
 {% endfor %}
 
 <li><strong>{% if entry.status == "none" %}{{ entry.chname }} - {{ chapter_title }}{% else %}<a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/{{ entry.url }}">{{ entry.chname }} - {{ chapter_title }}{% if entry.status == "draft" %} {{ site.data.[thisbook].draft }}{% endif %}</a>{% endif %}</strong><br />
-    {% if item.status == "none" %}{{ site.data.[thisbook].none }}{% else %}{{ chapter_subtitle }}{% endif %}</li>
+    {% if entry.status == "none" %}{{ site.data.[thisbook].none }}{% else %}{{ chapter_subtitle }}{% endif %}</li>
 {% endfor %}
 </ul>
 {% endfor %}

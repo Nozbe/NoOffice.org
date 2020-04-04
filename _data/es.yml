@@ -6,14 +6,14 @@ none: "Nada escrito todavía..."
 url: es
 toc:
 - url: intro
-  status: draft  # options are: none (no file created), draft (rough draft), done (just written) and ready (published document)
+  status: draft # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
   chname: Intro
   chapters:
   - url: dream
     status: draft
     chname: Capítulo 1
   - url: team
-    status: done
+    status: none
     chname: Capítulo 2
   - url: future
     status: none

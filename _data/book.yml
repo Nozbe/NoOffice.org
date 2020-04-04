@@ -6,14 +6,14 @@ none: "Nothing written yet..."
 url: book
 toc:
 - url: intro
-  status: done # options are: none (no file created), draft (rough draft), done (just written) and ready (published document)
+  status: ready # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
   chname: Intro
   chapters:
   - url: dream
-    status: done
+    status: ready
     chname: Chapter 1
   - url: team
-    status: done
+    status: ready
     chname: Chapter 2
   - url: future
     status: draft

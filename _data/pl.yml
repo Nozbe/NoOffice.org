@@ -6,7 +6,7 @@ none: "Jeszcze nic nie jest napisane..."
 url: pl
 toc:
 - url: intro
-  status: draft # options are: none (no file created), draft (rough draft), done (just written) and ready (published document)
+  status: draft # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
   chname: Wstęp
   chapters:
   - url: dream
