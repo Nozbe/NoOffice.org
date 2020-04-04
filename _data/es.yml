@@ -1,5 +1,5 @@
 title: "Libro: No Office"
-back: "Volver al Indice"
+back: "Volver al Índice"
 continue: "Siguiente:"
 draft: "[Boceto]"
 toc:
@@ -9,4 +9,4 @@ toc:
   chapters:
   - url: dream
     status: draft
-    chname: Capitulo 1
+    chname: Capítulo 1

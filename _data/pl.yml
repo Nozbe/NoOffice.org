@@ -5,8 +5,8 @@ draft: "[Szkic]"
 toc:
 - url: intro
   status: draft # options are: draft (rough draft), done (just written) and ready (published document)
-  chname: Intro
+  chname: Wstęp
   chapters:
   - url: dream
     status: draft
-    chname: Chapter 1
+    chname: Rozdział 1

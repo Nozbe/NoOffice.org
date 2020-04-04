@@ -2,14 +2,16 @@
 part: toc
 layout: page
 title: "No Office - Table of Contents"
-book: site.data.book
+book: book
 ---
 
 Title: {{ site.data.book.title }}
 
-Title 2: {{ book.title }}
+{% assign kniga = site.data.book }}
 
-Title 3: {{ page.book.title }}
+Title 2: {{ kniga.title }}
+
+Title 3: {{ site.data.[page.book].title }}
 
 {% include book.html %}
 
