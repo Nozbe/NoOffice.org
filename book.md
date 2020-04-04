@@ -2,7 +2,10 @@
 part: toc
 layout: page
 title: "No Office - Table of Contents"
+kniga: book
 ---
+
+Kniga: {{ site.data.[page.kniga].title }}
 
 {% include book.html %}
 
