@@ -1,6 +1,18 @@
 {% comment %}
 We're creating arrays for slugs, titles and subtitles based on the contents of the _book collection so that we can use it later.
+We need to have "page.book" defined, right?
 {% endcomment %}
+
+<pre>Book: {{ page.book }}</pre>
+
+{% if page.book == '' }
+  {% assign kinga = 'book' %}
+{% else %}
+  {% assign kniga = page.book %}
+{% endif %}
+
+<pre>Kniga: {{ kniga }}</pre>
+
 
 {% for chapter in site.book %}
   {% assign slugs = slugs | append: chapter.slug | append:'||' %}

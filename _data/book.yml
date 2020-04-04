@@ -2,6 +2,7 @@ title: "Book: No Office"
 back: Back to the Table of Contents
 continue: "Next:"
 draft: "[Draft]"
+url: book
 toc:
 - url: intro
   status: done # options are: draft (rough draft), done (just written) and ready (published document)
