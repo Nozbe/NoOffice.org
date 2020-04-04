@@ -4,12 +4,6 @@ layout: page
 title: "No Office - Table of Contents"
 ---
 
-Title: {{ site.data.book.title }}
-
-{% assign kniga = site.data.book }}
-
-Title 2: {{ kniga.title }}
-
 {% include book.html %}
 
 This is the 2020 version of the Table of Contents of the #NoOffice book.
