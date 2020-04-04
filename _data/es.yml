@@ -1,0 +1,12 @@
+title: "Libro: No Office"
+back: "Volver al Indice"
+continue: "Siguiente:"
+draft: "[Boceto]"
+toc:
+- url: intro
+  status: draft # options are: draft (rough draft), done (just written) and ready (published document)
+  chname: Intro
+  chapters:
+  - url: dream
+    status: draft
+    chname: Capitulo 1

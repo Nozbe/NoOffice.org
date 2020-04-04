@@ -7,6 +7,11 @@ subtitle: "Can - No Office - be the future of work?"
 * TOC
 {:toc}
 
+Now you know my story and how my dream of a "no office" lifestyle became a team that doesn't commute to a central office to get their work done. The only question that remains is about the future - is this just a future of my company or is this the future of work?
+
+## Is modern, flexible and geographically dispersed team the future of work?
+
+The cities are growing. Even in a developed country like the USA, when you look at the [top 20 most populated cities](https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population), you can see that in the last decade all of the cities are growing. Only Chicago grew by less than 1%, but some cities like Phoenix, San Antonio, Dallas, Austin or Seattle grew way in double digits, some more than 20%! Is this really necessary? Don't we finally have technology 
 
 - Is No Office a future of my company... or is it a future of work?
 

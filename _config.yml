@@ -61,6 +61,18 @@ defaults:
       layout: "book"
   -
     scope:
+      path: ""
+      type: "pl"
+    values:
+      layout: "book"
+  -
+    scope:
+      path: ""
+      type: "es"
+    values:
+      layout: "book"
+  -
+    scope:
       path: "tag"
     values:
       layout: "tag"
@@ -73,6 +85,12 @@ collections:
   book:
     output: true
     permalink: /book/:path/
+  pl:
+    output: true
+    permalink: /pl/:path/
+  es:
+    output: true
+    permalink: /es/:path/
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:

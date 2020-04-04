@@ -1,0 +1,12 @@
+title: "Książka: No Office"
+back: "Powrót do spisu treści"
+continue: "Następny:"
+draft: "[Szkic]"
+toc:
+- url: intro
+  status: draft # options are: draft (rough draft), done (just written) and ready (published document)
+  chname: Intro
+  chapters:
+  - url: dream
+    status: draft
+    chname: Chapter 1
