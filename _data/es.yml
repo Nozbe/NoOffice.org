@@ -2,6 +2,7 @@ title: "Libro: No Office"
 back: "Volver al Índice"
 continue: "Siguiente:"
 draft: "[Boceto]"
+url: es
 toc:
 - url: intro
   status: draft # options are: draft (rough draft), done (just written) and ready (published document)

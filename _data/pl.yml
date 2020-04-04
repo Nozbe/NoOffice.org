@@ -2,6 +2,7 @@ title: "Książka: No Office"
 back: "Powrót do spisu treści"
 continue: "Następny:"
 draft: "[Szkic]"
+url: pl
 toc:
 - url: intro
   status: draft # options are: draft (rough draft), done (just written) and ready (published document)

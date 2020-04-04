@@ -59,18 +59,21 @@ defaults:
       type: "book"
     values:
       layout: "book"
+      book: "book"
   -
     scope:
       path: ""
       type: "pl"
     values:
       layout: "book"
+      book: "pl"
   -
     scope:
       path: ""
       type: "es"
     values:
       layout: "book"
+      book: "es"
   -
     scope:
       path: "tag"

@@ -2,8 +2,8 @@
 <div class="booknav">
 
 {% if next_got == true %}
-<p class="bold">{{ site.data.book.continue }} <a href="{{ site.baseurl }}/book/{{ next_url }}">{{ next_chname }} - {{ next_title }}</a></p>
+<p class="bold">{{ site.data.[thisbook].continue }} <a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/{{ next_url }}">{{ next_chname }} - {{ next_title }}</a></p>
 {% endif %}
 
-<p><a href="{{ site.baseurl }}/book/">{{ site.data.book.back }}</a></p>
+<p><a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/">{{ site.data.[thisbook].back }}</a></p>
 </div>

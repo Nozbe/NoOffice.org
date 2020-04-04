@@ -1,5 +1,5 @@
 <div class="toc">
-{% for item in site.data.book.toc %}
+{% for item in site.data.[thisbook].toc %}
 {% for slug in slugs %}
   {% if item.url == slug %}
   {% assign chapter_title = titles[forloop.index0] %}
@@ -8,7 +8,7 @@
   {% endif %}
 {% endfor %}
 
-<h2><a href="{{ site.baseurl }}/book/{{ item.url }}">{{ item.chname }} - {{ chapter_title }}{% if item.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></h2>
+<h2><a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/{{ item.url }}">{{ item.chname }} - {{ chapter_title }}{% if item.status == "draft" %} {{ site.data.[thisbook].draft }}{% endif %}</a></h2>
 <p>{{ chapter_subtitle }}</p>
 <ul>
 {% for entry in item.chapters %}
@@ -19,7 +19,7 @@
   {% endif %}
 {% endfor %}
 
-<li><strong><a href="{{ site.baseurl }}/book/{{ entry.url }}">{{ entry.chname }} - {{ chapter_title }}{% if entry.status == "draft" %} {{ site.data.book.draft }}{% endif %}</a></strong><br />
+<li><strong><a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/{{ entry.url }}">{{ entry.chname }} - {{ chapter_title }}{% if entry.status == "draft" %} {{ site.data.[thisbook].draft }}{% endif %}</a></strong><br />
     {{ chapter_subtitle }}</li>
 {% endfor %}
 </ul>
