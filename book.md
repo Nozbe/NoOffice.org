@@ -5,8 +5,6 @@ title: "No Office - Table of Contents"
 book: book
 ---
 
-Book: {{ site.data.[page.book].title }}
-
 {% include book.html %}
 
 This is the 2020 version of the Table of Contents of the #NoOffice book.

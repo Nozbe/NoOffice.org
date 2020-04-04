@@ -2,6 +2,7 @@ title: "Book: No Office"
 back: Back to the Table of Contents
 continue: "Next:"
 draft: "[Draft]"
+none: "Nothing written yet..."
 url: book
 toc:
 - url: intro
