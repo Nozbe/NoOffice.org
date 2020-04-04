@@ -7,8 +7,10 @@ We need to have "page.book" defined, right?
 
 {% if page.book %}
   {% assign kniga = page.book %}
+  we have it
 {% else %}
-  {% assign kinga = 'book' %}
+  {% assign kniga = 'book' %}
+  aint got nothing
 {% endif %}
 
 <pre>Kniga: {{ kniga }}</pre>
