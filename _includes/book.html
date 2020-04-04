@@ -3,15 +3,15 @@ We're creating arrays for slugs, titles and subtitles based on the contents of t
 We need to have "page.book" defined, right?
 {% endcomment %}
 
-<pre>Book: {{ page.book }}</pre>
+<pre>Books: {{ page.book }}</pre>
 
-{% if page.book == '' }
+{% if page.book == false }
   {% assign kinga = 'book' %}
 {% else %}
   {% assign kniga = page.book %}
 {% endif %}
 
-<pre>Kniga: {{ kniga }}</pre>
+<pre>Knigas: {{ kniga }}</pre>
 
 
 {% for chapter in site.book %}
