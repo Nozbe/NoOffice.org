@@ -5,9 +5,114 @@ draft: "[Boceto]"
 url: es
 toc:
 - url: intro
-  status: draft # options are: draft (rough draft), done (just written) and ready (published document)
+  status: draft  # options are: none (no file created), draft (rough draft), done (just written) and ready (published document)
   chname: Intro
   chapters:
   - url: dream
     status: draft
     chname: Capítulo 1
+  - url: team
+    status: done
+    chname: Capítulo 2
+  - url: future
+    status: none
+    chname: Capítulo 3
+- url: one
+  status: none
+  chname: Part 1
+  chapters:
+  - url: focus
+    status: none
+    chname: Capítulo 4
+  - url: write
+    status: none
+    chname: Capítulo 5
+  - url: email
+    status: none
+    chname: Capítulo 6
+  - url: meetings
+    status: none
+    chname: Capítulo 7
+  - url: fight
+    status: none
+    chname: Capítulo 8
+  - url: vlog
+    status: none
+    chname: Capítulo 9
+  - url: pyramid
+    status: none
+    chname: Capítulo 10
+  - url: decide
+    status: none
+    chname: Capítulo 11
+  - url: lean
+    status: none
+    chname: Capítulo 12
+  - url: pay
+    status: none
+    chname: Capítulo 13
+  - url: perks
+    status: none
+    chname: Capítulo 14
+  - url: review
+    status: none
+    chname: Capítulo 15
+  - url: friday
+    status: none
+    chname: Capítulo 16
+  - url: week
+    status: none
+    chname: Capítulo 17
+- url: two
+  status: none
+  chname: Part 2
+  chapters:
+  - url: trust
+    status: none
+    chname: Capítulo 18
+  - url: mobile
+    status: none
+    chname: Capítulo 19
+  - url: chat
+    status: none
+    chname: Capítulo 20
+  - url: home
+    status: none
+    chname: Capítulo 21
+  - url: deal
+    status: none
+    chname: Capítulo 22
+  - url: hire
+    status: none
+    chname: Capítulo 23
+  - url: connect
+    status: none
+    chname: Capítulo 24
+  - url: meet
+    status: none
+    chname: Capítulo 25
+  - url: reunion
+    status: none
+    chname: Capítulo 26
+  - url: social
+    status: none
+    chname: Capítulo 27
+  - url: holiday
+    status: none
+    chname: Capítulo 28
+  - url: many
+    status: none
+    chname: Capítulo 29
+  - url: security
+    status: none
+    chname: Capítulo 30
+  - url: transparency
+    status: none
+    chname: Capítulo 31
+- url: outro
+  status: none
+  chname: Outro
+  chapters:
+  - url: thanks
+    status: draft
+    chname: Gracias

@@ -5,9 +5,114 @@ draft: "[Szkic]"
 url: pl
 toc:
 - url: intro
-  status: draft # options are: draft (rough draft), done (just written) and ready (published document)
+  status: draft # options are: none (no file created), draft (rough draft), done (just written) and ready (published document)
   chname: Wstęp
   chapters:
   - url: dream
     status: draft
     chname: Rozdział 1
+  - url: team
+    status: none
+    chname: Rozdział 2
+  - url: future
+    status: none
+    chname: Rozdział 3
+- url: one
+  status: none
+  chname: Part 1
+  chapters:
+  - url: focus
+    status: none
+    chname: Rozdział 4
+  - url: write
+    status: none
+    chname: Rozdział 5
+  - url: email
+    status: none
+    chname: Rozdział 6
+  - url: meetings
+    status: none
+    chname: Rozdział 7
+  - url: fight
+    status: none
+    chname: Rozdział 8
+  - url: vlog
+    status: none
+    chname: Rozdział 9
+  - url: pyramid
+    status: none
+    chname: Rozdział 10
+  - url: decide
+    status: none
+    chname: Rozdział 11
+  - url: lean
+    status: none
+    chname: Rozdział 12
+  - url: pay
+    status: none
+    chname: Rozdział 13
+  - url: perks
+    status: none
+    chname: Rozdział 14
+  - url: review
+    status: none
+    chname: Rozdział 15
+  - url: friday
+    status: none
+    chname: Rozdział 16
+  - url: week
+    status: none
+    chname: Rozdział 17
+- url: two
+  status: none
+  chname: Part 2
+  chapters:
+  - url: trust
+    status: none
+    chname: Rozdział 18
+  - url: mobile
+    status: none
+    chname: Rozdział 19
+  - url: chat
+    status: none
+    chname: Rozdział 20
+  - url: home
+    status: none
+    chname: Rozdział 21
+  - url: deal
+    status: none
+    chname: Rozdział 22
+  - url: hire
+    status: none
+    chname: Rozdział 23
+  - url: connect
+    status: none
+    chname: Rozdział 24
+  - url: meet
+    status: none
+    chname: Rozdział 25
+  - url: reunion
+    status: none
+    chname: Rozdział 26
+  - url: social
+    status: none
+    chname: Rozdział 27
+  - url: holiday
+    status: none
+    chname: Rozdział 28
+  - url: many
+    status: none
+    chname: Rozdział 29
+  - url: security
+    status: none
+    chname: Rozdział 30
+  - url: transparency
+    status: none
+    chname: Rozdział 31
+- url: outro
+  status: none
+  chname: Outro
+  chapters:
+  - url: thanks
+    status: none
+    chname: Podziękowania

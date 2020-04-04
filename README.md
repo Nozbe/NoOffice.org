@@ -56,3 +56,29 @@ Create pull requests on anyting - any chapter, anything in this repository and I
 
 This is coming soon - [send me an email](mailto:michael@nozbe.com) if you want to help translate and I'll set it up here. As I write the first chapters I'll start preparing guidelines for translating.
 
+## How each new language version is added to the repository
+
+I've recently managed to create translation versions of the book in PL and ES. To do that all that is required to do is this:
+
+- add the new book / translation to the `_config.yml`
+
+```
+    scope:
+      path: ""
+      type: "pl"
+    values:
+      layout: "book"
+      book: "pl"
+```
+
+1. type - the new book / translation
+2. layout - "book" - the same layout for all the book versions
+3. book - which book / collection it is like "pl"
+
+- add a folder `_pl` with all the files needed
+
+- add `pl.md` file to the main directory which serves as a table of contents, remember to put `book: pl` parameter to the front matter
+
+- add `data/pl.yml` file with all the Polish translations and the table of contents
+
+

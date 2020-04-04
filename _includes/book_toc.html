@@ -8,7 +8,7 @@
   {% endif %}
 {% endfor %}
 
-<h2><a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/{{ item.url }}">{{ item.chname }} - {{ chapter_title }}{% if item.status == "draft" %} {{ site.data.[thisbook].draft }}{% endif %}</a></h2>
+<h2>{% if item.status == "none" %}{{ item.chname }} - {{ chapter_title }}{% else %}<a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/{{ item.url }}">{{ item.chname }} - {{ chapter_title }}{% if item.status == "draft" %} {{ site.data.[thisbook].draft }}{% endif %}</a>{% endif %}</h2>
 <p>{{ chapter_subtitle }}</p>
 <ul>
 {% for entry in item.chapters %}
@@ -19,7 +19,7 @@
   {% endif %}
 {% endfor %}
 
-<li><strong><a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/{{ entry.url }}">{{ entry.chname }} - {{ chapter_title }}{% if entry.status == "draft" %} {{ site.data.[thisbook].draft }}{% endif %}</a></strong><br />
+<li><strong>{% if entry.status == "none" %}{{ entry.chname }} - {{ chapter_title }}{% else %}<a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/{{ entry.url }}">{{ entry.chname }} - {{ chapter_title }}{% if entry.status == "draft" %} {{ site.data.[thisbook].draft }}{% endif %}</a>{% endif %}</strong><br />
     {{ chapter_subtitle }}</li>
 {% endfor %}
 </ul>

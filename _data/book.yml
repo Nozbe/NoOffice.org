@@ -5,7 +5,7 @@ draft: "[Draft]"
 url: book
 toc:
 - url: intro
-  status: done # options are: draft (rough draft), done (just written) and ready (published document)
+  status: done # options are: none (no file created), draft (rough draft), done (just written) and ready (published document)
   chname: Intro
   chapters:
   - url: dream
