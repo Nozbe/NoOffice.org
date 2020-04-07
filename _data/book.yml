@@ -16,7 +16,7 @@ toc:
     status: ready
     chname: Chapter 2
   - url: future
-    status: draft
+    status: ready
     chname: Chapter 3
 - url: one
   status: draft

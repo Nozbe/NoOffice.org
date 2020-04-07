@@ -9,6 +9,6 @@ book: book
 
 This is the 2020 version of the Table of Contents of the #NoOffice book.
 
-**Last update: April 4, 2020**
+**Last update: [April 7, 2020](/intro-done)**
 
 {% include book_toc.html %}
