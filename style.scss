@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  font: 18px/1.4 $helvetica;
+  font-family: $font;
   background: $white;
   color: $darkGray;
   
@@ -36,7 +36,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
@@ -54,27 +53,28 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 3em;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 2em;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 1.5em;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 1.2em;
   color: $gray;
 }
 
 p {
-  margin: 15px 0;
+  margin: 1em 0;
+  line-height: 1.3em;
 }
 
 a {
@@ -121,6 +121,16 @@ strong, b {
 
 .bold {
   font-weight: bold;
+}
+
+blockquote {
+  margin: 1em;
+  border: 2px solid $gray;
+  padding: 0.1em 1em;
+  color: $gray;
+  font-family: $fontserif;
+  font-style: italic;
+  transform: rotate(-2deg);
 }
 
 img {
@@ -234,7 +244,6 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -268,7 +277,7 @@ img {
   border: 1px solid $lightGray;
   color: $darkGray;
   padding: 2px;
-  font-size: 18px;
+  font-size: 1.2em;
   margin: 0;
   width: inherit;
 }
@@ -324,7 +333,6 @@ img {
 nav {
   float: right;
   margin-top: 9px;
-  font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
@@ -391,22 +399,10 @@ nav {
 }
 
 .post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 1.2em;
   }
 }
 

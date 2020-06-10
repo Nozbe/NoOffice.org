@@ -16,9 +16,18 @@ $lighterGray: #f6f6f6;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+@font-face {
+  font-family: "color-emoji";
+  src: local("Apple Color Emoji"),
+       local("Segoe UI Emoji"), 
+       local("Segoe UI Symbol"),
+       local("Noto Color Emoji");
+}
+
+$font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Verdana", sans-serif, color-emoji;
+$fontserif: Georgia, Cambria, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", Times, serif, color-emoji;
+$fontmono: 'Lucida Console', 'Bitstream Vera Sans Mono', 'Courier', Monaco, monospace, color-emoji;
+
 
 // Mobile breakpoints
 @mixin mobile {

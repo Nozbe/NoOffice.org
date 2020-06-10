@@ -4,6 +4,7 @@ continue: "Next:"
 draft: "[Draft]"
 none: "Nothing written yet..."
 url: book
+github: "https://github.com/Nozbe/NoOffice.org/blob/master/_book/"
 toc:
 - url: intro
   status: ready # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
