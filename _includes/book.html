@@ -69,7 +69,7 @@ Our main variable then is "thisbook" which we define in the beginning.
 {% endfor %}
 
 {% if site.data.[thisbook].github %}
-| <a href="{{ site.data.[thisbook].github }}.md">{{ page.slug }}.md</a>
+| <a href="{{ site.data.[thisbook].github }}{{ page.slug }}.md">{{ page.slug }}.md</a>
 {% endif %}
 
 </div>
