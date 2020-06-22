@@ -20,11 +20,11 @@ toc:
     status: ready
     chname: Chapter 3
 - url: one
-  status: draft
+  status: ready
   chname: Part 1
   chapters:
   - url: focus
-    status: draft
+    status: ready
     chname: Chapter 4
   - url: write
     status: draft
