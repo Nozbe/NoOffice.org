@@ -121,7 +121,13 @@ strong, b {
 .bold {
   font-weight: bold;
 }
-
+sup { 
+  vertical-align: super;
+  font-size: smaller;
+}
+.footnotes {
+  border-top: 1px slid $gray;
+}
 blockquote {
   margin: 1em;
   border: 2px solid $gray;

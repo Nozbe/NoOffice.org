@@ -15,9 +15,9 @@ Over many years of talking to other businesses and improving our work in Nozbe's
 
 ## Three sins of modern offices:
 
-1) **Bad habits** - office space is conducive to creating bad habits in the team, like "brainstorming sessions", or "in-promptu meetings".
-2) **Open workspace** - most office spaces are very "open", so people working there have trouble finding any kinds of focus. There are just too many audio and visual distractions all the time!
-3) **It's all in the office, only!** - the physical space of an office creates this artificial limit of work and forces the organization to depend on the office (papers, documents, meetings, whiteboards...). This makes doing work much harder or virtually impossible outside of it.
+1. **Bad habits** - office space is conducive to creating bad habits in the team, like "brainstorming sessions", or "in-promptu meetings".
+2. **Open workspace** - most office spaces are very "open", so people working there have trouble finding any kinds of focus. There are just too many audio and visual distractions all the time!
+3. **It's all in the office, only!** - the physical space of an office creates this artificial limit of work and forces the organization to depend on the office (papers, documents, meetings, whiteboards...). This makes doing work much harder or virtually impossible outside of it.
 
 In this section of the book I'll be tackling all these problems and much more. I'll try to show you how one one hand, the office which you currently have can be used much better for the work that you do, and on the other, how you can make that work less dependable on the physical constraints of an office. Ultimately, "work is not a place to go, it's a thing that you do".
 
