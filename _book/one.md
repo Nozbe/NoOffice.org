@@ -7,9 +7,15 @@ subtitle: "Whether your team is in an office or not, it's time for you all to st
 * TOC
 {:toc}
 
-Modern offices are were all the magic happens. Where all the work is done in the most efficient way possible, right?
+## The myth of a stylish office
 
-Wrong. Not really.
+Modern offices are supposed to be the places where all the magic happens. This is where all the work is done in the most efficient way possible, right?
+
+I mean, it must be true as companies all over the world are sweating the details of their offices. They design the space, the fussball tables, the relax lounges, the colorful walls, the lightning and all the things they claim will improve team's productivity and morale.
+
+Don't get me wrong, I like nicely-designed spaces as much as the next guy, but...
+
+> Very rarely these design tweaks improve team's work, because the fault is in the fundamentals.
 
 Over many years of talking to other businesses and improving our work in Nozbe's all-remote team, we've identified three major problems with current offices and with the way teamwork is done in them.
 
@@ -21,7 +27,7 @@ Over many years of talking to other businesses and improving our work in Nozbe's
 
 In this section of the book I'll be tackling all these problems and much more. I'll try to show you how one one hand, the office which you currently have can be used much better for the work that you do, and on the other, how you can make that work less dependable on the physical constraints of an office. Ultimately, "work is not a place to go, it's a thing that you do".
 
-## The office does not business make
+## The office does not a business make
 
 A business doesn't exist because of the office... but because of a need to do something. To provide additional value. To create a good venue to do great work.
 
