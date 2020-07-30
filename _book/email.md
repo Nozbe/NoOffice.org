@@ -107,7 +107,7 @@ To me, efficient communication with my team is the most important thing in the w
 
 Recommended reading for this chapter is "Under New Management" by David Burkus.[^4]
 
-[1]: [What is task-based communication?](https://nozbe.com/blog/task-based-communication)
-[2]: [Asynchronous communication as a top productivity booster](https://nozbe.com/blog/asynchronous/)
-[3]: ASAP stands for As Soon As Possible - it's a culture of many teams that everything is urgent, which it usually isn't.
-[4]: [Some Companies Are Banning Email and Getting More Done](https://hbr.org/2016/06/some-companies-are-banning-email-and-getting-more-done) was an article by David Burkus which just confirmed that I was onto something. Later he expanded this in his book: [Under New Management: How Leading Organizations Are Upending Business as Usual](https://davidburkus.com/books/under-new-management/)
+[^1]: [What is task-based communication?](https://nozbe.com/blog/task-based-communication)
+[^2]: [Asynchronous communication as a top productivity booster](https://nozbe.com/blog/asynchronous/)
+[^3]: ASAP stands for As Soon As Possible - it's a culture of many teams that everything is urgent, which it usually isn't.
+[^4]: [Some Companies Are Banning Email and Getting More Done](https://hbr.org/2016/06/some-companies-are-banning-email-and-getting-more-done) was an article by David Burkus which just confirmed that I was onto something. Later he expanded this in his book: [Under New Management: How Leading Organizations Are Upending Business as Usual](https://davidburkus.com/books/under-new-management/)
