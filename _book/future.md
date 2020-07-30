@@ -11,7 +11,7 @@ Now you know my story and how my dream of a "no office" lifestyle became a team 
 
 ## Do we really have to all live in a large city?
 
-The cities are growing. Even in a developed country like the USA, when you look at the [top 20 most populated cities](https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population), you can see that in the last decade all of the cities kept growing. Only Chicago grew by less than 1%, but some cities like Phoenix, San Antonio, Dallas, Austin or Seattle grew way in double digits, some more than 20%! Is this really necessary?
+The cities are growing. Even in a developed country like the USA, when you look at the top 20 most populated cities[^1], you can see that in the last decade all of the cities kept growing. Only Chicago grew by less than 1%, but some cities like Phoenix, San Antonio, Dallas, Austin or Seattle grew way in double digits, some more than 20%! Is this really necessary?
 
 I also read on Twitter the other day that in 15 years we'll have 50 mega-cities all over the world with more than 10M inhabitants each... why would we do that to ourselves?
 
@@ -49,7 +49,9 @@ It’s so funny to me that the modern pre-requisite of getting job done is the o
 
 When you need to get your work done, you don't have to do it because of the office. The office is optional. The office can be bent. Because what really matters is this:
 
-There is no office. There is only work that needs to be done.
+> There is no office. There is only work that needs to be done.
+
+## Is an office indispensable?
 
 Later in this book we'll explore all the valid reasons why people might believe an office to be an essential part of their work and how a "no office" company solves these needs, like:
 
@@ -83,9 +85,13 @@ Yet we don't have all the answers and we do many things differently with a commo
 
 On one hand the recent pandemic of COVID-19 sped up the work on this book, but on the other I believe we've learned enough to be useful to other companies and businesses which are used to a more traditional way of doing things.
 
+## A modern book for modern times
+
 The book is open-sourced - I'm writing it openly for everyone to read and suggest improvements and amendments. I'm learning as I go, so many things in this book might change and get revised. It's a process.
 
 Just like software, this book will never be finished.
+
+> "No Office" is a modern way of running a business so it deserves a modern way of writing a book.
 
 In Nozbe, with our latest software product of Nozbe Teams, we've introduced a weekly release schedule. Every week we keep shipping a new version of our software. When a bug is fixed, a feature is introduced, a text copy is improved, it gets shipped to the customers next Monday. We love this quick and iterative release cycle.
 
@@ -104,3 +110,5 @@ As the founder of a "no office" company and as an active part of the team who st
 ## The one thing: an office is just a tool!
 
 Remember that office is not a requirement for work, it's just a tool that you can bend any way you want, because what’s really required is the work that you need to do.
+
+[^1]: [Top 20 most populated cities in the USA on Wikipedia](https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population)

@@ -61,11 +61,11 @@ Especially with today's smartphone, adding events to digital calendar, dictating
 
 Now that you've got your habits right, it's time to instill the same *write stuff down* dynamic in your team. Here's how we to start doing it:
 
-### Make me a task!
+### Just task me with...
 
 You want someone to do something for you, ask them in a written form. Yes, you can first talk to them about it, but even after your initial conversation, make it a habit of creating a task for them in the task or project management software that you use in your team. We call it "task-based communication"[^3].
 
-It became a habit in our team. You're like: "can you do this for me? I need this and that..." and the other person would be like: "Sure, just make me a task!".
+It became a habit in our team. You're like: "can you do this for me? I need this and that..." and the other person would be like: "Sure, just task me with that!".
 
 This way you're have to think it through, create a task for this person in appropriate project, maybe even add a comment to explain in detail what you're after... or add additional documents as reference material.
 

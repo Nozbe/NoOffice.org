@@ -60,3 +60,9 @@ When you comment on a specific task, there's no doubt what the comment applies t
 So there you go, don't be afraid: BAN EMAILS. Use email only to connect with people outside of your team and use specific tools to communicate through tasks and through chats with your team.
 
 This way you and your team are always on the same page and you can decide when you want to focus on working with your people and when you want to check out what's happening in the outside world. These two communication channels don't get mixed up anymore. It's healthier this way. Trust me, I've been doing this for the last 3-4 years. This can be done and it works extremely well!
+
+Ewelina's email misunderstanding. 
+
+Nozbe teams incoming
+
+Team should come first, customers second. 

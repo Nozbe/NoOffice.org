@@ -13,7 +13,7 @@ Wrong. Not really.
 
 Over many years of talking to other businesses and improving our work in Nozbe's all-remote team, we've identified three major problems with current offices and with the way teamwork is done in them.
 
-## Three sins of modern offices:
+## Three sins of modern offices
 
 1. **Bad habits** - office space is conducive to creating bad habits in the team, like "brainstorming sessions", or "in-promptu meetings".
 2. **Open workspace** - most office spaces are very "open", so people working there have trouble finding any kinds of focus. There are just too many audio and visual distractions all the time!
