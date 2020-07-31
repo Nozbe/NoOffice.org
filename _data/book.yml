@@ -34,7 +34,7 @@ toc:
     status: ready
     chname: Chapter 6
   - url: meetings
-    status: draft
+    status: ready
     chname: Chapter 7
   - url: fight
     status: draft
