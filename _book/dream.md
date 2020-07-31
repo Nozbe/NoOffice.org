@@ -7,7 +7,7 @@ subtitle: How my - No Office - lifestyle was born...
 * TOC
 {:toc}
 
-I've always been attracted to a semi-nomadic lifestyle. Even now with three kids and a wife in a public administration office, we are used to traveling a lot every year. I've always loved foreign languages and was always curious about distant places. In college I studied in three different European countries - Poland, Germany and Spain. Traveling around the world and working from anywhere was in me from the very beginning of my professional life.
+I've always been attracted to a semi-nomadic lifestyle. Even now, with three kids and a wife in a public administration office, we are used to traveling a lot every year. I've always loved foreign languages and was always curious about distant places. In college, I studied in three different European countries - Poland, Germany and Spain. Traveling around the world and working from anywhere was in me from the very beginning of my professional life.
 
 ## I swallowed the "No Office" bug in college
 
@@ -17,15 +17,15 @@ I wrote my final thesis on "Extremely Virtual Enterprise", that is on how compan
 
 Suffice to say, I fell in love with the concept.
 
-Back then I already believed it was the future.
+Back then, I already believed it was the future.
 
-To back it up, I found quite a few companies that were doing it back then. And what I also found was this quote that stuck with me and that I'll be repeating throughout this book:
+To back it up, I found quite a few companies that were doing it at the time. And what I also found was this quote that stuck with me and that I'll be repeating throughout this book:
 
 > Work is not a place that you go to, it's a thing that you do.
 
 ## After college I just followed my wife... and kept working!
 
-After college I got married to my wife Ewelina in our hometown of Gdynia, Poland. We then moved to Germany, as she was still finishing her law degree in Dusseldorf. She’d attend university and I’d ride a bike and use the free internet at the campus to work on my laptop as a freelance Internet Marketing consultant.
+After college, I got married to my wife Ewelina in our hometown of Gdynia, Poland. We then moved to Germany, as she was still finishing her law degree in Dusseldorf. She’d attend university and I’d ride a bike and use the free internet at the campus to work on my laptop as a freelance Internet Marketing consultant.
 
 A few months later she got an internship at the council of the EU in Bruxelles, Belgium. After a few months in the land of the French fries, she got another internship at the Central European Bank in Frankfurt, Germany. We left the home of probably the best sausages in the world when she got a big-time job in one of the leading law firms in Warsaw, Poland.
 
@@ -43,7 +43,7 @@ And my 20+ person team has been working on it from their homes the entire time. 
 
 So I ask again: "Can I keep living and working like this?"
 
-And I answer: "I can and I have and I am.".
+And I answer: "I can and I have and I am."
 
 ## The one thing: the Internet changed everything!
 
