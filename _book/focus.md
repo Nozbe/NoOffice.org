@@ -1,7 +1,7 @@
 ---
 part: one
-title: Focus at work
-subtitle: All everyone needs these days is more... focus
+title: Find focus at work
+subtitle: All everyone needs is love... and much more focused time to get stuff done.
 ---
 
 * TOC
@@ -11,17 +11,17 @@ How do you make your team members work better? By giving them modern tools? More
 
 ## Why is focus so important these days?
 
-I mean, come on! People are hired by companies to do great work. To really contribute to the company's bottom line. And to do that, they should deliver amazing results. Work X hours which produce 10X results, right?
+People are hired by companies to do great work. To really contribute to the company's bottom line. And to do that, they should deliver amazing results. Work X hours which produce 10X results, right?
 
 But how do you want them to do that, if they're interrupted all the time?
 
 > It's not that people don't have enough time. They don't have enough focused time.
 
-People who work as knowledge workers are there to use their head, their mind, their professional expertise - to deliver great work, right?
+People who work as knowledge workers are there to use their head, their mind, their professional expertise - to deliver great work.
 
-And how can they do it, if they’re stuck in meetings, bombarded with emails and notifications or interrupted by fellow colleagues "for just a minute"?
+Yet they are doomed to fail, if they’re stuck in meetings, bombarded with emails and notifications or interrupted by fellow colleagues "for just a minute".
 
-What's worse is that many managers aren't helping them at all! They invent meetings without agenda and come up with all the creative ways of getting people's attention, instead of protecting their people's time.
+What's worse is that many managers aren't helping them at all! They invent status meetings without agenda and come up with all the creative ways of getting people's attention, instead of protecting their people's time.
 
 They should be shielding them and helping them find focus. That's their job.
 
@@ -31,7 +31,7 @@ As a manager, make it a primary goal for you - to protect your people and give t
 
 ### Question each meeting or one-on-one session
 
-We'll deal with meetings later in this book in more detail, but here I want so start priming you on what's to come. Question every meeting. Before you want to call a meeting or add it to someone's calendar, make sure it's really necessary. If you just want to make a point, maybe it's enough to write it up and send to them? Why does it have to be a meeting when it's enough for it to just be a message?
+We'll deal with meetings later in this book in more detail, but I already want so start priming you on what's to come. Question every meeting. Before you want to call a meeting or add it to someone's calendar, make sure it's really necessary. If you just want to make a point, maybe it's enough to write it up and send to them? Why does it have to be a meeting when it's enough for it to just be a message?
 
 ### Ask for permission to talk
 
@@ -61,17 +61,17 @@ Don't be the ASAP person and don't demand it from everyone around. It's toxic. I
 
 The new definition of a modern workspace is the "open floor" office. Where everyone sits next to each other. No walls. No barriers. No private space. Everyone's sitting together.
 
-Many managers and bosses love this concept. They say that the ideas are flowing like airwaves between people. Creativity is skyrocketing as everyone can at anytime talk to anyone and exchange ideas and have serendipitous conversations.
+Many managers and bosses love this concept. They say that the ideas are flowing like airwaves between people and creativity is skyrocketing as everyone can so easily exchange ideas and have serendipitous conversations.
 
 The whole Silicon Valley is all in on such offices. Facebook has supposedly built the largest "open office" in the world with the help of a very fancy architect firm. Apple has built a spaceship office with lots of open floors. If Apple and Facebook and all of Silicon Valley is doing it, it must be great, right?
 
-The truth is that such offices are built to cater to the bosses' egos: "Look at my amazing, creative, office-worker factory!".
+The truth is that such offices are built to cater to the bosses' egos: *"Look at my amazing, creative, office-worker factory!".*
 
 Also, ask bosses at these companies why they have private offices and don't work on the open floor?
 
 > It's a typical "do as I say, don't do as I do" moment. "Open" office layout doesn't let people focus on their work but it lets their bosses see what's going on and do "management by looking around".
 
-Now ask anyone working in such an office. People hate open offices. They struggle to find focus there. They can't concentrate. They can't get any meaningful work done. They bend over backwards to really make them work!
+Now ask anyone how much they like working in such an office. People hate open offices. They struggle to find focus there. They can't concentrate. They can't get any meaningful work done. They bend over backwards to really make this work!
 
 The bosses say it's all about "random chat", "collaboration", "serendipity", "casual exchange of ideas"... and that's great, but even if you do get a great idea like this, then when in the hell would you find the time and focus to write it up? To prepare it? To look at it from all angles in peace? To really dive in and analyze it? Well, not here...
 
@@ -89,26 +89,30 @@ If you want people in your office to work efficiently and with maximum focus, av
 
 ### Guidelines for offices focused on... focus at work.
 
-When designing your office, think about these:
+When designing your office:
 
 - Space people out so that they can have some breathing room and peace and quiet to think and write up these brilliant ideas
 - Find natural barriers like furniture, whiteboards, walls so that people don't see each other at all times
 - Get a waterfall and put it in the middle of an office. The sound of water is soothing and cancels out many conversations
 - Create separate rooms for meetings or conversations. This way people talking don't interrupt everyone else.
 - Introduce "library rules" where people shouldn't just speak in the common open office space.
-- Design "common spaces" in a more attractive way - like cafeteria or kitchen. This is where people should meet for a casual coffee or serendipitous conversation.
+- Design "common spaces" in a more attractive way - like cafeteria or kitchen. This is where people should meet for a casual coffee or serendipitous conversations.
 
-## How my wife rebelled against the "open office"
+## How one of my friends rebelled against the "open office"
 
-My Nozbe team works remotely so I'm completely alone in my home office but my wife works in a traditionally big office with more than two thousand workers. They had an expansion project and built an additional wing in their office and in this new wing they designed the whole office floor in an "open" way. My wife's team was spoiled. They were all used to having their own private offices and suddenly their bosses were telling them to move to this new environment.
+A friend of mine works in a traditionally big office with more than two thousand workers. They had an expansion project and built an additional wing in their office and in this new wing they designed the whole office floor in an "open" way.
+
+The problem was that my friend's team was spoiled. They were all used to having their own private offices. And their work requires that! They spend most of their workday analyzing and preparing long and complicated documents. Focused work is what they do. And now suddenly their bosses were telling them to move to this new "open" environment.
 
 They flat out refused.
 
-They just said "no way" to their bosses and because my wife's department is the core part of the organization that does the most lucrative part of work, they had the leverage.
+They just said "no way" to their bosses and because their department is the biggest revenue-generating part of the business, they had the leverage.
 
-After much debate and discussion their bosses caved. They left my wife's team alone and moved other people to the "open offices".
+After much debate and discussion their bosses caved. They left my friend's team alone and moved other people to the "open offices".
 
-## The one thing: guard your people's focused time!
+The sad part of this story is that the bosses didn't take the hint. If the most important department in the company doesn't want to work in an "open office", may it's not such a good idea in the first place?
+
+## One thing: guard your people's focused time!
 
 If work is not a place to go, but a thing that you do - make sure you and your colleagues really do it. As a manager do everything in your power to maximize your team members' focused time. As a colleague be mindful of other people's work. Let them finish. Let them find focus. Let them do their best work. And you do the same.
 

@@ -4,7 +4,7 @@ title: "Modern work is changing"
 subtitle: Embrace change of a more flexible, transparent and geographically dispersed work.
 ---
 
-This is 2020. Times are a-changing. Faster than we ever thought possible due to the COVID-19 outbreak. I've always wanted to write a book about successfully managing an all-remote team, but I've never had the time to do it. Now that almost everyone has been forced to go "work from home" and all teams are essentially "remote," I've ditched all the plans I had for this year and decided to finally let it all out.
+This is 2020. Times are a-changing. Faster than we ever thought possible due to the COVID-19 outbreak. I've always wanted to write a book about successfully managing an all-remote team, but I've never had the time to do it. Now that almost everyone has been forced to go "work from home" and all teams are essentially "remote", I've ditched all the plans I had for this year and decided to finally let it all out.
 
 This book is my guide to getting it all done from a distance. After more than 13 years of leading a team completely remotely and close to 20 years working from home myself, I believe I've got some experience to share, and I know people need this stuff now more than ever.
 

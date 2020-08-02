@@ -17,7 +17,7 @@ At Nozbe, I was a one-man-shop. I did the coding, the marketing and answering cu
 
 ## Meet Tom… or how I hired my first programmer 200km away…
 
-As I was living in Warsaw at the time, I thought of hiring someone local to help me with programming. I started looking for candidates and found quite a few that felt like a good fit - but the best one - Tom - wasn't from Warsaw. He was finishing his college degree in Toruń, which is 200 km away. And his home town is near Poznan, which is 300 km away from Warsaw. And he didn't want to move to Warsaw.
+As I was living in Warsaw at the time, I thought of hiring someone local to help me with programming. I started looking for candidates and found quite a few that felt like a good fit - but the best one - Tom - wasn't from Warsaw. He was finishing his college degree in Toruń, which is 200 km away. And his home town is near Poznań, which is 300 km away from Warsaw. And he didn't want to move to Warsaw.
 
 Initially, I was skeptical about all this. Can I really build a truly "virtual" team? Especially at such an early stage of my startup? Will I be able to hand in my entire code base to a person so far away? Will it ever work?
 
@@ -53,13 +53,13 @@ This was why Hubert started working with us… and why he's still enjoying worki
 
 I hired Magda as my assistant after she came recommended from a close friend. Initially Magda was very skeptical about this "no office" situation. She was from Warsaw and she was used to the whole "wake up, put make up and go to a big glass office" kind of thing. But she kept an open mind and decided to give it a try.
 
-After a few months she asked me: "Michael, can I move to France? It has forever been my dream to live in France and since we don't have an office anyway, this wouldn't really affect my work, right?"
+After a few months she asked me: *"Michael, can I move to France? It has forever been my dream to live in France and since we don't have an office anyway, this wouldn't really affect my work, right?"*
 
-I asked her back: "Do they have Internet in France?"
+I asked her back: *"Do they have Internet in France?"*
 
 We both laughed and that was it.
 
-She moved to France for two years and then she came back to Warsaw. Dream came true. Work was done. She's still with the company and I can't imagine working without her.
+She moved to France for two years and then she came back to Warsaw. Dream came true. Work was done. She's still with the company and I can't imagine working without her. Actually, she's my right-hand-woman helping me get this book written.
 
 This is where I discovered another benefit of a "No Office" company - you can keep the talented people even when they want to change their lifestyle dramatically. What happens when a team member wants to move? Typically, they'd have to quit. Magda changed a country of residence to France and back after two years. And she stayed with the same company.
 
@@ -69,16 +69,16 @@ And they get to do all that - because work for them is not a place to go - it's 
 
 ## Sometimes the only thing that's constant… is the job!
 
-Another of our team members is Luke, one of our customer support reps, who works only part time for Nozbe. Luke thrives on change. He's been living in 30 apartments by now. He's moved to different countries, he's been living in Poland, Belgium and the Netherlands. He hates boredom. He loves to shake things up.
+Another of our team members is Luke, one of our customer support reps, who works only part time for Nozbe. Luke thrives on change. He's been living in 30 apartments by now. Or more, I lost count. He's moved to different countries, he's been living in Poland, Belgium and the Netherlands. He hates boredom. He loves to shake things up.
 
-Yet the only thing that's constant in his life is his job at Nozbe. This job that goes with him and that he can perform (and he does it really well!) on his laptop from anywhere in the world. This one constant job that enables him his crazy almost catch-me-if-you-can kind of lifestyle. Recently on one of our one-on-one conversations he admitted to me: "Michael, everything changes in my life… except for my work at Nozbe".
+Yet the only thing that's constant in his life is his job at Nozbe. This job that goes with him and that he can perform (and he does it really well!) on his laptop from anywhere in the world. This one constant job that enables him his crazy almost catch-me-if-you-can kind of lifestyle. Recently on one of our one-on-one conversations he admitted to me: *"Michael, everything changes in my life… except for my work at Nozbe".*
 
 ## Can I grow the team like this forever?
 
-Now, that I have more than 20 people on my team (and we've had a team of this size for a number of years now), I can with full confidence say, that yes - you can grow a team without a central office. And there are much bigger teams than mine. There are companies twice or three times bigger than Nozbe with an all-remote workforce. There are even 1000+ people companies that don't have an office. We'll talk about them in more detail in the next chapters of this book.
+Now, that I have more than 20 people on my team (and we've had a team of this size for a number of years now), I can say with full confidence, that yes - you can grow a team without a central office. And there are much bigger teams than mine. There are companies twice or three times bigger than Nozbe with an all-remote workforce. There are even 1000+ people companies that don't have an office. We'll talk about them in more detail in the next chapters of this book.
 
-Back to Tom - my first hire is still with me. But he's not in college anymore. He lives back in his home town. With his wife and two boys. And he's the CTO of Nozbe. Over the 12 years with us he's life situation changed dramatically yet his job remained the same.
+Back to Tom - my first hire is still with me. But he's not in college anymore. He lives back in his home town. With his wife and two boys. And he's the CTO of Nozbe. Over 12 years with us he's life situation changed dramatically yet his job remained the same.
 
-## The one thing: Lifestyle can change while work stays the same.
+## One thing: Lifestyle can change while work stays the same.
 
-As a "no office" company you can not only hire the best person for a job, but you can do so much more - you can boost your team members' lifestyle. They get to choose where and how they live. When their situation changes, they graduate, they marry, they have kids, they move to a different location… and their work remains the only constant thing in their lives.
+As a "no office" company you can not only hire the best person for a job, but you can do so much more - you can boost your team members' lifestyle. They get to choose where and how they live. When their personal situation changes, they graduate, they marry, they have kids, they move to a different location… and their work remains the only constant thing in their lives.

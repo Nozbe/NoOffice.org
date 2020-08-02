@@ -38,7 +38,7 @@ Question - if you want to write someone about two different things, do you send 
 
 Here's a great story that illustrates it and recently happened to a friend of mine when he was on vacation.
 
-He received an angry phone call from a colleague, blaming him for overlooking some important information in a case they were working on. He was surprised he missed this as he has always been the person to leave stuff thoroughly finished before vacation. His team coordinates most of the things via email and only some stuff with an internal tool. He had no access to the tool from his phone, but he checked his emails... and then he saw what he missed. He was working with someone on two completely different cases and that other party sent him a message about one of the cases, but then "by the way" mentioned an important info about the other case as well in that same email. This other info is what he completely missed.
+He received an angry phone call from a colleague, blaming him for overlooking some important information in a case they were working on. He was surprised he missed this as he has always been the person to leave stuff thoroughly finished before vacation. His team coordinates most of the things via email and only some stuff with an internal tool. He had no access to the tool from his phone, but he checked his emails... and then he saw what he missed. He was working with someone on two completely different cases and that other party sent him a message about one of the cases, but then "by the way" mentioned an important info about the second case as well in that same email. This other info is what my friend completely missed.
 
 Third problem is the signal to noise ratio. To cover their bases, people in teams CC or BCC everyone or almost everyone. Just to make sure nobody's left out. This increases the number of emails exponentially and makes it more likely that people will just stop paying enough attention and things will really fall through the cracks!
 
@@ -54,19 +54,19 @@ The advantage of this approach is that by default, each comment thread is attach
 
 One task, one discussion. Simple and focused.
 
-At Nozbe we call it task-based communication[^1] and we're using our own tool Nozbe Teams for this. Again, there are many other tools on the market so every team should choose the one that suits them best. Just avoid email.
+At Nozbe we call it task-based communication[^1] and we're using our own tool Nozbe Teams for this. Again, there are many other tools on the market so every team should choose the one that suits them best[^2]. Just avoid email.
 
 Additional benefit is that by sharing projects and tasks we have more transparency. People see what's happening in each project, who's responsible for what. All is clear. We totally avoid all these issues of somebody not putting someone on copy. People can choose which projects or tasks they want to follow and which they can choose to ignore or review less frequently. They are in control.
 
 ## You can add real-time chat as an internal water cooler for "blah blah blah"
 
-What I like about task-based communication I just mentioned is the fact that it's asynchronous[^2], meaning you let the other party take time to respond to you. You just create a task, you add a thoughtful comment, you delegate it to someone, and you get on with your work, while you let the other party choose when they respond to your comment or do the task you assigned to them.
+What I like about task-based communication I just mentioned is the fact that it's asynchronous[^3], meaning you let the other party take time to respond to you. You just create a task, you add a thoughtful comment, you delegate it to someone, and you get on with your work, while you let the other party choose when they respond to your comment or do the task you assigned to them.
 
-This is healthy and this is how team collaboration should be done. Very rarely things are so urgent that people need an ASAP[^3] response. Things can wait and you should normally prefer to let people take their time to do what's asked of them or give you a really thorough feedback.
+This is healthy and this is how team collaboration should be done. Very rarely things are so urgent that people need an ASAP response. Things can wait and you should normally prefer to let people take their time to do what's asked of them or give you a really thorough feedback.
 
-However, sometimes you are in a hurry and you need some information quickly. We use our internal chat for this though an app called Slack.
+However, sometimes you are in a hurry and you need some information quickly. We use our internal chat for this though an app called Slack[^4].
 
-However, don't you try to exchange email for chat and only chat.
+However, don't you try to switch from email to chat and only chat.
 
 It's a trap. Many teams have tried and failed to use a chat app for collaboration instead of email, and while it's a good first step, things get to stressful too quickly. In a chat app, messages are being sent fast, information disappears and it's hard to keep up about who's responsible for what.
 
@@ -105,9 +105,10 @@ This is the reason I'm not sweating about my email correspondence all that much.
 
 To me, efficient communication with my team is the most important thing in the world so I'm glad I have it separated from anything else.
 
-Recommended reading for this chapter is "Under New Management" by David Burkus.[^4]
+Recommended reading for this chapter is "Under New Management" by David Burkus.[^5]
 
 [^1]: [What is task-based communication?](https://nozbe.com/blog/task-based-communication)
-[^2]: [Asynchronous communication as a top productivity booster](https://nozbe.com/blog/asynchronous/)
-[^3]: ASAP stands for As Soon As Possible - it's a culture of many teams that everything is urgent, which it usually isn't.
-[^4]: [Some Companies Are Banning Email and Getting More Done](https://hbr.org/2016/06/some-companies-are-banning-email-and-getting-more-done) was an article by David Burkus which just confirmed that I was onto something. Later he expanded this in his book: [Under New Management: How Leading Organizations Are Upending Business as Usual](https://davidburkus.com/books/under-new-management/)
+[^2]: We use and keep building [Nozbe Teams](https://nozbe.com/). Popular alternatives in this space include [Basecamp](https://basecamp), [Asana](https://asana.com) or [Trello](https://trello.com). All of these tools approach project and task management a little differently so make sure your team chooses a tool that fits the way they like to work.
+[^3]: [Asynchronous communication as a top productivity booster](https://nozbe.com/blog/asynchronous/)
+[^4]: We use [Slack for chatting](https://slack.com). Alternatives include [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software) or [Twist](https://twistapp.com).
+[^5]: [Some Companies Are Banning Email and Getting More Done](https://hbr.org/2016/06/some-companies-are-banning-email-and-getting-more-done) was an article by David Burkus which just confirmed that I was onto something. Later he expanded this in his book: [Under New Management: How Leading Organizations Are Upending Business as Usual](https://davidburkus.com/books/under-new-management/)

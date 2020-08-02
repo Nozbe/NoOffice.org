@@ -11,7 +11,7 @@ Now you know my story and how my dream of a "no office" lifestyle became a team 
 
 ## Do we really have to all live in a large city?
 
-The cities are growing. Even in a developed country like the USA, when you look at the top 20 most populated cities[^1], you can see that in the last decade all of the cities kept growing. Only Chicago grew by less than 1%, but some cities like Phoenix, San Antonio, Dallas, Austin or Seattle grew way in double digits, some more than 20%! Is this really necessary?
+The cities are growing. Even in a developed country like the USA, when you look at the top 20 most populated cities[^1], you can see that in the last decade all of them kept growing. Only Chicago grew by less than 1%, but some cities like Phoenix, San Antonio, Dallas, Austin or Seattle grew way in double digits, some more than 20%! Is this really necessary?
 
 I also read on Twitter the other day that in 15 years we'll have 50 mega-cities all over the world with more than 10M inhabitants each... why would we do that to ourselves?
 
@@ -29,13 +29,13 @@ Anyway, what my point is that you get stressed driving an hour to sit in front o
 
 That's the modern standard of knowledge work. But it doesn't have to be this way. In fact many talented people start seeing it and don't want to work this way. And now due to the Covid-19 situation the world has sped up the process.
 
-And hopefully with the advice in this book you will get much more of your productive time back, cut your meetings and make the ones that remain much much better.
+And hopefully with the advice in this book you will get much more of your productive time back, cut your meetings and make the ones that remain 10 times better.
 
 ## The office can be a great tool... if used wisely.
 
 Our company is very extreme, because we literally don't have an office. We have an official address, but nobody goes there. And there are many companies like ours. We're close to 30 people. Buffer, a social media company, is more than twice our size. Zapier, a software automation company, has more than 250 people on payroll. And there are companies like InVision, Automattic (makers of Wordpress) or GitLab that have more than a thousand people in a completely geographically dispersed team.
 
-Advice in this book applies not only to companies that are "all remote". Some companies need to go hybrid mode - a small office, a small production facility... and everyone else distributed. On one hand there are companies that already have offices in many cities... so they're already kinda "no office" or "no ONE office"... but on the other hand they hate the idea of letting their team members work remotely or even take a few days working from home.
+Advice in this book applies not only to companies that are "all remote". Some companies need to go hybrid mode - a small office, a small production facility... and everyone else distributed. On one hand there are companies that already have offices in many cities... so they're already kind of "no office" or "no ONE office"... but on the other hand they hate the idea of letting their team members work remotely or even take a few days working from home.
 
 Anyway, the truth of the matter is that any knowledge worker can work from literally anywhere. If you work with your brain, it really shouldn't matter where its geo coordinates are. There is no office - there is only work.
 
@@ -67,7 +67,7 @@ These are all valid concerns and needs.
 
 So please keep an open mind and we'll deal with all of them throughout this book, because even though something used to be done one way, doesn't mean it cannot be done differently and with better results.
 
-## It's not all cupcakes and rainbows...
+## It's not all cupcakes and rainbows, though...
 
 Yes, running a modern "no office" company has its own set of challenges. There are many questions and issues, like:
 
@@ -83,7 +83,7 @@ This book is trying to answer most of these questions, written from a perspectiv
 
 Yet we don't have all the answers and we do many things differently with a common goal of creating a great work environment and a thriving business.
 
-On one hand the recent pandemic of COVID-19 sped up the work on this book, but on the other I believe we've learned enough to be useful to other companies and businesses which are used to a more traditional way of doing things.
+On one hand the recent pandemic of COVID-19 sped up the work on this book, but on the other I believe we've learned enough for it to be useful to many businesses which are accustomed to a more traditional way of doing things.
 
 ## A modern book for modern times
 
@@ -104,11 +104,11 @@ This book is for you if you've come this far. :-)
 As the founder of a "no office" company and as an active part of the team who still works day in and day out and contributes to what we're doing, I'm addressing this book to both sides of the table:
 
 - **All business owners and managers** - who are open to not only embrace remote work but also modern techniques of effective working and team productivity.
-- **Employees and team members** who are experimenting with remote work or want to try it themselves and/or convince their employer to keep an open mind about it.
+- **Employees and team members** who are experimenting with remote work or want to try it themselves and convince their employer to keep an open mind about it.
 - **Everyone on your team** who just feels there's a better way to work but can't quite put their finger on it. I hope the next chapters will inspire you to try new way of doing things and find your solution that takes your team to a whole new level.
 
-## The one thing: an office is just a tool!
+## One thing: an office is just a tool!
 
-Remember that office is not a requirement for work, it's just a tool that you can bend any way you want, because what’s really required is the work that you need to do.
+Remember that office is not a requirement for work, it's just a tool that you can bend any way you want, because what’s really required is the work that needs to get done.
 
 [^1]: [Top 20 most populated cities in the USA on Wikipedia](https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population)

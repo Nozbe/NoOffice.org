@@ -1,6 +1,6 @@
 ---
 part: one
-title: Meetings are optional
+title: Make meetings optional
 subtitle: "Change your approach to meetings completely and stop wasting everyone's time"
 ---
 
@@ -9,7 +9,7 @@ subtitle: "Change your approach to meetings completely and stop wasting everyone
 
 ## Meetings are so easy, so useful, so tempting...
 
-One of the major problems for most of the companies hit by the Covid-19 pandemic was the way they did meetings. They thought that because now everyone had access to video-conferencing software, they could just replicate the same dynamic they had in the office. Keep organizing meetings.
+One of the major problems for most of the companies hit by the Covid-19 pandemic was the way they did meetings. They thought that because now everyone had access to video-conferencing software, they could just replicate the same dynamic they had in the office. They just kept organizing meetings.
 
 I get it, it's tempting. When you're all in one office, you've got this all too easy. After all, everyone's around and there's a hole in everyone's calendar, let's fill it up with yet another meeting, right?
 
@@ -19,7 +19,7 @@ I mean, meetings have so many benefits:
 - As a meeting organizer you've got this unique opportunity to delegate responsibility to the group and be off the hook for making an incorrect decision. It works every time - don't know what to decide? Organize a meeting!
 - Meetings are a solution to all common team problems. No ideas? No direction? No strategy? Let's organize a brainstorming session! Additionally this is so good for team spirit, right?
 
-And on top of that, organizing a meeting is so easy - just check out team calendar, and whenever there's an empty space, fill it with a meeting. Make sure to invite everyone you can! Don't forget anyone, or they'll feel offended! After all, the more the merrier, right?
+And on top of that, make sure to invite everyone you can! Don't forget anyone, or they'll feel offended! After all, the more the merrier, right?
 
 Nope.
 
@@ -63,9 +63,9 @@ Now, despite these meetings being "set in stone" every week, each of them is...
 
 ## Meetings are optional
 
-That's right. Meetings should be completely optional. If we don't have topics to discuss or just feel like we're just too busy this week and the topics can wait, we cancel the meeting. If someone cannot come to the meeting, they just let us know and don't show up and nobody gets offended.
+That's right. Meetings should be completely optional. If we don't have topics to discuss or just feel like we're just too busy this week and the topics can wait, we cancel the meeting. If someone cannot come to the meeting, they just let others know and don't show up and nobody gets offended.
 
-Whenever we cancel the meeting, we almost never re-schedule it. We just cancel this week's meeting and we meet next time same time next week. That's it. Makes everything very easy.
+Whenever we cancel a meeting, we almost never re-schedule it. We just cancel this week's meeting and we meet next time same time next week. That's it. Makes everything very easy.
 
 ## Meetings are well prepared
 
@@ -85,11 +85,11 @@ But for this to work...
 
 > Everyone has to do their homework. Everyone assisting the meeting has to read and digest the documentation prepared before the meeting.
 
-Famously Jeff Bezos before each meeting is doing something similar.[^2] Before they start talking, everyone reads the documentation in complete silence and only when everyone has read it, they start to discuss topics.
+Famously Jeff Bezos before each meeting is doing something similar.[^2] Before they start talking, everyone reads the documentation in complete silence and only once everyone has read it, they start to discuss topics.
 
-It's a good first step, but we take it to a whole new level. I need more time to form an opinion, so I prefer to read the documentation a few hours before the meeting to really think things through.
+It's a good first step, but we take it to a whole new level. I personally need more time to form an opinion, so I prefer to read the documentation a few hours before the meeting to really think things through.
 
-As discussed in Chapter 5 about writing stuff down, we use a collaborative documentation app so we can comment on each and every paragraph of a written text. This way very often there's a "meeting before the meeting" where we exchange comments about certain parts of the documentation hours before the meeting. This makes our real-time meeting so much more efficient. We've already argued the main points in the comments by then, so let's focus on the last bits now that we're all live in the same virtual room.
+As discussed in Chapter 5 about writing stuff down, we use a collaborative documentation app so we can comment on each and every paragraph of a written text. This way very often there's a "meeting before the meeting" where we exchange comments about certain parts of the documentation hours before the meeting. This makes our real-time meeting so much more efficient. We've already argued the main points in the comments by then, so once the meeting starts we focus on the last bits now that we're all live in the same virtual room.
 
 Of course for that to happen, the documentation has to be prepared in advance. Our rule of thumb is that the topics must be written up until the evening the day before the meeting.
 
@@ -103,9 +103,9 @@ Sometimes we do a "brainstorming moment" on one of our meetings, but we limit th
 
 We don't do status meetings. Why would we? As I described in chapter 6 about banning email, we communicate in projects and tasks, so to learn a status of a project or task we just need to check our system. There's no need for a verbal status update.
 
-However, as we're an all-remote company, I want to make sure we don't get lonely. When you don't go to an office, don't meet your team members every day, it might get lonely. That's why we have our directors, developers, support and marketing meetings. These might not have many agenda items but usually happen anyway so that we can just see each other, say hi, share a little what we're working on this week... and just re-connect with our team members.
+However, as we're an all-remote company, I want to make sure we don't feel alone. When you don't go to an office, don't meet your team members every day, it might get lonely. That's why we have our directors, developers, support and marketing meetings. These might not have many agenda items but usually happen anyway so that we can just see each other, say hi, share a little what we're working on this week... and just re-connect with our team members.
 
-These meetings have the "hang out" part, where we just hang out together and the "agenda" part where we discuss certain topics. However, if there are not many topics to discuss, we respect each other's time and we just cut the meeting short. That's why above I mentioned all the meetings with "up to" times. If this week we've got only 1 hour of things to discuss, we don't extend the meeting, we cut it short and get back to our work.
+These meetings have the "hang out" part, where we just hang out together and the "agenda" part where we discuss certain topics. However, if there are not many topics to discuss, we respect each other's time and we just cut the meeting short. That's why above I mentioned all the meetings with "up to" times. If one week we've got only 1 hour of things to discuss, we don't extend the meeting, we cut it short and get back to our work.
 
 We try to avoid having longer meetings than 2 hours. It's a magic threshold. After that we're just too tired to discuss anything. The good thing about having regular weekly meetings is the fact that very rarely we've got so many topics that extending a meeting beyond 2 hours is warranted... and after all, we can always get back to things next week. So no stress.
 
@@ -117,7 +117,7 @@ Steve Jobs[^3] famously before each meeting looked around the conference room an
 
 We try to find the people who give the most insight for each meeting and sometimes important people on our team don't participate in some of our important meetings, because we'd prefer they used their time in a better way.
 
-For example, our CTO doesn't participate in Tuesday's Design meeting. But we still have his contribution, because he reads each meeting's agenda and the associated documents so gives us his feedback before each meeting. Actually that's where we ask many of our team members about their feedback.
+For example, our CTO doesn't participate in Tuesday's Design meeting. But we still have his contribution, because he reads each meeting's agenda and the associated documents so gives us his feedback in comments before each meeting. Actually that's where we ask many of our team members about their feedback.
 
 Again, that's why publishing agenda documents before a meeting is so useful. Everyone on the team can contribute with their comments, even if they later don't participate in a meeting in person.
 
@@ -136,7 +136,6 @@ I keep repeating myself, but as noted in Chapter 4 - write stuff down! Especiall
 Avoid impromptu meetings, make meetings regular, no longer than 2 hours, no more people than enough and always written up with agenda items before and with actionable items or conclusions written right after. That's the only way for your team members to feel in control of their calendar and plan their time around meetings and longer stretches of focused work.
 
 For further reading on the subject of meetings I recommend the book: "Read This Before Our Next Meeting" by Al Pittampali[^4].
-
 
 [^1]: We use [Zoom](https://zoom.us) app and we have set up a different virtual room ID for each meeting. We can click on a link from the calendar entry to go to that room. Easy.
 [^2]: [Jeff Bezos Knows How to Run a Meeting. Here's How He Does It. On Inc.](https://www.inc.com/justin-bariso/jeff-bezos-knows-how-to-run-a-meeting-here-are-his-three-simple-rules.html)

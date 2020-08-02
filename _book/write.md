@@ -1,6 +1,6 @@
 ---
 part: one
-title: Write stuff down!
+title: Write stuff down
 subtitle: "Create a culture of a written word and don't depend on he-says-she-says"
 ---
 
@@ -55,7 +55,7 @@ You should have a system and a trusted place for each of these things. You shoul
 
 Someone mentioned an event? Put it in your calendar now. Don't rely on you remembering later to put it in. Make a habit of writing stuff down the minute things come. 
 
-Especially with today's smartphone, adding events to digital calendar, dictating notes, sending voice messages to people, it's all very easy and quick these days.
+Especially with today's smartphones, adding events to digital calendar, dictating notes, sending voice messages to people, it's all very easy and quick these days.
 
 ## Create a team culture of writing stuff down!
 
@@ -67,7 +67,7 @@ You want someone to do something for you, ask them in a written form. Yes, you c
 
 It became a habit in our team. You're like: "can you do this for me? I need this and that..." and the other person would be like: "Sure, just task me with that!".
 
-This way you're have to think it through, create a task for this person in appropriate project, maybe even add a comment to explain in detail what you're after... or add additional documents as reference material.
+This way you have to think it through, create a task for this person in appropriate project, maybe even add a comment to explain in detail what you're after... or add additional documents as reference material.
 
 And that's good. This way there's no ambiguity about what you want, and if there is, they can comment back to you to ask for additional info.
 
@@ -79,7 +79,7 @@ This way people don't get confused. You can just tell them: "I've written this u
 
 And when you're not around, like on vacation or something, people don't have to bother you with messages. They'll find stuff on their own. Because they know where this or that kind of stuff usually is.
 
-### Recurring subjects or guidelines - write them up and refer people to them!
+### Recurring topics or guidelines - write them up and refer people to them!
 
 How often people want to talk to you about something you've already discussed in the past? If you're like me, far too many times!
 
@@ -87,7 +87,7 @@ That's why if there's a recurring thing, a recurring issue, just take your time 
 
 Next time they want to talk to you? Tell them to read it first! Or how we geeks say it: RTFM![^5].
 
-### Internally use app that let you comment on stuff.
+### Internally use an app that let you comment on stuff.
 
 Written comments are key. Now in 2020 there's no excuse for not using modern apps that let you comment on everything. I've already mentioned that in our internal productivity system "Nozbe Teams"[^6] we add comments to tasks all the time.
 
@@ -118,14 +118,14 @@ The benefits are so worth it!
 * **Stuff can be referred to later** - you can always refer back to it, link to it maybe even... if it's written down it can be brought back easily.
 * **More transparency** - people know what's going on, they don't feel left out of the conversation. It's easier for them to catch up.
 * **Not everyone has to attend all the meetings** - you can reduce number of people on meetings. People will still know what happened. Not all of them have to be there, right?
-* **Better feedback** - as people post comments, they can take the time to write a thoughtful comment.
+* **Better feedback** - as people post comments, they can take the time to write a thoughtful response.
 * **Less chaos, no stress, better productivity** - when you know what's going on, where stuff is, you can focus on your next task at hand. And your mind will not play tricks on you or anyone else on your team!
 
-## The one thing: cultivate a habit of writing stuff down!
+## One thing: cultivate a habit of writing stuff down!
 
 Start with yourself. Write stuff down. Foster it in the team and create a culture of a written feedback. When it’s all written down, it can be accessed later, it can be linked to, referred to, it can be improved.
 
-To learn more about the basics of productivity, I recommend David's book "Getting Things Done"[^1] and my own personal productivity book "10 Steps to Maximum Productivity"[^10]
+To learn more about the basics of productivity, I recommend David Allen's book "Getting Things Done"[^1] and my own personal productivity book "10 Steps to Maximum Productivity"[^10]
 
 
 [^1]: ["Getting Things Done. The Art of Stress-free Productivity"]() by [David Allen](https://sliwinski.com/david-allen-on-getting-things-done-in-2011-in/)
