@@ -128,7 +128,7 @@ Start with yourself. Write stuff down. Foster it in the team and create a cultur
 To learn more about the basics of productivity, I recommend David Allen's book "Getting Things Done"[^1] and my own personal productivity book "10 Steps to Maximum Productivity"[^10]
 
 
-[^1]: ["Getting Things Done. The Art of Stress-free Productivity"]() by [David Allen](https://sliwinski.com/david-allen-on-getting-things-done-in-2011-in/)
+[^1]: ["Getting Things Done. The Art of Stress-free Productivity"](https://gettingthingsdone.com) by [David Allen](https://sliwinski.com/david-allen-on-getting-things-done-in-2011-in/)
 [^2]: [This interview with me from 2013](https://sliwinski.com/interview/) explains very well the beginnings of founding [Nozbe](https://nozbe.com/)
 [^3]: [Here's our concept of task-based communication](https://nozbe.com/blog/task-based-communication/) and here's how [I explain it on video](https://nozbe.com/blog/michaels-team-productivity-task-based-communication-video/)
 [^4]: Marie Kondo is the author of international best-seller: [The Life-Changing Magic of Tidying Up](https://sliwinski.com/kondo/)

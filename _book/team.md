@@ -7,7 +7,7 @@ subtitle: "Can you build a - No Office - team?"
 * TOC
 {:toc}
 
-As I mentioned in the previous chapter - I built Nozbe because I started being disorganized. I read the book by David Allen “Getting Things Done - the art of stress-free productivity” which inspired me to make an app that would help me work better.
+As I mentioned in the previous chapter - I built Nozbe because I started being disorganized. I read the book by David Allen “Getting Things Done - the art of stress-free productivity”[^1] which inspired me to make an app that would help me work better.
 
 When I developed an early prototype, I didn’t know if anyone apart from me would actually want it, however, after just announcing it to a group of productivity-aficionados, Nozbe user base exploded to 5,000 users after just 3 months.
 
@@ -80,3 +80,5 @@ Back to Tom - my first hire is still with me. But he's not in college anymore. H
 ## One thing: Lifestyle can change while work stays the same.
 
 As a "no office" company you can not only hire the best person for a job, but you can do so much more - you can boost your team members' lifestyle. They get to choose where and how they live. When their personal situation changes, they graduate, they marry, they have kids, they move to a different location… and their work remains the only constant thing in their lives.
+
+[^1]: ["Getting Things Done. The Art of Stress-free Productivity"](https://gettingthingsdone.com) by [David Allen](https://sliwinski.com/david-allen-on-getting-things-done-in-2011-in/)
