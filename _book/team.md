@@ -7,13 +7,11 @@ subtitle: "Can you build a - No Office - team?"
 * TOC
 {:toc}
 
-As I mentioned in the previous chapter - I built Nozbe because I started being disorganized. I read the book by David Allen "Getting Things Done - the art of stress-free productivity" which inspired me to build an app that would help me work better.
+As I mentioned in the previous chapter - I built Nozbe because I started being disorganized. I read the book by David Allen “Getting Things Done - the art of stress-free productivity” which inspired me to make an app that would help me work better.
 
-I built an early prototype when I was still living in Bruxelles, Belgium and then kept improving it only to launch it in February 2007 when I already moved with my wife to Warsaw, Poland. I initially didn't know if anyone would want it.
+When I developed an early prototype, I didn’t know if anyone apart from me would actually want it, however, after just announcing it to a group of productivity-aficionados, Nozbe user base exploded to 5,000 users after just 3 months.
 
-However, after just announcing it to a group of productivity-aficionados I met on the Internet, Nozbe user base exploded to 5,000 users after just 3 months. It was still my side project, but after a year it started brining in more revenue than my "day job" of an Internet Marketing consultant. And it brought me significantly more joy. So I took it full time and started slowly getting out of consulting gigs.
-
-At Nozbe, I was a one-man-shop. I did the coding, the marketing and answering customer support emails. And while I loved each part of it, I quickly realized that I needed a better programmer than myself if I wanted to really take Nozbe to a whole new level.
+As the Nozbe project grew, I was still a one-man-shop. I did the coding, marketing, and answering customer support emails. And while I loved each part of it, I quickly realized that I needed a better programmer than myself if I wanted to really take Nozbe to a whole new level.
 
 ## Meet Tom… or how I hired my first programmer 200km away…
 
