@@ -54,3 +54,43 @@ subtitle: "How we make decisions in a more deliberate way. Our decision-making p
 	- It’s a good idea for a decision to take time - we tend to take too many rushed decisions
 
 	- Further reading?
+
+
+Additional notes from previous chapters:
+
+
+- Shape up - fall in love with the problem - not solution
+
+- Design Fight
+
+	- Only 5 people are part of the group
+
+		- People chosen deliberately
+
+		- When a new person wants to join - with their proposal - only they can join
+
+		- We speak freely, sometimes we really fight and get angry
+
+		- That’s OK
+
+	- We follow process
+
+		- Proposals for Monday evening
+
+			- Written according to Shape up template
+
+		- Topics written up as tasks in Nozbe Teams
+
+			- Section in Nozbe Design project
+
+			- Design channel on Slack
+
+			- All transparent, we welcome feedback from entire team
+
+		- Asynchronous Tuesday comments
+
+		- Tuesday meeting, if necessary
+
+		- After meeting notes
+
+		- Tasks updated
