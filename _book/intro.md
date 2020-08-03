@@ -4,13 +4,13 @@ title: "Modern work is changing"
 subtitle: Embrace change of a more flexible, transparent and geographically dispersed work.
 ---
 
-This is 2020. Times are a-changing. Faster than we ever thought possible due to the COVID-19 outbreak. I've always wanted to write a book about successfully managing an all-remote team, but I've never had the time to do it. Now that almost everyone has been forced to go "work from home" and all teams are essentially "remote", I've ditched all the plans I had for this year and decided to finally let it all out.
+Most of the knowledge workers worldwide waste two hours a day on average to commute to the office… to do the work they could easily do from their homes. Are you one of them? Isn't it ridiculous that with all the technology available, companies still force people to come to the office every single day just to work in front of the computer and attend meetings? It's not the office that gets the work done. It's people. And to act effectively, they usually need long stretches of "focused time," also called "the flow", and not fancy, open-space, loft-like-designed offices. In many cases, an equation between the two: work = office is painfully false.
 
 This book is my guide to getting it all done from a distance. After more than 13 years of leading a team completely remotely and close to 20 years working from home myself, I believe I've got some experience to share, and I know people need this stuff now more than ever.
 
 Additionally, I'm a productivity fanatic. After all, I'm building Nozbe and Nozbe Teams - apps that help people and teams get awesome things done. Even (or especially) when these people are not sharing the same geographical space.
 
-Virus or not - the times are really changing. We've got a super advanced technology. We've got a new generation of people who get this technology. We've got the goods.
+Coronavirus spread or not - the times are really changing. We've got a super advanced technology. We've got a new generation of people who get this technology. We've got the goods.
 
 Now, all we need is to ditch the idea of a physical office being a requirement for businesses rather than a tool. Only this way we can get people to work the way they want and choose a lifestyle they desire.
 
