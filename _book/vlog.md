@@ -71,7 +71,7 @@ People watch the vlog, react with reactions and if they have questions, they pos
 
 I'm not the only "internal vlogger" on the team now. Rafal, our VP of Product is doing a "Product vlog" almost every week where he explains new features we just added to our products. Again, a video clip is much better than a blog post with lots of screenshots. This way people know what we've just shipped, what our customers can be expecting and where we are in development cycle.
 
-## Benefits of vlogging vs "all-hands meeting".
+## Benefits of vlogging vs "all-hands meeting"
 
 I've been vlogging regularly to my team for the last 2 years now and I can see that people really like this form of getting updates from me:
 
@@ -81,13 +81,13 @@ I've been vlogging regularly to my team for the last 2 years now and I can see t
 * Better questions - just as we discussed in previous chapters, when people watch the vlog, they can take their time to post a thoughtful comment or ask a good question. You don't force them to come up with a brilliant thought right there on the spot.
 * Vlog archive - the vlogs are being archived so if a new person joins the team, part of their onboarding process is to watch at least last 5 vlogs of mine, to get a feeling of what's going on in the team.
 
-## What's the right vlogging frequency? You choose!
+## Choose your own vlogging frequency
 
-It all depends on what's going on with your team. To keep things in check, I try to vlog to the entire team at least once a month. Sometimes twice a month. Rarely more often.
+You choose how often you vlog. It all depends on what's going on with your team. To keep things in check, I try to vlog to the entire team at least once a month. Sometimes twice a month. Rarely more often.
 
 As we ship our app Nozbe Teams weekly, our VP of Product vlogs weekly as well, to make sure the team is up to date on the state of our app.
 
-## What I vlog about?
+## Topics I vlog about
 
 Basically I vlog about anything I'd love for my team members to know. So that we're on the same page. I try to find a balance of all the things that happened since my last vlog:
 
@@ -102,6 +102,6 @@ Basically I vlog about anything I'd love for my team members to know. So that we
 
 As you can see from this chapter and from the previous ones, meetings can be avoided or exchanged for something much better. A wasteful all-hands meeting can become a regular short video message that keeps everyone in the loop. With today's technology anyone can become a vlogger by just talking to the front-facing camera on a smartphone. Try it with your team.
 
-[^1]: I use [MindNode app]() for mind mapping on my iPad. Another good choice is [iThoughts]().
-[^2]: Sometimes I do write exactly a message I want to say, and for this I use the [Teleprompter app]() so that I can look at the iPad camera and read the teleprompter messages all on one device.
-[^3]: Recently I switched to the brilliant [Luma Fusion app]() which is now my go-to video editing app on the iPad.
+[^1]: I use [MindNode app](https://mindnode.com) for mind mapping on my iPad. Another good choice is [iThoughts](https://www.toketaware.com/ithoughts-ios).
+[^2]: Sometimes I do write exactly a message I want to say, and for this I use the [Video Teleprompter app](https://videoteleprompter.com) so that I can look at the iPad camera and read the teleprompter messages all on one device.
+[^3]: Recently I switched to the brilliant [Luma Fusion app](https://luma-touch.com/lumafusion-for-ios-2/) which is now my go-to video editing app on the iPad.
