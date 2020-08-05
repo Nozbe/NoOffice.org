@@ -1,7 +1,7 @@
 ---
 part: one
 title: Find focus at work
-subtitle: All everyone needs is love... and much more focused time to get stuff done.
+subtitle: All everyone needs is love… and much more focused time to get stuff done.
 ---
 
 * TOC
@@ -17,21 +17,19 @@ But how do you want them to do that, if they're interrupted all the time?
 
 > It's not that people don't have enough time. They don't have enough focused time.
 
-People who work as knowledge workers are there to use their head, their mind, their professional expertise - to deliver great work.
+People who work as knowledge workers are there to use their brains, their professional expertise - to deliver great work.
 
-Yet they are doomed to fail, if they’re stuck in meetings, bombarded with emails and notifications or interrupted by fellow colleagues "for just a minute".
+Yet they are doomed to fail, if they’re stuck in meetings, bombarded with emails and notifications or interrupted by fellow colleagues "for just a minute."
 
-What's worse is that many managers aren't helping them at all! They invent status meetings without agenda and come up with all the creative ways of getting people's attention, instead of protecting their people's time.
-
-They should be shielding them and helping them find focus. That's their job.
+What's worse is that many managers aren't helping them at all! They invent status meetings without agenda and come up with all the creative ways of getting people's attention. While they should be shielding them and helping them find focus. That's their job!
 
 ## How to find and protect focus at work?
 
-As a manager, make it a primary goal for you - to protect your people and give them long stretches of time of uninterrupted work. Here are a few ideas:
+As a manager, make it a primary goal for you - to give your people long stretches of time of uninterrupted work. Here are a few ideas:
 
 ### Question each meeting or one-on-one session
 
-We'll deal with meetings later in this book in more detail, but I already want so start priming you on what's to come. Question every meeting. Before you want to call a meeting or add it to someone's calendar, make sure it's really necessary. If you just want to make a point, maybe it's enough to write it up and send to them? Why does it have to be a meeting when it's enough for it to just be a message?
+We'll deal with meetings later in this book, but I already want to prime you on what's to come. Before you want to call a meeting or add it to someone's calendar, make sure it's really necessary. If you just want to make a point, maybe it's enough to write it up and send to them? Why does it have to be a meeting when it's enough for it to just be a message?
 
 ### Ask for permission to talk
 
@@ -41,17 +39,17 @@ If you really need to talk to someone, don't just walk over to them to chat. Sen
 
 Swiss cheese is known for big holes in it. They're proud of it. The bigger the holes, the better the cheese.
 
-Make sure your team's calendar has big holes between the meetings. Give people breathing room to do something meaningful between the meetings. Don't do "back-to-back meetings". Don't be that person. Or worse yet, don't force your team do the same.
+Make sure your team's calendar has big holes between the meetings. Give people breathing room to do something meaningful. Don't do "back-to-back meetings". Don't be that person. Or worse yet, don't force your team to do the same.
 
 Cut people some slack, but letting slack in. Give your colleagues an opportunity to contribute something valuable to their workday before they get swamped in another meeting.
 
 > Meaningful work first, meetings second.
 
-### Create a focused environment.
+### Create a focused environment
 
 If you have an impact on the office layout, make sure people don't sit too close to one another. Disable unnecessary notifications and create a culture where ASAP (As Soon As Possible) is not the default feedback requirement. Almost nothing requires immediate reaction. Don't demand it from others and don't contribute to that plague.
 
-Set expectations and communicate them clearly. At Nozbe when you're done with your part of your work, you communicate this in a comment to the task and if necessary delegate it to someone else. Then you choose another task to work on as you know that the other person will get back to you when they'll finish what they were currently doing. It's OK to wait a few minutes.
+Set expectations and communicate them clearly. At Nozbe, when you're done with your part of your work, you communicate this in a comment to the task and if necessary delegate it to someone else. Then you choose another task to work on as you know that the other person will get back to you when they finish what they were currently doing. It's OK to wait a few minutes.
 
 Don't be the ASAP person and don't demand it from everyone around. It's toxic. It doesn't promote great work. It promotes stress.
 
@@ -59,9 +57,9 @@ Don't be the ASAP person and don't demand it from everyone around. It's toxic. I
 
 ## "Open" offices suck focus out of the room like a vacuum cleaner
 
-The new definition of a modern workspace is the "open floor" office. Where everyone sits next to each other. No walls. No barriers. No private space. Everyone's sitting together.
+The new definition of a modern workspace is the "open floor" office. Where everyone sits next to each other. No walls. No barriers. No private space.
 
-Many managers and bosses love this concept. They say that the ideas are flowing like airwaves between people and creativity is skyrocketing as everyone can so easily exchange ideas and have serendipitous conversations.
+Many managers and bosses love this concept. They say that the ideas are flowing like airwaves between people and creativity is skyrocketing as everyone can have serendipitous conversations.
 
 The whole Silicon Valley is all in on such offices. Facebook has supposedly built the largest "open office" in the world with the help of a very fancy architect firm. Apple has built a spaceship office with lots of open floors. If Apple and Facebook and all of Silicon Valley is doing it, it must be great, right?
 
@@ -71,9 +69,9 @@ Also, ask bosses at these companies why they have private offices and don't work
 
 > It's a typical "do as I say, don't do as I do" moment. "Open" office layout doesn't let people focus on their work but it lets their bosses see what's going on and do "management by looking around".
 
-Now ask anyone how much they like working in such an office. People hate open offices. They struggle to find focus there. They can't concentrate. They can't get any meaningful work done. They bend over backwards to really make this work!
+Now ask anyone how much they like working in such an office. People hate open offices. They struggle to find focus there. They can't get any meaningful work done. They bend over backwards to really make this work!
 
-The bosses say it's all about "random chat", "collaboration", "serendipity", "casual exchange of ideas"... and that's great, but even if you do get a great idea like this, then when in the hell would you find the time and focus to write it up? To prepare it? To look at it from all angles in peace? To really dive in and analyze it? Well, not here...
+The bosses say it's all about "random chat", "collaboration", "serendipity", "casual exchange of ideas"… and that's great, but even if you do get a great idea like this, then when in the hell would you find the time and focus to write it up? To prepare it? To look at it from all angles and analyze it in peace? Well, not here…
 
 ### The reality of "open offices"
 
@@ -87,7 +85,7 @@ If you want people in your office to work efficiently and with maximum focus, av
 2) When in doubt about whether to go with a more "open office design", see point 1.
 3) If you really have to go "open office" for some reason, you'll find a few guidelines below.
 
-### Guidelines for offices focused on... focus at work.
+### Guidelines for offices focused on… focus at work.
 
 When designing your office:
 
@@ -110,11 +108,11 @@ They just said "no way" to their bosses and because their department is the bigg
 
 After much debate and discussion their bosses caved. They left my friend's team alone and moved other people to the "open offices".
 
-The sad part of this story is that the bosses didn't take the hint. If the most important department in the company doesn't want to work in an "open office", may it's not such a good idea in the first place?
+The sad part of this story is that the bosses didn't take the hint. If the most important department in the company doesn't want to work in an "open office", maybe it's not such a good idea in the first place?
 
 ## One thing: guard your people's focused time!
 
-If work is not a place to go, but a thing that you do - make sure you and your colleagues really do it. As a manager do everything in your power to maximize your team members' focused time. As a colleague be mindful of other people's work. Let them finish. Let them find focus. Let them do their best work. And you do the same.
+If work is not a place to go, but a thing you do - make sure you and your colleagues really do it. As a manager do everything in your power to maximize your team members' focused time. As a colleague be mindful of other people's work. Let them finish. Let them find focus. Let them do their best work. And you do the same.
 
 To learn more about focused work and how to find focus at work, I recommend Cal Newport's excellent book: "Deep Work"[^3]
 
