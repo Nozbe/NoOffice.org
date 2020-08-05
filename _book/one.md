@@ -25,11 +25,11 @@ Over many years of talking to other businesses and improving our work in Nozbe's
 2. **Open workspace** - most office spaces are very "open", so people working there have trouble finding focus to do the work. There are just too many audio and visual distractions all the time!
 3. **It's all in the office, only!** - the physical space of an office creates this artificial limit of work and forces the organization to depend on the office (papers, documents, meetings, whiteboards...). This makes doing work much harder or virtually impossible outside of it.
 
-In this section of the book I'll be tackling all these problems and much more. I'll try to show you how on one hand, the office which you currently have can be used much better for the work that you do, and on the other, how you can make that work less dependable on the physical constraints of an office. Ultimately, you know very well that *"work is not a place to go, it's a thing that you do".*
+In this section of the book, I'll be tackling all these problems. I'll try to show you how on one hand, the office which you currently have can be used much better for the work that you do, and on the other, how you can make that work less dependable on the physical constraints of an office. Ultimately, you know very well that *"work is not a place to go, it's a thing that you do".*
 
-## The office does not a business make
+## The office does not make a business 
 
-A business doesn't exist because of the office... but because of a need to do something. To provide the world with some additional value.
+A business doesn't exist because of the office… but because of a need to do something. To provide the world with some additional value.
 
 That’s why it's time to start questioning why you really might need an office, and if so, how should it look like or work to give you the best results?
 
