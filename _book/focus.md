@@ -81,9 +81,9 @@ This is really bad. And the worst thing about it is that the myth of an open off
 
 If you want people in your office to work efficiently and with maximum focus, avoid "open offices" like a plague.
 
-1) Don't design your office in an open way.
-2) When in doubt about whether to go with a more "open office design", see point 1.
-3) If you really have to go "open office" for some reason, you'll find a few guidelines below.
+1. Don't design your office in an open way.
+2. When in doubt about whether to go with a more "open office design", see point 1.
+3. If you really have to go "open office" for some reason, you'll find a few guidelines below.
 
 ### Guidelines for offices focused on… focus at work.
 
