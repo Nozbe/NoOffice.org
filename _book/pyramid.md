@@ -1,80 +1,103 @@
 ---
 part: one
-title: Pyramid of Communication
-subtitle: "Discover a new and more effective way to communicate in a team"
+title: Turn the work upside down
+subtitle: "How we discovered the 'Pyramid of Communication' that helps us work better as a team"
 ---
 
 * TOC
 {:toc}
 
-### Discover a pyramid of communication
+## Tradition is overrated
 
-- Concept we figured out at Nozbe
+When people start working together as a team or a business, they initially have no clue how to coordinate things. They figure out everything as they go, usually by blindly copying other businesses around them. Other businesses have offices? OK, let's get an office ourselves. They have many meetings with fancy names like "all-hands", "status", "kick-off", "wrap-up"... let's just do the same. It must work, right? And then many of these business practices become a tradition. And that's the problem:
 
-	- Apps we use for each part
+> People tend to value "tradition" too much. They say that because *they've been doing it this way for a long time, so it must be good*. But is it really?
 
-- Focused time
+Maybe it was good then. But is it good now? Why not revisit the tradition and check again?
 
-- Feedback loops
+When I started hiring people, I was completely clueless about running a company so I was looking up to other businesses, too. However, as from the very beginning I wanted to be free from a physical office, which eventually put me on a path of questioning every other "traditional business practice" there is. And I quickly realized most of them need to be turned completely upside down!
 
-	- Comments!
+## Traditional teamwork starts with meetings
 
-- Chat when quick back and forth
+As we discussed in Chapter 7, traditionally people are used do doing lots of meetings in order to get anything done together. That's why many offices have an "open floor plan", because this just makes meeting easier. You can just gather people around in a spur of a moment and talk things through. Effective, right?
 
-- Talk to someone
+And in between the official project meetings and the unofficial impromptu chats, people try to squeeze in the time to do the actual work. Which often results in late evenings, overtime work and frustration of not being able to get any meaningful work done during the regular office hours. This is not effective. This should be the the other way round.
 
-- Meetings
+## Let's put the actual work first
 
-- Why it’s a pyramid and how it should be done
+As explained in the chapter 4, at Nozbe we value focused work most. After all, we hired people to our team to do the actual work, not to just be there for meetings and chats. This is why we protect our time and our team members' time to give them space to do the actual work they were supposed to do.
 
-- One thing:
+You should spend most of our time doing focused work. This is your level 1 work. At this level you communicate through the work that you do.
 
-	- To get the collaboration right, people need solitary time and good feedback loops
+Depending on your role in the company, you should have time to write, to draw, to outline, to mind map, to do research... and then you write it all up in documents, project or tasks so that others can see your work and help you get it done. Because once you've done your chunk of focused work, it's time for level 2.
 
-	- This is where conclusions from previous chapters join - fight for team focus and avoid team meetings and - reduce signal vs noise ratio
+## Let's give and get feedback
 
-	- Further reading
+It doesn't mean it's time for a meeting now. No way. Most of the feedback we give and get is asynchronous. This means, you've done your work, you send it to your team and then you wait for their thoughtful feedback.
 
-		- Remote - office not required?
+You don't just "make a quick call" to show them your work and get their quick first impression by asking a *"what do you think?"* question. This is not feedback. This is ambush.
 
-## old post:
+You do your work, you ask for feedback, and as explained in chapter 5 about writing stuff down and 6 about banning email, you get it in a form of a written comment or a series of comments at the other person's convenience within a reasonable time frame.
 
-### Communication Pyramid in a nutshell
+This creates this cadence of work for everyone - you dedicate your time to your focused work and later you spend time on other people's work by reviewing it, analyzing it and truly digesting it in order to be able to give them really good feedback. Only this way they can learn and improve their work.
 
-Instead of following the high and low bandwidth communication style which is so popular in traditional offices, at Nozbe we realized there are actually five levels of communication. They all vary between “highest bandwidth” and “lowest bandwidth.” They are even stronger now in the 21st century as there are applications and technologies that help us communicate way better than before. Let’s explain these levels right now.
+That's why good feedback takes time. But it's worth it. This is where you discover true synergies between people on the team. When you have people with different points of view and various levels of expertise, thanks to their feedback your work can get so much better.
 
-### Level 1 — Done and Out - The “Deep Work” level
+## Let's use quick back-and-forth when needed
 
-This is the core of what we do. In a perfect world we would spend most of our working time at this level. Here we are not interrupted at all. We just focus on our work and once it’s done, we post it to other team members. At this level we communicate through the work that we do.
+Usually we spend most of our time at level 1 (focused work) and level 2 (giving feedback). However, sometimes when you're about to finish off something, you need to speed up this cycle and that's where quick back-and-forth comes in.
 
-### Level 2 — Feedback Loops - The “Feedback please” level
+This is still done in a written form. We either use a chat app like Slack or iMessage for this, or we just exchange quick and short comments in our team task manager Nozbe Teams. This quick interaction helps us get to the finish line faster, yet still preserves a "paper trail" of the written messages. This way everyone from the team can jump in or later they can just review how we got do "done" in this particular project. This is level 3.
 
-This is where we get our feedback. In a traditional office people would use email for this — you do your work and you email it to someone to ask for feedback. At this level you don’t expect an immediate response to your work. You just want feedback and you want the other person to send it to you at their convenience within a reasonable time frame. You still don’t interrupt but you need the other person’s help. At this level we communicate through feedback.
+## Let's talk when describing it would be too much work
 
-### Level 3 — Back and Forth - The “Direct Messaging” level
+Sometimes just talking is faster, when you want to explain the nuance or demo someone something. Instead of writing a long comment with lots of explanations, let's just show off the work and discuss it in real time. This is our level 4 of team communication.
 
-This is where we want our feedback almost right away. In traditional offices people would just walk over to someone, but thanks to technology we can use direct messaging apps instead. This way we don’t interrupt the other person as much, but we let them know we need their attention pretty soon. At this level we communicate through short messages to get our tasks done.
+At Nozbe when we're working on a new feature for our product we work in groups of three: one designer and two programmers. We set the specs in tasks and discuss our progress there, but every now and then, to really get how everything is going, the designer jumps on a short video call with the lead programmer, who simply shares their screen and demos the feature in real time. This way the designer can see how things are progressing and give some real-time feedback right then, or write up some additional feedback after the call.
 
-### Level 4 — Immediate Feedback - The “Talk to me” level
+Because we respect each other's time, we first jump on a chat, and schedule this call. We avoid interrupting each other by just calling them out of the blue. We first ask when is the best time to talk. We want to give the other person time to finish off what they were working on.
 
-This is where we need to discuss something but we don’t need 100% of the other person’s attention. At this level we use voice messaging. In traditional offices people would use phone calls for this. This way the person on the other end can be involved in an insignificant activity (like walking or driving) and still give us their feedback very quickly. At this level we communicate quicker but are still trying to respect the other person’s space.
+We also make sure to mention in the chat what we want to talk about. Like *"Do you have 10-15 minutes to talk to review the progress on this new Nozbe's 'task me' feature?"*. We say how much time we'd need and what we want to talk about.
 
-### Level 5 — Meetings - The “Face to face” level
+Once the call happens, we try to keep it short. We make sure we discuss the issue at hand and that's it. After the call we usually update the comments of the tasks discussed by confirming what we agreed on in a written form. Again, it's all about writing stuff down so that people who didn't participate in our one-on-one can follow what just happened. And then we get back to focused work.
 
-This is where we meet face to face. As you can see, this should be our last resort and not our default level. This is where we meet face to face and are 100% involved in the conversation and the feedback loop. This is where we give and require our full attention to the issue discussed. At this level we communicate very fast but we pay the price for this. That’s why we use this method very sparingly at Nozbe, and only for the meetings we really need.
+## Let's meet, when it's really necessary
 
-### There is a reason we call it a pyramid
+As explained in chapter 7, we schedule regular meetings and do them when they're really necessary. When the focused work is done (level 1), the feedback has been given (level 2), the things were ironed-out (level 3 and 4) and it's time for some final discussions. This is our level 5 and this is why our meetings are so effective. Because the meetings happen only after most of the work is done. When all the data is prepared and it's just a question of agreeing on things together.
 
-We call this our “Pyramid of Communication” to reflect how we really want to communicate within our team:
+The cool thing about this approach is that many of the tasks and projects don't get to be discussed on our meetings. We manage to iron them out on levels 1-3 and we don't need to talk about them anymore. We agreed on everything in comments and went ahead to just get the things done.
 
-* We want to spend as much time at Level 1 as possible,
-* before moving to Level 2 and asking for feedback,
-* then moving to Level 3 to iron things out,
-* and talking through some things at Level 4,
-* then moving to Level 5 to really involve everyone needed.
+## We call this a "Pyramid of Communication"
 
-### In an ideal world we would be spending most of our time on Level 1, a little less on Level 2, much less on Level 3 and as little as possible on Levels 4 and 5.
+Here are the levels of team communication described in this chapter:
 
-This way we enable everyone on our team to get more done by interrupting them less and getting feedback when really required.
+* **Level 1 - Focused work** or the "deep work" level.
+* **Level 2 - Feedback** or the "WDYT"[^1] level.
+* **Level 3 - Quick chat** or the "direct message" level.
+* **Level 4 - One-on-one conversation** or the "talk to me" level.
+* **Level 5 - Meeting** or the "face to face" level.
 
-Yes, it’s easier said than done. Luckily there are great applications and technologies that help us set up these levels of communication and I’ll dig deeper into each level my brand new book: “No Office Apps”
+And traditionally in business most people spend most of their time on level 5 in lengthy meetings, then level 4 as they interrupt each other to talk, then level 3 as they try to use chat apps to coordinate everything and they rarely have time for either level 2, to give someone a thoughtful piece of feedback or for level 1, to really take the time to do their good work.
+
+That's why we call it a "Pyramid of Communication" and we achieve it by turning things completely upside down!
+
+We spend most of our time in focused work (level 1), but we also dedicate lots of time to thoughtful feedback (level 2) and then we also chat when necessary (level 3) and when really needed we have some quick calls with others (level 4) and then we have our regular weekly meetings (level 5) which are completely optional.
+
+## Levels 1-2 are asynchronous while level 3-5 are in real time
+
+The key distinction between the first 2 levels of the pyramid and the remaining 3 levels is that the first ones are done completely asynchronously. Basically - everyone does their work in their time. Both, the focused work and the thoughtful feedback happen without any interruption from anyone. You just do the work and give feedback to others on their work.
+
+And this is where ideally you should spend most of your day.
+
+More than half of everyone's time should be spent on levels 1 and 2, while significantly less of it should be spent on levels 3-5. This is why it's a pyramid and why it's traditional work turned completely upside down.
+
+## One thing: Check your time on each level of the pyramid
+
+Before you can apply the Pyramid of Communication at your work, categorize each hour of your work as it passes over the next week or two. Was it focused work? Feedback? How much time did you spend on chatting, talking or meetings?
+
+> In an ideal world you should be spending most of your time on focused work (level 1), a little less on giving feedback (level 2), much less on chatting (level 3) and as little as possible on talking (levels 4) and meetings (level 5).
+
+To read more about this concept of "Pyramid of Communication" and learn about the apps we use at Nozbe to apply it, check out my free eBook "No Office apps"[^2].
+
+[^1]: WDYT stands for "What Do You Think?" and we ask this question a lot our team once we've shipped our work.
+[^2]: [Get my free eBook "No Office apps" in PDF](https://NoOffice.org/noofficeapps.pdf)
