@@ -43,7 +43,7 @@ toc:
     status: ready
     chname: Chapter 9
   - url: pyramid
-    status: draft
+    status: ready
     chname: Chapter 10
   - url: decide
     status: draft
