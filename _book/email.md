@@ -10,25 +10,23 @@ ref: https://sliwinski.com/emailban
 
 ## People in your team shouldn't email each other
 
-Whenever I talk to people at any conference, they keep asking me about my own set of "productivity hacks", and one of the first question I get is: *"How do you handle email? What are your tricks to making email work?"* and very often they expect me to have some kind of a magic silver bullet up my sleeve.
+Whenever I talk to people at any conference, they keep asking me about my own set of "productivity hacks", and one of the first questions I get is: *"How do you handle email? What are your tricks to making email work?".* Very often they expect me to have a magic silver bullet up my sleeve.
 
-Unfortunately what they get is a very surprising answer:
+What they get is a very surprising answer:
 
 > I'm really bad at email. I hardly use it. In fact, we don't use email at all in my company.
 
-Yes, everyone in my company has an "@nozbe.com" email address but nobody uses it to email each other.
-
-Internally email is banned in our team.
+Yes, everyone in my company has an "@nozbe.com" email address but internally, email is banned in our team.
 
 When people hear that, they give me a *"Can you do that?"* face. 
 
-Of course you can and you actually should if you want to have a productive environment for your team. Only allow email to the "outside world" and ban email within your team. Let me explain how it's done.
+Of course you can and you actually should if you want to have a productive environment for your team. Let me explain how it's done.
 
 ## Email is not for collaboration, it's for correspondence!
 
 Email is bad for you and your team because people receive too many messages every day and the important internal emails get mixed up with other correspondence with people from the outside world.
 
-To solve this problem you need to design a special, internal communication channel. We use two apps for that: Slack and Nozbe Teams (duh!). I'll explain our setup in just a bit, but first let's dive a little deeper as to why email is the worst tool for coordinating team activities.
+To solve this problem you need to design a special, internal communication channel. We use two apps for that: Slack and Nozbe Teams. I'll explain our setup in just a bit, but first let's dive a little deeper as to why email is the worst tool for coordinating team activities.
 
 First off, even if you're really good at creating special filters for your email messages, still some of them may be categorized as "spam" or will get mixed up in the wrong email threads.
 
@@ -38,7 +36,7 @@ Question - if you want to write someone about two different things, do you send 
 
 Here's a great story that illustrates it and recently happened to a friend of mine when he was on vacation.
 
-He received an angry phone call from a colleague, blaming him for overlooking some important information in a case they were working on. He was surprised he missed this as he has always been the person to leave stuff thoroughly finished before vacation. His team coordinates most of the things via email and only some stuff with an internal tool. He had no access to the tool from his phone, but he checked his emails... and then he saw what he missed. He was working with someone on two completely different cases and that other party sent him a message about one of the cases, but then "by the way" mentioned an important info about the second case as well in that same email. This other info is what my friend completely missed.
+He received an angry phone call from a colleague, blaming him for overlooking some important information in a case they were working on. He was surprised he missed this as he has always been the person to leave stuff thoroughly finished before vacation. His team coordinates most of the things via email and only some stuff with an internal tool. He had no access to the tool from his phone, but he checked his emails… and then he saw what he missed. He was working with someone on two completely different cases and that other party sent him a message about one of the cases, but then "by the way" mentioned an important info about the second case in that same email. This other info is what my friend completely missed.
 
 Third problem is the signal to noise ratio. To cover their bases, people in teams CC or BCC everyone or almost everyone. Just to make sure nobody's left out. This increases the number of emails exponentially and makes it more likely that people will just stop paying enough attention and things will really fall through the cracks!
 
@@ -48,23 +46,23 @@ The solution is simple:
 
 ## Internal communication should be done through projects and tasks
 
-It's 2020. There are many online team collaboration tools that are much better than email. They let you manage projects, tasks and feedback completely online. Most of these online tools have apps for most of the platforms so the team information can be accessed from anywhere. And everyone can contribute and clearly see which project, which task or which issue is being worked on by whom.
+It's 2020. There are many online team collaboration tools that are much better than email. They let you manage projects, tasks and feedback completely online. Most of these online tools have apps for most of the platforms so the team information can be accessed from anywhere. And everyone can contribute and clearly see who is working on which project or task.
 
 The advantage of this approach is that by default, each comment thread is attached to only one task or project. This way there is no confusion that by replying to a comment, you're giving feedback to two or three tasks at a time.
 
 One task, one discussion. Simple and focused.
 
-At Nozbe we call it task-based communication[^1] and we're using our own tool Nozbe Teams for this. Again, there are many other tools on the market so every team should choose the one that suits them best[^2]. Just avoid email.
+At Nozbe, we call it task-based communication[^1] and we're using our own tool Nozbe Teams for this. Again, there are many other tools on the market so every team should choose the one that suits them best[^2]. Just avoid email.
 
-Additional benefit is that by sharing projects and tasks we have more transparency. People see what's happening in each project, who's responsible for what. All is clear. We totally avoid all these issues of somebody not putting someone on copy. People can choose which projects or tasks they want to follow and which they can choose to ignore or review less frequently. They are in control.
+Additional benefit is that by sharing projects and tasks we have more transparency. People see what's happening in each project, who's responsible for what. All is clear. We completely avoid the problem of somebody not putting someone on copy. People can choose which projects or tasks they want to follow and which they can choose to ignore or review less frequently. They are in control.
 
 ## You can add real-time chat as an internal water cooler for "blah blah blah"
 
-What I like about task-based communication I just mentioned is the fact that it's asynchronous[^3], meaning you let the other party take time to respond to you. You just create a task, you add a thoughtful comment, you delegate it to someone, and you get on with your work, while you let the other party choose when they respond to your comment or do the task you assigned to them.
+What I like about task-based communication I just mentioned is the fact that it's asynchronous[^3], meaning you let the other party take time to respond. You just create a task, add a thoughtful comment, delegate it to someone, and get on with your work, while you let the other party choose when they respond to your comment or do the task you assigned to them. Of course if the task is time sensitive - you set a deadline.
 
 This is healthy and this is how team collaboration should be done. Very rarely things are so urgent that people need an ASAP response. Things can wait and you should normally prefer to let people take their time to do what's asked of them or give you a really thorough feedback.
 
-However, sometimes you are in a hurry and you need some information quickly. We use our internal chat for this though an app called Slack[^4].
+However, sometimes you are in a hurry and you need some information quickly. We use our internal chat for such cases: an app called Slack[^4].
 
 However, don't you try to switch from email to chat and only chat.
 
