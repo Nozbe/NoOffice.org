@@ -7,9 +7,9 @@ subtitle: "Change your approach to meetings completely and stop wasting everyone
 * TOC
 {:toc}
 
-## Meetings are so easy, so useful, so tempting...
+## Meetings are so easy, so useful, so tempting…
 
-One of the major problems for most of the companies hit by the Covid-19 pandemic was the way they did meetings. They thought that because now everyone had access to video-conferencing software, they could just replicate the same dynamic they had in the office. They just kept organizing meetings.
+One of the major problems for most of the companies affected by the COVID-19 pandemic was the way they did meetings. They thought that because now everyone had access to video-conferencing software, they could just replicate the same dynamic they had in the office. They just kept organizing meetings.
 
 I get it, it's tempting. When you're all in one office, you've got this all too easy. After all, everyone's around and there's a hole in everyone's calendar, let's fill it up with yet another meeting, right?
 
@@ -53,13 +53,13 @@ The cool thing about these meetings is that they're clearly defined. They are on
 - Who's assisting
 - Where the meeting takes place (we have a separate virtual room dedicated for each meeting[^1])
 
-Additionally every meeting is time-constrained and they run no longer than 2 hours - if we haven't discuss everything, we move it to next week's meeting.
+Additionally, every meeting is time-constrained and they run no longer than 2 hours - if we haven't discussed everything, we move it to next week's meeting.
 
 For each meeting there's no negotiation, no RSVP, no barrier of entry. We all have agreed once on these meetings and that's it.
 
 These predictable pattern of meetings helps everyone on the team plan their week, make sure they can budget their time for focused work (as discussed in Chapter 4) and preparation time for each meeting (more on that below).
 
-Now, despite these meetings being "set in stone" every week, each of them is...
+Now, despite these meetings being "set in stone" every week, each of them is…
 
 ## Meetings are optional
 
@@ -81,7 +81,7 @@ Presenting an idea on a meeting hardly ever makes sense. It's better to add this
 
 This way during the actual meeting we don't waste time discussing the entire topic, as everyone has read it beforehand, but we only focus on the points of tension, the nuances, the missing parts.
 
-But for this to work...
+But for this to work…
 
 > Everyone has to do their homework. Everyone assisting the meeting has to read and digest the documentation prepared before the meeting.
 
@@ -103,17 +103,17 @@ Sometimes we do a "brainstorming moment" on one of our meetings, but we limit th
 
 We don't do status meetings. Why would we? As I described in chapter 6 about banning email, we communicate in projects and tasks, so to learn a status of a project or task we just need to check our system. There's no need for a verbal status update.
 
-However, as we're an all-remote company, I want to make sure we don't feel alone. When you don't go to an office, don't meet your team members every day, it might get lonely. That's why we have our directors, developers, support and marketing meetings. These might not have many agenda items but usually happen anyway so that we can just see each other, say hi, share a little what we're working on this week... and just re-connect with our team members.
+However, as we're an all-remote company, I want to make sure we don't feel alone. When you don't go to an office, don't meet your team members every day, it might get lonely. That's why we have our directors, developers, support and marketing meetings. These might not have many agenda items but usually happen anyway so that we can just see each other, say hi, share a little what we're working on this week… and just re-connect with our team members.
 
 These meetings have the "hang out" part, where we just hang out together and the "agenda" part where we discuss certain topics. However, if there are not many topics to discuss, we respect each other's time and we just cut the meeting short. That's why above I mentioned all the meetings with "up to" times. If one week we've got only 1 hour of things to discuss, we don't extend the meeting, we cut it short and get back to our work.
 
-We try to avoid having longer meetings than 2 hours. It's a magic threshold. After that we're just too tired to discuss anything. The good thing about having regular weekly meetings is the fact that very rarely we've got so many topics that extending a meeting beyond 2 hours is warranted... and after all, we can always get back to things next week. So no stress.
+We try to avoid having longer meetings than 2 hours. It's a magic threshold. After that we're just too tired to discuss anything. The good thing about having regular weekly meetings is the fact that very rarely we've got so many topics that extending a meeting beyond 2 hours is warranted… and after all, we can always get back to things next week. So no stress.
 
 ## How many people on a meeting? As few as needed!
 
 We make sure we don't have too many people on our meetings. Usually more than 6 is too crowded. So we try to make sure that nobody feels bad about not being part of a meeting. We are very mindful of each others' time.
 
-Steve Jobs[^3] famously before each meeting looked around the conference room and checked if there's no one excessive assisting the meeting. He often just threw people out when he believed they had no reason to be there. It's radical but I totally get the sentiment.
+Steve Jobs[^3] before each meeting looked around the conference room and checked if there's no one excessive assisting the meeting. He often just threw people out when he believed they had no reason to be there. It's radical but I totally get the sentiment.
 
 We try to find the people who give the most insight for each meeting and sometimes important people on our team don't participate in some of our important meetings, because we'd prefer they used their time in a better way.
 
