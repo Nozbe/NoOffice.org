@@ -68,7 +68,7 @@ h3 {
 }
 
 h4 {
-  font-size: 1.2em;
+  font-size: 1.3em;
   color: $gray;
 }
 
@@ -121,19 +121,30 @@ strong, b {
 .bold {
   font-weight: bold;
 }
+
+.entry {
+	p {
+		padding: 0.8em 0 0.2em;
+		font-size: 1.2em;
+		font-family: $fontserif;
+	}
+}
+
 sup { 
   vertical-align: super;
   font-size: smaller;
 }
+
 .footnotes {
   border-top: 1px solid $gray;
 }
+
 blockquote {
   margin: 1em;
   border: 2px solid $gray;
   padding: 0.1em 1em;
   color: $gray;
-  font-family: $fontserif;
+//  font-family: $fontserif;
   font-style: italic;
   transform: rotate(-2deg);
 }
