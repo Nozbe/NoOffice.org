@@ -61,13 +61,11 @@ When proposing an idea we try to focus on the problem, not the solution. There's
 
 This is what we do. Especially when we design features for Nozbe as we've got hundreds of thousand users from all over the world and we get many requests daily. People very often just tell us: *"please add this feature"* but when we hear that, we ask: *"please explain to us which problem this feature will solve for you - please give us a real-life example"* and then we get to the bottom of it. We want to find solutions to most common user problems. Not just add countless features to our products and confuse the rest of our users in the process.
 
-To help us find solutions to problems, we follow a "Shape up" method published by Ryan Singer of Basecamp.[^4]
-
 ### Trick 2. Have strong opinions weakly held.
 
 When someone analyzed a problem, investigated it and written up a proposal for a solution, they might feel very strong about all this. After all, they poured their heart into it and they believe that they've got it now.
 
-That's the moment to apply a "strong opinion, weakly held" framework[^5].
+That's the moment to apply a "strong opinion, weakly held" framework[^4].
 
 It basically means, that you've studied a problem and based on your intuition you chose a solution and now you feel strongly about it, until you've proven wrong by the rest of the team.
 
@@ -77,7 +75,7 @@ Countless times I've come to our weekly Design meeting convinced of one thing, j
 
 ### Trick 3. Disagree and commit.
 
-I've heard it years ago attributed to Jeff Bezos of Amazon, but turns out this concept is much older than that.[^6]
+I've heard it years ago attributed to Jeff Bezos of Amazon, but turns out this concept is much older than that.[^5]
 
 If it wasn't for this concept, we would rarely get anything done. The problem is that even if you have your "Braintrust" groups set up and have great discussions within them, these are just people with different opinions and quite often they will not be able to agree on a one solution.
 
@@ -110,6 +108,5 @@ I've mentioned several books in this chapter but the one I'd recommend most for 
 [^1]: [Ken Segall: "Insanely Simple"](https://kensegall.com/books/)
 [^2]: [Ed Cutmull: "Creativity Inc."](https://www.creativityincbook.com)
 [^3]: [Knights of The Round Table](https://en.wikipedia.org/wiki/Knights_of_the_Round_Table)
-[^4]: [Ryan Singer: Shape Up](https://basecamp.com/shapeup)
-[^5]: [Paul Saffo - the author of "strong opinions, weakly held" framework](http://www.saffo.com/about-paul-saffo/)
-[^6]: [Disagree and Commit on Wikipedia](https://en.wikipedia.org/wiki/Disagree_and_commit)
+[^4]: [Paul Saffo - the author of "strong opinions, weakly held" framework](http://www.saffo.com/about-paul-saffo/)
+[^5]: [Disagree and Commit on Wikipedia](https://en.wikipedia.org/wiki/Disagree_and_commit)
