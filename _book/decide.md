@@ -9,7 +9,7 @@ subtitle: "Decide faster, yet take enough time to get things just right."
 
 ## Forget acronyms, go with a decision-making process
 
-Let's enhance the previous chapter about the "Pyramid of Communication" and get very practical. Below you won't find any smart (or S.M.A.R.T.) acronyms, but a pretty straightforward decision-making process that we follow in my team. It is largely inspired by everything mentioned in the previous chapters of this book. I'll explain the process first and later I'll follow along with two real-world examples to illustrate my point.
+Let's enhance the previous chapter about the "Pyramid of Communication" and get very practical. Below, you won't find any smart (or S.M.A.R.T.) acronyms, but a pretty straightforward decision-making process that we follow in my team. I'll explain it first and later I'll follow along with two real-world examples.
 
 ## People should be empowered to make small decisions
 
@@ -27,21 +27,19 @@ By "bigger decisions" I mean things that require involvement of more people. Eit
 
 ## Just follow a simple 5-step decision-making process
 
-What it comes down to is five easy steps: first you identify the problem you're trying to solve, then you take your time to think, research and come up with a solution. Next you write it up for yourself and others on the team. After that you discuss it on your next weekly meeting and then you either revise it or just move to implementation.
+First, you identify the problem you're trying to solve, then you take your time to think, research and come up with a solution. Next, you write it up for yourself and others on the team. After that you discuss it on your next weekly meeting and then you either revise it or just move to implementation.
 
 Pretty easy, right? Let me break it down for you with an example. Here's how we implement a new feature in our app:
 
-### Step 1. Identify the problem.
+### Step 1. Identify the problem
 
 After talking to some customers and listening to their stories I realized they needed a particular problem solved in our Nozbe Teams app.
 
 Instead of writing to our VP of Product: *"Hey, we need this feature in Nozbe Teams!"*, I'm doing something different. I'm creating a task with this problem in our "Nozbe Teams Design" project and I'm scheduling a few hours the next day to think about it and come up with a solution.
 
-Very rarely (as in: never) there are features that need to be implemented ASAP. Even if there's a common problem that many customers are facing, I know that I can take a few days to think about it well, before we will solve it. They customers will survive and they'll thank me later for really thinking it through.
+### Step 2. Research and come up with a solution
 
-### Step 2. Research and come up with a solution.
-
-Now it's time to do some research. I'd ordinarily do a mix of the following things:
+Now, it's time to do some research. I'd ordinarily do a mix of the following things:
 
 - check in past tasks and documents if we haven't already tried to approach this problem before
 - read on the Internet how other companies are dealing with similar situations
