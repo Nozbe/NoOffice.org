@@ -49,13 +49,13 @@ Now, it's time to do some research. I'd ordinarily do a mix of the following thi
 
 It's important to take the time to do proper research. I give myself at least 2 hours to do the initial study. And based on my gut, I then decide how much more time I need for this.
 
-### Step 3. Write it up for myself and everyone else.
+### Step 3. Write it up for myself and everyone else
 
-Now it's time to write it up. As I know that the next "design meeting" is on Tuesday, by Monday evening I'm writing up a proposed solution to the problem. Once I'm done, I'm updating the task and moving it to our "next meeting agenda" section to show everyone that I want my topic to be discussed on the next meeting.
+Now, it's time to write it up. As I know that the next "design meeting" is on Tuesday, by Monday evening the latest I'm writing up a proposed solution to the problem in a Dropbox Paper document. Once I'm done, I'm updating the task in Nozbe Teams and moving it to our "next meeting agenda" section to show everyone that I want my topic to be discussed on the next meeting.
 
-I'm doing my write up in such a way that people can post their comments on Tuesday morning ahead of the meeting. This way the discussions are happening before we even met and many issues can be addressed early.
+I'm doing my write up in such a way that people can post their comments on Tuesday morning ahead of the meeting. This way the discussions are happening before we even meet and many issues can be addressed early.
 
-### Step 4. Discuss the solution on a meeting.
+### Step 4. Discuss the solution in a meeting
 
 Once the meeting has started, everyone in the room (or "virtual room" in our case) has already learned about my problem, read the solution and usually also posted their initial reactions in the comments.
 
