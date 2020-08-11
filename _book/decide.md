@@ -61,15 +61,15 @@ Once the meeting has started, everyone in the room (or "virtual room" in our cas
 
 That's why I don't spend time presenting the solution, but we dive right into the nuances and issues with my idea. In Chapter 8 I already explained how we talk, discuss, argue and fight on our meetings. And how we eventually reach a conclusion.
 
-### Step 5. Make the decision.
+### Step 5. Make the decision
 
 With this whole process the goal is to reach one of three outcomes:
 
 - move to implementation of the proposed solution
-- take one more week to review the feedback and discuss the revised solution in a week
+- take one more week to review the feedback and discuss the revised solution next time we meet
 - or completely discard the solution (and make a task for the future to approach the problem differently)
 
-That's it. The decision comes down to these three options. Sometimes the solution is really straightforward and after just a little debate, it goes to implementation unchanged or with a few tweaks here and there. Another time we just need one more week. There's lots of feedback, the person proposing the solution must digest it, incorporate it and present a revised solution the following week. However, there are times when we decided the problem identified is not really that big of a deal, or that the solution that we came up with is not something we'd be proud of... or it's just too early for this. And we discard it entirely for now.
+That's it. The decision comes down to these three options. Sometimes the solution is really straightforward and after just a little debate, it goes to implementation unchanged or with a few tweaks. Another time, we just need one more week. There's lots of feedback, the person proposing the solution must digest it, incorporate it and present a revised solution the following week. However, there are times when we decided the problem identified is not really that big of a deal, or that the solution that we came up with is not something we'd be proud of... or it's just too early for this. And we discard it entirely for now.
 
 ## Why take a few days to make a decision?
 
@@ -81,7 +81,7 @@ What we've found out is that in most decision, taking a few days to review it, a
 
 > Go with your gut with small decisions, but take a few days for bigger ones.
 
-This is when having regular and optional weekly meetings makes so much sense (as discussed in Chapter 7). Instead of deciding on something today, I know I can take a few moments to analyze this, think more, write it up and discuss on the next week's meeting. The decision will be delayed by a few days but it's going to be a better one as I'll have the time to digest it properly and receive feedback from smart people around me.
+This is when having regular and optional weekly meetings makes so much sense (as discussed in Chapter 7). Instead of deciding on something today, I know I can take a few moments to analyze this, think more, write it up, get feedback and discuss on the next week's meeting. The decision will be delayed by a few days but it's going to be a better one.
 
 Very often these few days make all the difference. You have the time to see additional context and gather more information. On the other hand, it's a week tops. So it's not like you're dwelling on the decision for too long and reaching a so-called analysis paralysis[^1].
 
@@ -91,9 +91,9 @@ OK, let's say you've gone through all the 5 steps of this decision-making proces
 
 ### "Cheapo" way is the best way
 
-The definition of "cheap" in a dictionary stands for *inexpensive and of poor quality* which is exactly what we're aiming for here. If we're not sure about a decision but we want to try to see how it *feels* what we do is we figure out the "cheapest way" to get it done. Without much overhead, with minimum design... we just implement it and live with the decision like this. When we already like the decision done in a "cheapo" way, we then move forward with fully-blown implementation.
+The definition of "cheap" in a dictionary stands for *inexpensive and of poor quality* which is exactly what we're aiming for here. If we're not sure about a decision but we want to try to see how it *feels* what we do is, we figure out the "cheapest way" to get it done. Without much overhead, with minimum design... we just implement it and live with the decision like this. When we already like the decision done in a "cheapo" way, we then move forward with fully-blown implementation.
 
-In our products, we very often just add a feature without announcing it to the customers. We observe if we notice it at all, if they use it, if they report back to us how much they like it but how they feel it could be improved.
+In our products, we very often just add a feature without announcing it to the customers. We observe if they notice it at all, if they use it, if they report back to us how much they like it but how they feel it could be improved.
 
 ### Limit the impact to just few people
 
