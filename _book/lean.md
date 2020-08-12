@@ -99,7 +99,7 @@ Simplifying things and reducing the barrier of entry in one aspect of team work,
 
 ### Trick 5. Show off your improvements.
 
-This is something we need to practice more in our team. Record a short video o screen capture of how you've optimized something or you've reduced the number of steps to getting your task done. Record a short video where you quickly explain what was frustrating, how you went about fixing it and how it works now after you've improved it.
+This is something we need to practice more in our team. Record a short video or screen capture of how you've optimized something or you've reduced the number of steps to getting your task done. Record a short video where you quickly explain what was frustrating, how you went about fixing it and how it works now after you've improved it.
 
 > Basically, show the before and after video. This is the most impactful thing you can do.
 
@@ -117,7 +117,7 @@ This process was a success, because:
 
 - it started as a "Kaizen event" and started opening the eyes of each customer support rep to potential improvements
 - With each meeting as things were improved, they'd have to dig deeper and look for less obvious problems - they were gradually sharpening their "improvement saw".
-- As weeks progressed I heard from Iwona, the customer support head, that the whole team felt more motivated than ever to improve their interactions, to find better way of donning things
+- As weeks progressed I heard from Iwona, the customer support head, that the whole team felt more motivated than ever to improve their interactions, to find better way of doing things
 - The usage of templates skyrocketed. We still respond to people personally but now these responses are more coherent as the rep starts off with a template and then customizes it to the customer's case
 - Ideas for improvements stopped coming from the top, but now most of them come from the reps themselves and they are proud of it!
 
