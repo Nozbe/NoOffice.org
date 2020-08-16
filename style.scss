@@ -131,6 +131,13 @@ strong, b {
 	}
 }
 
+.footnotes {
+	ul, ol {
+		font-size: 1em;
+		font-family: $font;
+	}
+}
+
 sup { 
   vertical-align: super;
   font-size: smaller;
