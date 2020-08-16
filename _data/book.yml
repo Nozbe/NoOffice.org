@@ -57,13 +57,13 @@ toc:
   - url: perks
     status: ready
     chname: Chapter 14
-  - url: review
+  - url: week
     status: draft
     chname: Chapter 15
   - url: friday
     status: draft
     chname: Chapter 16
-  - url: week
+  - url: review
     status: draft
     chname: Chapter 17
 - url: two
