@@ -117,5 +117,5 @@ If work is not a place to go, but a thing you do, make sure you and your colleag
 To learn more about focused work and how to find focus at work, I recommend Cal Newport's excellent book, Deep Work[^3]
 
 [^1]: I've posted on my blog about Silicon Valley's [disregard for remote work](https://sliwinski.com/sv-remote/), the embrace of [the open office floor plan](https://sliwinski.com/3-productivity-tips-and-tricks-for-open-space/) and particularly [Facebook's office](https://sliwinski.com/openoffice/) and most recently the [Modern Workplace](https://sliwinski.com/workplace/) documentary.
-[^2]: [Peopleware: Productive Projects and Teams] (https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams) by Tom DeMarco and Tim Lister, originally written in 1987 and later updated in 1999 and 2013.
+[^2]: [Peopleware: Productive Projects and Teams](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams) by Tom DeMarco and Tim Lister, originally written in 1987 and later updated in 1999 and 2013.
 [^3]: [Deep Work: Rules for Focused Success in a Distracted World (2016)](https://www.calnewport.com/books/deep-work/) by Cal Newport.

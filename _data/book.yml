@@ -5,7 +5,7 @@ draft: "[Draft]"
 none: "Nothing written yet..."
 url: book
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_book/"
-updated: "August 16, 2020"
+updated: "August 19, 2020"
 toc:
 - url: intro
   status: ready # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
@@ -27,39 +27,51 @@ toc:
   - url: focus
     status: ready
     chname: Chapter 4
+    book: Deep Work
   - url: write
     status: ready
     chname: Chapter 5
+    book: GTD
   - url: email
     status: ready
     chname: Chapter 6
+    book: Under New Management
   - url: meetings
     status: ready
     chname: Chapter 7
+    book: Read This Before Next Meeting
   - url: fight
     status: ready
     chname: Chapter 8
+    book: Creativity Inc
   - url: vlog
     status: ready
     chname: Chapter 9
+    book: "???"
   - url: pyramid
     status: ready
     chname: Chapter 10
+    book: No Office Apps
   - url: decide
     status: ready
     chname: Chapter 11
+    book: Shape Up
   - url: lean
     status: ready
     chname: Chapter 12
+    book: 2-minute lean
   - url: pay
     status: ready
     chname: Chapter 13
+    book: Drive
   - url: perks
     status: ready
     chname: Chapter 14
+    book: Punished by Rewards
   - url: week
-    status: draft
+    status: ready
     chname: Chapter 15
+    book: Rework
   - url: friday
     status: draft
     chname: Chapter 16
