@@ -1,7 +1,7 @@
 ---
 part: one
 title: Design your workweek
-subtitle: "Set flexible hours, themed days and other ways to get the work done."
+subtitle: "Set flexible hours, themed days and find stretches of uninterrupted time."
 ---
 
 * TOC
@@ -67,7 +67,7 @@ The same exercise can be done together with people you work with. This way a tea
 
 Such ideas create a natural *cadence* of work for everyone on the team and encourage them to approach their workweek in a more conscious way. Everyone feels in more control. They know what they'll be working on and what to expect from each other.
 
-## Cut out 2 hours of focus time each day. Every day.
+## Cut out 2 hours of focus time each day.
 
 The trouble with working in a team is that there are so many things going on that it's really hard to find time to work on something in a focused way. And as I wrote in chapter 4 - focus is a scarce resource we all need more of.
 
@@ -84,7 +84,7 @@ Why 2 hours? Because they usually work like this:
 * And I still have at least 1 hour to work on it. I've thought about the problem, I'm focused, I'm warmed up... and now I can get to work.
 * After 2 hours I will have usually created something that I can send to the team for feedback, or I have the momentum to keep going and finish it up for another 30-60 minutes.
 
-### Block off 2 hours every day. At the same time.
+### Block off 2 hours every day at the same time.
 
 My trick is to block off my *2-hour focus time* every day at the same time. To make it a productivity habit and a no-brainer.
 
