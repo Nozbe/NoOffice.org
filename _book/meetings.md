@@ -142,6 +142,9 @@ Avoid impromptu meetings, make meetings regular, don’t make them longer than t
 For further reading on the subject of meetings, I recommend the book *Read This Before Our Next Meeting* by Al Pittampali[^4].
 
 [^1]: We use [Zoom](https://zoom.us), and we have set up a different virtual room ID for each meeting. We can click on a link from the calendar entry to go to that room. Easy.
+
 [^2]: [“Jeff Bezos Knows How to Run a Meeting. Here's How He Does It. On Inc.”](https://www.inc.com/justin-bariso/jeff-bezos-knows-how-to-run-a-meeting-here-are-his-three-simple-rules.html)
+
 [^3]: One of such scenes is described by Ken Segall in his book, [*Insanely Simple: The Obsession That Drives Apple’s Success*](https://kensegall.com/books/).
+
 [^4]: [Al Pittampali: *Read This Before Our Next Meeting*](https://www.alpitt.com)
