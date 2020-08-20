@@ -9,11 +9,11 @@ subtitle: "Give people perks that promote good habits, life outside of work and 
 
 ## Don't make the office a place where people want to hang out
 
-Especially in my industry, the IT and Internet startup world, it's cool to show off your office. The attention to details, the vending machines, the fuss-ball table, the chill-out room, the fitness-space, the console-corner... you name it. All these things are supposed to make people feel better about being in an office.
+Especially in my industry, the IT and Internet startup world, it's cool to show off your office. The attention to details, the vending machines, the fuss-ball table, the chill-out room, the fitness-space, the console-corner… you name it. All these things are supposed to make people feel better about being in an office.
 
 Office is for work, not for hanging out.
 
-I remember my first visit at the famous *Googleplex*, the offices of Google in Mountain View. I was blown away by all the *free* stuff they'd get. Sport installations, restaurants, vending machines, massage armchairs, laundry services... everything that would make a Google employee NOT to want to go home. Yet their office spaces were crammed and very often with *open office* layout that promotes distractions.
+I remember my first visit at the famous *Googleplex*, the offices of Google in Mountain View. I was blown away by all the *free* stuff they'd get. Sport installations, restaurants, vending machines, massage armchairs, laundry services… everything that would make a Google employee NOT to want to go home. Yet their office spaces were crammed and very often with *open office* layout that promotes distractions.
 
 I didn't get it why Google, the place where supposedly the smartest people in the world work, on one hand was so generous giving lavishly all these perks, but on the other hand, wasn't investing in proper workplaces themselves.
 
@@ -33,7 +33,7 @@ Yes, the biggest struggle for a person who works from home is the work-life bala
 
 ## Don't give stuff out entirely for free!
 
-My experience has taught me is that when people get stuff for free, they don't appreciate it that much. That's why we subsidize things. Depending on the situation we usually cover around 50% of the net price and 100% of all the additional taxes and costs for most of the perks we offer. Here are some examples:
+My experience has taught me that when people get stuff for free, they don't appreciate it that much. That's why we subsidize things. Depending on the situation we usually cover around 50% of the net price and 100% of all the additional taxes and costs for most of the perks we offer. Here are some examples:
 
 * Want a new computer? Choose any computer you want, we pay half of it, you pay the other half.
 * Want a new desk? New armchair? Additional monitor? Find the one you want, we'll cover one half and the taxes. We'll also offer financing, because you can pay your 50% in a few installments over a few months. Interest free, of course.
@@ -80,6 +80,6 @@ Because this money is being wired to our separate bank account at the moment of 
 
 The perks shouldn't be sneaky ways of keeping people working more. They already work too much, and if they don't, you've got more serious problems in the team that the perks won't solve. Perks and non-salary benefits should focus on helping people be better people. They should be encouraged to have a life outside of work. Only this way they'll be truly motivated to give their best at work.
 
-To learn more about this subject, I recommend a great book "Punished by Rewards" by Alfie Kohn[^1].
+To learn more about this subject, I recommend a great book *Punished by Rewards* by Alfie Kohn[^1].
 
-[^1]: Brilliant book by Alfie Kohn: [Punished by Rewards. The Trouble with Gold Stars, Incentive Plans, A’s, Praise, and Other Bribes.](https://www.alfiekohn.org/punished-rewards/)
+[^1]: Brilliant book by Alfie Kohn: [*Punished by Rewards. The Trouble with Gold Stars, Incentive Plans, A’s, Praise, and Other Bribes.*](https://www.alfiekohn.org/punished-rewards/)
