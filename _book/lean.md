@@ -11,7 +11,7 @@ subtitle: "Practice lean approach by constantly improving the way you're doing t
 
 The term *lean manufacturing*[^1] was first attributed to Toyota factories. The Japanese carmaker discovered that constantly fixing small inefficiencies when building cars resulted in exponential savings and productivity gains in long term. The truth is, any business can benefit immensely from this insight.
 
-> Being *lean* means having your eyes constantly open to improvements and seeing where time or resources are wasted. While you're doing something, observing how it can be optimized, streamlined or changed altogether. It means to never stop improving everything that you do.
+> Being *lean* means having your eyes constantly open to improvements and seeing where time or resources are wasted. While you're doing something, observing how it can be optimized or streamlined. It means to never stop improving everything that you do.
 
 There are two Japanese words that I want you to remember:
 
@@ -31,7 +31,7 @@ When it applies to the team, it's even more:
 
 ### Why spend hours on a small 1-minute improvement?
 
-Because it compounds. You initially save 1 minute, but later you also save much more on NOT being frustrated of losing 1 that precious minute of your time... and eventually you might even see additional improvement that will save you another minute... and apart from not wasting lots of time, your work will just feel so much joyful.
+Because it compounds. You initially save 1 minute, but later you also save much more on NOT being frustrated of losing 1 that precious minute of your time… and eventually you might even see additional improvement that will save you another minute… and apart from not wasting lots of time, your work will just feel so much joyful.
 
 The Kaizen math checks out: if you do something 10 times per day that wastes 1 minute of your time, that's 50 minutes in a work week. You get 1 hour of the time spent on fixing it back in just a little over a week! And in the next weeks you won't be wasting that minute at all. Ever.
 
@@ -43,7 +43,7 @@ That's exactly what happens once you improve something that will make your work 
 
 You'll eventually start seeing the compound savings of time gained through small incremental changes. Hopefully leading by example you'll motivate everyone around you to do the same. Improving things, streamlining processes and just simplifying stuff can be pretty contagious.
 
-### Improving is not an event, it's a change of mindset
+### Improving is not an event, it's a change of mindset.
 
 The whole idea of *lean* is that it's a *way of life*. It's not a one-time event, it's a new approach to work. Kaizen means *continuous* improvement for a reason, because it's a process that never stops.
 
@@ -78,22 +78,23 @@ Repetitive tasks, copying and pasting, as well as any other mindless work is fru
 That's why whenever you can, automate stuff:
 
 - Learn scripts on your servers to automate server set up if needed.
-- Learn Automator, bash or other ways to automate stuff on your computer
-- On iOS there are *Siri Shortcuts* that can really speed up anything repetitive that you do on your iPhone or iPad. When writing this book I had scripts that helped me format each of these chapters and submit them to the NoOffice.org site.
+- Learn Automator, bash or other ways to automate stuff on your computer.
+- On iOS there are *Siri Shortcuts* that can really speed up anything repetitive that you do on your iPhone or iPad. When writing this book, I had scripts that helped me format each of these chapters and submit them to the NoOffice.org site.
+- On Android, you can use Automate or Tasker to speed things up. 
 - Many apps or web apps that you're using have automation. There are marketing automation apps or social media posting apps that can be used extensively to offload your work and do things *in the background*
 - There are dedicated web apps to automate stuff between other web apps - and you can do that without any programming knowledge. Just follow simple tutorials.[^6]
 - Create templates for projects or tasks. Don't reinvent the wheel. When you're onboarding customers or employees the same way, have a standard *onboarding template* that you use each time.
 
 ### Idea 4. Simplify and reduce the barrier of entry.
 
-As you have seen in previous chapters to this book, we make sure to to simplify things:
+As you have seen in previous chapters to this book, we make sure to simplify things:
 
-- we hold "weekly, but optional" meetings, that are held every week at the same time, in the same virtual room and with the same bunch of people - it makes it easy for everyone to remember which meeting is held where and when;
-- additionally, each meeting has a calendar entry and in this entry there's the link to the virtual room meeting, so you can join the meeting from calendar app with just one click, it doesn't get easier than that
-- personally, I schedule my meals every day at the same time, again it helps me to plan my work when I know when the next break happens
+- we hold "weekly, but optional" meetings every week at the same time, in the same virtual room, and with the same bunch of people - it makes it easy for everyone to remember which meeting is held where and when;
+- each meeting has a calendar entry with the link to the virtual room meeting, so you can join the meeting from the calendar app with just one click;
+- personally, I schedule my meals every day at the same time, again it helps me plan my work when I know when the next break happens;
 - I also schedule my "focused time" when I want to work on something without distractions. As I know when our meetings take place, I can schedule 2 hours of uninterrupted work easily.
 
-Simplifying things and reducing the barrier of entry in one aspect of team work, opens your eyes to further simplifications and optimizations. It becomes a *thing that we all do*.
+Simplifying things and reducing the barrier of entry in one aspect of team work opens your eyes to further optimizations. It becomes a *thing that we all do*.
 
 ### Idea 5. Show off your improvements.
 
@@ -107,28 +108,28 @@ Let's finish off this chapter on *lean* with a practical example that you might 
 
 A little over a year ago we realized that some of the customer support interactions were not up to our standards. This is problematic as we want our customer care to be the best in business. I proposed a weekly review of our support emails with Kaizen in mind.
 
-Every week one of our support reps (each week a different person) would review all past email exchanges with our customers and choose around 10 problematic ones and add them to a report. Then we'd review the report and meet to go over the details - the rep, Iwona (department head) and me, the CEO.
+Every week, one of our support reps (each week a different person) would review all past email exchanges with our customers and choose around 10 problematic ones and add them to a report. Then we'd review the report and meet to go over the details - the rep, Iwona (department head) and me, the CEO.
 
 We'd analyze each of the cases one by one. The interactions in the report were anonymized so that I wouldn't know who of the customer support reps wrote each email and which customer was affected. We'd not focus on the *who* but on *what happened here* and how can we improve it in the future.
 
 This process was a success, because:
 
-- it started as a "Kaizen event" and started opening the eyes of each customer support rep to potential improvements
+- It started as a "Kaizen event" and started opening the eyes of each customer support rep to potential improvements.
 - With each meeting as things were improved, they'd have to dig deeper and look for less obvious problems - they were gradually sharpening their *improvement saw*.
-- As weeks progressed I heard from Iwona, the customer support head, that the whole team felt more motivated than ever to improve their interactions, to find better way of donning things
-- The usage of templates skyrocketed. We still respond to people personally but now these responses are more coherent as each rep now starts off with a template and then customizes it to the customer's case
+- As weeks progressed, I heard from Iwona that the whole team felt more motivated than ever to improve their interactions, to find better way of doing things.
+- The usage of templates skyrocketed. We still respond to people personally but now these responses are more coherent as each rep starts off with a template and then customizes it to the customer's case.
 - Ideas for improvements stopped coming from the top, but now most of them come from the reps themselves and they are proud of it!
 
-## One thing: Never stop improving!
+## The one thing: Never stop improving!
 
 Introduce *lean* to your team, begin with yourself, look for *Muda* in the way you work and keep improving things based on *Kaizen* math. Lead by example and inspire others to always be improving things and you'll have more time for creative work and your job will bring you more joy than ever. Remember, don't search for big improvements, focus on the smallest ones - learn to save seconds to earn back minutes and then hours!
 
-For further reading on the subject of lean, I recommend a great book "2-second lean" by Paul Akers[^7].
+For further reading on the subject of lean, I recommend a great book *2-second lean* by Paul Akers[^7].
 
 [^1]: [The "Toyota way" or lean manufacturing](https://en.wikipedia.org/wiki/Lean_manufacturing)
 [^2]: ["Muda" means "wastefulness"](https://en.wikipedia.org/wiki/Muda_(Japanese_term))
 [^3]: ["Kaizen" means "continuous improvement"](https://en.wikipedia.org/wiki/Kaizen)
 [^4]: [Radek Pietruszewski](https://radex.io), he's also my co-host of [The Podcast](https://thepodcast.fm)
-[^5]: This term was coined by [Stephen Covey in 7 Habits of Highly Effective People](https://www.franklincovey.com/the-7-habits/habit-7.html)
+[^5]: This term was coined by [Stephen Covey in *7 Habits of Highly Effective People*](https://www.franklincovey.com/the-7-habits/habit-7.html)
 [^6]: I recommend apps like [IFTTT - "If This Then That"](https://ifttt.com) or [Zapier](https://zapier.com) and yes, Nozbe Personal and Nozbe Teams integrate with both of them.
-[^7]: [Book - 2-second lean by Paul Akers](https://paulakers.net/books/2-second-lean) and his company's [YouTube channel with their improvements](https://www.youtube.com/channel/UCU0OXtC1xSvZsIiLBdQopaA)
+[^7]: [Book - *2-second lean* by Paul Akers](https://paulakers.net/books/2-second-lean) and his company's [YouTube channel with their improvements](https://www.youtube.com/channel/UCU0OXtC1xSvZsIiLBdQopaA)
