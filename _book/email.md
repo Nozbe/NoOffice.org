@@ -106,7 +106,11 @@ To me, efficient communication with my team is the most important thing in the w
 Recommended reading for this chapter is *Under New Management* by David Burkus.[^5]
 
 [^1]: [What is task-based communication?](https://nozbe.com/blog/task-based-communication)
+
 [^2]: We continue to use and improve [Nozbe Teams](https://nozbe.com/). Popular alternatives in this space include [Basecamp](https://basecamp), [Asana](https://asana.com) or [Trello](https://trello.com). All of these tools approach project and task management a little differently, so make sure your team chooses a tool that fits the way they like to work.
+
 [^3]: [Asynchronous communication as a top productivity booster](https://nozbe.com/blog/asynchronous/)
+
 [^4]: We use [Slack for chatting](https://slack.com). Alternatives include [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software) or [Twist](https://twistapp.com).
+
 [^5]: [“Some Companies Are Banning Email and Getting More Done”](https://hbr.org/2016/06/some-companies-are-banning-email-and-getting-more-done) was an article by David Burkus that just confirmed I was onto something. Later he expanded this in his book: [*Under New Management: How Leading Organizations Are Upending Business as Usual*](https://davidburkus.com/books/under-new-management/).
