@@ -119,7 +119,7 @@ Someone has to write it down, and it has to be published internally somewhere in
 
 Start with yourself. Write stuff down. Foster this practice in the team, and create a culture of written feedback. When it’s all written down, it can always be accessed later, used for reference and  improved.
 
-To learn more about the basics of productivity, I recommend David Allen's book Getting Things Done"[^1] and my own personal productivity book 10 Steps to Maximum Productivity[^10].
+To learn more about the basics of productivity, I recommend David Allen's book *Getting Things Done*[^1] and my own personal productivity book: *10 Steps to Maximum Productivity*[^10].
 
 
 [^1]: [Getting Things Done: The Art of Stress-Free Productivity](https://gettingthingsdone.com) by [David Allen](https://sliwinski.com/david-allen-on-getting-things-done-in-2011-in/).
