@@ -9,7 +9,7 @@ subtitle: "Use a salary formula to calculate fair wages and forget individual mo
 
 ## People work to earn money, but are not motivated by it
 
-Yes, I like money as much as the next person, but studies after studies have shown that people are happy if money is not the main reason they do their work. Of course, if you're poor and you're struggling to make ends meet, you mainly work for money. But as the Maslow's pyramid of needs[^1] shows, once people's basic needs are met, they automatically prioritize other things about their work, like relationships, prestige, sense of accomplishment and achieving their own potential.
+Yes, I like money as much as the next person, but studies after studies have shown that people are happy if money is not the main reason they do their work. Of course, if you're poor and you're struggling to make ends meet, you mainly work for money. But as the Maslow's pyramid of needs[^1] shows, once people's basic needs are met, they automatically prioritize other things about their work, like relationships, prestige, sense of accomplishment, and achieving their own potential.
 
 ## Money is the basic need, and it should be treated as such
 
@@ -33,7 +33,7 @@ Why a formula to calculate salaries?
 2. **To make sure the salaries are rising every year** - whatever happens, the components of the formula make sure that every year the salary raises automatically. A person's salary will never be lower than it is today.
 3. **To make salaries predictable for everyone** - for each team member this creates a sense of security - they know exactly what they're earning now and how it's calculated and they can estimate how it will go up next year. For the company it's easier to predict cash-flow and budget estimates so that we stay healthy and profitable.
 
-What follows is how we implemented this. It's not a universal formula and many companies approach this differently. This is our way and probably in a few years it's going to be revised. If you're a business owner or a director or manager in a company, hopefully this serves as an inspiration for you and a good starting point for your kind of formula.
+What follows is how we implemented this. It's not a universal formula and many companies approach this differently. This is our way and probably in a few years it's going to be revised. If you're a business owner or a manager in a company, hopefully this serves as an inspiration for you and a good starting point for your kind of formula.
 
 ## Components of Nozbe's Salary Formula
 
@@ -45,12 +45,12 @@ Base salary is the current market-value salary for each employee category. It's 
 
 The goal of the team is to work together with an aim to *raise the base* as our revenue increases. This way everyone gets a fair increase in salary at the same time.
 
-> Rising the base salary **is main the goal** we're working towards - to make sure our business is healthier so that we can enjoy higher salaries next year.
+> Rising the base salary **is the main goal** we're working towards - to make sure our business is healthier so that we can enjoy higher salaries next year.
 
 There are different employee categories in our team:
 
 - **CXO** - C-executives - we only have CEO and CTO for now
-- **VP** - VP (Vice Presidents) like VP Support, VP Finance, VP Marketing, VP Product...
+- **VP** - VP (Vice Presidents) like VP Support, VP Finance, VP Marketing, VP Product…
 - **Dev** - Engineering team
 - **Marketing** - Marketing team
 - **Support** - Support team
@@ -125,13 +125,13 @@ This has made my job easier as the owner of the company:
 
 * When one of my VPs is hiring for a position in their team, they don't have to ask me: *"how much we should pay for this position?"*, they just put it in our salary formula and they have an answer.
 * The salary negotiations are no longer a thing we do in the company. We can talk about the personal development level, but not about money.
-* I'm not the only one deciding on the shape and form of the  *Salary Formula*, I do it with all of our *directors team*. We review the system together and make sure it's fair and square.
+* I'm not the only one deciding on the shape and form of the *Salary Formula*, I do it with all of our *directors team*. We review the system together and make sure it's fair and square.
 
 ## No gender or race bias!
 
 I can't fathom why this is still an issue in 2020. Personally, I have three daughters and I want them in the future to be compensated on the same level as their male peers. The *Salary Formula* doesn't have a gender or race component. Which again, is how it should have always been.
 
-## Downsides of a Salary Formula...
+## Downsides of a Salary Formula…
 
 While I believe such salary system is worth introducing in all of the teams, it has its downsides:
 
@@ -141,12 +141,14 @@ While I believe such salary system is worth introducing in all of the teams, it 
 
 While these are valid concerns, I still prefer to work in a team where compensation is not something we talk about too often and instead it's governed by a fair *Salary Formula*. My only concern is to be able to generate enough revenue that I can *raise the base* every year for my team members and that they're paid top money for their work while working in a #NoOffice team.
 
-## One thing: Let a formula handle the money!
+## The one thing: Let a formula handle the money!
 
 By paying people fair and square and according to a transparent *Salary Formula*, you can focus your team efforts on the job that needs to be done. People will stop wasting time doubting if they're paid enough, if their peers are not earning more or when they should meet their boss for a wage negotiation. A fair and transparent payment system makes for a better team spirit.
 
 To learn more how people really are motivated I recommend the book *Drive* by Daniel Pink[^3].
 
 [^1]: [Maslow's hierarchy of needs on Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+
 [^2]: It started with a presentation by a [Polish software house El Passion](https://www.youtube.com/watch?v=NzWe5uo18tI), later I checked how [Buffer pays](https://buffer.com/resources/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/) and also compared that to how the EU institutions pay.
-[^3]: [Drive - The Surprising Truth About What Motivates US](https://www.danpink.com/books/drive/)
+
+[^3]: [*Drive - The Surprising Truth About What Motivates US*](https://www.danpink.com/books/drive/)
