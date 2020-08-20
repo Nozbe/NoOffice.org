@@ -1,7 +1,7 @@
 ---
 part: one
-title: Review work
-subtitle: "Every week check on your progress and every quarter focus on your and your team's big picture"
+title: Review work regularly
+subtitle: "Every week check on your progress and every quarter focus on the big picture"
 ---
 
 * TOC
