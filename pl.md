@@ -7,8 +7,8 @@ book: pl
 
 {% include book.html %}
 
-Zaczynamy tłumaczenie książki "No Office" na język polski.
+Tłumaczenie książki "No Office" na język polski.
 
-**Ostatnia aktualizacja: 4 kwietnia, 2020**
+**Ostatnia aktualizacja: {{ site.data.pl.updated }}**
 
 {% include book_toc.html %}

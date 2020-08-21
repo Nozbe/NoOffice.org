@@ -4,6 +4,10 @@ continue: "Siguiente:"
 draft: "[Boceto]"
 none: "Nada escrito todavía..."
 url: es
+lang_name: Español (Castellano)
+lang_en: Spanish
+github: "https://github.com/Nozbe/NoOffice.org/blob/master/_es/"
+updated: "August 21, 2020"
 toc:
 - url: intro
   status: draft # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
@@ -55,13 +59,13 @@ toc:
   - url: perks
     status: none
     chname: Capítulo 14
-  - url: review
+  - url: week
     status: none
     chname: Capítulo 15
-  - url: friday
+  - url: review
     status: none
     chname: Capítulo 16
-  - url: week
+  - url: friday
     status: none
     chname: Capítulo 17
 - url: two

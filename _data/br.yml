@@ -3,8 +3,10 @@ back: "Voltar ao Índice"
 continue: "Próximo:"
 draft: "[Rascunho]"
 none: "Nada escrito ainda..."
-url: pt-BR
-github: "https://github.com/Nozbe/NoOffice.org/blob/master/_pt-BR/"
+url: br
+lang_name: Português do Brasil
+lang_en: Brazilian Portuguese
+github: "https://github.com/Nozbe/NoOffice.org/blob/master/_br/"
 updated: "August 19, 2020"
 toc:
   - url: intro
@@ -57,13 +59,13 @@ toc:
       - url: perks
         status: none
         chname: Capítulo 14
-      - url: review
+      - url: week
         status: none
         chname: Capítulo 15
-      - url: friday
+      - url: review
         status: none
         chname: Capítulo 16
-      - url: week
+      - url: friday
         status: none
         chname: Capítulo 17
   - url: two

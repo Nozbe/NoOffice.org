@@ -7,8 +7,8 @@ book: es
 
 {% include book.html %}
 
-Acabamos de empezar a escribir el libro "No Office" en castellano.
+Traducción del libro "No Office" al Español.
 
-**Última acutalización: Abril 4, 2020**
+**Última acutalización: {{ site.data.es.updated }}**
 
 {% include book_toc.html %}

@@ -77,10 +77,17 @@ defaults:
   -
     scope:
       path: ""
-      type: "pt-BR"
+      type: "br"
     values:
       layout: "book"
-      book: "pt-BR"
+      book: "br"
+  -
+    scope:
+      path: ""
+      type: "jp"
+    values:
+      layout: "book"
+      book: "jp"
   -
     scope:
       path: "tag"
@@ -90,7 +97,7 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-# Book collection (optional)
+# Book collection
 collections:
   book:
     output: true
@@ -101,6 +108,12 @@ collections:
   es:
     output: true
     permalink: /es/:path/
+  br:
+    output: true
+    permalink: /br/:path/
+  jp:
+    output: true
+    permalink: /jp/:path/
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
