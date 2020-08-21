@@ -2,13 +2,13 @@
 part: toc
 layout: page
 title: 'No Office - Índice'
-book: es
+book: pt-BR
 ---
 
 {% include book.html %}
 
 Acabamos de começar a escrever o livro "No Office" em português.
 
-**Última atualização: Agosto 19, 2020**
+**Última atualização: {{ site.data.book.updated }}**
 
 {% include book_toc.html %}
