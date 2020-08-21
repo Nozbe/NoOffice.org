@@ -1,11 +1,11 @@
 ---
 part: intro
-title: Eu tenho um time
-subtitle: 'Você pode criar um time - No Office ?'
+title: "Eu tenho um time"
+subtitle: "Você pode criar um time - No Office ?"
 ---
 
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 Como mencionei no capítulo anterior, construí o Nozbe porque comecei a ficar desorganizado. Eu li o livro de David Allen intitulado "Getting Things Done: The Art of Stress-Free Productivity"[^1], que me inspirou a criar um aplicativo que me ajudaria a trabalhar melhor.
 

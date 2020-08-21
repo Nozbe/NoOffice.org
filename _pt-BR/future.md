@@ -1,11 +1,11 @@
 ---
 part: intro
-title: Eu tenho futuro?
-subtitle: 'No Office - pode ser o futuro do trabalho?'
+title: "Eu tenho futuro?"
+subtitle: "No Office - pode ser o futuro do trabalho?"
 ---
 
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 Agora você conhece minha história e como meu sonho de um estilo de vida "No Office" se tornou realidade. Estou satisfeito por ter uma equipe que não precisa se deslocar até um escritório central para realizar seu trabalho. A única questão que permanece é sobre o futuro - este é apenas o meu futuro ou é o futuro do trabalho?
 

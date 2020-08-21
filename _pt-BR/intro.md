@@ -1,7 +1,7 @@
 ---
 part: intro
-title: 'O trabalho moderno está mudando'
-subtitle: Abrace a mudança para um estilo de trabalho mais flexível, transparente e independente geograficamente.
+title: "O trabalho moderno está mudando"
+subtitle: "Abrace a mudança para um estilo de trabalho mais flexível, transparente e independente geograficamente."
 ---
 
 A maioria dos trabalhadores em todo o mundo desperdiça duas horas por dia em média indo para o escritório... apenas para fazer o trabalho que eles poderiam fazer facilmente em casa. Você é um deles? Não é ridículo que, com toda a tecnologia disponível, as empresas ainda obriguem as pessoas a irem ao escritório todos os dias, apenas para trabalhar em frente ao computador e participar de reuniões?

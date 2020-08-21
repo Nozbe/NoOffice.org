@@ -1,11 +1,11 @@
 ---
 part: intro
-title: Eu tenho um sonho
-subtitle: Como o meu - No Office - lifestyle nasceu...
+title: "Eu tenho um sonho"
+subtitle: "Como o meu - No Office - lifestyle nasceu..."
 ---
 
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 Sempre fui atraído por um estilo de vida semi-nômade. Mesmo agora, com três filhos e uma esposa que trabalha em um escritório da administração pública, estamos acostumados a viajar muito todos os anos. Sempre gostei de línguas estrangeiras e sempre tive curiosidade por lugares distantes. Na faculdade, estudei em três países europeus diferentes: Polônia, Alemanha e Espanha. Viajar pelo mundo e trabalhar de qualquer lugar foi uma paixão minha desde o início da minha vida profissional.
 
