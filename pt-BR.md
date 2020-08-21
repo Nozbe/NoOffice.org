@@ -9,6 +9,6 @@ book: pt-BR
 
 Acabamos de começar a escrever o livro "No Office" em português.
 
-**Última atualização: {{ site.data.book.updated }}**
+**Última atualização: {{ site.data.pt-BR.updated }}**
 
 {% include book_toc.html %}
