@@ -76,6 +76,13 @@ defaults:
       book: "es"
   -
     scope:
+      path: ""
+      type: "pt-BR"
+    values:
+      layout: "book"
+      book: "pt-BR"
+  -
+    scope:
       path: "tag"
     values:
       layout: "tag"
