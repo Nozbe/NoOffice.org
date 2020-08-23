@@ -4,10 +4,10 @@ continue: "Next:"
 draft: "[Draft]"
 none: "Nothing written yet..."
 url: book
-lang_name: 日本語
-lang_en: Japanese
-github: "https://github.com/Nozbe/NoOffice.org/blob/master/_jp/"
-updated: "August 20, 2020"
+lang_name: American English
+lang_en: English
+github: "https://github.com/Nozbe/NoOffice.org/blob/master/_book/"
+updated: "August 23, 2020"
 toc:
 - url: intro
   status: ready # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
@@ -79,8 +79,9 @@ toc:
     chname: Chapter 16
     book: Essentialism
   - url: friday
-    status: draft
+    status: ready
     chname: Chapter 17
+    book: "???"
 - url: two
   status: draft
   chname: Part 2

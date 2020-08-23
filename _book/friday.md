@@ -1,148 +1,124 @@
 ---
 part: one
-title: Mighty Fridays
-subtitle: "Make Fridays special with a regular review and personal development session."
+title: "Don't do work on Fridays"
+subtitle: "Introduce 'Mighty Fridays' with regular reviews and focus on personal development."
 ---
 
 * TOC
 {:toc}
 
-### Improve 40-hour week with Mighty Fridays
+## Work-life balance is not a state, it's an act of balancing
 
-- Casual Fridays for people - let them wear whatever
+As I mentioned in the previous chapters of this book, working in a #NoOffice company is different and pretty unorthodox because the world is changing. The Internet together with the powerful computers in our pockets are accelerating this change. That's why we constantly need to experiment with the way we work to make sure it's sustainable in the long term.
 
-- Weekly review - prepare next week
+We need to be performing a work-life balancing act. And to be able to stay sane, we can't just keep doing *same old, same old*. Otherwise we'll burn out.
 
-- We want to work less, but better!
+## Three important questions that changed my workweek
 
-- Schedule time for personal development
+Inspired by many companies and my own experience running my small business for almost a decade by then, back in 2016 I introduced a new policy at Nozbe which I called "TGIF - Thank Goodness It's Friday".[^1]
 
-	- Let people share what they’re working on
+I introduced it to answer these three questions:
 
-	- Discourage regular work
+### Question 1: How can people work less, but better?
 
-	- Other companies say they prioritize “personal development” but really it’s bullshit
+Before I explain our Friday's policy, let's dive into this question. Many studies have shown that overwork leads to burnout. Should we start working less, but better?
 
-- Find courses, articles, etc
+The fact of the matter is that many companies have tried and mostly failed at changing the traditional 40-hour workweek:
 
-	- Save for later during the week - make room for Friday
+* Google was famous for their 20% time for personal projects, which they even mentioned in their 2004 IPO, but by 2012 this policy was *as good as dead* as their engineers were *"worried about their performance reviews if they spend 80% of their time on their teams' main business rather than 100%."*[^2]
+* A fellow Internet entrepreneur Ryan Carson of Treehouse famously praised 32-hour workweeks with Fridays completely off in 2015... only to start overworking himself to 65-hour workweeks a year later due to *"lack of worth ethic (in me) that was fundamentally detrimental to the business and to our mission"*[^3]
+* Marissa Meyer, ex-CEO of Yahoo, was the anti-example for all remote workers by brining everyone working from home in Yahoo back to the office and showing off her workaholic 130-hour workweeks[^4].
 
-- Challenge team mates what to do on Friday = what they want to learn
+Despite these missteps I still entertained the idea of working less. But the CEO part of me didn't like the fact of giving my team more free time with nothing in exchange. As mentioned in Chapter 15, we already had flexible working hours, but I felt it wasn't enough.
 
-- Do informal meetings to just talk about stuff...
+> What to do then? How to make people work less, but better? Is it even possible?
 
-- Don’t publish your new version of software on Friday, only Monday!
+### Question 2: How to help people learn more?
 
-- One thing:
+Our company is in the technology industry. Due to the nature of our software and our mission, we're a productivity company. Both of these worlds are changing rapidly now. It's hard to keep up!
 
-	- Experiment with Fridays and make weekly reviews and personal development a real priority at the company
+In our world, if you're not moving forward, you're standing still, which effectively means you're going backwards. That's why we're particularly focused on personal development. On learning new things. On trying new stuff. On taking the time to read articles, listen to audiobooks and podcasts, watch or attend conferences. How can we find time to do that when there's so much to do?
 
-	- Further reading?
+Many companies claim to *value personal development* but these are just empty words. Just saying this doesn't make it so. They simply assume people will learn *in the meantime* or *after hours*.
 
-## old post:
+If people are to choose between learning new things and getting day-to-day job done, the latter always wins. Hands down. But is it good in the long run? Should we just keep doing what we're doing and leave personal development *for later*?
 
-What I didn't like about this week was that I started it with boring CEO-related stuff. Don't get me wrong, I like being the CEO of my company but if you ask me, I prefer working on the product, doing marketing related tasks or writing essays like this one. So I had to re-structure my week anyway.
+Nope. Personal development should be a regular thing. Like regular exercise. I should know, I'm a triathlete. I need to make time to swim, bike and run.
 
-And from all the above-mentioned workweeks the mixture of Ryan Carson/Google was the most appealing to me. I generally liked the idea of working less. Of having more time off. Of having longer weekends. But the CEO part of me didn't like the fact of giving my team more free time with nothing in exchange. ***What to do then? How to make people work less, but better?***
+> How to make time for personal development in a company? How to help people learn more?
 
-### Question: How to make people learn more?
+## Question 3: How to encourage regular weekly reviews?
 
-Our company is in the technology industry with our suite of apps. Due to the nature of our software and our mission, we're a productivity company. Both of these worlds are changing rapidly now. It's hard to keep up!
+In the previous chapter we discussed the idea of a *weekly review* and I argued that it's really important to look back at one's past week and plan the next one. I find this single habit so important that I wanted to make sure everyone on my team was regularly succeeding at doing it.
 
-We have to be advancing. In our world, if you're not moving forward, you're standing still. If you're standing still, you're moving backwards.
+And in the past we weren't very consistent with this. As mentioned in Chapter 6, we don't use emails internally but we communicate through tasks. I remember doing my weekly review and going through our shared projects in Nozbe and seeing lots of old tasks, completely outdated and never taken care of or just simply irrelevant.
 
-To be able to move forward, we need to be focused on personal development. On learning new things. On trying new stuff. On taking the time to read articles, listen to audiobooks and podcasts, watch or attend conferences. How can we find time to do that when there's so much to do?
+Then in downed on me why even people on my team were not doing a proper weekly review anymore. We were all too busy in the whirlwind of day-to-day stuff that we didn't have the time to review our things. And we are supposed to be a productivity company!
 
-If we are to choose between learning new things and getting our day-to-day job done, the latter always wins. Hands down. It has to. But is it good in the long run? Should we just keep doing what we're doing and leave personal development “for later”?
+I knew this situation was not sustainable. For our sanity. For our focus. For our success.
 
-Nope. Personal development should be a regular thing. Like regular exercise. I should know, [I'm a triathlete](https://sliwinski.com/triathlon). I need to make time to swim, bike and run. But how to make time for personal development in my company? ***How to make people learn more?***
+> We needed to be doing a proper weekly review. ALL OF US. But how do you encourage people to take time to really do it?
 
-### Question: How to make people do a regular weekly review?
+## Three questions and one attempt at an answer - let's do Friday differently!
 
-When I first built Nozbe back in 2007 I was inspired by David Allen's book: [“Getting Things Done (GTD) - The Art of Stress Free Productivity”](https://www.audible.com/pd/B01B6WSMHI?tag=sliwinski-20) and one of the key concepts there, apart from projects, next actions and contexts… was the idea of a “weekly review”.
+As I write these words it's August 2020 and I introduced this policy in August of 2016 so exactly 4 years ago. It still works. We do Fridays differently.
 
-The idea is simple - you must regularly review your productivity system: your tasks, projects, commitments… to be able to stay on top of things! You need to take a step back every once in a while and make sure you know where you're going. If you don't do that, you won't be in control. Other people will take over your life with their goals. Not yours.
+In my company these are **Mighty Fridays**.
 
-In one of the interviews David Allen says something like this:
+### Rule 1. We work on day-to-day tasks only from Monday to Thursday.
 
-> “I actually think once a week… and generate my widgets-to-crank (i.e. things-to-do) down to physical level. (…) Yes, I thought… and I know I'm gonna think again next week.”
+It's not about just cutting the workweek to 4 days. If you're getting rid of one day you're not really getting anything in return. I mean you do get one day free, but it doesn't make your remaining 4 days any better. It actually this can make them even more stressful. That's why many companies that tried it, failed.
 
-#### My weekly review struggles
+> It's about working on day-to-day tasks for 4 days and working *on yourself* on Fridays.
 
-I know the importance of a good weekly review. Yet, there are weeks when I hardly find time to do a thorough one. I just find it hard to schedule a 2-3 hour session with myself to go though all of my things. It seems like a waste of time. It seems I'm not getting anything substantial done when I'm reviewing my productivity system.
+### Rule 2. On Friday you must do your weekly review
 
-The problem got bigger recently. The other day I was doing my weekly review and part of that was going through all of my projects in Nozbe. Something stood out. I mean, I've been seeing this before but this time it was just too much.
+That's the idea. You start your Friday with a good weekly review. Just follow the steps from previous chapter. Go through all of your stuff and do it.
 
-You see, [we don't use emails internally in Nozbe, we communicate through tasks](https://sliwinski.com/emailban), so we share lots of projects in Nozbe. And in these projects there are many tasks delegated to different people and there was something strange about many of them…
+Don't do anything else before you do your weekly review. This is your single most important thing to do on a Friday.
 
-#### “No country for old men”
+This way you'll have your whole week reviewed and your next week planned. Come Monday, you'll know exactly what to do. You'll fall in love with Mondays again, because you'll regain your clarity. You'll *hit the ground running* instantly every Monday.
 
-What I realized was that there were an awful lot of old tasks in our shared projects. Tasks created in April, March, February… and even December of last year. And this was in the beginning of August! These tasks were there hanging, without any updates on them, any new comments, nothing. Lots of abandoned old tasks that people responsible for didn't care about anymore.
+### Rule 3. After your review, learn something new this Friday
 
-Then in downed on me. People on my team were not doing a proper weekly review anymore. We were all too busy in the whirlwind of day-to-day stuff that we didn't have the time to review our things. And we're supposed to be a productivity company!
+Once the review is done it's time to invest in yourself, here are some ideas:
 
-> I knew this situation was not sustainable. For our sanity. For our focus. For our success. We need to be doing a proper weekly review. ALL OF US.
+* watch this online conference you subscribed to;
+* go through this course you never had the time to do;
+* read all the *read-it-later* articles you saved throughout the week;
+* catch-up on industry news;
+* set up your home office better, put additional furniture or re-organize your workplace;
+* clean up your computer, your hard drives with files, your physical files and documents;
+* study all the latest features of the piece of software you're using daily to get your work done - learn new tricks, watch video tutorials, memorize keyboard shortcuts or anything that will make your work easier;
+* learn new language, or improve your language skills - both the human languages like English, Spanish or French... or the programming languages you use for work;
+* get a new hobby that's not really very useful for your day-to-day work, but just brings you joy and sparks your curiosity;
+* chat with your colleagues about anything you want, just reconnect with them and talk about stuff.
 
-Agreed, but ***how to make people do a weekly review?***
+Just figure out how you can use Fridays to become a better version of yourself. In my company Fridays are designed by each team member. As the CEO and founder I have no say as to what you should or shouldn't do on a Friday. Once you've done your weekly review, it's completely up to you.
 
-### Three questions, one attempt at an answer: TGIF
+## Aren't Mighty Fridays promoting laziness?
 
-These three questions collided recently in my mind and kept me awake at night. How to make time for us  to learn more, do a proper weekly review and in the end work less, but better?
+Some companies go with *casual Fridays* and wear jeans to work. Mighty Fridays are better than jeans.
 
-#### Step 1. Let's try 4 days a week of actual work.
+Yes, I'm a business owner that kind of asks of people to work less. It seems counterproductive or crazy, but I believe we're on to something. We've been doing this for the last four years with much success. Each Friday our projects and tasks are being better organized and there's simply less mess around. When someone doesn't do their review properly, you can easily tell, so we motivate each other to keep our internal systems up-to-date.
 
-The problem with a 4-day workweek is the fact that by getting rid of one day of work we're not really getting anything in return. I mean we do, one day free, but it doesn't make our 4 days better. It actually can make them even more stressful. With literally no time for review or space to learn new things.
+Our main challenge hasn't been that people were slacking off, but that they still wanted to finish off day-to-day tasks on a Friday. That's why below you'll find a series of suggestions for helping everyone make most of their last day of their workweek.
 
-#### Step 2. Let's move some meetings, review and learning to Friday.
+### Tips for making Mighty Fridays really do the trick
 
-Eureka! Let's work 4 days better, by doing a team-wide mandatory weekly review on Fridays. Let's make Fridays the “review days” and do no actual work anymore. Let's do some meetings in the morning (if we really need to), let's do a review and once that's done and we're ready for the next week, let's do whatever we want!
+Over the years of having *Mighty Fridays* we've found these tips pretty helpful:
 
-Just imagine how more effective the 4 first days of the week could be if we were really prepared for them? If we had our review done, if we knew what we wanted to do and on Monday morning went straight to doing just that: to getting stuff done?
+- Have people report back in a chat room once they've done their weekly review - this motivates others!
+- Share your ideas for Friday - what are you going to learn, watch, read... especially useful when sharing with colleagues from your closest team - let them copy you!
+- Have a clear plan to learn a new skill, new language or new hobby so that every Friday you're excited to be advancing in this thing that brings you joy!
+- Change a scenery - maybe work from your favorite coffee shop or some other place than where you do your usual day-to-day work.
+- Have a catch-up call or video chat with your peers from other companies. I have my *Mastermind* group meeting every Friday at 3pm. It's a perfect ending of a workweek.
 
-Now we've got something. A new company policy which is called:
+## The one thing: make Friday different, make it free(ish)
 
-### TGIF - Thank God It's Friday (in Polish: Piąteczek)
+Implement *Mighty Fridays* by encouraging everyone around you to do their weekly review and later inspire them to focus on their personal development. Both of these things will significantly improve the level of execution in your team each week. I assure you that you'll feel like you're achieving much more in just 4 days of a highly focused week than you've ever done in traditional 5. You'll also have more joy at work as a bonus. And who doesn't like bonuses?
 
-* We work at full throttle on our day-to-day tasks only Monday to Thursday, trying to avoid status meetings and such
-* On Friday morning 9-12 we have all the necessary meetings or chats… and we start our weekly review
-* Everybody reports on Slack once they've got their weekly review done
-* After the review is done, it's all up to each person now. They can either learn something new, maybe work on a side project or take up a new hobby… or they can simply call it a day and have a longer weekend with the family
-
-### How to do a good weekly review?
-
-Here's my simple checklist:
-
-* Clean up your inboxes (the one on your desk, email, Nozbe… and any other you might have)
-* Remind yourself of your goals for this year
-* Review your calendar for this week and next
-* Review your goals for this quarter and this month
-* Go through each project and each task in your productivity system
-* Review your this week's goals and set up goals for the upcoming week
-* Get excited. Get ready for next week!
-
-Optional steps:
-
-* Clean up your computer's hard drive a little
-* Clean up your desk, maybe even re-design your office space
-* Review things you wanted to learn
-* Go through your reading list
-* Create a playlist of things to watch, online conferences to attend
-* Do something you always wanted to do but never had the time for. Now is the time and the company pays you to do it!
-
-### Last Friday was great, can't wait for the next one!
-
-We officially started the policy at Nozbe last week. People were really excited. On Friday some people had their weekly review done as soon as 9 am! Everyone reported on their progress on Slack. People were sharing ideas of how they're going to spend the day.
-
-![Nozbe Ratio](/img/tgif-1.jpg)
-
-When we got our “Nozbe report” yesterday, our team had a Nozbe Ratio of 160%, which means we completed a lot more tasks than we created. Suddenly age-old tasks disappeared, got completed or updated or re-scheduled. Nope, not all of our projects are as clean and focused as they should be just yet, but the situation has radically improved. So far my team responded great to the idea of TGIF. I'll report back in a few more weeks once we get the hang of it even more.
-
-### TGIF is all about working less, but better.
-
-Yes, I'm the CEO and I ask of my people to work less. It seems counterproductive or crazy, but I believe we're on to something. I truly believe we would be more productive having four days of very focused work rather than five days of semi-focused work. I believe with this TGIF arrangement we can truly work less, but better.
-
-### Try it yourself!
-
-I'll report back in a few weeks. We gave ourselves the time to try it out until our “Nozbe Reunion” in October. We'll have 8 weeks to see if this policy helps us work less but better. Meanwhile, I encourage you to try it out yourself. In your team or your company. Talk to your boss about it. Let me know what you think and how this goes for you.
-
-And if you like this idea, I'd appreciate a "share" on social media (Twitter, Facebook?). This will help spread the word and maybe help other companies and teams work less, but better. Thanks!
+[^1]: Announced here on [No Office blog](https://nooffice.org/tgif-my-teams-attempt-at-working-less-but-better-360cd61de2f8/) in August of 2016 and later followed up on [Nozbe blog](https://nozbe.com/blog/friday/) with [some conclusions 8 weeks later](https://nozbe.com/blog/tgif-tips/) and a conversation on [episode #70 of The Podcast](https://thepodcast.fm/70).
+[^2]: Published on HR Zone: [Why did Google abandon 20% time for innovation?](https://www.hrzone.com/lead/culture/why-did-google-abandon-20-time-for-innovation)
+[^3]: World Economic Forum: [These companies all experimented with a 4-day week. Here's what happened.](https://www.weforum.org/agenda/2019/11/4-day-work-week-productivity-increase-microsoft/)
+[^4]: Bloomberg: [Yahoo’s Marissa Mayer on Selling a Company While Trying to Turn It Around](https://www.bloomberg.com/features/2016-marissa-mayer-interview-issue/)

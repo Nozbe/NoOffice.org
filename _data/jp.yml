@@ -3,134 +3,134 @@ back: Back to the Table of Contents
 continue: "Next:"
 draft: "[Draft]"
 none: "Nothing written yet..."
-url: book
-lang_name: American English
-lang_en: English
-github: "https://github.com/Nozbe/NoOffice.org/blob/master/_book/"
+url: jp
+lang_name: 日本語
+lang_en: Japanese
+github: "https://github.com/Nozbe/NoOffice.org/blob/master/_jp/"
 updated: "August 20, 2020"
 toc:
 - url: intro
-  status: ready # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
+  status: draft # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
   chname: Intro
   chapters:
   - url: dream
-    status: ready
+    status: draft
     chname: Chapter 1
   - url: team
-    status: ready
+    status: none
     chname: Chapter 2
   - url: future
-    status: ready
+    status: none
     chname: Chapter 3
 - url: one
-  status: ready
+  status: none
   chname: Part 1
   chapters:
   - url: focus
-    status: ready
+    status: none
     chname: Chapter 4
     book: Deep Work
   - url: write
-    status: ready
+    status: none
     chname: Chapter 5
     book: GTD
   - url: email
-    status: ready
+    status: none
     chname: Chapter 6
     book: Under New Management
   - url: meetings
-    status: ready
+    status: none
     chname: Chapter 7
     book: Read This Before Next Meeting
   - url: fight
-    status: ready
+    status: none
     chname: Chapter 8
     book: Creativity Inc
   - url: vlog
-    status: ready
+    status: none
     chname: Chapter 9
     book: "???"
   - url: pyramid
-    status: ready
+    status: none
     chname: Chapter 10
     book: No Office Apps
   - url: decide
-    status: ready
+    status: none
     chname: Chapter 11
     book: Shape Up
   - url: lean
-    status: ready
+    status: none
     chname: Chapter 12
     book: 2-minute lean
   - url: pay
-    status: ready
+    status: none
     chname: Chapter 13
     book: Drive
   - url: perks
-    status: ready
+    status: none
     chname: Chapter 14
     book: Punished by Rewards
   - url: week
-    status: ready
+    status: none
     chname: Chapter 15
     book: Rework
   - url: review
-    status: ready
+    status: none
     chname: Chapter 16
     book: Essentialism
   - url: friday
-    status: draft
+    status: none
     chname: Chapter 17
 - url: two
-  status: draft
+  status: none
   chname: Part 2
   chapters:
   - url: trust
-    status: draft
+    status: none
     chname: Chapter 18
   - url: mobile
-    status: draft
+    status: none
     chname: Chapter 19
   - url: chat
-    status: draft
+    status: none
     chname: Chapter 20
   - url: home
-    status: draft
+    status: none
     chname: Chapter 21
   - url: deal
-    status: draft
+    status: none
     chname: Chapter 22
   - url: hire
-    status: draft
+    status: none
     chname: Chapter 23
   - url: connect
-    status: draft
+    status: none
     chname: Chapter 24
   - url: meet
-    status: draft
+    status: none
     chname: Chapter 25
   - url: reunion
-    status: draft
+    status: none
     chname: Chapter 26
   - url: social
-    status: draft
+    status: none
     chname: Chapter 27
   - url: holiday
-    status: draft
+    status: none
     chname: Chapter 28
   - url: many
-    status: draft
+    status: none
     chname: Chapter 29
   - url: security
-    status: draft
+    status: none
     chname: Chapter 30
   - url: transparency
-    status: draft
+    status: none
     chname: Chapter 31
 - url: outro
-  status: draft
+  status: none
   chname: Outro
   chapters:
   - url: thanks
-    status: draft
+    status: none
     chname: Thank you
