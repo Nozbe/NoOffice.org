@@ -45,6 +45,17 @@ subtitle: "Meet your customers regularly and connect with your peers"
 
 	- See where I can help them improve
 
+- Zoom etiquette
+
+https://seths.blog/2020/08/toward-a-zoom-agreement/
+
+Tshirts of co home partners 
+
+Pants
+
+Background. Use virtual. 
+
+
 - I email like texting
 
 	- You can email me at michael@nozbe.com
