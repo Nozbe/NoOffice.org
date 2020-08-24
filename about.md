@@ -8,7 +8,7 @@ title: "About the #NoOffice book project"
 
 Hello, I'm Michael and I'm writing this book, because I want everyone to understand that:
 
-> Work is not a place to go, it's a thing that you do.
+> Work is not a place to go; it's a thing you do.
 
 ## Michael Sliwinski - author
 
@@ -16,7 +16,7 @@ Professionally, I'm [Michael Sliwinski](https://michael.team/) and I'm the [foun
 
 > Basically our apps make people and teams awesome by giving them more time to do what's important.
 
-I'm leading a team of [25 people who work completely remotely from their 25 "home offices"](https://nozbe.com/about) and we've been doing this for the last 13+ years now. Nozbe has more than 700K users from all over the world.
+I'm leading a team of [25 people who work completely remotely from their 25 "home offices"](https://nozbe.com/about) and we've been doing this since 2007. Nozbe has more than 600K users from all over the world.
 
 On GitHub I'm [@MichaelNozbe](https://github.com/michaelnozbe).
 
@@ -26,19 +26,19 @@ Magda is content curator at [Nozbe](https://nozbe.com/) and she's the editor of 
 
 Magda is my trusted editor, and text-sparing-partner. She revises all of my writing and challenges me to write better. Magda and I have been working together since 2013 and she's my right-hand person when it comes to writing. Without her this project wouldn't have had a chance to succeed.
 
-Apart from editing and writing, she's also coordinating the translations of the book to Polish (where she's also the editor), Spanish and Japanese.
+Apart from editing and writing, she's also coordinating the translations of the book to Polish (where she's also the editor) and other languages.
 
 On GitHub she's [@blamagda](https://github.com/blamagda).
 
 ## Our project - the #NoOffice book
 
-Whenever I talk to people about my app and my team people don't believe we can be successful at running an "all remote company". They keep asking *"where are you based?"*, *"where's your office?"*... and when I tell them about our remote team they keep repeating that *"while it might work for you, it will definitely not work for us"*... like if my team were a snowflake ❄️ or a unicorn 🦄 or something.
+Whenever I talk to people about my app and my team, people don't believe we can be successful at running an all remote company. They keep asking: "Where are you based?", "Where's your office?," and when I tell them about our remote team they keep repeating that "While it might work for you, it will definitely not work for us…" like if my team was a snowflake ❄️, a unicorn 🦄 or something.
 
-That's why I decided to start working on this book - [No Office](/book) - because I believe *work is not a place to go, it's a thing that you do* and an office is just a tool which is not mandatory to be running a successful business.
+That's why I decided to start working on this book - [No Office](/book). I believe *work is not a place to go; it's a thing you do* and an office is just a tool which is not mandatory to be running a successful business.
 
-The idea is to gather all the best pieces of advice on running an all-remote team. Based on my experience running Nozbe and inspired by other remotely working teams.
+The idea is to gather all the best pieces of advice on running an all-remote team. Based on my experience managing Nozbe and inspired by other remotely working teams.
 
-Actually the goal is bigger - I think this book will be a sound business advice for any type of business - remote or not. Because what works for an all-remote team can substantially improve operation of a team that does have an office.
+Actually, the goal is bigger - I think this book will be a sound business advice for any type of business - remote or not. Because what works for an all-remote team can substantially improve operation of a team that does have an office.
 
 ## Contributors
 
@@ -48,6 +48,8 @@ Together with Magda, I'm openly writing this book here. The book is free and you
 * Add pull requests and comments on [GitHub repository](https://github.com/Nozbe/NoOffice.org)
 * The book and the site are [licensed under CC BY-SA 4.0](/license)
 
+To make sure the English grammar and style are perfect, Daniella Conley proofreads every chapter of the book. 
+
 Currently we've got several language versions in the works:
 
 ### [Brazilian Portuguese](/br/)
@@ -56,15 +58,15 @@ First community-driven contribution! Translation entirely done by [Kleyson Prado
 
 ### [Polish version](/pl/)
 
-The Polish version is translated internally by Nozbe Team, with Kasia as translator and Magda as editor.
+The Polish version is translated internally by Nozbe Team, with Katarzyna Cwynar as translator and Magda as editor.
 
 ### [Spanish version](/es/)
 
-The Spanish version is translated internally by Nozbe Team, with Maria as translator and [Dominika Musioł](https://github.com/dmusiol) as editor.
+The Spanish version is translated internally by Nozbe Team, with María Sampedro as translator and [Dominika Musioł](https://github.com/dmusiol) as editor.
 
 ### [Japanese version](/jp/)
 
-The Japanese version is translated internally by Nozbe Team, with Keisuke as translator and [Magda Ambrożak](https://github.com/xtinax) as editor.
+The Japanese version is translated internally by Nozbe Team, with Keisuke Hayashi as translator and [Martyna Ambrożak](https://github.com/xtinax) as editor.
 
 ## Technical stuff
 
@@ -73,7 +75,7 @@ If you're interested, here are some technical details about the whole book-writi
 * This book is being written [in Markdown](https://daringfireball.net/projects/markdown/)
 * The site is generated with [Jekyll](https://jekyllrb.com) hosted on [GitHub Pages](https://pages.github.com)
 * [It's all done on the iPad](/why-in-any-company-you-should-be-using-version-control-for-anything-how-we-use-github-not-only-bc2554308455/) using the following apps working together: [Working Copy](https://workingcopyapp.com/) for GitHub support, [IA Writer](https://ia.net/writer) for content and [Textastic](https://www.textasticapp.com/) for code.
-* As the entire book is [published on GitHub](https://github.com/Nozbe/NoOffice.org) and we collaborate on text directly there. When you review commits on GitHub you'll see that once I've finished a draft of a book, Magda directly pulls it from there, edits it and commits back. All our edits are done out in the open. Feel free to contribute.
+* The entire book is [published on GitHub](https://github.com/Nozbe/NoOffice.org) and we collaborate on text directly there. When you review commits on GitHub, you'll see that once I've finished a draft of a book, Magda directly pulls it from there, edits it and commits back. She also updates every chapter after it's profread. All our edits are done out in the open. Feel free to contribute.
 * We coordinate all book writing using both [Nozbe Personal and Nozbe Teams](https://nozbe.com/).
 
 Let's write this book together!
