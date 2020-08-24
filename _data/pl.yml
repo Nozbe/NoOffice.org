@@ -17,10 +17,10 @@ toc:
     status: draft
     chname: Rozdział 1
   - url: team
-    status: none
+    status: draft
     chname: Rozdział 2
   - url: future
-    status: none
+    status: draft
     chname: Rozdział 3
 - url: one
   status: none
