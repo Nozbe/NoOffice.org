@@ -11,7 +11,7 @@ updated: "August 21, 2020"
 toc:
 - url: intro
   status: draft # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
-  chname: Intro
+  chname: Introducción
   chapters:
   - url: dream
     status: draft
