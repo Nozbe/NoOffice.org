@@ -17,10 +17,10 @@ toc:
     status: draft
     chname: 第１章
   - url: team
-    status: none
+    status: draft
     chname: 第２章
   - url: future
-    status: none
+    status: draft
     chname: 第３章
 - url: one
   status: draft
