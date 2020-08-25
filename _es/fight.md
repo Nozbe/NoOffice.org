@@ -1,4 +1,3 @@
-
 ---
 part: one
 title: ¡Luchar, debatir y comprometerse!
@@ -107,7 +106,11 @@ En un equipo, debemos evitar el "pensamiento de grupo" o simplemente estar de ac
 He mencionado varios libros en este capítulo, pero el que más recomendaría para su lectura es "Creatividad, S.A." de Ed Cutmull.
 
 [^1]: [Ken Segall: "Increíblemente simple"](https://kensegall.com/books/)
+
 [^2]: [Ed Cutmull: "Creatividad, S.A."](https://www.creativityincbook.com)
+
 [^3]: [Caballeros de la Mesa Redonda](https://es.wikipedia.org/wiki/Anexo:Caballeros_de_la_Mesa_Redonda)
+
 [^4]: [Paul Saffo - el autor del marco "opiniones fundadas, mal planteadas"](http://www.saffo.com/about-paul-saffo/)
+
 [^5]: [No estar de acuerdo y comprometerse en Wikipedia](https://en.wikipedia.org/wiki/Disagree_and_commit)
