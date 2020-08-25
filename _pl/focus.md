@@ -117,6 +117,8 @@ Jeśli praca nie jest miejscem, do którego się chodzi tylko czynnością, któ
 A jeśli chcesz dowiedzieć się więcej o pracy w skupieniu i o tym, jak osiągnąć skupienie w pracy, polecam lekturę książki Cala Newporta, pt. *Praca głęboka. Jak odnieść sukces w świecie, w którym ciągle coś nas rozprasza*[^3].
 
 [^1]: Na temat [niechętnego stosunku Doliny Krzemowej do pracy w modelu zdalnym](https://sliwinski.com/sv-remote/), [otwartych biur](https://sliwinski.com/3-productivity-tips-and-tricks-for-open-space/), szczególnie o [siedzibie Facebooka](https://sliwinski.com/openoffice/), a ostatnio też o dokumencie [„Modern Worplace”](https://sliwinski.com/workplace/) pisałem na moim blogu.
+
 [^2]: Książka [*Peopleware: Productive Projects and Teams*](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams) autorstwa Toma DeMarco and Tima Listera napisana w 1987 roku i aktualizowana w latach 1999 i 2013.
+
 [^3]: Książka [*Praca głęboka. Jak odnieść sukces w świecie w którym ciągle coś nas rozprasza*(2016)](https://www.calnewport.com/books/deep-work/) autorstwa Cala Newporta.
 
