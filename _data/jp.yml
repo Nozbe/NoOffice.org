@@ -11,7 +11,7 @@ updated: "August 20, 2020"
 toc:
 - url: intro
   status: draft # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
-  chname: Intro
+  chname: はじめに
   chapters:
   - url: dream
     status: draft
@@ -24,7 +24,7 @@ toc:
     chname: Chapter 3
 - url: one
   status: none
-  chname: Part 1
+  chname: 第１部
   chapters:
   - url: focus
     status: none
