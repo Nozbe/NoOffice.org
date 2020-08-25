@@ -105,7 +105,11 @@ Para mí, la comunicación eficiente con mi equipo es lo más importante del mun
 La lectura recomendada para este capítulo es "Bajo una nueva gestión" de David Burkus.[^5]
 
 [^1]: [¿En qué consiste la comunicación basada en tareas?](https://nozbe.com/es/blog/task-based-communication)
+
 [^2]: Usamos y seguimos creando [Nozbe Teams](https://nozbe.com/). Entre las alternativas más populares en este espacio se incluyen [Basecamp](https://basecamp), [Asana](https://asana.com) o [Trello](https://trello.com). Todas estas herramientas se centran en la gestión de proyectos y tareas de maneras un poco distintas, así que asegúrate de que tu equipo elija una herramienta que se ajuste a la forma en que les gusta trabajar.
+
 [^3]: [Comunicación asíncrona como aumento superior de la productividad](https://nozbe.com/es/blog/asynchronous/)
+
 [^4]: Usamos [Slack para chatear](https://slack.com). Las alternativas incluyen [Microsoft Teams](https://www.microsoft.com/es-es/microsoft-365/microsoft-teams/group-chat-software) o [Twist](https://twistapp.com).
+
 [^5]: [Algunas empresas están prohibiendo el correo electrónico y cumplen más objetivos] (https://hbr.org/2016/06/some-companies-are-banning-email-and-getting-more-done) fue un artículo de David Burkus que simplemente confirmaba que yo iba por el buen camino. Más tarde lo amplió en su libro: [Bajo una nueva gestión: Cómo las empresas líderes están cambiando la forma de hacer negocios](https://davidburkus.com/books/under-new-management/)
