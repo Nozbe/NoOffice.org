@@ -15,118 +15,118 @@ toc:
   chapters:
   - url: dream
     status: draft
-    chname: Chapter 1
+    chname: 第１章
   - url: team
     status: none
-    chname: Chapter 2
+    chname: 第２章
   - url: future
     status: none
-    chname: Chapter 3
+    chname: 第３章
 - url: one
-  status: none
+  status: draft
   chname: 第１部
   chapters:
   - url: focus
-    status: none
-    chname: Chapter 4
+    status: draft
+    chname: 第４章
     book: Deep Work
   - url: write
-    status: none
-    chname: Chapter 5
+    status: draft
+    chname: 第５章
     book: GTD
   - url: email
     status: none
-    chname: Chapter 6
+    chname: 第６章
     book: Under New Management
   - url: meetings
     status: none
-    chname: Chapter 7
+    chname: 第７章
     book: Read This Before Next Meeting
   - url: fight
     status: none
-    chname: Chapter 8
+    chname: 第８章
     book: Creativity Inc
   - url: vlog
     status: none
-    chname: Chapter 9
+    chname: 第９章
     book: "???"
   - url: pyramid
     status: none
-    chname: Chapter 10
+    chname: 第10章
     book: No Office Apps
   - url: decide
     status: none
-    chname: Chapter 11
+    chname: 第11章
     book: Shape Up
   - url: lean
     status: none
-    chname: Chapter 12
+    chname: 第12章
     book: 2-minute lean
   - url: pay
     status: none
-    chname: Chapter 13
+    chname: 第13章
     book: Drive
   - url: perks
     status: none
-    chname: Chapter 14
+    chname: 第14章
     book: Punished by Rewards
   - url: week
     status: none
-    chname: Chapter 15
+    chname: 第15章
     book: Rework
   - url: review
     status: none
-    chname: Chapter 16
+    chname: 第16章
     book: Essentialism
   - url: friday
     status: none
-    chname: Chapter 17
+    chname: 第17章
 - url: two
   status: none
   chname: Part 2
   chapters:
   - url: trust
     status: none
-    chname: Chapter 18
+    chname: 第18章
   - url: mobile
     status: none
-    chname: Chapter 19
+    chname: 第19章
   - url: chat
     status: none
-    chname: Chapter 20
+    chname: 第20章
   - url: home
     status: none
-    chname: Chapter 21
+    chname: 第21章
   - url: deal
     status: none
-    chname: Chapter 22
+    chname: 第22章
   - url: hire
     status: none
-    chname: Chapter 23
+    chname: 第23章
   - url: connect
     status: none
-    chname: Chapter 24
+    chname: 第24章
   - url: meet
     status: none
-    chname: Chapter 25
+    chname: 第25章
   - url: reunion
     status: none
-    chname: Chapter 26
+    chname: 第26章
   - url: social
     status: none
-    chname: Chapter 27
+    chname: 第27章
   - url: holiday
     status: none
-    chname: Chapter 28
+    chname: 第28章
   - url: many
     status: none
-    chname: Chapter 29
+    chname: 第29章
   - url: security
     status: none
-    chname: Chapter 30
+    chname: 第30章
   - url: transparency
     status: none
-    chname: Chapter 31
+    chname: 第31章
 - url: outro
   status: none
   chname: Outro
