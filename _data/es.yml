@@ -20,7 +20,7 @@ toc:
     status: none
     chname: Capítulo 2
   - url: future
-    status: none
+    status: draft
     chname: Capítulo 3
 - url: one
   status: none
