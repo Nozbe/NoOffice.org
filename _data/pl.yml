@@ -23,14 +23,14 @@ toc:
     status: draft
     chname: Rozdział 3
 - url: one
-  status: none
+  status: draft
   chname: Part 1
   chapters:
   - url: focus
-    status: none
+    status: draft
     chname: Rozdział 4
   - url: write
-    status: none
+    status: draft
     chname: Rozdział 5
   - url: email
     status: none
