@@ -23,23 +23,23 @@ toc:
     status: draft
     chname: Capítulo 3
 - url: one
-  status: none
+  status: draft
   chname: Part 1
   chapters:
   - url: focus
-    status: none
+    status: draft
     chname: Capítulo 4
   - url: write
-    status: none
+    status: draft
     chname: Capítulo 5
   - url: email
-    status: none
+    status: draft
     chname: Capítulo 6
   - url: meetings
-    status: none
+    status: draft
     chname: Capítulo 7
   - url: fight
-    status: none
+    status: draft
     chname: Capítulo 8
   - url: vlog
     status: none
