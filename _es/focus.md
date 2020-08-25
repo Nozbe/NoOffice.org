@@ -1,9 +1,8 @@
 ---
 part: one
 title: Concéntrate en el trabajo
-subtitle: Todo lo que todo el mundo necesita es amor… y mucho más tiempo de concentración para cumplir los objetivos.
+subtitle: "Todo lo que todo el mundo necesita es amor… y mucho más tiempo de concentración para cumplir los objetivos."
 ---
-
 
 * TOC
 {:toc}
@@ -116,5 +115,7 @@ Si el trabajo no es un lugar para ir, sino una cosa que haces, asegúrate de que
 Para obtener más información sobre el trabajo enfocado y cómo enfocar la concentración en el trabajo, te recomiendo el excelente libro de Cal Newport: "Trabajo profundo”[^3]
 
 [^1]: He publicado en mi blog sobre el [desprecio del trabajo en remoto de Silicon Valley](https://sliwinski.com/sv-remote/), la adopción del [plano de oficina abierta](https://sliwinski.com/3-productivity-tips-and-tricks-for-open-space/) y en particular la [Oficina de Facebook](https://sliwinski.com/openoffice/) y más recientemente el documental [Modern Worplace](https://sliwinski.com/workplace/).
+
 [^2]: [Peopleware: Productive Projects and Teams](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams) de Tom DeMarco y Tim Lister, escrito originalmente en 1987 y actualizado posteriormente en 1999 y 2013.
+
 [^3]: [Deep Work: Rules for Focused Success in a Distracted World (2016)](https://www.calnewport.com/books/deep-work/) de Cal Newport.
