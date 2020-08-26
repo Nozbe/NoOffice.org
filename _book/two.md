@@ -1,25 +1,44 @@
 ---
 part: two
-title: What if there was no office?
-subtitle: There is no office, there is only work that needs to be done.
+title: "What if there was no office?"
+subtitle: "The main thing is not the office but only the work that needs to be done."
 ---
 
 * TOC
 {:toc}
 
+## Let's get rid of the office and keep working... better!
 
-### There is no office, there’s only work
+Almost every business owner on the planet was forced to treat office as an "optional" thing in the months of March-April 2020 because of the COVID-19 pandemic lockdown.
 
-- These are specific practices that we implemented in our No office company and we’ve seen other remote first companies implement
+I deliberately chose to dedicate the first half of this book to *making office work better* and now as we reach the second half, I want to show you how all this can be done without a physical office.
 
-- Doesn’t matter if you’re all remote or you want to let some people work remotely or want to go hybrid.
+When an office is just a tool that you may or may not choose to use.
 
-- These tips will help you be able to work like this... you won’t be tied to an office and to always have to expanding your place
+## There is no office, there’s only work
 
+Let's get back to the premise of this book:
 
+> Work is not a place to go, it's a thing that you do!
 
-I’m a big fan of the movie [Matrix][mat]. It has quite a few memorable scenes. One of the best is when a boy is “bending” the spoon. In this article I’d like to explain how this scene has everything to do with how we get things done every single day:
+Ultimately if you have an office or not, if people go there every day or not, it's all up to you or your boss or your team's situation. Because the office is not the goal.
 
-### Try to realize the truth: there is no spoon.
+The goal is to do great work.
 
-In this scene the boy is telling Neo, the main character, that bending a spoon is impossible… but as they are in the Matrix, the truth is that there is no spoon, and the only thing they can bend is themselves… not the spoon.
+Or to quote a former president of the USA, Thomas Jefferson in the *Hamilton* musical:[^1]
+
+> "Life, liberty and the pursuit of happiness. We fought for these ideals, we shouldn't settle for less!"
+
+So let's not settle for working in an office like we *always used to* but let's re-imagine work. Let's see if we can achieve more personal and organizational happiness by giving people a better life at work and much more liberty.
+
+## Time for part 2 of #NoOffice - the practical guide to remote work
+
+In the following chapters I'll expand on the ideas of a modern workplace which I outlined in part 1.
+
+It's all practical and based on our experience of running Nozbe, an all-remote company, for the last 13 years, as well as examples of other remote-first companies much larger than ours.
+
+Let's leave the office out and just focus on work.
+
+However, if we want to do that, we need to address the elephant in the room and openly address the issue of trust in workplace in the next chapter.
+
+[^1]: I recommend watching [Hamilton musical](https://en.wikipedia.org/wiki/Hamilton_(musical)) on Disney+. It's amazing. I enjoyed it immensely and I'm not even American.
