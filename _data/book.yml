@@ -7,7 +7,7 @@ url: book
 lang_name: American English
 lang_en: English
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_book/"
-updated: "August 23, 2020"
+updated: "August 26, 2020"
 toc:
 - url: intro
   status: ready # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
@@ -83,11 +83,11 @@ toc:
     chname: Chapter 17
     book: "???"
 - url: two
-  status: draft
+  status: ready
   chname: Part 2
   chapters:
   - url: trust
-    status: draft
+    status: ready
     chname: Chapter 18
   - url: mobile
     status: draft

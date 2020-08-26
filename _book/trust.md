@@ -23,11 +23,11 @@ It's time for a new saying:
 
 Whenever someone asks me about leading an all-remote team, one of the first doubts they have is about the fact that I don't see my teammates work. After all, they're hidden in their home offices and I can't tell if they're just slacking off, watching movies or really working.
 
-I immediately turn the question around and ask: *how do you control people in a traditional office?*
+I immediately turn the question around and ask: 
 
-*I can see them!*
-
-*Yes, you see that they're there, but how do you know they're really truly working?* I ask again.
+- *How do you control people in a traditional office?*
+- *I can see them!* They respond.
+- *Yes, you see that they're there, but how do you know they're really truly working?* I ask again.
 
 ### It's easy to pretend to be busy in an office
 
