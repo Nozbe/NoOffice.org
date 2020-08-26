@@ -1,7 +1,7 @@
 ---
 part: one
 title: Zwiększ poziom koncentracji w pracy
-subtitle: "*All you need is love…* i więcej czasu na pracę w skupieniu, by skutecznie realizować zadania i projekty."
+subtitle: "All you need is love… i więcej czasu na pracę w skupieniu, by skutecznie realizować zadania i projekty."
 ---
 
 * TOC
