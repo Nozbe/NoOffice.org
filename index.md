@@ -1,9 +1,15 @@
 ---
 layout: page
-title: The definitive guide to working remotely!
+title: "#NoOffice - the definitive guide to working in a modern way!"
 ---
 
-My name is Michael Sliwinski and I'll be openly working on my upcoming book *"No Office - work is not a place to go, it's a thing that you do"* on this web site. [Read more about this project and how you can contribute](/about/)
+My name is Michael Sliwinski and I'm writing a book: *"No Office - work is not a place to go, it's a thing that you do"*. [Read more about this project and how you can contribute](/about/)
+
+## Progress raport:
+
+The book is originally written in English, and being translated by [#NoOffice community](/about/#contributors).
+
+{% include langs.html %}
 
 ## Latest updates:
 

@@ -2,10 +2,14 @@ title: "Książka: No Office"
 back: "Powrót do spisu treści"
 continue: "Następny:"
 draft: "[Szkic]"
-none: "Jeszcze nic nie jest napisane..."
+none: "Jeszcze nie przetłumaczony..."
 url: pl
-lang_name: Polski
+langs: "Wersje językowe tej książki:"
+langs_ch: "Przeczytaj ten rozdział w języku:" 
+lang: Polski
 lang_en: Polish
+lang_em: "🇵🇱"
+percent: "19"
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_pl/"
 updated: "August 21, 2020"
 toc:

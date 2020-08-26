@@ -1,0 +1,17 @@
+{% if page.book %}
+  {% assign thisbook = page.book %}
+{% else %}
+  {% assign thisbook = 'book' %}
+{% endif %}
+
+{% if include.chapter %}
+<h3>{{ site.data.[thisbook].langs_ch }}</h3>
+{% else %}
+<h3>{{ site.data.[thisbook].langs }}</h3>
+{% endif %}
+
+<ul>
+{% for item in site.data.main.langs %}
+<li><a href="{{ site.url }}/{{ site.data.[item.name].url }}/{% if include.chapter %}{{ include.chapter }}/{% endif %}" title="{{ site.data.[item.name].lang }}" {% if item.name == thisbook %}class="bold"{% endif %}>{{ site.data.[item.name].lang_em }} {{ site.data.[item.name].lang }} [{{ site.data.[item.name].lang_en }}] - {{ site.data.[item.name].percent }}%</a></li>
+{% endfor %}
+</ul>

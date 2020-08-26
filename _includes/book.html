@@ -22,7 +22,7 @@ Our main variable then is "thisbook" which we define in the beginning.
 
 {% if page.part != 'toc' %}
 <div class="book_nav">
-<a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/">{{ site.data.[thisbook].title }}</a> &#187;
+<a href="{{ site.url }}/{{ site.data.[thisbook].url }}/">{{ site.data.[thisbook].title }}</a> &#187;
 {% assign next = false %}
 {% assign next_got = false %}
 {% assign part_sel = 1000 %}
@@ -43,7 +43,7 @@ Our main variable then is "thisbook" which we define in the beginning.
     {% assign page_chname = chapter_chname %}
     {% assign next = true %}
     {% if item.status == "draft" %}{{ site.data.[thisbook].draft }}{% endif %}
-  {% else %}<a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/{{ item.url }}" title="{{ chapter_subtitle }} - {{ chapter_title }}">{{ chapter_chname }} - {{ chapter_title }}</a>
+  {% else %}<a href="{{ site.url }}/{{ site.data.[thisbook].url }}/{{ item.url }}" title="{{ chapter_subtitle }} - {{ chapter_title }}">{{ chapter_chname }} - {{ chapter_title }}</a>
   {% endif %}
   {% for entry in item.chapters %}
     {% for slug in slugs %}

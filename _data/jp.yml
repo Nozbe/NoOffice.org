@@ -2,10 +2,14 @@ title: "Book: No Office"
 back: Back to the Table of Contents
 continue: "Next:"
 draft: "[Draft]"
-none: "Nothing written yet..."
+none: "Not translated yet..."
 url: jp
-lang_name: 日本語
+langs: "Language versions of this book:"
+langs_ch: "Read this chapter in:" 
+lang: 日本語
 lang_en: Japanese
+lang_em: "🇯🇵"
+percent: "19"
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_jp/"
 updated: "August 20, 2020"
 toc:

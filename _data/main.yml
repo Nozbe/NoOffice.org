@@ -29,6 +29,10 @@ tags:
   title: "Diary of writing the book"
   subtitle: "Step by step. Day by day. Writing No Office book as people need it now more than ever."
 
+langs:
 
-
-
+- name: book
+- name: pl
+- name: es
+- name: jp
+- name: br

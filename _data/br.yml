@@ -4,8 +4,12 @@ continue: "Próximo:"
 draft: "[Rascunho]"
 none: "Nada escrito ainda..."
 url: br
-lang_name: Português do Brasil
+langs: "Language versions of this book:"
+langs_ch: "Read this chapter in:" 
+lang: Português do Brasil
 lang_en: Brazilian Portuguese
+lang_em: "🇧🇷"
+percent: "11"
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_br/"
 updated: "August 19, 2020"
 toc:
