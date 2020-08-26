@@ -37,13 +37,13 @@ toc:
     status: draft
     chname: Rozdział 5
   - url: email
-    status: none
+    status: draft
     chname: Rozdział 6
   - url: meetings
-    status: none
+    status: draft
     chname: Rozdział 7
   - url: fight
-    status: none
+    status: draft
     chname: Rozdział 8
   - url: vlog
     status: none
