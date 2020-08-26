@@ -12,18 +12,22 @@
 
 <ul>
 {% for item in site.data.main.langs %}
-<li><a href="{{ site.url }}/{{ site.data.[item.name].url }}/{% if include.chapter %}{{ include.chapter }}/{% endif %}" title="{{ site.data.[item.name].lang }}" {% if item.name == thisbook %}class="bold"{% endif %}>{{ site.data.[item.name].lang_em }} {{ site.data.[item.name].lang }} [{{ site.data.[item.name].lang_en }}]{% if include.chapter==null %} - {{ site.data.[item.name].percent }}%{% endif %}</a></li>
+
+{% if include.chapter %}
+  {% for chapter in site.[item.name] %}
+    {% if chapter.slug == include.chapter %}
+      {% assign showlang = true %}
+    {% else %}
+      {% assign showlang = null %}
+    {% endif %}
+  {% endfor %}
+{% else %}
+  {% assign showlang = true %}
+{% endif %}
+
+{% if showlang %}
+<li><a href="{{ site.url }}/{{ item.name }}/{% if include.chapter %}{{ include.chapter }}/{% endif %}" title="{{ site.data.[item.name].lang }}" {% if item.name == thisbook %}class="bold"{% endif %}>{{ site.data.[item.name].lang_em }} {{ site.data.[item.name].lang }} [{{ site.data.[item.name].lang_en }}]{% if include.chapter==null %} - {{ site.data.[item.name].percent }}%{% endif %}</a></li>
+{% endif %}
+
 {% endfor %}
 </ul>
-
-<!--
-Collection:
-{% for item in site.[thisbook] %}
-{{ item.slug }}|
-{% endfor %}
-
-TOC:
-{% for item in site.data.[thisbook].toc %}
-{{ item.slug }}|
-{% endfor %}
--->
