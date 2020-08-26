@@ -14,11 +14,10 @@
 {% for item in site.data.main.langs %}
 
 {% if include.chapter %}
+  {% assign showlang = null %}
   {% for chapter in site.[item.name] %}
     {% if chapter.slug == include.chapter %}
       {% assign showlang = true %}
-    {% else %}
-      {% assign showlang = null %}
     {% endif %}
   {% endfor %}
 {% else %}
