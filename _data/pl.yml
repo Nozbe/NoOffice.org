@@ -9,9 +9,9 @@ langs_ch: "Przeczytaj ten rozdział w języku:"
 lang: Polski
 lang_en: Polish
 lang_em: "🇵🇱"
-percent: "19"
+percent: "28"
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_pl/"
-updated: "August 21, 2020"
+updated: "Sierpień 27, 2020"
 toc:
 - url: intro
   status: draft # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
