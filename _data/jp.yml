@@ -39,15 +39,15 @@ toc:
     chname: 第５章
     book: GTD
   - url: email
-    status: none
+    status: draft
     chname: 第６章
     book: Under New Management
   - url: meetings
-    status: none
+    status: draft
     chname: 第７章
     book: Read This Before Next Meeting
   - url: fight
-    status: none
+    status: draft
     chname: 第８章
     book: Creativity Inc
   - url: vlog
