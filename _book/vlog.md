@@ -35,7 +35,7 @@ And the best part? You don't need any special equipment for this – you can use
 
 ### Step 1. Write the script but try to record a video message
 
-Yes, I could post just a blog post for everyone to read and ask for feedback. That's one solution. But I believe a vlog conveys more – it shows emotion and it allows you to demo concepts and explain them more visually. It's much more engaging, andas everyone on our team works from home, it’s a good opportunity for the team to see me regularly, beyond just seeing my name or messages.
+Yes, I could post just a blog post for everyone to read and ask for feedback. That's one solution. But I believe a vlog conveys more – it shows emotion and it allows you to demo concepts and explain them more visually. It's much more engaging, and as everyone on our team works from home, it’s a good opportunity for the team to see me regularly, beyond just seeing my name or messages.
 
 I don't typically write a word-for-word script of what I'm going to say in the vlog, though it’s a good idea for people less accustomed to speaking to a camera. Instead, I usually prepare by opening up a mind map and outlining my talking points.[^1]
 
