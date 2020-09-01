@@ -11,7 +11,7 @@ lang_en: Spanish
 lang_em: "🇪🇸"
 percent: "28"
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_es/"
-updated: "August 21, 2020"
+updated: "August 25, 2020"
 toc:
 - url: intro
   status: draft # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
