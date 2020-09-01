@@ -1,11 +1,25 @@
 ---
 part: two
-title: Paperless and mobile
-subtitle: "Paper is bad and wasteful. Mobile access to everything is great!"
+title: Go paperless and mobile
+subtitle: "Paper is so last century. Enable access to everything from any device!"
 ---
 
 * TOC
 {:toc}
+
+## The trouble with reliance on office... the documents!
+
+When decisions not made in the office?
+
+How can you send stuff to people?
+
+## Old school work
+
+You have paper documents, you scan them, you send them via email.
+
+## Modern #NoOffice companies are doing it better
+
+
 
 ### Go paperless and mobile
 

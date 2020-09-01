@@ -104,7 +104,7 @@ These situations challenge us, get us out of our comfort zones, put us on edge o
 
 In a team, we should avoid "groupthink" or just blindly agreeing with the leader. What we shouldn't avoid is a healthy dose of disagreement or passionate arguing. This is something a team needs to get used to in order to make better decisions.
 
-I've mentioned several books in this chapter ,but the one I'd recommend most for further reading is *Creativity Inc.* by Ed Cutmull.
+I've mentioned several books in this chapter ,but the one I'd recommend most for further reading is *Creativity Inc.* by Ed Cutmull[^2].
 
 [^1]: [Ken Segall: *Insanely Simple*](https://kensegall.com/books/)
 
