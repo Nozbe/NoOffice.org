@@ -1,7 +1,7 @@
 ---
-parte: one
-título: Usa el vlog
-subtítulo: "Sustituye las reuniones de todos los miembros o los anuncios a todo el equipo por videoblogs"
+part: one
+title: Usa el vlog
+subtitle: "Sustituye las reuniones de todos los miembros o los anuncios a todo el equipo por videoblogs"
 ---
 
 * TOC
