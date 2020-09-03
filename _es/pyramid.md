@@ -1,7 +1,7 @@
 ---
-parte: one
-título: Dale la vuelta al trabajo
-subtítulo: "Cómo descubrimos la 'Pirámide de la comunicación' que nos ayuda a trabajar mejor como equipo"
+part: one
+title: Dale la vuelta al trabajo
+subtitle: "Cómo descubrimos la 'Pirámide de la comunicación' que nos ayuda a trabajar mejor como equipo"
 ---
 
 * TOC
