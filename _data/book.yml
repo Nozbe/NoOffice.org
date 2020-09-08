@@ -11,7 +11,7 @@ langs_ch: "Read this chapter in:"
 lang: American English
 lang_en: English
 lang_em: "🇺🇸"
-percent: "63" #We have in total 36 files in the book out of which 31 are chapters, each chapter is 3 points; intro, one, two and outro are 2 points and thanks is 1 point. Total 100 points.
+percent: "66" #We have in total 36 files in the book out of which 31 are chapters, each chapter is 3 points; intro, one, two and outro are 2 points and thanks is 1 point. Total 100 points.
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_book/"
 updated: "September 1, 2020"
 toc:
@@ -98,8 +98,8 @@ toc:
   - url: mobile
     status: ready
     chname: Chapter 19
-  - url: chat
-    status: draft
+  - url: async
+    status: ready
     chname: Chapter 20
   - url: home
     status: draft

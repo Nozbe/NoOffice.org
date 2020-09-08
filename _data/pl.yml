@@ -9,7 +9,7 @@ langs_ch: "Przeczytaj ten rozdział w języku:"
 lang: Polski
 lang_en: Polish
 lang_em: "🇵🇱"
-percent: "28"
+percent: "37"
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_pl/"
 updated: "Sierpień 27, 2020"
 toc:
@@ -82,7 +82,7 @@ toc:
   - url: mobile
     status: none
     chname: Rozdział 19
-  - url: chat
+  - url: async
     status: none
     chname: Rozdział 20
   - url: home
