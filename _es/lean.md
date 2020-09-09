@@ -1,5 +1,5 @@
 ---
-parte: one
+part: one
 title: Elimina pérdidas de tiempo
 subtitle: "Practica el enfoque "lean" mediante la mejora constante de la forma de hacer las cosas."
 ---
