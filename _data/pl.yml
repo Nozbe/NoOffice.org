@@ -55,13 +55,13 @@ toc:
     status: draft
     chname: Rozdział 11
   - url: lean
-    status: none
+    status: draft
     chname: Rozdział 12
   - url: pay
-    status: none
+    status: draft
     chname: Rozdział 13
   - url: perks
-    status: none
+    status: draft
     chname: Rozdział 14
   - url: week
     status: none
