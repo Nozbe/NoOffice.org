@@ -51,15 +51,15 @@ toc:
     chname: 第８章
     book: Creativity Inc
   - url: vlog
-    status: none
+    status: draft
     chname: 第９章
     book: "???"
   - url: pyramid
-    status: none
+    status: draft
     chname: 第10章
     book: No Office Apps
   - url: decide
-    status: none
+    status: draft
     chname: 第11章
     book: Shape Up
   - url: lean
