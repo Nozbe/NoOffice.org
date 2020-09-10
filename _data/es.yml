@@ -46,22 +46,22 @@ toc:
     status: draft
     chname: Capítulo 8
   - url: vlog
-    status: none
+    status: draft
     chname: Capítulo 9
   - url: pyramid
-    status: none
+    status: draft
     chname: Capítulo 10
   - url: decide
-    status: none
+    status: draft
     chname: Capítulo 11
   - url: lean
-    status: none
+    status: draft
     chname: Capítulo 12
   - url: pay
-    status: none
+    status: draft
     chname: Capítulo 13
   - url: perks
-    status: none
+    status: draft
     chname: Capítulo 14
   - url: week
     status: none
