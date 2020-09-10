@@ -1,7 +1,7 @@
 ---
 part: one
 title: Review work regularly
-subtitle: "Every week check on your progress and every quarter focus on the big picture"
+subtitle: "Every week, check on your progress, and every quarter, focus on the big picture"
 ---
 
 * TOC
@@ -25,7 +25,7 @@ In *Getting Things Done* David Allen[^2] coined the concept of a *Weekly Review*
 
 The habit of a weekly review is hard to master but it's extremely useful. It basically consists of 5 steps:[^3]
 
-1. Clean up inboxes (incoming documents, emails...)
+1. Clean up inboxes (incoming documents, emails…)
 2. Reconnect with your goals
 3. Read your past week's calendar and journal
 4. Check your upcoming week's calendar
@@ -33,13 +33,13 @@ The habit of a weekly review is hard to master but it's extremely useful. It bas
 
 Sounds easy, but it's still lots of work. Emails and other incoming documents tend to pile up. We get confused about our goals. The calendar is full of commitments that we took on which we don't want to do anymore. We've got way too many projects and tasks on our plate!
 
-That's why the first weekly review will take you about a day. Yes, that's right, an entire day. But do it anyway, you'll thank me later. And if you stick to it, the next reviews will take you up to 2 hours.
+That's why the first weekly review will take you about a day. Yes, that's right, an entire day. But do it anyway, you'll thank me later. And if you stick to it, the next reviews will take you up to two hours.
 
 Two hours?! That's still too much, right? No, it's not.
 
 > A weekly review should be the most important meeting you have in the week because it's all about you, your goals and your time. And remember, time is priceless.
 
-Take a good look at how many minutes or hours you've wasted last week on coffees, catch-up meetings with colleagues and browsing social media. I'm sure you'll find your 2 hours in there. Just put them on your calendar and get to it! Make yourself a priority. For the sake of everyone around you.
+Take a good look at how many minutes or hours you've wasted last week on coffees, catch-up meetings with colleagues and browsing social media. I'm sure you'll find your two hours in there. Just put them on your calendar and get to it! Make yourself a priority. For the sake of everyone around you.
 
 Every time you board a plane they tell you that in an event of a loss of cabin pressure, put your oxygen mask first and only then attend to everyone around you. Even your kids.
 
@@ -51,15 +51,15 @@ Greg McKeown in a podcast interview[^4] introduced this concept of a *Quarterly 
 
 Over the years as I've been doing this, I discovered that reviewing everything that you do every quarter is much more powerful than these *New Years Resolutions* that I set at the beginning of the year and forget in a few weeks that follow.
 
-> Regularly reviewing my work, my goals, my metrics and my entire life over the past 3 months and planning next 3 months have been one of the most powerful productivity tricks up my sleeve.
+> Regularly reviewing my work, my goals, my metrics and my entire life over the past three months and planning next three months have been one of the most powerful productivity tricks up my sleeve.
 
-As with almost everything in my life, it takes only 5 steps to get it done:[^5]
+As with almost everything in my life, it takes only five steps to get it done:[^5]
 
-### Step 1. Reconnect with your big picture.
+### Step 1. Reconnect with your big picture
 
-Write down at least 3 most important goals / areas of your life.
+Write down at least three most important goals/areas of your life.
 
-* Where do you see yourself in 5 years? (Write down a vision of yourself and what you’ve achieved by then)
+* Where do you see yourself in five years? (Write down a vision of yourself and what you’ve achieved by then)
 * How do you want to end this year? (Write down your yearly resolutions here)
 
 This part is about reconnecting with your goals and main areas of your life. It’s about making sure that you’re heading in the right direction. The famous saying goes:
@@ -79,17 +79,17 @@ Check out what happened:
 
 Take your time. Read through everything you’ve got on the last quarter and jot down your successes and failures of the last months. And always remember: *“there’s no failure, there’s only feedback”.*
 
-### Step 3. Plan your next quarter.
+### Step 3. Plan your next quarter
 
-Now it's time to do some planning.
+Now, it's time to do some planning.
 
-* Review your goals for life, next 5 years and this year - again!
+* Review your goals for life, next five years and this year - again!
 * Write down the names of next months and leave the space below each of them to write down your goals/plans
 * Review your calendar for the next three months and make sure things you committed to are still relevant (if not, try to re-negotiate them)
 
 Focus on your big goals for each month. Don’t go too technical and too deep with tasks for each month - just the big goals - the big areas - the most essential things for each month.
 
-### Step 4. Answer some hard questions.
+### Step 4. Answer some hard questions
 
 These questions are very powerful and it's good to go through them very often. This way you'll live more consciously and not just *go with the flow*.
 
@@ -127,7 +127,7 @@ As the CEO I then schedule one-on-one chats with my directors. After all these r
 
 ### Individual chats are totally casual
 
-I think it's great we get to talk to each other individually once every 3 months. Especially in an all-remote team where we don't get as much face time with each other as we would in a traditional office.
+I think it's great we get to talk to each other individually once every three months. Especially in an all-remote team where we don't get as much face time with each other as we would in a traditional office.
 
 Team member usually shares parts of their quarterly review with their supervisor, or at least the conclusions from it.
 
