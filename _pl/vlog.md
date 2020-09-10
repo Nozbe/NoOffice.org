@@ -33,7 +33,7 @@ Jak pamiętasz, celem spotkań typu *all-hands meeting* jest informowanie zespo�
 
 Najlepsze we vlogowaniu jest to, że nie wymaga dużego zaplecza sprzętowego – wystarczy smartfon lub iPad, aby osiągnąć zadowalający rezultat!
 
-### Krok 1. Napisz skrypt i nagraj vlog
+### Krok 1. Napisz scenariusz i nagraj vlog
 
 Z jednej strony, mógłbym po prostu opublikować post na blogu, kazać wszystkim go przeczytać i poprosić o feedback. Wierzę jednak, że vlog przekazuje więcej – pokazuje emocje, pozwala wyjaśnić niektóre koncepcje w bardziej obrazowy sposób, albo je zademonstrować. Jest zwyczajnie bardziej angażujący, a ponieważ w naszym zespole wszyscy pracują z domu i nie z każdym widuję się regularnie na videorozmowach, muszę czasem przypomnieć, jak wyglądam :-)
 
