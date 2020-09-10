@@ -1,7 +1,7 @@
 ---
 part: one
 title: Design your workweek
-subtitle: "Set flexible hours, themed days and find stretches of uninterrupted time."
+subtitle: "Set flexible hours, themed days and find stretches of uninterrupted time"
 ---
 
 * TOC
@@ -17,9 +17,9 @@ Because a typical person wakes up in the morning, eats breakfast, commutes to wo
 
 But is it true, though? Do we all work like this? Is everyone the same?
 
-### Not everyone is in the same phase of life...
+### Not everyone is in the same phase of life…
 
-Some people have young kids, so they have to get them to school and also pick them up from there. Some have teenage kids who don't need so much care and others have no kids at all. Some have partners, others are single. Some are in their twenties, or thirties, or forties, or fifties, or sixties... you get a picture.
+Some people have young kids, so they have to get them to school and also pick them up from there. Some have teenage kids who don't need so much care and others have no kids at all. Some have partners, others are single. Some are in their twenties, or thirties, or forties, or fifties, or sixties… you get a picture.
 
 All these factors influence the flow of a day for a person. It's preposterous to assume that everyone should adhere to the same uniform 9-5 schedule even though their situation in life is completely different.  
 
@@ -27,7 +27,7 @@ On top of that, there are people who love waking up early in the morning. Others
 
 ### Let's stop with factory-like shifts
 
-Just because you have an office that everyone is going to, doesn't mean that people have to be there 9-5. Office should be a tool you use to get work done. Office should not be an arbiter of schedule. Office is not a factory where you crank widgets.
+Just because you have an office that everyone is going to doesn't mean that people have to be there 9-5. Office should be a tool you use to get work done. Office should not be an arbiter of schedule. Office is not a factory where you crank widgets.
 
 People on the team should be able to determine their own schedules. Come early in the morning if they fancy, leave work to run some errands in the middle of the day or just have a walk because the weather is nice. Come in the evening for their own night shift if they feel like it.
 
@@ -53,7 +53,7 @@ Everyone is different and they should have an agency to design their own, perfec
 - Tuesday - Product. I review all proposals, pending tasks, progress on features I'm involved with and have our *design* meeting.
 - Wednesday - Marketing. I have our *marketing* meeting, I give feedback to the marketing team. Every two weeks I have our *support* improvement meeting.
 - Thursday - Writing. I don't have any meetings. I write a lot - blog posts, marketing stuff, prepare for interviews, etc.
-- Friday - Review. I review my week, prepare for next one. More on Fridays at Nozbe in one of the next chapters.
+- Friday - Review. I review my week, prepare for the next one. More on Fridays at Nozbe in one of the next chapters.
 
 As you can see, the plan revolves around the regular meetings we have and my responsibilities as the CEO, VP of Marketing and chief visionary behind Nozbe. I wear many hats so my week accommodates for that and helps me work in a focused way.
 
@@ -67,28 +67,28 @@ The same exercise can be done together with people you work with. This way a tea
 
 Such ideas create a natural *cadence* of work for everyone on the team and encourage them to approach their workweek in a more conscious way. Everyone feels in more control. They know what they'll be working on and what to expect from each other.
 
-## Cut out 2 hours of focus time each day.
+## Cut out two hours of focus time each day.
 
 The trouble with working in a team is that there are so many things going on that it's really hard to find time to work on something in a focused way. And as I wrote in chapter 4 - focus is a scarce resource we all need more of.
 
-### Working on something for 2 hours straight gives great results!
+### Working on something for two hours straight gives great results!
 
-As a productivity fanatic, I've been experimenting with many work-life hacks over the years[^3] but recently I discovered that my single-best tool for meaningful work is a long stretch of uninterrupted time to work on one thing. How long? At least 2 hours.
+As a productivity fanatic, I've been experimenting with many work-life hacks over the years[^3] but recently I discovered that my single-best tool for meaningful work is a long stretch of uninterrupted time to work on one thing. How long? At least two hours.
 
-That's right. I need 2 hours of uninterrupted time to move something forward. To write a draft of a proposal, a blog post or thoughtful feedback on a strategic topic.[^4]
+That's right. I need two hours of uninterrupted time to move something forward. To write a draft of a proposal, a blog post or thoughtful feedback on a strategic topic.[^4]
 
-Why 2 hours? Because they usually work like this:
+Why two hours? Because they usually work like this:
 
-* In the first 30 minutes I turn off notifications or just silence my phone and start thinking about the problem. I gather all the links and resources needed to tackle the issue.
-* In the second 30 minutes I start working, I have the first rough draft, idea or outline
-* And I still have at least 1 hour to work on it. I've thought about the problem, I'm focused, I'm warmed up... and now I can get to work.
-* After 2 hours I will have usually created something that I can send to the team for feedback, or I have the momentum to keep going and finish it up for another 30-60 minutes.
+* In the first 30 minutes, I turn off notifications or just silence my phone and start thinking about the problem. I gather all the links and resources needed to tackle the issue.
+* In the second 30 minutes, I start working, I have the first rough draft, idea or outline.
+* And I still have at least one hour to work on it. I've thought about the problem, I'm focused, I'm warmed up… and now, I can get to work.
+* After two hours, I will have usually created something that I can send to the team for feedback, or I have the momentum to keep going and finish it up for another 30-60 minutes.
 
-### Block off 2 hours every day at the same time.
+### Block off two hours every day at the same time.
 
-My trick is to block off my *2-hour focus time* every day at the same time. To make it a productivity habit and a no-brainer.
+My trick is to block off my *two-hour focus time* every day at the same time. To make it a productivity habit and a no-brainer.
 
-Most of the weeks my 2-hour window is between 11am-1pm. This way in the morning I have enough time to respond to some team feedback or maybe do morning sports session and by the time 11 hits, I'm on my iPad, with all my notifications turned off and working in full focus. Once I'm done past 1pm I'm letting my team know I'm available for feedback and I'm reviewing all the tasks assigned to me or check where I was mentioned.
+Most of the weeks my two-hour window is between 11am-1pm. This way in the morning I have enough time to respond to some team feedback or maybe do morning sports session and by the time 11 hits, I'm on my iPad, with all my notifications turned off and working in full focus. Once I'm done past 1pm I'm letting my team know I'm available for feedback and I'm reviewing all the tasks assigned to me or check where I was mentioned.
 
 Once I started doing that I could easily communicate it to my team, that between 11:00-13:00 I'm not available as I'm working on my *focus task*. This way I'm also leading by example as I really want everyone on my team to have as much uninterrupted stretches of time as well.
 
