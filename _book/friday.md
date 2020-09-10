@@ -1,6 +1,6 @@
 ---
 part: one
-title: "Don't do work on Fridays"
+title: Don't do work on Fridays
 subtitle: "Introduce 'Mighty Fridays' with regular reviews and focus on personal development."
 ---
 
@@ -67,9 +67,9 @@ In my company these are **Mighty Fridays**.
 
 ### Rule 1. We work on day-to-day tasks only from Monday to Thursday.
 
-It's not about just cutting the workweek to 4 days. If you're getting rid of one day you're not really getting anything in return. I mean you do get one day free, but it doesn't make your remaining 4 days any better. It actually this can make them even more stressful. That's why many companies that tried it, failed.
+It's not about just cutting the workweek to four days. If you're getting rid of one day you're not really getting anything in return. I mean you do get one day free, but it doesn't make your remaining four days any better. It actually this can make them even more stressful. That's why many companies that tried it, failed.
 
-> It's about working on day-to-day tasks for 4 days and working *on yourself* on Fridays.
+> It's about working on day-to-day tasks for four days and working *on yourself* on Fridays.
 
 ### Rule 2. On Friday you must do your weekly review
 
@@ -116,7 +116,7 @@ Over the years of having *Mighty Fridays* we've found these tips pretty helpful:
 
 ## The one thing: make Friday different, make it free(ish)
 
-Implement *Mighty Fridays* by encouraging everyone around you to do their weekly review and later inspire them to focus on their personal development. Both of these things will significantly improve the level of execution in your team each week. I assure you that you'll feel like you're achieving much more in just 4 days of a highly focused week than you've ever done in traditional 5. You'll also have more joy at work as a bonus. And who doesn't like bonuses?
+Implement *Mighty Fridays* by encouraging everyone around you to do their weekly review and later inspire them to focus on their personal development. Both of these things will significantly improve the level of execution in your team each week. I assure you that you'll feel like you're achieving much more in just four days of a highly focused week than you've ever done in traditional five. You'll also have more joy at work as a bonus. And who doesn't like bonuses?
 
 [^1]: Announced here on [No Office blog](https://nooffice.org/tgif-my-teams-attempt-at-working-less-but-better-360cd61de2f8/) in August of 2016 and later followed up on [Nozbe blog](https://nozbe.com/blog/friday/) with [some conclusions 8 weeks later](https://nozbe.com/blog/tgif-tips/) and a conversation on [episode #70 of The Podcast](https://thepodcast.fm/70).
 [^2]: Published on HR Zone: [Why did Google abandon 20% time for innovation?](https://www.hrzone.com/lead/culture/why-did-google-abandon-20-time-for-innovation)
