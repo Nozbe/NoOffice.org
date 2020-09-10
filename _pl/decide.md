@@ -105,7 +105,7 @@ Praktyka ta jest bardzo popularna w działaniach marketingowych. Specjaliści od
 
 ### Zaplanuj datę weryfikacji decyzji
 
-Zakładamy, że każda decyzja jest tymczasowa. Bardzo często, po podjęciu decyzji, ustalamy termin „spotkania rewizyjnego” za około 2-3 miesiące.
+Zakładamy, że każda decyzja jest tymczasowa. Bardzo często, po podjęciu decyzji, ustalamy termin spotkania ewaluacyjnego za około 2-3 miesiące.
 
 Na takim spotkaniu analizujemy, co poszło dobrze, a co nie i co wymaga poprawy. Zwykle organizujemy w tym celu wideokonferencję, na której gospodarz spotkania udostępnia pozostałym uczestnikom ekran z mapą myśli ze wszystkimi punktami dyskusji. Każdy wyraża swoją opinię i mapa jest na bieżąco aktualizowana. Po spotkaniu gospodarz zapisuje wnioski i sugestie na przyszłość.
 
