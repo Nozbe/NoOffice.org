@@ -95,12 +95,15 @@ toc:
   - url: trust
     status: ready
     chname: Chapter 18
+    book: "???"
   - url: mobile
     status: ready
     chname: Chapter 19
+    book: "???"
   - url: async
     status: ready
     chname: Chapter 20
+    book: "Digital Minimalism"
   - url: home
     status: draft
     chname: Chapter 21
