@@ -1,23 +1,47 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.description }}</title>
+<html><head>
+<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.description }}</title>
 
-    {% include meta.html %}
+<meta charset="utf-8" />
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+{% if page.excerpt %}
+<meta name="description" content="{{ page.excerpt| strip_html }}" />
+<meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+{% else %}
+<meta name="description" content="{{ site.description }}">
+<meta property="og:description" content="{{ site.description }}" />
+{% endif %}
+<meta name="author" content="{{ site.name }}" />
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="icon" type="image/png" href="{{ site.avatar }}">
+{% if page.title %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="twitter:title" content="{{ page.title }}" />
+{% endif %}
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-    <!-- Expanded by Michael Sliwinski - https://NoOffice.org -->
-  </head>
+<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 
-  <body>
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+<link rel="icon" type="image/png" href="{{ site.avatar }}">
+
+<!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+<!-- Expanded by Michael Sliwinski - https://github.com/nozbe/nooffice.org -->
+
+{% if page.js %}
+{% if page.js == "refresh" %}
+<meta http-equiv="Refresh" content="60; url=https://nooffice.org/" />
+{% endif %}
+<script type="text/javascript" src="/{{ page.js }}"></script>
+</head><body onload="{{ page.js }}();">
+{% else %}
+</head><body>
+{% endif %}
+
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">

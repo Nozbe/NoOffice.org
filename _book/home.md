@@ -1,147 +1,160 @@
 ---
 part: two
-title: Home setup
-subtitle: "How to set up your work environment at home and not go nuts."
+title: Set up your home office
+subtitle: "How to create a work environment at home and not go nuts."
 ---
 
 * TOC
 {:toc}
 
-### Set up your work environment at home
+## Setting up a home office is a process
 
-- Usually open but when focused
+In order to be able to get any meaningful work done remotely, you need to set up an office space at your home. This is not easy and there's no one-size-fits-all solution. To make this chapter as useful and as actionable for you as possible, I'll be sharing best practices from various sources.
 
-- Close the door
+Not only will I share my own experience as someone who's been working from home his entire career, but I'll add lots of tips and tricks from my co-workers who as you know, also work from their homes, and from all the other people who shared their home office stories with me on social media and via email.
 
-- Children complicate things
+But first, please accept this common work-at-home statement:
 
-	- Should go to
-	  School
+> Home office changes all the time. With your age, with your marital status, with the number of kids in your household and with each home you move in to.
 
-	- Maximize time when they’re not there
+That's right. Your home office will be constantly changing. From the very moment I launched Nozbe in 2007 I've been documenting on my blog how my home office evolved during the years[^1].
 
-		- Plan deep work then
+## Home office changes as your life takes turns…
 
-	- When kids are sick it’s a problem
+I might be an extreme example, as in the last 13 years I switched homes 4 times. Also in the meantime my three daughters were born. These are lots of changes. But thanks to them I've had all types of home offices:
 
-- Children can open door themselves
+### Bedroom office
 
-	- Talk to them
+The problem with setting up a home office in your own bedroom is that you're telling your brain that you're going to work in the same place where you are supposed to relax and sleep. Many people having bedroom offices complain that in the evening as they want to fall asleep, that home office corner reminds them of work too much.
 
-	- Signs that busy
+This kind of home office is especially easy to set up if you have a small apartment. During the day hardly anyone visits the bedroom, so the rest of your family will leave you in peace and this in turn lets you focus on your work. Many of my co-workers set up their first home offices in their bedrooms.
 
-	- IKEA light
+### Corner office in a living room
 
-- Dedicated work computer
+This was my setup for a long time in the first two years of running Nozbe. Initially it was just a desk in a corner of the living room, but later I bought a *cabinet* desk which I could open it up to work and close it down after work[^2]. This proved to be very useful, as it helped me keep my living room clutter-free from work.
 
-	- iMac is my work
+At the time we didn't have kids and my wife was commuting every day to an office in a law firm. This meant that during the day the living room was empty and I could enjoy a larger space for work.
 
-	- MacBook is for fun
+This all changed when our first daughter was born. She claimed the living room space and I couldn't focus on work anymore.
 
-- Height-regulated desk is cool
+### Kitchen office
 
-	- IKEA desk
+Some apartments have a pretty big kitchen and when you can't set up a bedroom office or the living room is just too small, the kitchen is the last resort. I don't recommend it as the temptation to check out what's new in the fridge is too strong for me. I'd snack almost all the time.
 
-	- I love standing
+Also, in many households the kitchen is the heart of the home so your family members will be visiting it a lot and thus not really helping you focus on work.
 
-	- About half-day of work standing
+### Dedicated office room
 
-- The same room as sleeping sucks
+This is the holy grail of working from home. This is the ultimate luxury of a home office worker.
 
-	- But when the bed gets folded to sofa, so it’s OK
+> Working from home starts for real when you have a separate office room set up just for yourself.
 
-	- Good to have a dedicated work corner
+This is why when we could afford it, we moved to a three bedroom apartment. One bedroom for me and my wife, one for the kids and one for my very own home office.
 
-- My home office evolution throughout the years
+The difference is like night and day.
 
-- Special Fridays
+Even if the dedicated room is small or has poor natural lighting, it doesn't matter. The quality of working from your very own home office room is tremendous.
 
-	- Cafe on Friday
+Again, if you have a dedicated room, you don't really need much more! Just a simple desk from IKEA, a chair and a lamp and you're in business.
 
-	- To be around people
+A separate room works great for you in so many ways:
 
-	- To switch environments
+* You have a clear boundary between private life and work life as by entering this space you're clearly signaling to your brain that now it's all about work.
+* You can close the door and even put a *do not disturb* sign on it when you're having a video call. You will no longer be disturbed.
+* You will have an opportunity to decorate this place as you'd like. You can paint the walls in any color you like and hang on them whatever you want. It's your space, it doesn't need to *play well* with the rest of the house.
 
-	- To make this day special
+## Home office tips - how to make working from home even better
 
-- In promptu meetings on Zoom?
+Now that we've covered all the locations of the home office, let's talk about the gear. Over the years as I moved places and set up my home offices many times over and in the process interviewed many fellow home workers, I compiled a list of tips and tricks.[^3]
 
-	- Cafe Friday
+After all, your home office is the *room where it happens*[^4] so check out how you can make it even better:
 
-	- Set up zoom
+### Get a comfortable chair
 
-	- Same time every Friday
+People spend lots of money on computers, smartphones and other gadgets but when it comes to getting a chair, they seem to just go with the cheapest option from IKEA. Don't be that person. Get a proper chair!
 
-- Silos with a friend
+> You need a chair where you can regulate your entire sitting position.
 
-	- Doesn’t make us more productive
+The armrest, the back, the support for your head. Everything. Your very own back will thank me later.
 
-	- Helps work together and be with someone
+Yes, a fairly good office chair costs around $500 then but it's still a fraction of the cost of your computer and it'll serve you for the years to come. Most of all, it will keep you healthy without any back or neck problems. This is a piece of equipment you'll be using at least 8 hours every single day. Get a great one.
 
-	- Once a week or every two weeks
+While I don't want to promote any particular model and very often it all comes down to personal taste anyway, I appreciate several things in my office chair:
 
-- Clear boundaries between work and life
+* Breathable seat and back - preferably made out of a tiny net. It's very comfortable and doesn't make you sweat, especially in the summer days.
+* Fully adjustable arms - to be able to type really comfortably you should be able to adjust the arms in height, depth and angle.
+* Well adjustable lumbar support - your body is unique, you want to make sure your back is well adjusted when you're sitting for 8 hours straight.
 
-	- Figure out the way to do this yourself
+Just do your research and get a great chair.
 
-	- Communication channels must be clearly stated
+### Get a second screen, or even third!
 
-	- Define what’s emergency and what’s just info (slack vs iMessage)
+I've always had additional screens in my home office. I'm typing these words on the iPad Pro, but right behind it I have an iMac 5K with several web sites open. Additionally, I hooked up yet another screen (an old Thunderbolt Display) to it to have even more screen real estate.
 
-- Foods
+> An additional screen improves your productivity dramatically!
 
-	- Do breakfast
+Even when I'm out and about in a cafeteria only with my iPad, I still put my phone on a stand as my additional reference screen. It's just so useful to have additional screen real estate!
 
-	- And prepare lunch already
+Recently as we were reviewing our company policy in Nozbe on gadgets and office equipment, we realized that around 30% of our staff didn't have a second screen. They thought they didn't need it so they never bought it. We changed our policy and just decided on a monitor model and shipped it to everyone who didn't have one.
 
-- Working hours
+A second screen should be obligatory for any home office worker. I recommend at least a 24" Full HD monitor. These days screens like this don't cost much, around $200. I recommend getting one with USB-C connection, so that you can use the monitor as a USB hub and also connect your laptop to it with just one cable for both charging and video transfer. If you're not on a budget, a good 4K monitor is even better.
 
-	- Evening - 1-2 hours because kids are asleep
+### Get a stand-up desk
 
-		- Quiet because people are away
+Even if you have a fancy office chair, you shouldn't sit on it for 8 hours straight. The doctors agree that we as *Homo sapiens* weren't built for sitting for that many hours. You should try working standing.
 
-	- Lunch 14-15
+I know it sounds extreme, but it's actually not that hard. When I started back in 2013, I first worked for only 1 hour a day. Later I kept increasing the time standing and now I stand between 4-6 hours a day. In 2015 I bought an IKEA height-regulated desk and I keep rocking it.[^5]
 
-		- Some people have 2 hour lunch breaks to also run some errands
+I like working standing. I feel more energized and it seems like more I'm in an *action mode* when standing. You should totally give it a try.
 
-		- Very often we adjust to people who work in “traditional” offices
+If you're adventurous you can even try a treadmill desk. This way you can work while walking. I haven't tried it myself yet, but I'm actually inclined to give it a shot. Especially on some longer video meetings, it'd be really great doing them while walking!
 
-	- Lunch nap is useful
+### Get good lighting for yourself and others
 
-		- When I’m feeling bad, I just fall asleep
+It's proven that good light changes everything. If your home office doesn't have much natural light, make sure to add good artificial light. The latest LED light bulbs and light strips are no longer expensive and they don't consume lots of energy.
 
-		- Later in the evening I’m working to take it back
+Make sure the light doesn't blind you in any way. I love ambient lights that light up the walls and objects behind them but don't shine straight in my face.
 
-	- There’s no pressure to work 9-5
+Nowadays with increasing video calls, it's also important to make sure your face is properly light up, otherwise you'd look like you're in a dark cave to others. Very often I increase my light when I'm on the video call and then decrease it again when I'm no longer visible to others.
 
-		- So taking it easy and if I don’t have to work continuously - I can take breaks
+### Get a white board and brainstorm ideas!
 
-		- But then have to make up for them in the evening.
+I love my whiteboard. Very often when I feel stuck with my thinking, I use it as a *brain dump* where I can freely draw and write down ideas and get a better perspective.[^6]
 
-	- Half-time work
+This is another bonus of a dedicated office room. You might have a free wall where you can hang one of these.
 
-		- Professor at the University
+What I usually do is freely draw on it and later take a photo of it with my smartphone to save in my note-taking app. This way I can refer back to it later. Usually I set the camera to a *document scan mode* so that the photo is not too glossy and I can clearly read what I wrote.
 
-		- Individual lessons
+## Home office gear that I also recommend having
 
-		- Prioritize the work that’s stable
+Here is a short list of additional gear I recommend getting for your home office:
 
-	- Quarterly review is helpful
+* **Good headset** - for all these video calls. I actually very often just use the same microphone I use for recording podcasts, because my voice sounds really clear there. I use Bluetooth headphones and they're good enough.
+* **Document shredder** - once you've scanned your documents as I recommend in Chapter 19, you should destroy the documents in such a way that all the personal and sensitive information is no longer easily visible.
+* **Laser printer** - sometimes you might need to print out some documents for a reason, so I recommend a black-and-white laser printer. They're no longer expensive and their ink doesn't dry. So even if you're not printing anything for days or weeks, but suddenly need that one pager, the printer is ready for you. I have kids and for them I bought a color laser printer. It's not great for photos, but it's very good for school-related stuff that very often needs to be printed in color.
+* **Dedicated charger corner** - when you want to charge your smartphone or other devices. This way your cables are neatly organized and you know where to put stuff to charge. As many new devices support wireless charging, I have two charging pads on both sides of my desk.
 
-		- Reviewing journaling
+## Decorate your home office the way you like
 
-		- Seeing how much we work
+After all, this is your space. You'll be spending here most of the hours of the day. Make it yours. Decorate it with stuff you like. Just make it a nice place for you.
 
-		- Adjusting and learning from mistakes
+I like building LEGO sets, so I have a *lego corner* with my biggest sets built. I also have a place for the models of my favorite cars. I even have a small basketball hoop as I like to shoot some ball every now and then when I'm thinking about a serious problem I need to solve. I recently decorated one wall of my office with OSB boards as I like the *wooden look* of these walls. It just makes my home office feel more cozy.
 
-- Trust is contagious
+> This is your space. This is your office. There is no uniform corporate policy. Make it the way you want.
 
-	- We want to work full 8 hours
+## Drink lots of water!
 
-	- We don’t want to “cheat” the system even though we can because nobody’s watching
+Final tip is to always have lot of water to drink in your home office. Preferably away from your computer so that you don't spill it. I usually put my water on a small separate table.
 
-- One thing:
+I love adding a dash of lemon to my water and I drink lots of it. Usually more than 2 liters a day. That's why I really appreciate that I have a toilet very close to my home office.
 
-	- Create a great work environment at home with clear boundaries - be vigilant to see what works and what doesn’t. Constantly tweak your settings
+## The one thing: think about your home office
 
-	- Further reading?
+Home office shouldn't be a random place in the house where you work. I recommend giving it a lot of thought and setting it up in a deliberate way. Think about your physical health as well as your sanity, especially taking into account the other members of your family who live with you. Make your home office your own favorite space where you enjoy spending time. This will make all the difference in the output of your work.
+
+[^1]: Check out [all blog posts and see how my home office changed](https://sliwinski.com/tag/office).
+[^2]: Here's my [cabinet home office from 2008](https://sliwinski.com/declutter-your-desk-why-i-love-my-clutter-fre/)
+[^3]: Check out my [2020 version of the home office](https://michael.team/office) and the [5 minute video walkthrough](https://michael.team/officevideo).
+[^4]: Another Hamilton musical reference. Sorry I really couldn't help myself.
+[^5]: The model is called [Bekant and I've been using it for the last 5 years and it's great](https://sliwinski.com/homeoffice/). It's a very basic desk so if you're looking for a fancier one, you should check out one of the companies that specialize in stand-up desks.
+[^6]: Here's a video on [how and why I love using a whiteboard](https://sliwinski.com/whiteboard/).

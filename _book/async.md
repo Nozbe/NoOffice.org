@@ -31,9 +31,11 @@ Just as in Chapter 18, in this one I'll be using the word *trust* a lot. The key
 
 The problem when working remotely is that you don't physically see the other person working. Because of that, many inexperienced managers interrupt their colleagues by sending many chat messages, requesting frequent status updates, or worse yet, asking them to join a video conferencing session to be able to actually see them work. It's ridiculous.
 
-When I wrote in Chapter 6 about not using email for internal communication, many people thought I was explicitly endorsing changing it for internal team chat. While I believe chat apps[^2] have their place as an internal team water cooler and a way for people to exchange infrequent direct messages, they have a serious flaw.
+When I wrote in Chapter 6 about not using email for internal communication, many people thought I was explicitly endorsing changing it for internal team chat. While I believe chat apps[^2] have their place as an internal team water cooler and a way for people to exchange infrequent direct messages, they have one serious flaw:
 
-These chat apps create an expectation of immediate response which is very dangerous, because it doesn't let people concentrate on their work. The constant influx of messages interrupts everyone and encourages them to keep participating in the virtual conversation and not really get stuff done.
+> Chat creates an expectation of immediate response
+
+This doesn't let people concentrate on their work. The constant influx of messages interrupts everyone and encourages them to keep participating in the virtual conversation and not really get stuff done. This goes contrary to what real work is all about - focus - something we discussed as early as chapter 4 of this book.
 
 ## Multitasking is a myth. You can work only on one thing at a time!
 
@@ -53,11 +55,11 @@ I don't need these notifications anyway, because people trust me that after some
 
 ## Be a team player and give good feedback
 
-Working asynchronously teaches everyone to give much better feedback. Just like you should give people time and space to do their work, they need the same environment to let you know what they think of your work.
+Working asynchronously teaches everyone to give much better feedback. Just like you should give people time and space to do their work, they also need the same environment to let you know what they think of your work.
 
-Instead of doing something and right after that jumping on a call and asking "what do you think?", you let the other person take their time to really see what you've done. This way instead of a short "Great job!", you might get a "Well done, but have you thought about..." response.
+Instead of doing something and right after that jumping on a call and asking "what do you think?", you let the other person take their time to really study what you've done. This way instead of a short: *"Great job!"*, you might get a more thoughtful: *"Well done, but have you thought about..."* response.
 
-Yes, I get it, we live in an always-on world that promotes instant gratification, so receiving a shallow praise from a co-worker or a boss must feel great. The question is, whether it will lead to your work getting meaningfully better?
+Yes, I get it, we live in an always-on world that promotes instant gratification, so receiving a shallow praise from a co-worker or a boss feels great. The question is, whether it will lead to your work getting meaningfully better?
 
 Taking the time to give feedback benefits everyone. It creates a culture of trust. It motivates people to dig deeper. It inspires them to be better. It also improves everyone's communication and writing skills.
 
@@ -77,7 +79,9 @@ Unlike in a traditional office, you can hardly impress anyone with your latest o
 
 All they see is your work. And the feedback you give them to their work.
 
-And believe me, we respect people who deliver great work or take their time to write a thoughtful comment on our work. When there's great work, there's respect. Impressive work means an impressive person.
+And believe me, we respect people who deliver great work or take their time to write a thoughtful comment on our work. 
+
+> When there's great work, there's respect. Impressive work means an impressive person.
 
 By the way, wouldn't it be nice to be surrounded by professionals who would all be doing amazing work and helping you get better at yours? Isn't that a correct definition of a good working environment?
 

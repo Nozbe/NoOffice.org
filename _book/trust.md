@@ -137,5 +137,7 @@ Let's paraphrase our "No Office" motto:
 
 > Work is not something you control, it's a thing you trust people to do.
 
-[^1]: The main character in [New Amsterdam TV-series](https://www.nbc.com/new-amsterdam) is Dr. Max Goodwin played by [Ryan Eggold](https://www.imdb.com/name/nm2375297/).
+For further reading on this subject, I recommend *No Rules Rules* book by the founder of Netflix.[^2]
 
+[^1]: The main character in [New Amsterdam TV-series](https://www.nbc.com/new-amsterdam) is Dr. Max Goodwin played by [Ryan Eggold](https://www.imdb.com/name/nm2375297/).
+[^2]: I'd say Netflix as the company works very similarly as Nozbe, but at a much much larger scale: [No Rules Rules. Netflix and the Culture of Reinvention.](https://www.norulesrules.com) by Reed Hastings and Erin Meyer.
