@@ -45,6 +45,33 @@ subtitle: "No Office really means many different offices - depending on how you 
 
 	- Use iPad as your main device :-0)
 
+- Special Fridays
+
+	- Cafe on Friday
+
+	- To be around people
+
+	- To switch environments
+
+	- To make this day special
+
+- In promptu meetings on Zoom?
+
+	- Cafe Friday
+
+	- Set up zoom
+
+	- Same time every Friday
+
+- Silos with a friend
+
+	- Doesn’t make us more productive
+
+	- Helps work together and be with someone
+
+	- Once a week or every two weeks
+
+
 - One thing:
 
 	- No Office gives a worker an amazing flexibility where they work - just make sure you can work from anywhere and be productive instantly - reduce barrier of entry
