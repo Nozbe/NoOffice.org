@@ -33,10 +33,10 @@
 <!-- Expanded by Michael Sliwinski - https://github.com/nozbe/nooffice.org -->
 
 {% if page.js %}
-{% if page.js == "refresh" %}
+{% if page.js == "redirect" %}
 <meta http-equiv="Refresh" content="60; url=https://nooffice.org/" />
 {% endif %}
-<script type="text/javascript" src="/{{ page.js }}"></script>
+<script type="text/javascript" src="/{{ page.js }}.js"></script>
 </head><body onload="{{ page.js }}();">
 {% else %}
 </head><body>
