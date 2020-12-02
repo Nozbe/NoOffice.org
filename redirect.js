@@ -8,6 +8,15 @@ let links = new Map([
 ['michael', 'https://michael.team/'],
 ['nooffice', 'https://nooffice.org'],
 
+
+//chapter 23
+['basecamphires', 'https://m.signalvnoise.com/basecamp-is-hiring-a-product-designer/'],
+['nozbehires', 'https://nozbe.com/blog/2020-recruitment-nozbe-java-script-programmer/'],
+['forms', 'https://www.google.com/forms/about/'],
+
+
+
+
 ]);
 
 function redirect () {
