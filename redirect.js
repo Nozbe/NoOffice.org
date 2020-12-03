@@ -5,7 +5,6 @@
 let links = new Map([
 
 //list of REDIRECT links
-['michael', 'https://michael.team/'],
 ['nooffice', 'https://nooffice.org'],
 
 
@@ -13,6 +12,9 @@ let links = new Map([
 ['basecamphires', 'https://m.signalvnoise.com/basecamp-is-hiring-a-product-designer/'],
 ['nozbehires', 'https://nozbe.com/blog/2020-recruitment-nozbe-java-script-programmer/'],
 ['forms', 'https://www.google.com/forms/about/'],
+['strenghts', 'https://www.gallup.com/cliftonstrengths/en/253868/popular-cliftonstrengths-assessment-products.aspx'],
+['slack', 'https://slack.com/'],
+['careers', 'https://nozbe.com/careers'],
 
 
 
