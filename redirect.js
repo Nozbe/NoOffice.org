@@ -8,6 +8,15 @@ let links = new Map([
 ['nooffice', 'https://nooffice.org'],
 
 
+//chapter 21
+['offices', 'https://sliwinski.com/tag/office'],
+['cabinet', 'https://sliwinski.com/declutter-your-desk-why-i-love-my-clutter-fre/'],
+['stand', 'https://sliwinski.com/homeoffice/'],
+['whiteboard', 'https://sliwinski.com/whiteboard/'],
+
+//chapter 22
+
+
 //chapter 23
 ['basecamphires', 'https://m.signalvnoise.com/basecamp-is-hiring-a-product-designer/'],
 ['nozbehires', 'https://nozbe.com/blog/2020-recruitment-nozbe-java-script-programmer/'],

@@ -87,13 +87,13 @@ While I don't want to promote any particular model and very often it all comes d
 
 Just do your research and get a great chair.
 
-### Get a second screen, or even third!
+### Get an additional screen!
 
 I've always had additional screens in my home office. I'm typing these words on the iPad Pro, but right behind it I have an iMac 5K with several web sites open. Additionally, I hooked up yet another screen (an old Thunderbolt Display) to it to have even more screen real estate.
 
-> An additional screen improves your productivity dramatically!
+Even when I'm out and about in a cafeteria only with my iPad, I still put my phone on a stand as my additional reference screen. It's just so useful to have some extra screen real estate!
 
-Even when I'm out and about in a cafeteria only with my iPad, I still put my phone on a stand as my additional reference screen. It's just so useful to have additional screen real estate!
+An additional reason for a second screen is the ergonomics. When you have two screens you are not looking down at one monitor all the time, thus straining your neck.
 
 Recently as we were reviewing our company policy in Nozbe on gadgets and office equipment, we realized that around 30% of our staff didn't have a second screen. They thought they didn't need it so they never bought it. We changed our policy and just decided on a monitor model and shipped it to everyone who didn't have one.
 
@@ -101,17 +101,19 @@ A second screen should be obligatory for any home office worker. I recommend at 
 
 ### Get a stand-up desk
 
-Even if you have a fancy office chair, you shouldn't sit on it for 8 hours straight. The doctors agree that we as *Homo sapiens* weren't built for sitting for that many hours. You should try working standing.
+Even if you have a fancy office chair, you shouldn't sit on it for 8 hours straight. The doctors agree that we as *Homo sapiens* weren't built for being in the same position for that many hours. You should try changing your positions and maybe do some work standing.
 
-I know it sounds extreme, but it's actually not that hard. When I started back in 2013, I first worked for only 1 hour a day. Later I kept increasing the time standing and now I stand between 4-6 hours a day. In 2015 I bought an IKEA height-regulated desk and I keep rocking it.[^5]
+I know it sounds extreme, but it's actually not that hard. When I started back in 2013, I first worked for only 1 hour a day in that position. I just put an additional box on top of my desk and put my laptop on it and stood up. Later I kept increasing the time standing and now I stand between 4-6 hours a day. In 2015 when I got serious about working standing, I bought an IKEA height-regulated desk and I keep rocking it[^5].
 
-I like working standing. I feel more energized and it seems like more I'm in an *action mode* when standing. You should totally give it a try.
+I love my stand-up desk. I feel more energized and it seems like more I'm in an *action mode* when standing. You should totally give it a try.
 
 If you're adventurous you can even try a treadmill desk. This way you can work while walking. I haven't tried it myself yet, but I'm actually inclined to give it a shot. Especially on some longer video meetings, it'd be really great doing them while walking!
 
+To be able to really switch positions when you work, it's also great to have like a *chill out space* with a small sofa or armchair. This way when you need to read something longer, you can just take your tablet or smartphone and sit comfortably in a more relaxing position.
+
 ### Get good lighting for yourself and others
 
-It's proven that good light changes everything. If your home office doesn't have much natural light, make sure to add good artificial light. The latest LED light bulbs and light strips are no longer expensive and they don't consume lots of energy.
+It's proven that good light changes everything. First off, try to get as much natural light as possible. If your home office doesn't have lots of it, make sure to add good artificial light. The latest LED light bulbs and light strips are no longer expensive and they don't consume lots of energy. However, make sure you get good light bulbs, some people are complaining about cheap LED lights that flicker too much and cause them eye strain and headaches.
 
 Make sure the light doesn't blind you in any way. I love ambient lights that light up the walls and objects behind them but don't shine straight in my face.
 
@@ -125,6 +127,14 @@ This is another bonus of a dedicated office room. You might have a free wall whe
 
 What I usually do is freely draw on it and later take a photo of it with my smartphone to save in my note-taking app. This way I can refer back to it later. Usually I set the camera to a *document scan mode* so that the photo is not too glossy and I can clearly read what I wrote.
 
+### Get some fresh air!
+
+When you're taking a break from work, even for just a few minutes, make sure to open a window to let in some fresh air. Even an winter time it's a good practice.
+
+If you live in a big city and are concerned about air quality, get an air purifier. With increased air pollution, especially in large urban areas, there are lots of new devices on the market that can regularly clean up the air in your home office and also humidify it if that's what you need.
+
+Additionally a plant or two will always be a nice bonus to the ambiance of your workspace.
+
 ## Home office gear that I also recommend having
 
 Here is a short list of additional gear I recommend getting for your home office:
@@ -133,6 +143,14 @@ Here is a short list of additional gear I recommend getting for your home office
 * **Document shredder** - once you've scanned your documents as I recommend in Chapter 19, you should destroy the documents in such a way that all the personal and sensitive information is no longer easily visible.
 * **Laser printer** - sometimes you might need to print out some documents for a reason, so I recommend a black-and-white laser printer. They're no longer expensive and their ink doesn't dry. So even if you're not printing anything for days or weeks, but suddenly need that one pager, the printer is ready for you. I have kids and for them I bought a color laser printer. It's not great for photos, but it's very good for school-related stuff that very often needs to be printed in color.
 * **Dedicated charger corner** - when you want to charge your smartphone or other devices. This way your cables are neatly organized and you know where to put stuff to charge. As many new devices support wireless charging, I have two charging pads on both sides of my desk.
+
+## Dress for success even though you're at home
+
+Another often cited advantage of working from home is not having to dress up all that much. No need to wear a suit, put on full make-up or shave perfectly. Just put on some sweatpants and you're done, right?
+
+It's completely up to you, but just because you're at home you shouldn't completely neglect yourself. I still like to be shaved and have some nice clean clothes. Instead of an ironed shirt I usually wear a simple cotton polo-shirt. Instead of ironed trousers I wear jeans or just straight comfortable cotton pants. But still I dress for work. I call it *very smart, very casual*.
+
+This way I feel like I'm dressed up for work and in case I have an online video meeting, I still look respectable. On the other hand I choose comfortable clothes and the ones I really enjoy wearing. After all, it's my home office and my dress code. So make sure to figure out yours.[^7]
 
 ## Decorate your home office the way you like
 
@@ -152,9 +170,10 @@ I love adding a dash of lemon to my water and I drink lots of it. Usually more t
 
 Home office shouldn't be a random place in the house where you work. I recommend giving it a lot of thought and setting it up in a deliberate way. Think about your physical health as well as your sanity, especially taking into account the other members of your family who live with you. Make your home office your own favorite space where you enjoy spending time. This will make all the difference in the output of your work.
 
-[^1]: Check out [all blog posts and see how my home office changed](https://sliwinski.com/tag/office).
-[^2]: Here's my [cabinet home office from 2008](https://sliwinski.com/declutter-your-desk-why-i-love-my-clutter-fre/)
-[^3]: Check out my [2020 version of the home office](https://michael.team/office) and the [5 minute video walkthrough](https://michael.team/officevideo).
+[^1]: Check out all blog posts and see how my home office changed in the last 13 years: [NoOffice.Link/offices](https://nooffice.link/offices) 
+[^2]: Here's a cabinet home office I had in the living room back in 2008: [NoOffice.Link/cabinet](https://nooffice.link/cabinet) 
+[^3]: Check out 2020 version of my home office: [Michael.team/office](https://michael.team/office) and the 5 minute video walkthrough: [Michael.team/officevideo](https://michael.team/officevideo).
 [^4]: Another Hamilton musical reference. Sorry I really couldn't help myself.
-[^5]: The model is called [Bekant and I've been using it for the last 5 years and it's great](https://sliwinski.com/homeoffice/). It's a very basic desk so if you're looking for a fancier one, you should check out one of the companies that specialize in stand-up desks.
-[^6]: Here's a video on [how and why I love using a whiteboard](https://sliwinski.com/whiteboard/).
+[^5]: The model is called Bekant and I've been using it for the last 5 years and it's great. It's a very basic desk so if you're looking for a fancier one, you should check out one of the companies that specialize in stand-up desks. [NoOffice.Link/stand](https://nooffice.link/stand) 
+[^6]: Here's a video on how and why I love using a whiteboard: [NoOffice.Link/whiteboard](https://nooffice.link/whiteboard) 
+[^7]: Now that working from home became more mainstream, lots of fashion brands are catching up and are offering dedicated line of clothing for home office workers with very comfortable clothes that look pretty fancy on a video call.

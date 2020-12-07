@@ -125,7 +125,7 @@ Just don't take on any new ambitious projects when you're sick. It's a good time
 The key to successfully working from home is to learn to communicate expectations. Talk to your partner, have a chat with your kids. Communicate clearly what your working on, when you're planning to do that and what else you can do to help out the family chores. And enjoy the work-life balancing act that's so much better than commuting every day to an office!
 
 
-[^1]: That's why my daughter believes that my official job description is: "Writes random stuff on the Internet": https://michael.team/dad/
+[^1]: That's why my daughter believes that my official job description is: "Writes random stuff on the Internet": [Michael.team/dad](https://michael.team/dad/)
 [^2]: I'm recording four podcasts: No Office FM in English and also in Polish, The Podcast FM and Team Productivity Show.
 [^3]: Now that we're in the pandemic times, we meet with friends very rarely and we're always being very cautious, of course.
-[^4]: Olympic-distance triathlon means 1.5KM of swim, followed by 40KM of bike ride and 10KM run. You can read more on that and my new affection for tennis on my blog: https://michael.team/tag/sports/
+[^4]: Olympic-distance triathlon means 1.5KM of swim, followed by 40KM of bike ride and 10KM run. You can read more on that and my new affection for tennis on my blog: [Michael.team/tag/sports](https://michael.team/tag/sports/)
