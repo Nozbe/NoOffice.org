@@ -75,15 +75,15 @@ toc:
     chname: 第14章
     book: Punished by Rewards
   - url: week
-    status: none
+    status: draft
     chname: 第15章
     book: Rework
   - url: review
-    status: none
+    status: draft
     chname: 第16章
     book: Essentialism
   - url: friday
-    status: none
+    status: draft
     chname: 第17章
 - url: two
   status: none
