@@ -63,15 +63,15 @@ toc:
     chname: 第11章
     book: Shape Up
   - url: lean
-    status: none
+    status: draft
     chname: 第12章
     book: 2-minute lean
   - url: pay
-    status: none
+    status: draft
     chname: 第13章
     book: Drive
   - url: perks
-    status: none
+    status: draft
     chname: 第14章
     book: Punished by Rewards
   - url: week
