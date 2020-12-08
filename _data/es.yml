@@ -64,16 +64,16 @@ toc:
     status: draft
     chname: Capítulo 14
   - url: week
-    status: none
+    status: draft
     chname: Capítulo 15
   - url: review
     status: none
     chname: Capítulo 16
   - url: friday
-    status: none
+    status: draft
     chname: Capítulo 17
 - url: two
-  status: none
+  status: draft
   chname: Part 2
   chapters:
   - url: trust
