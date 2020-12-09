@@ -64,13 +64,13 @@ toc:
     status: draft
     chname: Rozdział 14
   - url: week
-    status: none
+    status: Szkic
     chname: Rozdział 15
   - url: review
-    status: none
+    status: Szkic
     chname: Rozdział 16
   - url: friday
-    status: none
+    status: Szkic
     chname: Rozdział 17
 - url: two
   status: none
