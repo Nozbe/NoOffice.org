@@ -13,7 +13,7 @@ subtitle: "Being in sync is overrated. Efficient communication means fewer inter
 > All this aggravation ain't satisfactionin' me"
 > - Elvis Presley[^1]
 
-Even "The King" knew, that to get more done, we need to talk less. From my 13+ years of experience leading an all-remote team, I believe the number 1 skill that we coined in that time is learning to work asynchronously.
+Even "The King" knew, that to get more done, we need to talk less. From my 13+ years of experience leading an all-remote team, I believe the number one skill that we coined in that time is learning to work asynchronously.
 
 ## Why not in sync? What is *asynchronous work*?
 
@@ -39,7 +39,7 @@ This doesn't let people concentrate on their work. The constant influx of messag
 
 ## Multitasking is a myth. You can work only on one thing at a time!
 
-Many people brag that they're excellent multitaskers. No they aren't. Study after study has shown that people can't really multi-task.[^3] They can only quickly switch between tasks, but even this skill is overrated.
+Many people brag that they're excellent multitaskers. No, they aren't. Study after study has shown that people can't really multi-task.[^3] They can only quickly switch between tasks, but even this skill is overrated.
 
 It's been proven over and over that people are actually faster when they work on one thing, finish it and only then switch to another task. It's also much more efficient as things really get completed. Compare that to working on many things at once but not finishing off anything. You're busy working on many things, but you're not moving forward in any direction.
 
@@ -67,7 +67,7 @@ That's why in our all-remote team we use software that enables commenting. We po
 
 ## More thoughtful feedback leads to fewer meetings
 
-The best part about a culture of feedback and commenting is that it leads to much fewer meetings. Very often I'd get a task from someone asking me for feedback. I'd take my time to analyze everything and write a lengthy comment to express what I liked about their work and where I see improvement opportunities. After that I'd ask them if they wanted to schedule a short chat to go over my feedback, and usually I'd get a response that my comment was clear enough and no chat is necessary. They know what they have to do. They can get back to work right away.
+The best part about a culture of feedback and commenting is that it leads to much fewer meetings. Very often, I'd get a task from someone asking me for feedback. I'd take my time to analyze everything and write a lengthy comment to express what I liked about their work and where I see improvement opportunities. After that, I'd ask them if they wanted to schedule a short chat to go over my feedback, and usually I'd get a response that my comment was clear enough and no chat is necessary. They know what they have to do. They can get back to work right away.
 
 Moreover written comments create a great feedback loop which helps iron out the details of a task, study all nuances and find out all edge cases. It's much more efficient than an impromptu *brainstorming meeting*.
 
