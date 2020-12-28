@@ -1,7 +1,7 @@
 ---
-parte: one
-título: Diseña tu semana laboral
-subtítulo: "Establece horarios flexibles, días temáticos y busca tramos de tiempo sin interrupciones"
+part: one
+title: Diseña tu semana laboral
+subtitle: "Establece horarios flexibles, días temáticos y busca tramos de tiempo sin interrupciones"
 ---
 
 * TOC
