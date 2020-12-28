@@ -77,7 +77,7 @@ toc:
   chname: Parte 2
   chapters:
   - url: trust
-    status: none
+    status: draft
     chname: Capítulo 18
   - url: mobile
     status: none
