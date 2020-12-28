@@ -1,7 +1,7 @@
 ---
-parte: one
-título: Revisa el trabajo periódicamente
-subtítulo: "Todas las semanas, comprueba tu progreso, y cada trimestre, céntrate en el panorama general"
+part: one
+title: Revisa el trabajo periódicamente
+subtitle: "Todas las semanas, comprueba tu progreso, y cada trimestre, céntrate en el panorama general"
 ---
 
 * TOC
