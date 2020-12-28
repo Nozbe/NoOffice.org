@@ -28,7 +28,7 @@ toc:
     chname: Capítulo 3
 - url: one
   status: draft
-  chname: Part 1
+  chname: Parte 1
   chapters:
   - url: focus
     status: draft
@@ -74,7 +74,7 @@ toc:
     chname: Capítulo 17
 - url: two
   status: draft
-  chname: Part 2
+  chname: Parte 2
   chapters:
   - url: trust
     status: none
