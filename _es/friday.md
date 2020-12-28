@@ -1,7 +1,7 @@
 ---
-parte: one
-título: No trabajes los viernes
-subtítulo: "Introduce los 'Viernes magníficos' con revisiones periódicas y enfoque en el desarrollo personal."
+part: one
+title: No trabajes los viernes
+subtitle: "Introduce los 'Viernes magníficos' con revisiones periódicas y enfoque en el desarrollo personal."
 ---
 
 * TOC
