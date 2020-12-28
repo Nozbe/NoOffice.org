@@ -67,7 +67,7 @@ toc:
     status: draft
     chname: Capítulo 15
   - url: review
-    status: none
+    status: draft
     chname: Capítulo 16
   - url: friday
     status: draft
@@ -80,10 +80,10 @@ toc:
     status: draft
     chname: Capítulo 18
   - url: mobile
-    status: none
+    status: draft
     chname: Capítulo 19
   - url: async
-    status: none
+    status: draft
     chname: Capítulo 20
   - url: home
     status: none
