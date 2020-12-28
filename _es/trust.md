@@ -1,7 +1,7 @@
 ---
-parte: Two
-título: Confiad los unos en los otros
-subtítulo: "El control del trabajo es bueno, pero es mucho mejor la confianza en hacer el trabajo"
+part: Two
+title: Confiad los unos en los otros
+subtitle: "El control del trabajo es bueno, pero es mucho mejor la confianza en hacer el trabajo"
 ---
 
 * TOC
