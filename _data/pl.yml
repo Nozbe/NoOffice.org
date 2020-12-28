@@ -28,7 +28,7 @@ toc:
     chname: Rozdział 3
 - url: one
   status: draft
-  chname: Part 1
+  chname: Część 1
   chapters:
   - url: focus
     status: draft
@@ -74,7 +74,7 @@ toc:
     chname: Rozdział 17
 - url: two
   status: Szkic
-  chname: Part 2
+  chname: Część 2
   chapters:
   - url: trust
     status: Szkic
