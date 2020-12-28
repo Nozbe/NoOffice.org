@@ -73,17 +73,17 @@ toc:
     status: Szkic
     chname: Rozdział 17
 - url: two
-  status: none
+  status: Szkic
   chname: Part 2
   chapters:
   - url: trust
-    status: none
+    status: Szkic
     chname: Rozdział 18
   - url: mobile
-    status: none
+    status: Szkic
     chname: Rozdział 19
   - url: async
-    status: none
+    status: Szkic
     chname: Rozdział 20
   - url: home
     status: none
