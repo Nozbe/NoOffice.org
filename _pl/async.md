@@ -99,6 +99,6 @@ Aby uzyskać więcej informacji na temat zarządzania powiadomieniami, FOMO (ang
 
 [^1]: Fragment piosenki Elvisa Presleya z 1968 roku: [A Little Less Conversation](https://en.wikipedia.org/wiki/A_Little_Less_Conversation) - tłum. fragmentu: "Odrobinę mniej rozmowy, trochę więcej akcji, proszę. Cały ten zamęt mnie nie zadowalaja"
 [^2]: Na przykład [Slack](https://slack.com) – którego używamy w Nozbe lub jego odpowiednik, [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software).
-[^3]: Magda, please find some good study here to quote. 
+[^3]: [Artykuł naukowy nt. Kognitywnej kontroli u osób pracujących z wieloma źródłami informacji jednocześnie](https://www.pnas.org/content/106/37/15583) 
 [^4]: Książka [Digital Minimalism: Choosing Focused Life in a Noisy World](https://www.calnewport.com/books/digital-minimalism/) autorstwa Cala Newporta
 
