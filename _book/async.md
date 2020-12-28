@@ -98,6 +98,9 @@ Yes, sometimes you do need to meet or chat, just like it was explained in the Ch
 For further reading on dealing with notifications, feeling of FOMO (Fear Of Missing Out) and working in a focused way, I recommend a second book by Cal Newport, Digital Minimalism[^4].
 
 [^1]: From Elvis Presley's 1968 song: ["A Little Less Conversation"](https://en.wikipedia.org/wiki/A_Little_Less_Conversation)
+
 [^2]: Like [Slack](https://slack.com) - which we use ourselves in my Nozbe team, or its copycat, [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software) which our kids' schools were forced to use.
-[^3]: Magda, please find some good study here to quote. 
+
+[^3]: [Research article on Cognitive Control in media multitaskers](https://www.pnas.org/content/106/37/15583) 
+
 [^4]: ["Digital Minimalism: Choosing Focused Life in a Noisy World"](https://www.calnewport.com/books/digital-minimalism/) by Cal Newport
