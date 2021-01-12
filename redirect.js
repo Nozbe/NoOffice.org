@@ -25,7 +25,12 @@ let links = new Map([
 ['slack', 'https://slack.com/'],
 ['careers', 'https://nozbe.com/careers'],
 
+//chapter 24
+['seth-zoom','https://seths.blog/2020/08/toward-a-zoom-agreement/']
 
+//chapter 25
+['calendly', 'https://calendly.com/'], 
+['zoom', 'https://zoom.us/'], 
 
 
 ]);

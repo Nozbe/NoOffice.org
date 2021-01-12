@@ -101,11 +101,11 @@ As described in Chapter 9, I record a simple, around 10-minute vlog every month 
 
 Definitely video. As we have very few weekly meetings and very rare one-on-one conversation, we ask everyone involved to have their video on. It's a question of maintaining a good relationship.
 
-From our side we promise not to overwhelm them with too many meetings and not to make stretch them for too long. Our longest meetings last for 2 hours tops because everything longer than that becomes just too tiring. That's why we expect everyone to be present with video on so we can really enjoy each other's company and a deep, meaningful conversation.
+From our side we promise not to overwhelm them with too many meetings and not to stretch them for too long. Our longest meetings last 2 hours tops because everything longer than that becomes just too tiring. That's why we expect everyone to be present with video on so we can really enjoy each other's company and a deep, meaningful conversation.
 
 ### You cannot force people to turn video on if you're not mindful of their time!
 
-This is where many companies switching to working remotely make a mistake. They schedule too many meetings or let the meetings drag on for much too long. That's why people are getting tired. They don't want to turn on their camera. They're fed up. They need to work and you don't let them by making them attend meetings all of the time.
+This is where many companies switching to working remotely make a mistake. They schedule too many meetings or let the meetings drag on for much too long. That's why people are getting tired. They don't want to turn on their camera. They're fed up. They need to work and you don't let them by making them attend meetings all of the time.[^2]
 
 Don't do that.
 
@@ -115,6 +115,6 @@ Check out the Chapter 10 and the concept of the *Pyramid of Communication* for a
 
 Cultivate one-on-one relationships with people and be vigilant if some of them start feeling lonely. As much as I encourage to avoid having too many meetings, some are just necessary to keep the spirits of the team going. Especially with people working remotely, you must have a system of interacting with them regularly to make them feel included and accepted.
 
-### Marketing meeting
-
 [^1]: Rafal is a VP of Product at Nozbe and he's a co-host of our "No Office FM podcast": [NoOffice.fm](https://NoOffice.fm)
+
+[^2]: Seth Godin posted a very short but good "Zoom etiquette" post: [NoOffice.Link/seth-zoom](https://nooffice.link/seth-zoom)
