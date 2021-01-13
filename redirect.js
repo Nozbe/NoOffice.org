@@ -31,6 +31,7 @@ let links = new Map([
 //chapter 25
 ['calendly', 'https://calendly.com/'], 
 ['zoom', 'https://zoom.us/'], 
+['vimeo', 'https://vimeo.com/'], 
 
 
 ]);
