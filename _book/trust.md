@@ -33,10 +33,10 @@ I immediately turn the question around and ask:
 
 The fact of the matter is that people can fake work much easier in a traditional office:
 
-– They can spend minutes if not hours casually chatting with their colleagues in the corridors or next to the vending machine.
-– They can go and get coffee with colleagues anytime they want, again chatting away lots of time.
-– Same applies to cigarettes. I even heard that people who don't smoke join their colleagues because the usual office gossip is exchanged at such breaks.
-– When they sit in front of their computer, it doesn't necessarily mean they are working. They might be checking their social media or even playing a video game, for that matter.
+* They can spend minutes if not hours casually chatting with their colleagues in the corridors or next to the vending machine.
+* They can go and get coffee with colleagues anytime they want, again chatting away lots of time.
+* Same applies to cigarettes. I even heard that people who don't smoke join their colleagues because the usual office gossip is exchanged at such breaks.
+* When they sit in front of their computer, it doesn't necessarily mean they are working. They might be checking their social media or even playing a video game, for that matter.
 
 People who want to pretend to be busy and fake work know how to do it well. They type loudly. They attend all the meetings and always find something important to say. They show up in the vicinity of their supervisor often enough to be noticed. They don't leave work before their boss.
 
@@ -44,10 +44,10 @@ People who want to pretend to be busy and fake work know how to do it well. They
 
 The other day people asked on social media about some of the methods companies are using to control remote workers, like:
 
-– Web cams installed in people's home offices or keeping a video conferencing software open to spy on people in real time.
-– Software preloaded on computers that tracks mouse movement, takes regular screenshots of people's monitors, or sends web browsing history to the company's servers.
-– Regular hourly reports on work progress.
-– Unexpected calls to people at random times to check up on them.
+* Web cams installed in people's home offices or keeping a video conferencing software open to spy on people in real time.
+* Software preloaded on computers that tracks mouse movement, takes regular screenshots of people's monitors, or sends web browsing history to the company's servers.
+* Regular hourly reports on work progress.
+* Unexpected calls to people at random times to check up on them.
 
 Frankly, just compiling this list from several articles and social media messages made me sick to my stomach.
 
