@@ -71,10 +71,6 @@ Whenever we cancel a meeting, we almost never reschedule it. We just cancel the 
 
 This is key. If a meeting doesn't have an agenda, there's no reason for this meeting to happen at all.
 
-Agenda is not enough.
-
-This is key. If a meeting doesn't have an agenda, there's no reason for this meeting to happen at all.
-
 Further, an agenda is not enough.
 
 Each topic on the agenda has to be written up. If nobody took their time to write up a topic, we usually don't discuss it. There should always be a person responsible for each agenda topic.
