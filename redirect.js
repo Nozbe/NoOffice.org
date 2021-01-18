@@ -33,6 +33,16 @@ let links = new Map([
 ['zoom', 'https://zoom.us/'], 
 ['vimeo', 'https://vimeo.com/'], 
 
+//chapter 26
+['p91', 'https://michael.team/podcast-91/'],
+['p116', 'https://michael.team/podcast-116/'],
+['p141', 'https://michael.team/podcast-141/'],
+['p162', 'https://michael.team/podcast-162/'],
+['p183', 'https://michael.team/podcast-183/'],
+['p195', 'https://michael.team/podcast-195/'],
+['distributed', 'https://distributed.blog/2019/11/26/episode-15-inside-the-grand-meetup/'],
+['rework', 'https://rework.fm/how-buffer-meets-up/'],
+['virtual', 'https://nozbe.com/blog/virtual-covid-safe-online-company-retreat/'],
 
 ]);
 
