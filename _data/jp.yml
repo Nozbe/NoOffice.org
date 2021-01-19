@@ -9,9 +9,9 @@ langs_ch: "Read this chapter in:"
 lang: 日本語
 lang_en: Japanese
 lang_em: "🇯🇵"
-percent: "37"
+percent: "54" # Now 11+43+(part 2 now)
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_jp/"
-updated: "August 28, 2020"
+updated: "December 12, 2020"
 toc:
 - url: intro
   status: draft # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)

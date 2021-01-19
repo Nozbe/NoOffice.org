@@ -97,11 +97,10 @@ Yes, sometimes you do need to meet or chat, as I explained in Chapter 10 with th
 
 For further reading on dealing with notifications, the feeling of FOMO (Fear Of Missing Out) and working in a focused way, I recommend a second book by Cal Newport, *Digital Minimalism*[^4].
 
+[^1]: From Elvis Presley's 1968 song: *"A Little Less Conversation"*: [NoOffice.Link/conversation](https://nooffice.link/conversation)
 
-[^1]: From Elvis Presley's 1968 song: ["A Little Less Conversation"](https://en.wikipedia.org/wiki/A_Little_Less_Conversation)
+[^2]: Like Slack ([NoOffice.Link/slack](https://nooffice.link/slack)) - which we use ourselves in my Nozbe team, or its copycat, Microsoft Teams ([NoOffice.Link/msteams](https://nooffice.link/msteams)) which our kids' schools were forced to use.
 
-[^2]: Like [Slack](https://slack.com) - which we use ourselves in my Nozbe team, or its copycat, [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software) which our kids' schools were forced to use.
+[^3]: Research article on *"Cognitive Control in media multitaskers"*: [NoOffice.Link/cognitive](https://nooffice.link/cognitive) 
 
-[^3]: [Research article on Cognitive Control in media multitaskers](https://www.pnas.org/content/106/37/15583) 
-
-[^4]: ["Digital Minimalism: Choosing Focused Life in a Noisy World"](https://www.calnewport.com/books/digital-minimalism/) by Cal Newport
+[^4]: *"Digital Minimalism: Choosing Focused Life in a Noisy World"* by Cal Newport: [NoOffice.Link/digital-minimalism](https://nooffice.link/digital-minimalism)

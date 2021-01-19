@@ -8,10 +8,39 @@ let links = new Map([
 ['nooffice', 'https://nooffice.org'],
 
 
+//chapter 19
+['ocr', 'https://en.wikipedia.org/wiki/Optical_character_recognition'],
+['evernote','https://Evernote.com'],
+['swiftscan', 'https://swiftscan.app/en/index.html'],
+['ios-scan', 'https://support.apple.com/en-us/HT210336'],
+['dropbox', 'https://www.dropbox.com'],
+['box', 'https://box.com'],
+['gdrive', 'https://drive.google.com'],
+['onedrive', 'https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage'],
+['iwork', 'https://www.apple.com/iwork/'],
+['gsheets', 'https://www.google.com/sheets/about/'],
+['excel', 'https://www.microsoft.com/en-us/microsoft-365/excel'],
+['mfa', 'https://en.wikipedia.org/wiki/Multi-factor_authentication'],
+['messages', 'https://support.apple.com/explore/messages'],
+['signal', 'https://www.signal.org'],
+['telegram', 'https://telegram.org'],
+['whatsapp', 'https://www.whatsapp.com'],
+['ipadonly', 'https://ipadonly.com/book/'],
+['vpn', 'https://en.wikipedia.org/wiki/Virtual_private_network'],
+['github', 'https://nooffice.org/why-in-any-company-you-should-be-using-version-control-for-anything-how-we-use-github-not-only-bc2554308455/'],
+
+//chapter 20
+
+['conversation', 'https://en.wikipedia.org/wiki/A_Little_Less_Conversation'],
+['slack', 'https://slack.com'],
+['msteams', 'https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software'],
+['cognitive', 'https://www.pnas.org/content/106/37/15583'], 
+['digital-minimalism', 'https://www.calnewport.com/books/digital-minimalism/'],
+
 //chapter 21
 ['offices', 'https://sliwinski.com/tag/office'],
 ['cabinet', 'https://sliwinski.com/declutter-your-desk-why-i-love-my-clutter-fre/'],
-['stand', 'https://sliwinski.com/homeoffice/'],
+['stand', 'https://michael.team/myoffice/'],
 ['whiteboard', 'https://sliwinski.com/whiteboard/'],
 
 //chapter 22
@@ -26,7 +55,7 @@ let links = new Map([
 ['careers', 'https://nozbe.com/careers'],
 
 //chapter 24
-['seth-zoom','https://seths.blog/2020/08/toward-a-zoom-agreement/']
+['seth-zoom','https://seths.blog/2020/08/toward-a-zoom-agreement/'],
 
 //chapter 25
 ['calendly', 'https://calendly.com/'], 
