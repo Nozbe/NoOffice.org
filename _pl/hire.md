@@ -32,25 +32,25 @@ W branży HR utarło się powiedzenie: *zatrudniaj wolno, zwalniaj szybko*. Poni
 
 W pozyskiwaniu najlepszych kandydatów kluczowy jest dobry opis stanowiska pracy. To jest Twój list sprzedażowy – chcesz sprzedać pracę w swojej firmie idealnemu kandydatowi[^1]. Dobry opis powinien zawierać co najmniej trzy rzeczy:
 
-* **Opis środowiska pracy.** Czyli odpowiedź na pytanie *DLACZEGO?*, *Dlaczego mam w ogóle rozważyć pracę dla Ciebie?*. Pokrótce opisujemy również to, że jesteśmy firmą pracującą w pełni zdalnie, jakie benefity oferujemy naszym pracownikom, ile osób jest w zespole i jakie wyznajemy wartości. Chodzi o to, by osoba, która nie zna naszej firmy mogła zdecydować, czy to jest odpowiednie miejsce dla niej.
+* **Opis środowiska pracy.** Czyli odpowiedź na pytanie *DLACZEGO?*, *Dlaczego mam w ogóle rozważyć pracę dla was?*. Pokrótce opisujemy również to, że jesteśmy firmą pracującą w pełni zdalnie, jakie benefity oferujemy pracownikom, ile ludzi jest w zespole i jakie wyznajemy wartości. Chodzi o to, by osoba, która nie zna naszej firmy mogła zdecydować, czy to jest odpowiednie miejsce dla niej.
 
 * **Opis stanowiska.** W tym miejscu podajemy nasze minimalne wymagania na dane stanowisko oraz *mile widziane* umiejętności. Dalej opisujemy, co znaczy dla nas dane stanowisko. Nad czym konkretnie dana osoba będzie pracować, jeśli zostanie zatrudniona. Chodzi o to, by pokazać kandydatowi, kogo szukamy i dlaczego oraz dlaczego jest to dla nas ważne. Podajemy też wysokość pensji.
 
 * **Przebieg procesu rekrutacji i kolejne etapy.** Opisujemy, jak kandydaci mogą aplikować na dane stanowisko i jak będzie wyglądać dalszy przebieg procesu rekrutacyjnego. Ważne jest, by prawidłowo określić oczekiwania – zarówno dla kandydata, jak i zespołu.
 
-### Krok 2. CV i list motywacyjny.
+### Krok 2. CV i list motywacyjny
 
-Aby mieć pewność, że dostaniemy zgłoszenia od najlepszych kandydatów, prosimy o przesłanie nam na maila aktualnego CV z krótką wiadomością wyjaśniającą, dlaczego powinniśmy rozważyć ich aplikację. Nie musi to być formalny list motywacyjny – wystarczy kilka zdań w treści maila.
+Aby mieć pewność, że dostaniemy zgłoszenia od najlepszych kandydatów, prosimy o przesłanie nam na maila aktualnego CV z krótką wiadomością wyjaśniającą, dlaczego powinniśmy rozważyć ich kandydaturę. Nie musi to być formalny list motywacyjny – wystarczy kilka zdań w treści maila.
 
-Większość kandydatów traci punkty właśnie w tym miejscu. Od większości dostajemy lakonicznego maila, mniej więcej o treści: *„Przesyłam swoje CV na stanowisko takie i takie, Pozdrawiam”*.
+Większość kandydatów traci punkty właśnie w tym miejscu. Od większości dostajemy lakonicznego maila, mniej więcej o treści: *„Przesyłam swoje CV na stanowisko takie i takie, pozdrawiam”*.
 
 Nie rozumieją tego, że dla nas to już powód do dyskwalifikacji takiego kandydata. A wystarczyło poświęcić pięć minut, by przejrzeć naszą stronę, poczytać nieco więcej o firmie i napisać w paru zdaniach, dlaczego to właśnie jego powinniśmy zatrudnić. Mało kto jednak zadaje sobie ten trud. Większość osób nie rozumie tego, że treść maila jest przez kogoś czytana i oceniana. Stanowi więc idealną okazję do tego, aby wyróżnić się na tle innych kandydatów.
 
-### Krok 3. Pisemna rozmowa rekrutacyjna za pośrednictwem formularza online.
+### Krok 3. Etap zbierania dodatkowych informacji za pomocą formularza online
 
 Na każdego przesłanego maila wysyłamy odpowiedź z podziękowaniem i prośbą o wypełnienie formularza online [^2].
 
-Formularz ten jest bardzo ważny bo daje nam szansę poznać kandydata jeszcze przed rozmową. Możemy zadać bardzo konkretne pytania, licząc na uzyskanie dobrych odpowiedzi, które dużo nam powiedzą o danym kandydacie.
+Formularz ten jest bardzo ważny, bo daje nam szansę poznać kandydata jeszcze przed rozmową. Możemy zadać bardzo konkretne pytania, licząc na uzyskanie dobrych odpowiedzi, które dużo nam powiedzą o danym kandydacie.
 
 Wszystko odbywa się w formie pisemnej. Nie wiemy, jak dana osoba wygląda ani jak brzmi. To pozwala nam wyeliminować wszelkie uprzedzenia względem kandydatów. Stąd tak ważna jest dla nas jakość pytań, które zadajemy w formularzu, bo dzięki odpowiedziom jesteśmy w stanie lepiej poznać kandydatów.
 
