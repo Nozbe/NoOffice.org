@@ -112,7 +112,7 @@ Oczywiście to tylko mój przykład. Każdy musi dostosować rutynę do siebie i
 
 Co w sytuacji, gdy rozchorują Ci się dzieci? Albo gdy Ty zachorujesz? Na te okoliczności warto wypracować strategię zarówno z partnerem, jak i pracodawcą. To, że jesteś w domu, nie znaczy, że masz zajmować się dziećmi. Możesz mieć do zrobienia coś ważnego i potrzebować pomocy małżonka.
 
-Kiedy się rozchorujesz, nie udawaj się pracujesz. Powiedz zespołowi, że źle się czujesz, odłóż pracę na bok i odpocznij. Twoje ciało potrzebuje odpoczynku, by pokonać chorobę.
+Kiedy się rozchorujesz, nie udawaj, że pracujesz. Powiedz zespołowi, że źle się czujesz, odłóż pracę na bok i odpocznij. Twoje ciało potrzebuje odpoczynku, by pokonać chorobę.
 
 Wiele osób pracujących zdalnie, które znam, robi tak, że gdy czują się tylko trochę źle, wolą przez kilka godzin popracować, a potem odpoczywać. Gdy poczują się lepiej, znów pracują, a potem wracają do odpoczynku. W przeciwnym razie czują się znużeni i bezużyteczni. Rozumiem to. Sam mam podobnie. W tej sytuacji najlepiej porozmawiać z szefem i uprzedzić go, że w nadchodzących dniach będziesz pracować mniej, a potem przeliczysz wynagrodzenie za chorobowe w oparciu o przepracowane godziny.
 
