@@ -115,7 +115,5 @@ Check out Chapter 10 and the concept of the *Pyramid of Communication* for a goo
 
 Cultivate one-on-one relationships with people and be vigilant if some of them start feeling lonely. As much as I encourage you to avoid having too many meetings, some are just necessary to keep the spirits of the team going. Especially with people working remotely, you must have a system of interacting with them regularly to make them feel included and accepted.
 
-### Marketing meeting
-
 [^1]: Rafal is the VP of Product at Nozbe and he's a co-host of our "No Office FM podcast": [NoOffice.fm](https://NoOffice.fm)
 [^2]: Seth Godin posted a very short but good "Zoom etiquette" post: [NoOffice.Link/seth-zoom](https://nooffice.link/seth-zoom)
