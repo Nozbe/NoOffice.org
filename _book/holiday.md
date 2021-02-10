@@ -7,8 +7,8 @@ subtitle: "Encourage your team to really break off from work to properly recharg
 * TOC
 {:toc}
 
-> Those who think money can't buy happiness just don't know where to shop… People would be happier and healthier if they took more time off and spent it with their family and friends, yet America has long been heading in the opposite direction.\\
-> - Jonathan Haidt[^1]
+> "Those who think money can't buy happiness just don't know where to shop… People would be happier and healthier if they took more time off and spent it with their family and friends, yet America has long been heading in the opposite direction."\\
+> Jonathan Haidt[^1]
 
 ## To work better, take time off more!
 
