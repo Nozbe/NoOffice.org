@@ -76,12 +76,22 @@ In Chapter 14 I explained the importance of promoting life outside of work in th
 
 It's also about motivating people to share their life outside of work. Usually on our reunions (see previous Chapter) we ask our team members to do presentations on their hobbies. We learned about coffee roasting, home renovation, life in Taiwan, triathlon training, blood donation and many other things our team members are passionate about. This way we promote interests and get people to step out of their comfort zone and don't try to pretend like their work life should be the only thing interesting in their lives.
 
-## Check in with people if they really go out!
+## Check in with people to make sure they really go out!
 
 When the COVID-19 pandemic happened many business owners were asking me how to make sure that people who are now working from home truly work. It made me laugh. I told them not to worry about people not working. I said they should be worried about people working too much! I explained that I consider my main job making sure that my team members really get out of the house. Go for a walk. Meet with others. Get hobbies.
 
 That's why when doing my regular catch-up meetings with everyone on the team (see Chapter 24) I ask about their hobbies. I'm curious about what they're up to outside of work. I just want to make sure they don't crush and burn working. I want them to stay healthy and sane.
 
+## How to socialize in pandemic times? Use video conferencing!
+
+Much like I explained in the previous chapters, how I connect with the other team members (see Chapter 24) and customers (see Chapter 25), you can simply use video conferencing to meet with people.
+
+One of my closest friends lives only 2km from me but he's really afraid of the virus and doesn't want to meet in person, even outside with masks on. I don't blame him, everyone has the right to be as cautious as they want to be and we should tolerate it. So we decided to schedule a monthly *virtual coffee* video meeting. We hang out, talk and just re-connect.
+
+Me and my wife do that also with other couples we like. We cannot meet them in person now, so we just schedule an evening video conferencing session with them, put the kids to bed before, pour a glass of wine and hang out with our friends. This way we can still socialize and hang out with folks. Of course it's not the same as meeting them in person, but again, we're hopeful that this situation will not last and at some point we'll get back to play dates, dinners and other social activities without exposing ourselves to a deadly virus.
+
 ## The one thing: meet people after work!
 
 Working from home gives you and everyone on your team an amazing opportunity to meet people outside of work. So make it a priority. Close down your computer and go out. Meet folks, get to know your neighbors and cultivate hobbies. As most of the day you are alone in your home office, you have a lot of energy and emotional bandwidth to socialize after work. This will make you happier and indirectly make you better at your work!
+
+[^1]: We discussed Radek's hobby in the episode 211 of *The Podcast FM*: [ThePodcast.FM/211](https://thepodcast.fm/211)
