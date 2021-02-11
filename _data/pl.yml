@@ -11,7 +11,7 @@ lang_en: Polish
 lang_em: "🇵🇱"
 percent: "76" # 11+43+1+3*7 (connect)
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_pl/"
-updated: "18 Styczeń, 2021"
+updated: "29 Styczeń, 2021"
 toc:
 - url: intro
   status: draft # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)

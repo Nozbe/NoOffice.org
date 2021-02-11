@@ -77,6 +77,8 @@ let links = new Map([
 ['happiness', 'https://www.happinesshypothesis.com/'],
 ['vacations', 'https://www.bls.gov/opub/ted/2018/private-industry-workers-received-average-of-15-paid-vacation-days-after-5-years-of-service-in-2017.htm'],
 ['japantime', 'https://www.quora.com/How-much-vacation-time-is-normal-in-Japan-for-a-full-time-worker?share=1'],
+['vpolicy', 'https://rework.fm/take-some-time-off/'],
+['sabbatical', 'https://rework.fm/take-a-break/'],
 
 ]);
 
