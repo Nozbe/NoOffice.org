@@ -1,5 +1,5 @@
 ---
-redirect_from: /book/one/
+redirect_from: /book/week/
 part: one
 title: Design your workweek
 subtitle: "Set flexible hours, create themed days and find stretches of uninterrupted time."

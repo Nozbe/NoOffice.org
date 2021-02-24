@@ -20,12 +20,18 @@
       {% assign showlang = true %}
     {% endif %}
   {% endfor %}
+  {% if item.name == 'book' %}
+    {% capture urllang %}{{ site.url }}/{{ include.chapter }}/{% endcapture %}
+  {% else %}
+    {% capture urllang %}{{ site.url }}/{{ item.name }}/{{ include.chapter }}/{% endcapture %}
+  {% endif %}
 {% else %}
   {% assign showlang = true %}
+  {% capture urllang %}{{ site.url }}/{{ item.name }}/{% endcapture %}
 {% endif %}
 
 {% if showlang %}
-<li><a href="{{ site.url }}/{{ item.name }}/{% if include.chapter %}{{ include.chapter }}/{% endif %}" title="{{ site.data.[item.name].lang }}" {% if item.name == thisbook %}class="bold"{% endif %}>{{ site.data.[item.name].lang_em }} {{ site.data.[item.name].lang }} [{{ site.data.[item.name].lang_en }}]{% if include.chapter==null %} - {{ site.data.[item.name].percent }}%{% endif %}</a></li>
+<li><a href="{{ urllang }}" title="{{ site.data.[item.name].lang }}" {% if item.name == thisbook %}class="bold"{% endif %}>{{ site.data.[item.name].lang_em }} {{ site.data.[item.name].lang }} [{{ site.data.[item.name].lang_en }}]{% if include.chapter==null %} - {{ site.data.[item.name].percent }}%{% endif %}</a></li>
 {% endif %}
 
 {% endfor %}

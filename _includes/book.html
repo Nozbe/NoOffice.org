@@ -10,6 +10,16 @@ Our main variable then is "thisbook" which we define in the beginning.
   {% assign thisbook = 'book' %}
 {% endif %}
 
+{% comment %}
+I simplified the setup so that "/book/chapter" is no longer a slug, it's just "/chapter"
+Only language version slugs stay as is: "/es/chapter"
+{% endcomment %}
+
+{% if thisbook == 'book' %}
+  {% capture urlbook %}{{ site.url }}/{% endcapture %}
+{% else %}
+  {% capture urlbook %}{{ site.url }}/{{ site.data.[thisbook].url }}/{% endcapture %}
+{% endif %}
 
 {% for chapter in site.[thisbook] %}
   {% assign slugs = slugs | append: chapter.slug | append:'||' %}
@@ -43,7 +53,7 @@ Our main variable then is "thisbook" which we define in the beginning.
     {% assign page_chname = chapter_chname %}
     {% assign next = true %}
     {% if item.status == "draft" %}{{ site.data.[thisbook].draft }}{% endif %}
-  {% else %}<a href="{{ site.url }}/{{ site.data.[thisbook].url }}/{{ item.url }}" title="{{ chapter_subtitle }} - {{ chapter_title }}">{{ chapter_chname }} - {{ chapter_title }}</a>
+  {% else %}<a href="{{ urlbook }}{{ item.url }}" title="{{ chapter_subtitle }} - {{ chapter_title }}">{{ chapter_chname }} - {{ chapter_title }}</a>
   {% endif %}
   {% for entry in item.chapters %}
     {% for slug in slugs %}
