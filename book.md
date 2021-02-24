@@ -3,6 +3,7 @@ part: toc
 layout: page
 title: "No Office - Table of Contents"
 book: book
+redirect_from: /en/
 ---
 
 {% include book.html %}
