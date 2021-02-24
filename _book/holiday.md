@@ -1,7 +1,8 @@
 ---
+redirect_from: /book/holiday/
 part: two
-title: Holidays
-subtitle: "Encourage your team to really break off from work to properly recharge batteries!"
+title: Take time off
+subtitle: "Everyone needs to be able to properly disconnect from work and recharge their life batteries!"
 ---
 
 * TOC

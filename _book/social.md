@@ -1,4 +1,5 @@
 ---
+redirect_from: /book/social/
 part: two
 title: Socialize
 subtitle: "How to meet other humans outside of work and build great relationships."

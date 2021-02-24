@@ -5,7 +5,7 @@ back: Back to the Table of Contents
 continue: "Next:"
 draft: "[Outline]"
 none: "Nothing written yet..."
-url: book
+url: book #probably need to fix that
 langs: "Language versions of this book:"
 langs_ch: "Read this chapter in:" 
 lang: American English
@@ -120,7 +120,7 @@ toc:
     status: ready
     chname: Chapter 24
     book: "???"
-  - url: meet
+  - url: customers
     status: ready
     chname: Chapter 25
     book: "???"

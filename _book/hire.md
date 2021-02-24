@@ -1,4 +1,5 @@
 ---
+redirect_from: /book/hire/
 part: two
 title: Hire remotely
 subtitle: "You can get the best people for the job and not care where they live."

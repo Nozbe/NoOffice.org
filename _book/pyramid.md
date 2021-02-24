@@ -1,4 +1,5 @@
 ---
+redirect_from: /book/pyramid/
 part: one
 title: Turn your work upside down
 subtitle: "How we discovered the 'Pyramid of Communication' that helps us work better as a team"

@@ -1,4 +1,5 @@
 ---
+redirect_from: /book/home/
 part: two
 title: Set up your home office
 subtitle: "How to create a work environment at home and maintain a healthy balance."

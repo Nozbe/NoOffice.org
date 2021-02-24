@@ -1,4 +1,5 @@
 ---
+redirect_from: /book/team/
 part: intro
 title: I have a team
 subtitle: "Can you build a - No Office - team?"

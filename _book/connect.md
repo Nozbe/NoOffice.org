@@ -1,6 +1,7 @@
 ---
+redirect_from: /book/connect/
 part: two
-title: Connect with people
+title: Remain connected
 subtitle: "Working remotely doesn't have to be lonely. Talk to each other regularly."
 ---
 

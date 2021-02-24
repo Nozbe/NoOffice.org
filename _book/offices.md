@@ -1,7 +1,8 @@
 ---
+redirect_from: /book/offices/
 part: two
-title: No one office
-subtitle: "Different day, different office. When your mood changes, your office can change, too!"
+title: Change offices
+subtitle: "Different day, different office. You can work from anywhere, right?"
 ---
 
 * TOC

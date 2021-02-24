@@ -1,4 +1,5 @@
 ---
+redirect_from: /book/vlog/
 part: one
 title: Learn to vlog
 subtitle: "Replace all-hands meetings or team-wide announcements with vlogging!"

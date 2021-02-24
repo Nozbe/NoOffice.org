@@ -1,4 +1,5 @@
 ---
+redirect_from: /book/balance/
 part: two
 title: Balance work and home
 subtitle: "How to deal with family life and other work-at-home challenges."

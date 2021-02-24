@@ -110,7 +110,7 @@ toc:
   - url: connect
     status: none
     chname: 第24章
-  - url: meet
+  - url: customers
     status: none
     chname: 第25章
   - url: reunion
@@ -122,7 +122,7 @@ toc:
   - url: holiday
     status: none
     chname: 第28章
-  - url: many
+  - url: offices
     status: none
     chname: 第29章
   - url: security

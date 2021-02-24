@@ -1,4 +1,5 @@
 ---
+redirect_from: /book/friday/
 part: one
 title: Don't do work on Fridays
 subtitle: "Introduce 'Mighty Fridays' with regular reviews and focus on personal development."

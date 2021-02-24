@@ -1,7 +1,8 @@
 ---
+redirect_from: /book/security/
 part: two
-title: Security is key
-subtitle: "A handy checklist to keeping your team's data and systems secure."
+title: Keep things secure
+subtitle: "Security is key. Have a handy checklist that will help you keeping data and systems secure."
 ---
 
 * TOC

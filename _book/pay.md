@@ -1,4 +1,5 @@
 ---
+redirect_from: /book/pay/
 part: one
 title: Pay fairly
 subtitle: "Use a salary formula to calculate fair wages and forget individual money negotiations."

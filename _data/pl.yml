@@ -97,7 +97,7 @@ toc:
   - url: connect
     status: draft
     chname: Rozdział 24
-  - url: meet
+  - url: customers
     status: none
     chname: Rozdział 25
   - url: reunion
@@ -109,7 +109,7 @@ toc:
   - url: holiday
     status: none
     chname: Rozdział 28
-  - url: many
+  - url: offices
     status: none
     chname: Rozdział 29
   - url: security

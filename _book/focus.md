@@ -1,4 +1,5 @@
 ---
+redirect_from: /book/focus/
 part: one
 title: Find focus at work
 subtitle: All everyone needs is love… and much more focus time to get stuff done.
