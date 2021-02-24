@@ -61,7 +61,6 @@ defaults:
       layout: "book"
       book: "book"
       permalink: /:title/
-      redirect_from: /book/:title/
   -
     scope:
       path: ""
