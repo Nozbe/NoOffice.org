@@ -1,7 +1,7 @@
 ---
 part: two
-title: You can have many offices
-subtitle: "No Office really means many different offices - depending on how you feel!"
+title: No one office
+subtitle: "Different day, different office. When your mood changes, your office can change, too!"
 ---
 
 * TOC

@@ -80,6 +80,18 @@ let links = new Map([
 ['vpolicy', 'https://rework.fm/take-some-time-off/'],
 ['sabbatical', 'https://rework.fm/take-a-break/'],
 
+//chapter 30
+['1password', 'https://1password.com/business/'],
+['authy', 'https://authy.com/'],
+['authenticator', 'https://en.wikipedia.org/wiki/Google_Authenticator'],
+['security', 'https://nozbe.how/Fyni3'],
+['securemac', 'https://nozbe.how/LcvtK'],
+['secureios', 'https://nozbe.how/vwgDQ'],
+['secureandroid', 'https://nozbe.how/gFEhB'],
+['byod', 'https://en.wikipedia.org/wiki/Bring_your_own_device'],
+['nozbehow', 'https://how.nozbe.com'],
+
+
 ]);
 
 function redirect () {
