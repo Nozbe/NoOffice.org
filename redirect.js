@@ -90,6 +90,7 @@ let links = new Map([
 ['secureandroid', 'https://nozbe.how/gFEhB'],
 ['byod', 'https://en.wikipedia.org/wiki/Bring_your_own_device'],
 ['nozbehow', 'https://how.nozbe.com'],
+['algo', 'https://github.com/trailofbits/algo'],
 
 
 ]);
