@@ -2,8 +2,13 @@
   {% capture shareurl %}{{ site.url }}/{{ page.share }}{% endcapture %}
   {% capture shareslug %}{{ site.name }}/{{ page.share }}{% endcapture %}
 {% else %}
-  {% capture shareurl %}{{ site.url }}/{{ page.slug }}/{% endcapture %}
-  {% capture shareslug %}{{ site.name }}/{{ page.slug }}{% endcapture %}
+  {% if thisbook == 'book' %}
+    {% capture shareurl %}{{ site.url }}/{{ page.slug }}/{% endcapture %}
+    {% capture shareslug %}{{ site.name }}/{{ page.slug }}{% endcapture %}
+  {% else %}
+    {% capture shareurl %}{{ site.url }}/{{ site.data.[thisbook].url }}/{{ page.slug }}/{% endcapture %}
+    {% capture shareslug %}{{ site.name }}/{{ site.data.[thisbook].url }}/{{ page.slug }}{% endcapture %}
+  {% endif %}
 {% endif %}
 
 <h2>{{ site.data.[thisbook].share }}: <a href="{{ shareurl }}">{{ shareslug }}</a></h2>
