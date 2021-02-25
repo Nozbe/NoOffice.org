@@ -7,6 +7,8 @@ Today I finished the last chapter on [Mighty Fridays](/book/friday) of the [Part
 
 [Check out the Table of Contents and start reading!](/book/)
 
+<!--More-->
+
 But there's more!
 
 We've got our first community-driven contribution and the translation of the book to [Brazilian Portuguese has started](/br).

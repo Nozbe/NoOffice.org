@@ -11,21 +11,8 @@ The book is originally written in English, and being translated by [#NoOffice co
 
 {% include langs.html %}
 
-## Latest updates:
+## No Office Podcast: [NoOffice.fm](https://nooffice.fm)
 
-<div class="posts">
-{% for post in site.posts limit:3 %}
-<div class="post">
-	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-	<div class="date">
-	{{ post.date | date: "%B %e, %Y" }}
-	</div>
-	<div class="entry">
-	{{ post.excerpt }}
-	</div>
-	<a href="{{ post.url }}">Read more...</a>
-</div>
-{% endfor %}
-</div>
+Together with Rafał, VP of Product at Nozbe, we're recording a bi-weekly podcast on working remotely.
 
-Want to browse the past? [Check out all the blog archives](/blog/)
+<iframe src="https://embed.podcasts.apple.com/us/podcast/no-office/id1527466890?itsct=podcast_box&amp;itscg=30200" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
