@@ -2,6 +2,8 @@
 part: one
 title: Nie wymagaj udziału w spotkaniach
 subtitle: "Zmień swoje podejście do spotkań i przestań marnować czas wszystkich osób dookoła"
+redirect_from: /spotkania/
+share: spotkania
 ---
 
 * TOC

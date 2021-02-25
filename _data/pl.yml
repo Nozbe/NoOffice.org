@@ -4,8 +4,9 @@ continue: "Następny:"
 draft: "[Szkic]"
 none: "Jeszcze nie przetłumaczony..."
 url: pl
+share: "Prześlij dalej"
 langs: "Wersje językowe tej książki:"
-langs_ch: "Przeczytaj ten rozdział w języku:" 
+langs_ch: "Przeczytaj ten rozdział w języku:"
 lang: Polski
 lang_en: Polish
 lang_em: "🇵🇱"

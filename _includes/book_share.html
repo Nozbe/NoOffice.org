@@ -1,0 +1,9 @@
+{% if page.share %}
+  {% capture shareurl %}{{ site.url }}/{{ page.share }}{% endcapture %}
+  {% capture shareslug %}{{ site.name }}/{{ page.share }}{% endcapture %}
+{% else %}
+  {% capture shareurl %}{{ site.url }}/{{ page.slug }}/{% endcapture %}
+  {% capture shareslug %}{{ site.name }}/{{ page.slug }}{% endcapture %}
+{% endif %}
+
+<h2>{{ site.data.[thisbook].share }}: <a href="{{ shareurl }}">{{ shareslug }}</a></h2>
