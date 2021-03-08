@@ -87,11 +87,11 @@ toc:
     status: draft
     chname: 第17章
 - url: two
-  status: none
-  chname: Part 2
+  status: draft
+  chname: 第２部
   chapters:
   - url: trust
-    status: none
+    status: draft
     chname: 第18章
   - url: mobile
     status: none
