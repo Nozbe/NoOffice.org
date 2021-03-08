@@ -94,10 +94,10 @@ toc:
     status: draft
     chname: 第18章
   - url: mobile
-    status: none
+    status: draft
     chname: 第19章
   - url: async
-    status: none
+    status: draft
     chname: 第20章
   - url: home
     status: none
