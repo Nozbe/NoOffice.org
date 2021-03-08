@@ -1,7 +1,7 @@
 ---
-part: one
+part:one
 title: ムダをなくそう
-subtitle:「常に改善を重ねることでリーンアプローチを実践しよう」
+subtitle: "常に改善を重ねることでリーンアプローチを実践しよう"
 ---
 
 * TOC
@@ -131,5 +131,4 @@ subtitle:「常に改善を重ねることでリーンアプローチを実践�
 [^3]: [「カイゼン」は「継続的な改善」を意味します](https://ja.wikipedia.org/wiki/%E6%94%B9%E5%96%84)
 [^4]: [ラデク・ピエトルシェフスキ (Radek Pietruszewski)](https://radex.io) はまた、私と一緒に[The Podcast](https://thepodcast.fm) の共同ホストをしています。
 [^5]: この言葉は [スティーブン・コヴィー (Stephen Covey) 著 *７つの習慣 (7 Habits of Highly Effective People)*](https://www.franklincovey.com/the-7-habits/habit-7.html) の中で作られた言葉です。
-[^6]: 私は [IFTTT - "If This Then That"](https://ifttt.com) や [Zapier](https://zapier.com) のようなアプリをお勧めします。そして、Nozbe PersonalやNozbe Teamsはそれらと連携して使えます。
-[^7]: [ポール・エイカーズ (Paul Akers) 著書 - *2-second lean*](https://paulakers.net/books/2-second-lean)。彼の[YouTube チャンネル](https://www.youtube.com/channel/UCU0OXtC1xSvZsIiLBdQopaA) でも彼の改善への取り組みについて学べます。
+[^6]: 私は [IFTTT - "If This Then That"](https://ifttt.com) や [Zapier](https://zapier.com) のようなアプリをお勧めします。そして、Nozbe PersonalやNozbe Teamsはそれらと連携して使えます。[^7]: [ポール・エイカーズ (Paul Akers) 著書 - *2-second lean*](https://paulakers.net/books/2-second-lean)。彼の[YouTube チャンネル](https://www.youtube.com/channel/UCU0OXtC1xSvZsIiLBdQopaA) でも彼の改善への取り組みについて学べます。
