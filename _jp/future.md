@@ -1,7 +1,7 @@
 ---
 part: intro
 title: 私には未来がある？
-subtitle:「No Officeは仕事の未来形？」
+subtitle: "No Officeは仕事の未来形？"
 ---
 
 * TOC
