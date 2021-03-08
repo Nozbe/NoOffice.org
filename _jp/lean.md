@@ -1,5 +1,5 @@
 ---
-part:one
+part: one
 title: ムダをなくそう
 subtitle: "常に改善を重ねることでリーンアプローチを実践しよう"
 ---
