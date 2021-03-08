@@ -1,7 +1,7 @@
 ---
 part: intro
 title: 私にはチームがある
-subtitle: 「あなたはNo Officeチームを作れるか？」
+subtitle: "あなたはNo Officeチームを作れるか？"
 ---
 
 * TOC
