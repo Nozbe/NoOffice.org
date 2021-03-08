@@ -87,16 +87,16 @@ toc:
     status: draft
     chname: Capítulo 20
   - url: home
-    status: none
+    status: draft
     chname: Capítulo 21
   - url: balance
-    status: none
+    status: draft
     chname: Capítulo 22
   - url: hire
-    status: none
+    status: draft
     chname: Capítulo 23
   - url: connect
-    status: none
+    status: draft
     chname: Capítulo 24
   - url: customers
     status: none
