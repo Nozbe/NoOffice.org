@@ -2,6 +2,8 @@
 part: two
 title: Spotykaj się ze swoim zespołem
 subtitle: "Jak planujemy zjazdy firmowe Nozbe i spotykamy się na żywo."
+redirect_from: /zjazd/
+share: zjazd
 ---
 
 

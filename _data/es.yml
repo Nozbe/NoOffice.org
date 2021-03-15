@@ -10,7 +10,7 @@ langs_ch: "Leer este capítulo en:"
 lang: Español (Castellano)
 lang_en: Spanish
 lang_em: "🇪🇸"
-percent: "64" #Now: 11+43+1+3*3 (async)
+percent: "82" #Now: 11+43+1+3*9 (reunion)
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_es/"
 updated: "2 de enero, 2021"
 toc:
@@ -99,10 +99,10 @@ toc:
     status: draft
     chname: Capítulo 24
   - url: customers
-    status: none
+    status: draft
     chname: Capítulo 25
   - url: reunion
-    status: none
+    status: draft
     chname: Capítulo 26
   - url: social
     status: none

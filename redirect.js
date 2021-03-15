@@ -88,8 +88,10 @@ let links = new Map([
 ['securemac', 'https://nozbe.how/LcvtK'],
 ['secureios', 'https://nozbe.how/vwgDQ'],
 ['secureandroid', 'https://nozbe.how/gFEhB'],
+['securewindows', 'https://nozbe.how/OoXkY'],
 ['byod', 'https://en.wikipedia.org/wiki/Bring_your_own_device'],
 ['nozbehow', 'https://how.nozbe.com'],
+['phishing', 'https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams'],
 ['algo', 'https://github.com/trailofbits/algo'],
 
 

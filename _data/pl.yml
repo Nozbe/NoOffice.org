@@ -10,9 +10,9 @@ langs_ch: "Przeczytaj ten rozdział w języku:"
 lang: Polski
 lang_en: Polish
 lang_em: "🇵🇱"
-percent: "76" # 11+43+1+3*7 (connect)
+percent: "82" # 11+43+1+3*9 (reunion)
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_pl/"
-updated: "29 Styczeń, 2021"
+updated: "15 Marca, 2021"
 toc:
 - url: intro
   status: draft # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
@@ -99,10 +99,10 @@ toc:
     status: draft
     chname: Rozdział 24
   - url: customers
-    status: none
+    status: draft
     chname: Rozdział 25
   - url: reunion
-    status: none
+    status: draft
     chname: Rozdział 26
   - url: social
     status: none

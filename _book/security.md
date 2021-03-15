@@ -10,37 +10,37 @@ subtitle: "Security is key. Have handy checklists that will help securing your v
 
 ## Traditional office is not a solution to security
 
-There are various approaches to securing team's data and systems. Old-school approach is insisting on having a physical office just for the sake of security. One could argue that only then the real tangible control over everything can be implemented.
+There are various approaches to securing team's data and systems. Old-school approach is insisting on having a physical office for the sake of security. One could argue that only then the tangible control over everything can be implemented.
 
-Now that we have all of our devices connected to the Internet, the data we store on our devices is exposed beyond the constraints of the office buildings. Some companies try to restrict access by having extra firewalls and constraints imposed by the network systems within the office. That's great, but it's not sustainable because if an employee would leave the building, they would instantly lose access to many (if not all) company mandated services and systems.
+Now that we have all our devices connected to the Internet, the data we store on our devices is exposed beyond the constraints of the office buildings. Some companies try to restrict access by having extra firewalls and constraints imposed by the network systems within the office. That's great, but it's not sustainable because if an employee would leave the building, they would instantly lose access to many (if not all) company mandated services and systems.
 
-What the Coronavirus pandemic taught us in 2020 is that having access to work environment outside of the realm of an office is not just convenience. It's a must.
+What the Coronavirus pandemic taught us in 2020 is that having access to work environment outside the realm of an office is not just convenience. It's a must.
 
-Luckily, there are ways of keeping it secure. This chapter will serve as a handy security checklist for all the teams large and small that want to set up their work environment on the Internet in a safe way. It's based on our years of experience, consultation with many other similar companies and just following and improving the best practices in the IT industry. Initially this chapter was a checklist in our internal documentation written up by our VP of Product, Rafał.[^1]
+Luckily, there are ways of keeping it secure. This chapter will serve as a handy security checklist for all the teams large and small that want to set up their work environment on the Internet in a safe way. It's based on our years of experience, consultation with many other similar companies and following and improving the best practices in the IT industry. Initially this chapter was a checklist in our internal documentation written up by our VP of Product, Rafał.[^1]
 
 Some of the things written up here I already mentioned in Chapter 19 about going paperless and embracing the cloud but here I'll dive much deeper into security implications of using Internet services.
 
 ## Virtual office must be secured even more than a physical one!
 
-When you have a traditional office, criminals can still break in, but they'll have to first travel there and then figure out a way of unlocking the locks or turning off an alarm.
+When you have a traditional office, criminals can break in, but they'll have to first travel there and then figure out a way of unlocking the locks or turning off an alarm.
 
-The virtual office is much trickier. The Internet lets people *travel* to your office in milliseconds. There are many known ways of hacking into computer systems and your overall security depends on each and everyone on the team. So your systems are as secure as the least secure link or person in it. That's why it's critical to review your security policies on a regular basis, preferably while doing your quarterly review (see Chapter 16) or when having a one-on-one catch up call (see Chapter 24).
+The virtual office is much trickier. The Internet lets people *travel* to your office in milliseconds. There are many known ways of hacking into computer systems and your security depends on each and everyone on the team. Your systems are as secure as the least secure link or person in it. That's why it's critical to review your security policies on a regular basis, preferably while doing your quarterly review (see Chapter 16) or when having a one-on-one catch up call (see Chapter 24).
 
 ### 1. Passwords must be long and unique
 
 It's time to stop using passwords you can remember for all of your services. No more *Test1234* or *Mike1979* or anything like that. Yes, these passwords comply with the usual rule of minimum 8 characters, a mix of lowercase and uppercase letters with numbers. But they're not secure. They're easy to guess.
 
-We use a Password vault app[^2] that everyone on our team must use. This app needs to work on all devices we use for work. For each service our team members need to generate a unique and long password (minimum 12 characters, preferably 20). We've got several vaults configured:
+We use a Password vault app[^2] that everyone on our team must use. This app needs to work on all devices used for work. For each service our team members need to generate a unique and long password (minimum 12 characters, preferably 20). We've got several vaults configured:
 
 * Private vault - for everyone's own private passwords - our company has no access to it
 * Shared vault - shared with all team members
 * Marketing vault - for all marketing services we use
-* Dev vault - for all engineering-related stuff
+* Dev vault - for all engineering-related things
 * Directors vault - for all mission-critical services
 
 With this set up everyone on the team has access to the *Shared* vault but then selected people depending on their role with the company get access to additional vaults.
 
-The only thing someone has to remember is the password to the Password Vault. It's called the *master password*. The best way to make it really secure it to just glue together four random words and maybe a number. Like: *CarFlowerBiteMust38*. It's easy to remember yet it's nearly impossible for anyone or any system to figure out with brute-force.
+The only thing someone has to remember is the password to the Password Vault. It's called the *master password*. The best way to make it secure is to glue together four random words and a number. Like: *CarFlowerBiteMust38*. It's easy to remember yet it's nearly impossible for anyone or any system to figure out with brute-force.
 
 ### 2. Set up Two-Factor Authentication (2FA)
 
@@ -52,59 +52,67 @@ While you're setting up 2FA for all the services and social media sites you're a
 
 * update your password for a stronger one
 * add your phone number as an additional means of accessing the account
-* review all the connected services or apps that might have access to your account (especially review your social media profiles)
+* review all the connected services or apps that might have access to your account (above all your social media profiles)
 
-Many online services that rely on teams signing up, have an option to *force* everyone on the team to use 2FA. If you're a team admin, take advantage of this option. This way upon next sign in all the laggards in your team will have no option but to set up their authentication device if they want to access their account. Typically when we want to exercise such option, we give our team a week of advanced warning. After that, we flip the switch and then we know everyone on the team is set up.
+Many online services that rely on teams signing up, have an option to *force* everyone on the team to use 2FA. If you're a team admin, take advantage of this option. This way upon next sign in all the laggards in your team will have to set up their authentication device if they want to access their account. Typically when we want to exercise such option, we give our team a week of advanced warning. After that, we flip the switch and then we know everyone on the team is set up.
 
 ### 3. Secure your personal devices
 
 In the past people used to get all their devices from their employer - the computer and phone set up and configured by the corporate IT department. However with the recent emergence of smartphones and tablets the *bring your own device*[^6] trend revisited these policies.
 
-In our company most people use the computers, smartphones and tablets they own themselves. We don't have control over them. So what we do is we make sure people secure their devices themselves by reviewing the best practices with them. For that, we have prepared handy checklists:
+In our company most people use the computers, smartphones and tablets they own themselves. We don't have control over them. What we do is we make sure people secure their devices themselves by reviewing the best practices with them. For that, we have prepared handy checklists:
 
 * Securing a Mac computer[^7]
 * Securing a Windows computer[^8]
-* Securing an iPhone or iPad[^9]
-* Securing an Android phone[^10]
+* Securing an iOS device (iPhone or iPad)[^9]
+* Securing an Android smartphone[^10]
 
-We make sure our team members review these checklists when they're setting up a new device.[^11] We send these checklists to our family members as well. Security of our devices is just a very good practice.
+We make sure our team members review these checklists when they're setting up a new device.[^11] We advise everyone to send these checklists to their family members as well.
 
 ## VPN server - our team's secure virtual office in the cloud
 
-Now that hi-speed bandwidth is much more common, people started using VPN servers much more than before.[^12] When you establish a secure connection with a VPN server, you basically connect to the Internet through that server. So it seems like you're connecting from the physical location of the server you're connected to. That's why VPN is being used very often as a way to protect private geo-location. Or as a way to watch movies on streaming service from a different country[^13].
+Now that hi-speed bandwidth is much more common, people started using VPN servers much more than before.[^12] When you establish a secure connection with a VPN server, you connect to the Internet through that server. It seems like you're connecting from the physical location of the server you're connected to. That's why VPN is being used as a way to protect private geo-location. Or as a way to watch movies on a streaming service from a different country[^13].
 
 However, there's a third way of using VPN server which we recently discovered and it instantly boosted the security of many of our internal tools.
 
 We use a VPN server as our *virtual office in the cloud*:
 
 * We pay for our own VPN server hosted at a data center near our official company address.
-* We set up unique user accounts on this server for each and everyone on our team.
+* We set up unique user accounts on this server for everyone on our team.
 * This VPN server has one unique IP address, so when we log in to this server, all our Internet traffic goes through it and it seems to the world that this is our device's IP address.
-* We then limit access to our internal tools like customer support portal, billing portal, company wiki and others to only this IP address.[^14]
+* We then limit access to our internal tools like customer support portal, billing portal, company wiki and others to this IP address.[^14]
 
 This set up solves several security concerns:
 
 * Our connection to the entire Internet is always encrypted. Even when someone our team has a laptop connected to a local coffee shop WiFi hotspot, nobody can snoop on their Internet traffic as it goes encrypted through the VPN first.
-* Our internal tools are always secured. Bad people cannot hack to our customer database or other internal tools that we use because they're being blocked already on the IP level.
-* It makes it easy to outboard people. When a person leaves the company, we delete their VPN account so they immediately lose access to most of our company data with just one swoop.
+* Our internal tools are always secured. Bad people cannot hack to our customer database or other internal tools that we use because they're being blocked on the IP address level.
+* It makes it easy to outboard people. When a person leaves the company, we delete their VPN account and they immediately lose access to our company data with one swoop.
 
 By setting up our own VPN server and creating our own VPN accounts for everyone on the team, we are replicating this kind of security that in the past was only limited to a physical office. The VPN server becomes our office. To be able to access the data or services you must be *in the office*, meaning, you must be logged in to our VPN server.
 
-VPN server is a secure virtual office in the cloud and I recommend every team to set up a server like this.[^15]
+To make sure that this VPN server is not our *single point of failure*, we have a second VPN server set up in a completely different geographical location. This way of one server fails, we can still log in to our *virtual office*. I recommend every team to set up a server (or two) like this.[^15]
 
-The cool thing is that most modern devices have built-in support for VPN servers so you don't need any additional software to access a VPN connection. It's build in Mac, Windows, Android and on iOS. On my iPad I'm connected to our VPN server most of the time. It's just one switch in the Settings.
+The cool thing is that most modern devices have built-in support for VPN servers. You don't need any additional software to access a VPN connection. It's built in Mac, Windows, Android and on iOS. On my iPad I'm connected to our VPN server most of the time. It's just one switch in the Settings.
+
+## Phishing and malware protection
+
+Another thing to consider is a way to protect each team members' home office from phishing attacks and malware by using DNS protection. This way nobody can accidentally access a malicious server from a computer at all. This is very easy to set up - all you have to do is change the DNS server on the Internet router[^16].
+
+It's also important to be aware of all the latest tricks that scammers use to convince us to click a link in an email message. It's called email phishing and it's getting increasingly sophisticated[^17]. Clicking on a malicious link can prompt us to download a computer virus or spying program without us being aware of it. That's why many companies perform regular training sessions and tests on their employees to make them aware of these threats. That's an additional reason to avoid using email to collaborate (as explained in Chapter 6).
 
 ## Security is not a state, it's a process
 
-It's not enough to just have a security checklist and look at it once, set it up and forget. Security is a process that needs constant revision, monitoring and tweaking. It's not a thing you have. It's a thing you keep improving.
+It's not enough to have a security checklist and look at it once, set it up and forget. Security is a process that needs constant revision, monitoring and tweaking.
 
-As I was writing this chapter and preparing the checklists for it, I noticed that many things needed updating from the last time we published them. I realized that I also neglected to set up 2FA in some of the services I was using.
+> Security is not a thing you have. It's a thing you keep reviewing and improving.
 
-Now I've decided to make it a part of our regular team quarterly  review that we go through these checklists ourselves and make sure everything is set up correctly. And when these checklists need amendments or changes, we'll do them right away[^16].
+As I was writing this chapter and preparing the checklists for it, I noticed that many things needed updating from the last time we published them. I realized that I neglected to set up 2FA in some of the services I was using.
+
+Now I've decided to make it a part of our regular team quarterly  review that we go through these checklists ourselves and make sure everything is set up correctly. And when these checklists need amendments or changes, we'll do them right away[^18].
 
 ## The one thing: Keep your virtual office secure!
 
-Follow the steps and checklists in this chapter. Send them to everyone on your team and establish a regular review of all of your security infrastructure. Use 2FA when possible and consider setting up a VPN server for your team. Trust your team to keep the systems secure but review them just to be on the safe side.
+Follow the steps and checklists in this chapter. Send them to everyone on your team and establish a regular review of all of your security infrastructure. Use 2FA when possible and consider setting up a VPN server for your team. Trust your team to keep the systems secure but review them regularly just to be on the safe side.
 
 [^1]: Rafał Sobolewski is my co-host of the No Office podcast at: [NoOffice.fm](https://NoOffice.fm/)
 [^2]: In our company we use and recommend 1Password for business: [NoOffice.Link/1password](https://nooffice.link/1password)
@@ -113,12 +121,14 @@ Follow the steps and checklists in this chapter. Send them to everyone on your t
 [^5]: Here's our current checklist for 2FA of services we use: [NoOffice.Link/security](https://nooffice.link/security)
 [^6]: Bring Your Own Device / Technology / Phone as explained on Wikipedia: [NoOffice.Link/byod](https://nooffice.link/byod) 
 [^7]: Here's a checklist for securing your iMac or MacBook computer: [NoOffice.Link/securemac](https://nooffice.link/securemac)
-[^8]: A checklist for Windows computer is still in the works. Will be added here soon!
+[^8]: Here's a checklist for securing your Windows 10 computer: [NoOffice.Link/securewindows](https://nooffice.link/securewindows)
 [^9]: Here's how to step by step secure any iOS device: [NoOffice.Link/secureios](https://nooffice.link/secureios)
 [^10]: Leon from our team published a handy checklist for securing an Android device: [NoOffice.Link/secureandroid](https://nooffice.link/secureandroid)
 [^11]: All the above checklists are published on our **Nozbe.HOW** platform. Anyone can complete such checklist on any device without a need for additional software. [NoOffice.Link/nozbehow](https://nooffice.link/nozbehow)
 [^12]: VPN stands for *Virtual Private Networking*, more info on Wikipedia: [NoOffice.Link/vpn](https://nooffice.link/vpn)
 [^13]: Because of copyright laws, many streaming services are offering different content in different countries. That's why for example people in Europe try to use VPN servers in the USA to watch US-based content.
 [^14]: You can test it yourself. Try accessing **Nozbe.team** web site and you'll see a blank page. Only our team members have access to this site when they're logged in to our VPN server.
-[^15]: Our CTO just set up Algo VPN server and swears by it. It's free and apparently easy to install for someone with a little technical knowledge: [NoOffice.Link/algo](https://nooffice.link/algo)
-[^16]: As in this chapter I linked to the actual checklists that we use in our company, any time we update them, you'll have access to the latest up-to-date version. Enjoy!
+[^15]: Our CTO set up Algo VPN server and swears by it. It's free and easy to install for someone with a little technical knowledge: [NoOffice.Link/algo](https://nooffice.link/algo)
+[^16]: A very popular option is to use a service like OpenDNS: [NoOffice.Link/opendns](https://nooffice.link/opendns) 
+[^17]: Explanation of what email phishing is by the FTC: [NoOffice.Link/phishing](https://nooffice.link/phishing)
+[^18]: As in this chapter I linked to the actual checklists that we use in our company, any time we update them, you'll have access to the latest up-to-date version. Enjoy!
