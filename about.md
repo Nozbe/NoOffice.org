@@ -48,7 +48,7 @@ Together with Magda, I'm openly writing this book here. The book is free, and yo
 * Add pull requests and comments on [GitHub repository](https://github.com/Nozbe/NoOffice.org)
 * The book and the site are [licensed under CC BY-SA 4.0](/license)
 
-To ensure the English grammar and style are perfect, Daniella Conley proofreads and edits every chapter of the book. 
+To ensure the English grammar and style are perfect, [Daniella Conley](https://www.linkedin.com/in/daniella-conley/) proofreads and edits every chapter of the book. 
 
 Currently, we have several language versions in the works:
 
