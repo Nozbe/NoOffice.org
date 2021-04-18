@@ -109,11 +109,11 @@ Our main challenge hasn't been that people were slacking off, but that they stil
 
 Over the years of having *Mighty Fridays*, we've found these tips pretty helpful:
 
-– Have people report back in a chat room once they've done their weekly review – this motivates others!
-– Share your ideas for Friday: what are you going to learn, watch, read... this is especially useful when sharing with colleagues from your closest team – let them copy you!
-– Have a clear plan to learn a new skill, new language or new hobby so that every Friday you're excited to be advancing in this thing that brings you joy!
-– Change your scenery – maybe work from your favorite coffee shop or some other place than where you do your usual day-to-day work.
-– Have a catch-up call or video chat with your peers from other companies. I have my *Mastermind* group meeting every Friday at 3 pm. It's the perfect ending to a workweek.
+- Have people report back in a chat room once they've done their weekly review – this motivates others!
+- Share your ideas for Friday: what are you going to learn, watch, read... this is especially useful when sharing with colleagues from your closest team – let them copy you!
+- Have a clear plan to learn a new skill, new language or new hobby so that every Friday you're excited to be advancing in this thing that brings you joy!
+- Change your scenery – maybe work from your favorite coffee shop or some other place than where you do your usual day-to-day work.
+- Have a catch-up call or video chat with your peers from other companies. I have my *Mastermind* group meeting every Friday at 3 pm. It's the perfect ending to a workweek.
 
 ## The one thing: Make Friday different – make it free(ish)!
 

@@ -50,11 +50,11 @@ The goal of the team is to work together with an aim to *raise the base* as our 
 
 There are different employee categories in our team:
 
-– **CXO** -–C-executives – we currently have a CEO and a CTO
-– **VP** – VP (Vice Presidents) – e.g., VP Support, VP Finance, VP Marketing, VP Product…
-– **Dev** – Engineering team
-– **Marketing** – Marketing team
-– **Support** – Support team
+- **CXO** -–C-executives – we currently have a CEO and a CTO
+- **VP** – VP (Vice Presidents) – e.g., VP Support, VP Finance, VP Marketing, VP Product…
+- **Dev** – Engineering team
+- **Marketing** – Marketing team
+- **Support** – Support team
 
 Everyone from the same category has the same base salary.
 
@@ -124,9 +124,9 @@ When we hire, we can publish the expected wage for the position very easily. We 
 
 This has made my job easier as the owner of the company:
 
-– When one of my VPs is hiring for a position in their team, they don't have to ask me: *"How much should we pay for this position?"* They just put it in our salary formula and they have an answer.
-– Salary negotiations are no longer a thing in the company. We can talk about the personal development level, but not about money.
-– I'm not the only one deciding on the shape and form of the *salary formula*; I do it with all of our *Directors team*. We review the system together and make sure it's fair and square.
+- When one of my VPs is hiring for a position in their team, they don't have to ask me: *"How much should we pay for this position?"* They just put it in our salary formula and they have an answer.
+- Salary negotiations are no longer a thing in the company. We can talk about the personal development level, but not about money.
+- I'm not the only one deciding on the shape and form of the *salary formula*; I do it with all of our *Directors team*. We review the system together and make sure it's fair and square.
 
 ## No gender or race bias!
 
@@ -136,9 +136,9 @@ I can't fathom why this is still an issue in 2020. Personally, I have three daug
 
 While I believe such a salary system is worth introducing in all of the teams, it has its downsides:
 
-– Because of how business works, some people like to negotiate their salaries or believe they're worth more than anyone else. This system is not for them. They won't feel it's fair for them and they'll leave the team or choose simply not to join it in the first place.
-– This system makes it virtually impossible to poach people from other companies, as you won't have the leverage of a higher, individually-tailored salary for them. Unless, of course, they want to work with you because you're following advice from this book and you've created an environment that people really want to be a part of.
-– Your competitors will have it easier to poach from you, because they'll be able to individually outbid what you're offering and, according to the *salary formula*, you have no chance of countering their offer.
+- Because of how business works, some people like to negotiate their salaries or believe they're worth more than anyone else. This system is not for them. They won't feel it's fair for them and they'll leave the team or choose simply not to join it in the first place.
+- This system makes it virtually impossible to poach people from other companies, as you won't have the leverage of a higher, individually-tailored salary for them. Unless, of course, they want to work with you because you're following advice from this book and you've created an environment that people really want to be a part of.
+- Your competitors will have it easier to poach from you, because they'll be able to individually outbid what you're offering and, according to the *salary formula*, you have no chance of countering their offer.
 
 While these are valid concerns, I still prefer to work in a team where compensation is not something we talk about too often and instead is governed by a fair *salary formula*. My only concern is to be able to generate enough revenue that I can *raise the base* every year for my team members and that they're paid top dollar for their work while working in a #NoOffice team.
 

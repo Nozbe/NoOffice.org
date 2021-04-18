@@ -111,11 +111,11 @@ For every reunion, we prepare gadgets for the team with our company logo on it. 
 
 Apart from the t-shirt, we try to get something special for the team. Previously, we’ve gifted:
 
-– a travel bottle with water filter
-– a travel coffee mug
-– a traditional tea mug
-– a power bank to charge mobile phones
-– and many different things...
+- a travel bottle with water filter
+- a travel coffee mug
+- a traditional tea mug
+- a power bank to charge mobile phones
+- and many different things...
 
 Many companies offer gadgets with company logos on them, but recently we decided to approach this the other way round – to find a product we like and try to buy it in bulk and add the company logo later. This way, we make sure we don’t get a cheap knock-off but a real quality product as a gift for the team.
 

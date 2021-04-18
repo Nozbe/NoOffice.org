@@ -42,11 +42,11 @@ Instead of writing to our VP of Product saying, *"Hey, we need this feature in N
 
 Now, it's time to do some research. I'd ordinarily do a mix of the following things:
 
-– Audit past tasks and documents to see if we’ve already tried to approach this problem before.
-– Research how other companies are dealing with similar situations.
-– Find some books or articles on the subject.
-– Watch some helpful videos on YouTube.
-– Ask some teammates for their thoughts by mentioning them in the comment to my task.
+- Audit past tasks and documents to see if we’ve already tried to approach this problem before.
+- Research how other companies are dealing with similar situations.
+- Find some books or articles on the subject.
+- Watch some helpful videos on YouTube.
+- Ask some teammates for their thoughts by mentioning them in the comment to my task.
 
 It's important to take the time to do proper research. I give myself at least two hours to do the initial study. And based on my gut, I then decide how much more time I need for this.
 
@@ -66,9 +66,9 @@ That's why I don't spend time presenting the solution – instead, we dive right
 
 With this whole process, the goal is to reach one of three outcomes:
 
-– Move to implement the proposed solution.
-– Take one more week to review the feedback and discuss the revised solution next time we meet.
-– Completely discard the solution and make a task for the future to approach the problem differently.
+- Move to implement the proposed solution.
+- Take one more week to review the feedback and discuss the revised solution next time we meet.
+- Completely discard the solution and make a task for the future to approach the problem differently.
 
 That's it. The decision comes down to these three options. Sometimes the solution is really straightforward, and after little debate, it goes to implementation unchanged or with a few tweaks. Other times, we just need one more week. There's lots of feedback given, so the person proposing the solution must digest it, incorporate it and present a revised solution the following week. However, there are times when we decide the problem identified is not really that big of a deal or that the solution that we came up with is not something we'd be proud of or it's just too early for the discussion, so we discard it entirely for now.
 
