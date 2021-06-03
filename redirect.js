@@ -80,6 +80,13 @@ let links = new Map([
 ['vpolicy', 'https://rework.fm/take-some-time-off/'],
 ['sabbatical', 'https://rework.fm/take-a-break/'],
 
+//chapter 29
+['lizard', 'https://99u.adobe.com/videos/5822/seth-godin-quieting-the-lizard-brain'],
+['offices','https://nooffice.org/remote-worker-s-luxury-changing-offices-for-different-tasks-and-better-productivity-7fcfc5d6d3b0/'],
+['ludovico', 'https://ludovicoeinaudi.com/disco/the-royal-albert-hall-concert/'],
+['augusto', 'https://sliwinski.com/interview-with-augusto-pinaud-for-the-productive-magazine-14/'],
+
+
 //chapter 30
 ['1password', 'https://1password.com/business/'],
 ['authy', 'https://authy.com/'],
