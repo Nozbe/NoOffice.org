@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/decide/
+redirect_from:
+ - /book/decide/
+ - /11/
 part: one
 title: Make smarter decisions
 subtitle: "Decide faster, yet take enough time to get things just right."

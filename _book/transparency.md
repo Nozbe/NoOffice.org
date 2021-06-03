@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/transparency/
+redirect_from:
+ - /book/transparency/
+ - /31/
 part: two
 title: Become transparent
 subtitle: "Your team will be more transparent than ever, even if it's spread geographically!"

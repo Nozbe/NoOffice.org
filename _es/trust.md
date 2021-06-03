@@ -1,5 +1,5 @@
 ---
-part: Two
+part: two
 title: Confiad los unos en los otros
 subtitle: "El control del trabajo es bueno, pero es mucho mejor la confianza en hacer el trabajo"
 ---

@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/dream/
+redirect_from:
+ - /book/dream/
+ - /1/
 part: intro
 title: I have a dream
 subtitle: How my - No Office - lifestyle was born…

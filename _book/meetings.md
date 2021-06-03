@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/meetings/
+redirect_from:
+ - /book/meetings/
+ - /7/
 part: one
 title: Make meetings optional
 subtitle: "Change your approach to meetings completely and stop wasting everyone's time."

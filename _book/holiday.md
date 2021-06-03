@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/holiday/
+redirect_from:
+ - /book/holiday/
+ - /28/
 part: two
 title: Take time off
 subtitle: "Everyone needs to be able to properly disconnect from work and recharge their life batteries!"

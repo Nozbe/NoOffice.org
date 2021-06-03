@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/async/
+redirect_from:
+ - /book/async/
+ - /20/
 part: two
 title: Work asynchronously
 subtitle: "Being in sync is overrated. Efficient communication means fewer interruptions."

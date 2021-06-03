@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/trust/
+redirect_from:
+ - /book/trust/
+ - /18/
 part: two
 title: Trust each other
 subtitle: "Having control over work is good, but having trust in others to do the work is so much better!"

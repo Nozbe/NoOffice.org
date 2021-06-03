@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/write/
+redirect_from:
+ - /book/write/
+ - /5/
 part: one
 title: Write stuff down
 subtitle: "Create a culture of taking notes and don't depend on he-said-she-said."

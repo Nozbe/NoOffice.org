@@ -1,5 +1,5 @@
 ---
-part: segunda
+part: two
 title: Contratación en remoto
 Subtitle: "Puedes conseguir a los mejores para el trabajo y no preocuparte de dónde viven."
 ---

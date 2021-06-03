@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/fight/
+redirect_from:
+ - /book/fight/
+ - /8/
 part: one
 title: Fight, argue and commit
 subtitle: "Don't be afraid of a healthy disagreement that pushes your team forward!"

@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/meet/
+redirect_from:
+ - /book/meet/
+ - /25/
 part: two
 title: Meet your customers
 subtitle: "You can meet your customers even if you don't have a physical HQ."

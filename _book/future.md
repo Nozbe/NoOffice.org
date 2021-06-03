@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/future/
+redirect_from:
+ - /book/future/
+ - /3/
 part: intro
 title: I have a future?
 subtitle: "Can - No Office - be the future of work?"

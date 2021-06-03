@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/review/
+redirect_from:
+ - /book/review/
+ - /16/
 part: one
 title: Review work regularly
 subtitle: "Every week, check on your progress, and every quarter, focus on the big picture."

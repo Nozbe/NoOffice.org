@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/perks/
+redirect_from:
+ - /book/perks/
+ - /14/
 part: one
 title: Be generous
 subtitle: "Give people perks that promote good habits, a nice life outside of work and charitable causes."

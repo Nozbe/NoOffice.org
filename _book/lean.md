@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/lean/
+redirect_from:
+ - /book/lean/
+ - /12/
 part: one
 title: Eliminate waste
 subtitle: "Practice a lean approach by constantly improving the way you're doing things."

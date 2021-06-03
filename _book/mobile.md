@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/mobile/
+redirect_from:
+ - /book/mobile/
+ - /19/
 part: two
 title: Go mobile and ditch paper
 subtitle: "Modern businesses are paperless and mobile, with a virtual cabinet in the cloud."

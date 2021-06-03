@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/security/
+redirect_from:
+ - /book/security/
+ - /30/
 part: two
 title: Keep things secure
 subtitle: "Security is key. Have handy checklists that will help securing your virtual office."

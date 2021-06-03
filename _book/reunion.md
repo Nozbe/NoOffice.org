@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/reunion/
+redirect_from:
+ - /book/reunion/
+ - /26/
 part: two
 title: Reunite the team
 subtitle: "How we plan semi-annual Nozbe Reunions to meet in one physical space."

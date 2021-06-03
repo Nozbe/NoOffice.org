@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/email/
+redirect_from:
+ - /book/email/
+ - /6/
 part: one
 title: Ban email internally
 subtitle: "Don't use email to communicate within your team – only use it with the outside world!"
