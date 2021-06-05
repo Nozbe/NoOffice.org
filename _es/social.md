@@ -1,5 +1,8 @@
 ---
-redirect_from: /book/social/
+share: socializar
+redirect_from:
+ - /socializar/
+ - /27es/
 part: two
 title: Socializa
 subtitle: "Así se puede conocer a otros seres humanos fuera del trabajo y establecer excelentes relaciones personales."

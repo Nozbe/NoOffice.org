@@ -1,6 +1,10 @@
 ---
+share: klienci
+redirect_from:
+ - /klienci/
+ - /25pl/
 part: two
-tytuł: Poznaj swoich klientów
+title: Poznaj swoich klientów
 subtitle: "Możesz spotykać się z klientami, nawet jeśli nie masz biura."
 ---
 

@@ -1,4 +1,8 @@
 ---
+share: marzenie
+redirect_from:
+ - /marzenie/
+ - /1pl/
 part: intro
 title: Mam marzenie
 subtitle: Jak kształtował się mój styl życia „bez biura”

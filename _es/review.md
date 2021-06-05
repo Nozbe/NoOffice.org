@@ -1,4 +1,8 @@
 ---
+share: revisar
+redirect_from:
+ - /revisar/
+ - /16es/
 part: one
 title: Revisa el trabajo periódicamente
 subtitle: "Todas las semanas, comprueba tu progreso, y cada trimestre, céntrate en el panorama general"

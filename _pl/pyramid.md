@@ -1,4 +1,8 @@
 ---
+share: piramida
+redirect_from:
+ - /piramida/
+ - /10pl/
 part: one
 title: Postaw na głowie współpracę w swoim zespole
 subtitle: "Jak odkryliśmy piramidę komunikacji, która pozwala nam pracować efektywniej"

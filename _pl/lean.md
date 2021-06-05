@@ -1,4 +1,8 @@
 ---
+share: optymalizacja
+redirect_from:
+ - /optymalizacja/
+ - /12pl/
 part: one
 title: Eliminuj straty
 subtitle: "Kieruj się zwinnym podejściem poprzez ciągłe doskonalenie działań."

@@ -1,4 +1,8 @@
 ---
+share: decidir
+redirect_from:
+ - /decidir/
+ - /11es/
 part: one
 title: Toma decisiones más inteligentes
 subtitle: "Decide más rápido, pero tómate el tiempo suficiente para hacer bien las cosas".

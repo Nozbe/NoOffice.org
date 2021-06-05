@@ -1,4 +1,8 @@
 ---
+share: futuro
+redirect_from:
+ - /futuro/
+ - /3es/
 part: intro
 title: ¿Tengo futuro?
 subtitle: "¿Puede ser el estilo de empresa Sin Oficina el futuro del trabajo?"

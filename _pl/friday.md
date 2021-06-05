@@ -1,4 +1,8 @@
 ---
+share: piatek
+redirect_from:
+ - /piatek/
+ - /17pl/
 part: one
 title: Zrezygnuj z pracy w piątki
 subtitle: "Wprowadź wolne piątki z regularnymi przeglądami i skup się na rozwoju osobistym."

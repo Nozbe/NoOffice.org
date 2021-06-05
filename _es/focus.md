@@ -1,4 +1,8 @@
 ---
+share: enfoque
+redirect_from:
+ - /enfoque/
+ - /4es/
 part: one
 title: Concéntrate en el trabajo
 subtitle: "Todo lo que todo el mundo necesita es amor… y mucho más tiempo de concentración para cumplir los objetivos."

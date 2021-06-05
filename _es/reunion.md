@@ -1,4 +1,8 @@
 ---
+share: envivo
+redirect_from:
+ - /envivo/
+ - /26es/
 part: two
 title: Reúnete con el equipo
 subtitle: "Cómo planificamos las reuniones semestrales de Nozbe para reunirnos en un espacio físico."

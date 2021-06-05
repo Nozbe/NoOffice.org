@@ -1,5 +1,9 @@
 ---
-part: segunda
+share: asincrono
+redirect_from:
+ - /asincrono/
+ - /20es/
+part: two
 title: Trabaja de forma asíncrona
 subtitle: "Estar sincronizado está sobrevalorado. Una comunicación eficiente significa menos interrupciones."
 ---

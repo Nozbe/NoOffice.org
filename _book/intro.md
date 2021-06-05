@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/intro/
+redirect_from:
+ - /book/intro/
+ - /p0/
 part: intro
 title: "Modern work is changing"
 subtitle: Embrace the change to a more flexible, transparent and geographically-dispersed style of work.

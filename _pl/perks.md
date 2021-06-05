@@ -1,4 +1,8 @@
 ---
+share: dodatki
+redirect_from:
+ - /dodatki/
+ - /14pl/
 part: one
 title: Bądź hojny
 subtitle: "Zaoferuj pracownikom udogodnienia, które budują dobre nawyki, zachęcają do posiadania życia poza pracą i wspierają cele charytatywne"

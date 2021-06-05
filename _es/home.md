@@ -1,4 +1,8 @@
 ---
+share: casa
+redirect_from:
+ - /casa/
+ - /21es/
 part: two
 title: Organiza tu oficina en casa
 subtitle: "Cómo crear un ambiente de trabajo en casa y no morir en el intento."

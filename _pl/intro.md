@@ -1,4 +1,8 @@
 ---
+share: poczatek
+redirect_from:
+ - /poczatek/
+ - /p0pl/
 part: intro
 title: "Współczesny styl pracy ciągle się zmienia"
 subtitle: Otwórz się na zmiany i przejdź na bardziej elastyczny, przejrzysty i rozproszony model pracy.

@@ -1,7 +1,11 @@
 ---
+share: conectar
+redirect_from:
+ - /conectar/
+ - /24es/
 part: two
-Title: Conectar con las personas
-Subtitle: "Trabajar en remoto no tiene por qué ser solitario. Hablad entre vosotros con frecuencia."
+title: Conectar con las personas
+subtitle: "Trabajar en remoto no tiene por qué ser solitario. Hablad entre vosotros con frecuencia."
 ---
 
 * TOC

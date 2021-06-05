@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/outro/
+redirect_from:
+ - /book/outro/
+ - /p4/
 part: outro
 title: Office is optional
 subtitle: "Office is just a tool, and you can get away without it and have a more effective team than ever!"

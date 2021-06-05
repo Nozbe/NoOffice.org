@@ -1,4 +1,8 @@
 ---
+share: uno
+redirect_from:
+ - /uno/
+ - /p1es/
 part: one
 title: ¡No se utiliza bien la oficina!
 subtitle: "Independientemente de si vuestro equipo está o no en una oficina, es el momento de que todos empecéis a trabajar de una manera diferente"

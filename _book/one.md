@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/one/
+redirect_from:
+ - /book/one/
+ - /p1/
 part: one
 title: You are using your office wrong!
 subtitle: "Whether or not your team is in an office, it's time for you all to start working differently."

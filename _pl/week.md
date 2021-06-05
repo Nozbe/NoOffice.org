@@ -1,4 +1,8 @@
 ---
+share: tydzien
+redirect_from:
+ - /tydzien/
+ - /15pl/
 part: one
 title: Zaprojektuj swój tydzień pracy
 subtitle: "Wprowadź elastyczne godziny pracy i wydziel bloki niezakłóconego czasu"

@@ -1,6 +1,10 @@
 ---
+share: discutir
+redirect_from:
+ - /discutir/
+ - /8es/
 part: one
-title: ¡Luchar, debatir y comprometerse!
+title: ¡Luchar, discutir y comprometerse!
 subtitle: "¡No tengas miedo de un desacuerdo sano que impulse a tu equipo a seguir avanzando!"
 ---
 

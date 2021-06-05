@@ -1,4 +1,8 @@
 ---
+share: eficiencia
+redirect_from:
+ - /eficiencia/
+ - /12es/
 part: one
 title: Elimina pérdidas de tiempo
 subtitle: "Practica el enfoque "lean" mediante la mejora constante de la forma de hacer las cosas."

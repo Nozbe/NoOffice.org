@@ -1,4 +1,8 @@
 ---
+share: pierwsza
+redirect_from:
+ - /pierwsza/
+ - /p1pl/
 part: one
 title: Źle wykorzystujesz swoje biuro!
 subtitle: "Niezależnie od tego, czy Twój zespół pracuje w biurze, czy nie, czas zmienić wasz sposób pracy"

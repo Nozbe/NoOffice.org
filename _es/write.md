@@ -1,4 +1,8 @@
 ---
+share: escribir
+redirect_from:
+ - /escribir/
+ - /5es/
 part: one
 title: Anota las cosas
 subtitle: "Crea una cultura de la palabra escrita y no dependas de lo que diga él o ella"

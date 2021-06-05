@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/thanks/
+redirect_from:
+ - /book/thanks/
+ - /p5/
 part: outro
 title: Acknowledgements
 subtitle: I would love to thank everyone who contributed to this book.

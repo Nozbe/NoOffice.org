@@ -1,4 +1,8 @@
 ---
+share: generosidad
+redirect_from:
+ - /generosidad/
+ - /14es/
 part: one
 title: Sé generoso
 subtitle: "Ofrece a las personas extras que fomenten los buenos hábitos, la vida fuera del trabajo y las causas solidarias"

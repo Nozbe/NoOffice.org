@@ -1,4 +1,8 @@
 ---
+share: rownowaga
+redirect_from:
+ - /rownowaga/
+ - /22pl/
 part: two
 title: Znajdź równowagę między pracą a życiem prywatnym
 subtitle: "Jak pogodzić pracę z obowiązkami rodzinnymi i domowymi."

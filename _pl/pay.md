@@ -1,4 +1,8 @@
 ---
+share: pensja
+redirect_from:
+ - /pensja/
+ - /13pl/
 part: one
 title: Płać uczciwe pensje
 subtitle: "Skorzystaj z formuły wynagrodzeń, aby wyliczać sprawiedliwe pensje i zapomnieć o indywidualnych negocjacjach finansowych."

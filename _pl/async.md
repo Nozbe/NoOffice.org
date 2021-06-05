@@ -1,4 +1,8 @@
 ---
+share: asynchronicznie
+redirect_from:
+ - /asynchronicznie/
+ - /20pl/
 part: two
 title: Pracuj asynchronicznie
 subtitle: "Praca synchroniczna jest przereklamowana. Efektywna współpraca to mniej zakłóceń."

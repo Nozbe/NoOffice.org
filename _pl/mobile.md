@@ -1,4 +1,8 @@
 ---
+share: mobilnie
+redirect_from:
+ - /mobilnie/
+ - /19pl/
 part: two
 title: Porzuć papier, postaw na digitalizację
 subtitle: "Nowoczesne firmy minimalizują ilość papieru. I mają wirtualne segrgatory w chmurze."

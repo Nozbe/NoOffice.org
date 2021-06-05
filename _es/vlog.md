@@ -1,4 +1,8 @@
 ---
+share: videoblog
+redirect_from:
+ - /videoblog/
+ - /9es/
 part: one
 title: Usa el vlog
 subtitle: "Sustituye las reuniones de todos los miembros o los anuncios a todo el equipo por videoblogs"

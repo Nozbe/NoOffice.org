@@ -1,4 +1,8 @@
 ---
+share: introduccion
+redirect_from:
+ - /introduccion/
+ - /p0es/
 part: intro
 title: "El cambio del trabajo moderno"
 subtitle: Adopta el cambio a un estilo de trabajo más flexible, transparente y con mayor dispersión geográfica.

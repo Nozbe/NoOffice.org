@@ -1,4 +1,8 @@
 ---
+share: clientes
+redirect_from:
+ - /clientes/
+ - /25es/
 part: two
 title: Reúnete con tus clientes
 subtitle: "Puedes recibir a tus clientes aunque no tengas una sede física"

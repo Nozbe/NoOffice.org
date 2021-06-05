@@ -1,4 +1,8 @@
 ---
+share: zapisuj
+redirect_from:
+ - /zapisuj/
+ - /5pl/
 part: one
 title: Zapisuj wszystkie informacje
 subtitle: "Stwórz kulturę słowa pisanego i nie polegaj na tym, „co ktoś powiedział”"

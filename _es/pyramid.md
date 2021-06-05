@@ -1,4 +1,8 @@
 ---
+share: piramide
+redirect_from:
+ - /piramide/
+ - /10es/
 part: one
 title: Dale la vuelta al trabajo
 subtitle: "Cómo descubrimos la 'Pirámide de la comunicación' que nos ayuda a trabajar mejor como equipo"

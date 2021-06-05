@@ -1,4 +1,8 @@
 ---
+share: salario
+redirect_from:
+ - /salario/
+ - /13es/
 part: one
 title: Ofrece una remuneración justa
 subtitle: "Usa una fórmula salarial para calcular remuneraciones justas y olvídate de las negociaciones económicas individuales"

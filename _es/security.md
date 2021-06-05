@@ -1,5 +1,8 @@
 ---
-redirect_from: /book/security/
+share: seguridad
+redirect_from:
+ - /seguridad/
+ - /30es/
 part: two
 title: Mantén las cosas seguras
 subtitle: "La protección es fundamental. Tener listas de control prácticas que ayuden a proteger tu oficina virtual."

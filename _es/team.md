@@ -1,4 +1,8 @@
 ---
+share: equipo
+redirect_from:
+ - /equipo/
+ - /2es/
 part: intro
 title: Tengo un equipo
 subtitle: "¿Puedes crear un equipo Sin Oficina?"

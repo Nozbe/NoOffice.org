@@ -1,4 +1,8 @@
 ---
+share: dom
+redirect_from:
+ - /dom/
+ - /21pl/
 part: two
 title: Zorganizuj swoją przestrzeń do pracy w domu
 subtitle: "Jak stworzyć miejsce do pracy w domu i nie zwariować."

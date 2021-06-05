@@ -1,4 +1,8 @@
 ---
+share: przeglad
+redirect_from:
+ - /przeglad/
+ - /16pl/
 part: one
 title: Wykonuj regularny przegląd swoich spraw
 subtitle: "Co tydzień sprawdzaj postępy, a raz na kwartał skoncentruj się na najważniejszych celach"

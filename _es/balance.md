@@ -1,5 +1,9 @@
 ---
-parte: two
+share: equilibrio
+redirect_from:
+ - /equilibrio/
+ - /22es/
+part: two
 title: Equilibrio entre trabajo y casa
 subtitle: "Cómo afrontar la vida familiar y otros desafíos del trabajo en casa."
 ---

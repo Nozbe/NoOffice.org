@@ -1,4 +1,8 @@
 ---
+share: zespol
+redirect_from:
+ - /zespol/
+ - /2pl/
 part: intro
 title: Mam zespół
 subtitle: "Czy można zbudować zespół, nie mając biura?"

@@ -1,4 +1,8 @@
 ---
+share: reuniones
+redirect_from:
+ - /reuniones/
+ - /7es/
 part: one
 title: Que las reuniones sean una opción
 subtitle: "Cambia completamente tu enfoque en cuanto a las reuniones y deja de perder el tiempo de todos"

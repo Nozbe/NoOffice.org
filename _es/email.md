@@ -1,8 +1,11 @@
 ---
+share: correo
+redirect_from:
+ - /correo/
+ - /6es/
 part: one
 title: Prohibición del correo electrónico interno
 subtitle: "¡No uses el correo electrónico para comunicarte con tu equipo de ninguna manera! ¡Solo con el mundo exterior!"
-ref: https://sliwinski.com/emailban
 ---
 
 * TOC

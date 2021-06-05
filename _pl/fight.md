@@ -1,4 +1,8 @@
 ---
+share: dyskusje
+redirect_from:
+ - /dyskusje/
+ - /8pl/
 part: one
 title: Kłóć się, spieraj i zaangażuj!
 subtitle: "Nie bój się konstruktywnych sporów, które popychają Twój zespół do przodu!"

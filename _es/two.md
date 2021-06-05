@@ -1,7 +1,11 @@
 ---
-parte: two
-título: "¿Qué pasaría si no hubiera oficina?"
-subtítulo: "Lo principal no es la oficina, sino únicamente el trabajo que hay que hacer."
+share: dos
+redirect_from:
+ - /dos/
+ - /p2es/
+part: two
+title: "¿Qué pasaría si no hubiera oficina?"
+subtitle: "Lo principal no es la oficina, sino únicamente el trabajo que hay que hacer."
 ---
 
 * TOC

@@ -1,4 +1,8 @@
 ---
+share: przyszlosc
+redirect_from:
+ - /przyszlosc/
+ - /3pl/
 part: intro
 title: Czy mam przyszłość?
 subtitle: "Czy praca zdalna to przyszłość rynku pracy?"

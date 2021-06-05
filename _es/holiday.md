@@ -1,5 +1,8 @@
 ---
-redirect_from: /book/holiday/
+share: vacaciones
+redirect_from:
+ - /vacaciones/
+ - /28es/
 part: two
 title: Tómate unas vacaciones
 subtitle: "Todo el mundo necesita poder desconectar del trabajo como es debido y recargar su vida de energía."

@@ -1,4 +1,8 @@
 ---
+share: movil
+redirect_from:
+ - /movil/
+ - /19es/
 part: two
 title: Deshazte del papel y ponte en movimiento
 subtitle: "Los negocios modernos practican la opción papeles cero y están en movimiento. Con un archivador virtual en la nube."

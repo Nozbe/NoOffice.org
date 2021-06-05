@@ -1,4 +1,8 @@
 ---
+share: decyzje
+redirect_from:
+ - /decyzje/
+ - /11pl/
 part: one
 title: Podejmuj lepsze decyzje
 subtitle: "Podejmuj decyzje szybciej, ale poświęć dość czasu na ich skuteczną implementację."

@@ -1,4 +1,8 @@
 ---
+share: zaufanie
+redirect_from:
+ - /zaufanie/
+ - /18pl/
 part: two
 title: Miejcie do siebie zaufanie
 subtitle: "Kontrola w pracy jest dobra, ale zaufanie w to, że zadania zostanie wykonana, jest lepsze!"

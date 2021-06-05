@@ -1,7 +1,11 @@
 ---
+share: contratacion
+redirect_from:
+ - /contratacion/
+ - /23es/
 part: two
 title: Contratación en remoto
-Subtitle: "Puedes conseguir a los mejores para el trabajo y no preocuparte de dónde viven."
+subtitle: "Puedes conseguir a los mejores para el trabajo y no preocuparte de dónde viven."
 ---
 
 * TOC

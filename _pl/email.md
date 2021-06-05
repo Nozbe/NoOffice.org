@@ -1,4 +1,8 @@
 ---
+share: poczta
+redirect_from:
+ - /poczta/
+ - /6pl/
 part: one
 title: Zrezygnuj z maili do komunikacji wewnętrznej
 subtitle: "Nie używaj e-maili do komunikacji z zespołem. Używaj ich wyłącznie do korespondencji ze światem zewnętrznym!"

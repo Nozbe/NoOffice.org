@@ -1,5 +1,7 @@
 ---
-redirect_from: /book/two/
+redirect_from:
+ - /book/two/
+ - /p2/
 part: two
 title: "What if there was no office?"
 subtitle: "The main concept of work is the job to be done, not the office."

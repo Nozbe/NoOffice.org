@@ -1,4 +1,8 @@
 ---
+share: semana
+redirect_from:
+ - /semana/
+ - /15es/
 part: one
 title: Diseña tu semana laboral
 subtitle: "Establece horarios flexibles, días temáticos y busca tramos de tiempo sin interrupciones"

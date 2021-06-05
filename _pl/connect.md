@@ -1,4 +1,8 @@
 ---
+share: integracja
+redirect_from:
+ - /integracja/
+ - /24pl/
 part: two
 title: Integruj się z zespołem
 subtitle: "Pracując zdalnie nie musicie czuć się samotnie. Bądźcie ze sobą w stałym kontakcie"

@@ -1,4 +1,8 @@
 ---
+share: zatrudnianie
+redirect_from:
+ - /zatrudnianie/
+ - /23pl/
 part: two
 title: Zatrudniaj pracowników zdalnie
 subtitle: "Możesz zatrudniać najlepsze osoby na dane stanowisko niezależnie od tego, gdzie mieszkają."

@@ -1,4 +1,8 @@
 ---
+share: vlogowanie
+redirect_from:
+ - /vlogowanie/
+ - /9pl/
 part: one
 title: Zacznij nagrywać vlogi
 subtitle: "Zastąp spotkania całego zespołu vlogami!"

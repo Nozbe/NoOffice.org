@@ -1,4 +1,8 @@
 ---
+share: sueno
+redirect_from:
+ - /sueno/
+ - /1es/
 part: intro
 title: Tengo un sueño
 subtitle: De dónde surge mi estilo de vida Sin Oficina…

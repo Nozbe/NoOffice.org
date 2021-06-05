@@ -1,4 +1,8 @@
 ---
+share: druga
+redirect_from:
+ - /druga/
+ - /p2pl/
 part: two
 title: "A gdyby nie było biura?"
 subtitle: "Najważniejsze nie jest biuro tylko praca, którą należy wykonać."
