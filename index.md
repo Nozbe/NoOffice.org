@@ -5,7 +5,7 @@ title: "#NoOffice - the definitive guide to working in a modern way!"
 
 My name is Michael Sliwinski and I'm writing a book: *"No Office - work is not a place to go, it's a thing that you do"*. [Read more about this project and how you can contribute](/about/)
 
-## Progress raport:
+## Progress report:
 
 The book is originally written in English, and being translated by [#NoOffice community](/about/#contributors).
 
