@@ -12,7 +12,7 @@ langs_ch: "Read this chapter in:"
 lang: American English
 lang_en: English
 lang_em: "🇺🇸"
-percent: "97" #We have in total 36 files in the book out of which 31 are chapters, each chapter is 3 points; intro and outro are 2 points each, and one, two and  thanks are 1 point. Total 100 points. // Intro: 2+3*3=11, Part 1: 1+14*3=43, Part 2: 1+14*3=43, Outro: 2+1=3 // Now we've got 11+43+1+14*3
+percent: "100" #We have in total 36 files in the book out of which 31 are chapters, each chapter is 3 points; intro and outro are 2 points each, and one, two and  thanks are 1 point. Total 100 points. // Intro: 2+3*3=11, Part 1: 1+14*3=43, Part 2: 1+14*3=43, Outro: 2+1=3 // Now we've got 11+43+1+14*3
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_book/"
 updated: "June 17, 2021"
 toc:
@@ -150,8 +150,9 @@ toc:
     chname: Chapter 31
     book: "???"
 - url: outro
-  status: draft
+  status: ready
   chname: Outro
+  book: "Anything You Want"
   chapters:
   - url: thanks
     status: draft

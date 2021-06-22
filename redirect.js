@@ -102,9 +102,12 @@ let links = new Map([
 ['algo', 'https://github.com/trailofbits/algo'],
 
 
+//chapter 31
 ['buffer', 'https://buffer.com/transparency'],
 ['github', 'https://github.com/Nozbe/NoOffice.org'],
 
+//outro
+['derek', 'https://sive.rs/a'],//just in case
 ]);
 
 function redirect () {
