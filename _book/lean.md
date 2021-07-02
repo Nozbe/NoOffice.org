@@ -80,22 +80,22 @@ Mindless work and repetitive tasks are frustrating. We shouldn't be spending our
 
 That's why you should automate stuff whenever you can:
 
-– Learn scripts on your servers to automate server setup if needed.
-– Learn Automator, bash or other ways to automate stuff on your computer.
-– On iOS, there are *Siri Shortcuts* that can really speed up anything repetitive that you do on your iPhone or iPad. When writing this book, I had scripts that helped me format each of these chapters and submit them to the NoOffice.org site.
-– On Android, you can use Automate or Tasker to speed things up. 
-– Many apps or web apps that you're using have automation. There are marketing automation apps or social media posting apps that can be used extensively to offload your work and do things *in the background*.
-– There are dedicated web apps to automate stuff between other web apps – and you can use them without any programming knowledge. Just follow simple tutorials.[^6]
-– Don't reinvent the wheel: create templates for projects or tasks. When you're onboarding customers or employees in the same way, have a standard *onboarding template* that you use each time.
+- Learn scripts on your servers to automate server setup if needed.
+- Learn Automator, bash or other ways to automate stuff on your computer.
+- On iOS, there are *Siri Shortcuts* that can really speed up anything repetitive that you do on your iPhone or iPad. When writing this book, I had scripts that helped me format each of these chapters and submit them to the NoOffice.org site.
+- On Android, you can use Automate or Tasker to speed things up. 
+- Many apps or web apps that you're using have automation. There are marketing automation apps or social media posting apps that can be used extensively to offload your work and do things *in the background*.
+- There are dedicated web apps to automate stuff between other web apps – and you can use them without any programming knowledge. Just follow simple tutorials.[^6]
+- Don't reinvent the wheel: create templates for projects or tasks. When you're onboarding customers or employees in the same way, have a standard *onboarding template* that you use each time.
 
 ### Idea 4. Simplify and reduce the barrier of entry.
 
 As you have seen in previous chapters to this book, we make sure to simplify things:
 
-– We hold "weekly, but optional" meetings every week at the same time, in the same virtual room and with the same group of people – it makes it easy for everyone to remember which meeting is held where and when.
-– Each meeting has a calendar entry with the link to the virtual room meeting, so you can join the meeting from the calendar app with just one click.
-– Personally, I schedule my meals every day at the same time. Again, it helps me plan my work when I know when the next break happens.
-– I also schedule my "focused time" when I want to work on something without distraction. As I know when our meetings take place, I can schedule two hours of uninterrupted work easily.
+- We hold "weekly, but optional" meetings every week at the same time, in the same virtual room and with the same group of people – it makes it easy for everyone to remember which meeting is held where and when.
+- Each meeting has a calendar entry with the link to the virtual room meeting, so you can join the meeting from the calendar app with just one click.
+- Personally, I schedule my meals every day at the same time. Again, it helps me plan my work when I know when the next break happens.
+- I also schedule my "focused time" when I want to work on something without distraction. As I know when our meetings take place, I can schedule two hours of uninterrupted work easily.
 
 Simplifying things and reducing the barrier of entry in one aspect of teamwork opens your eyes to further optimizations. It becomes a *thing that we all do*.
 
@@ -117,11 +117,11 @@ We'd analyze each of the cases one-by-one. The interactions in the report were a
 
 This process was a success because:
 
-– It started as a "Kaizen event" and started opening the eyes of each customer support rep to potential improvements.
-– With each meeting, things were improving and the support reps had to dig deeper and look for less obvious problems – they were gradually sharpening their *improvement saw*.
-– As weeks progressed, I heard from Iwona that the entire team felt more motivated than ever to improve their interactions and to find a better way of doing things.
-– The usage of templates skyrocketed. We still respond to people personally, but now these responses are much more coherent, as each rep starts off with a template and then customizes it to the customer's case.
-– Ideas for improvements stopped coming from the top; now most of them come from the reps themselves, and they are proud of it!
+- It started as a "Kaizen event" and started opening the eyes of each customer support rep to potential improvements.
+- With each meeting, things were improving and the support reps had to dig deeper and look for less obvious problems – they were gradually sharpening their *improvement saw*.
+- As weeks progressed, I heard from Iwona that the entire team felt more motivated than ever to improve their interactions and to find a better way of doing things.
+- The usage of templates skyrocketed. We still respond to people personally, but now these responses are much more coherent, as each rep starts off with a template and then customizes it to the customer's case.
+- Ideas for improvements stopped coming from the top; now most of them come from the reps themselves, and they are proud of it!
 
 ## The one thing: Never stop improving!
 
