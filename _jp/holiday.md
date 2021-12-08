@@ -1,5 +1,4 @@
 ---
-redirect_from: /book/holiday/
 part: two
 title: 休暇を取ろう
 subtitle: "誰もが仕事から離れ、生活や人生のための充電をする必要がある！"
