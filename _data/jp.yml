@@ -103,31 +103,31 @@ toc:
     status: none
     chname: 第21章
   - url: balance
-    status: none
+    status: draft
     chname: 第22章
   - url: hire
-    status: none
+    status: draft
     chname: 第23章
   - url: connect
-    status: none
+    status: draft
     chname: 第24章
   - url: customers
-    status: none
+    status: draft
     chname: 第25章
   - url: reunion
-    status: none
+    status: draft
     chname: 第26章
   - url: social
-    status: none
+    status: draft
     chname: 第27章
   - url: holiday
-    status: none
+    status: draft
     chname: 第28章
   - url: offices
-    status: none
+    status: draft
     chname: 第29章
   - url: security
-    status: none
+    status: draft
     chname: 第30章
   - url: transparency
     status: none
