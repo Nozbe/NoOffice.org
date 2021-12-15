@@ -12,7 +12,7 @@ lang_en: Japanese
 lang_em: "🇯🇵"
 percent: "54" # Now 11+43+(part 2 now)
 github: "https://github.com/Nozbe/NoOffice.org/blob/master/_jp/"
-updated: "March 8, 2021"
+updated: "December 8, 2021"
 toc:
 - url: intro
   status: draft # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
