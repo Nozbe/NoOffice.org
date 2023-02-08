@@ -105,19 +105,19 @@ toc:
     status: draft
     chname: Rozdział 26
   - url: social
-    status: none
+    status: draft
     chname: Rozdział 27
   - url: holiday
-    status: none
+    status: draft
     chname: Rozdział 28
   - url: offices
-    status: none
+    status: draft
     chname: Rozdział 29
   - url: security
-    status: none
+    status: draft
     chname: Rozdział 30
   - url: transparency
-    status: none
+    status: draft
     chname: Rozdział 31
 - url: outro
   status: none
