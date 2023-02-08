@@ -1,7 +1,7 @@
 ---
-share: poczta
+share: email
 redirect_from:
- - /poczta/
+ - /email/
  - /6pl/
 part: one
 title: Zrezygnuj z maili do komunikacji wewnętrznej
