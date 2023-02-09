@@ -16,14 +16,14 @@ subtitle: "Stwórz kulturę słowa pisanego i nie polegaj na tym, „co ktoś po
 Jesteśmy wiecznie zajęci. Słysząc pytanie: „Jak leci?”, najczęściej odpowiadamy:
 
 > - „Mam dużo na głowie”
-> - „Jestem zawalony robotą!”
+> - „Jestem zawalona robotą!”
 > - „Tyle się dzieje – ledwo wyrabiam!”
 
-Tak. Wiem. Jesteś zajęty. Kto z nas nie jest? Jeśli jednak trzymasz wszystko w głowie, a masz do ogarnięcia wiele spraw – będzie trzeba zmienić nawyki.
+Tak. Wiem. Nie jest łatwo. Kto z nas nie jest zajęty? Jeśli jednak trzymasz wszystko w głowie, a masz do ogarnięcia wiele spraw – będzie trzeba zmienić nawyki.
 
 Musisz zacząć wszystko zapisywać. Zresztą nie tylko Ty. Cały Twój zespół musi to robić.
 
-Aby nie zwariować z nadmiaru informacji czy przepracowania, musicie zmienić sposób zapamiętywania i przekazywania informacji od jednej osoby do drugiej.
+Aby nie zwariować od nadmiaru informacji czy przepracowania, musicie zmienić sposób zapamiętywania i przekazywania informacji od jednej osoby do drugiej.
 
 > Przestań polegać na pamięci i rozmowach.
 
@@ -42,7 +42,7 @@ Po pierwsze, umysł lubi płatać nam figle. Weźmy taką sytuację: miałem uda
 
 Mój umysł stara się być pomocny. Wie, że czegoś nie zapisałem i chce bym miał pewność, że o tym nie zapomnę. Nie ma poczucia czasu czy przestrzeni, więc przypomina mi o różnych rzeczach w najmniej spodziewanych momentach.
 
-Gdybym zapisał to zadanie i ustawił dla niego termin wykonania na jutro, moja kolacja udałaby się w 100%. Zamiast tego, będę teraz myśleć o tym, aby jutro pamiętać o wysłaniu tej cholernej propozycji.
+Gdybym zapisał to zadanie i ustawił dla niego termin wykonania na jutro, a posiłek udałaby się w 100%. Zamiast tego, będę teraz myśleć o tym, aby jutro pamiętać o wysłaniu tej cholernej propozycji.
 
 > Trzymanie wszystkiego w głowie jest złe.
 
@@ -51,19 +51,19 @@ Gdybym zapisał to zadanie i ustawił dla niego termin wykonania na jutro, moja 
 Jak ze wszystkim – to zależy. Podstawowa zasada jest następująca:
 
 - **Spotkanie?** Jeśli jest zaplanowane, po prostu wpisz je do kalendarza.
-- **Genialna myśl?** Zapisz ją gdziekolwiek możesz, ale koniecznie wróć do niej później, np. w cyfrowym notatniku na smartfonie.
+- **Genialna myśl?** Zapisz ją gdziekolwiek możesz, np. w cyfrowym notatniku na smartfonie, ale koniecznie wróć do niej później
 - **Coś do zrobienia?** Idealnie jeśli trafi to do Twojego cyfrowego systemu zarządzania zadaniami lub listy to-do.
 - **Uzupełnienie do rozmowy z kimś?** Napisz mu krótką wiadomość lub maila.
 
 Warto mieć system i zaufane miejsce do przechowywania każdej z tych rzeczy. Musisz wiedzieć, gdzie są zapisane, a także zapisywać je w tym samym momencie, w którym się pojawią.
 
-Ktoś wspomniał o ważnym wydarzeniu? Nie zwlekaj, tylko wpisz je do kalendarz już teraz. Nie polegaj na swojej pamięci. Wypracuj w sobie nawyk szybkiego zapisywania wszystkich informacji.
+Ktoś wspomniał o ważnym wydarzeniu? Nie zwlekaj, tylko wpisz je do kalendarza już teraz. Nie polegaj na swojej pamięci. Wypracuj w sobie nawyk szybkiego zapisywania wszystkich informacji.
 
 Z dzisiejszymi smartfonami, dodawanie wydarzeń do kalendarza, dyktowanie notatek, czy wysyłanie wiadomości głosowych jest szybsze i łatwiejsze niż kiedykolwiek wcześniej.
 
 ## Stwórz kulturę zapisywania informacji w swoim zespole!
 
-Swoje nawyki masz już wypracowane, więc teraz pora wdrożyć tę samą dynamikę zapisywania informacji w zespole. Poniżej znajdziesz kilka wskazówek, jak to zrobić.
+Własne nawyki masz już wypracowane, więc teraz pora wdrożyć tę samą dynamikę zapisywania informacji w zespole. Poniżej znajdziesz kilka wskazówek, jak to zrobić.
 
 ### Zrób mi zadanie
 
@@ -79,7 +79,7 @@ To dobre rozwiązanie. Nie ma miejsca na wątpliwości dotyczące oczekiwań, a 
 
 Bądź jak Marie Kondo[^4]. Użyj systemu dla swoich zadań i projektów. Jeden powinien służyć do przechowywania wewnętrznej dokumentacji. Możesz też stworzyć oddzielny system, w którym będziesz trzymać kod, jeśli z tym związana jest Twoja praca. Mogą to być różne systemy lub jeden system – to już zależy od Ciebie i Twojego zespołu. Ważne jest to, że każdy będzie wiedział, co i gdzie się znajduje.
 
-Dzięki temu wszystko będzie dla każdego jasne. Wystarczy, że powiesz zespołowi: „Wrzuciłem to do naszego intranetu”, albo „Jest dla tego dedykowane zadanie w projekcie ACME”. Nie będą tracić czasu na szukanie informacji, które są potrzebne, aby pchnąć sprawy do przodu.
+Dzięki temu wszystko będzie dla każdego jasne. Wystarczy, że powiesz zespołowi: „Wrzuciłem to do naszego intranetu”, albo „Jest dla tego oobne zadanie w projekcie ACME”. Nie będą tracić czasu na szukanie informacji, które są potrzebne, aby pchnąć sprawy do przodu.
 
 Podczas urlopu nikt nie będzie musiał zadręczać Cię wiadomościami. Wiedząc, gdzie szukać informacji, każdy będzie sam mógł znaleźć odpowiedź na swoje pytanie.
 
@@ -93,12 +93,12 @@ Kiedy następnym razem ktoś będzie chciał rozmawiać z Tobą na te tematy, po
 
 ### Korzystaj z aplikacji umożliwiających wymianę komentarzy
 
-Komentarze pisemne są kluczowe. Mamy rok 2020, więc naprawdę nie ma usprawiedliwienia dla niekorzystania z narzędzi do współpracy. Jak już wspomniałem, w naszym zespole używamy aplikacji Nozbe Teams[^5], w której wymieniamy się komentarzami do zadań przez cały czas.
+Komentarze pisemne są kluczowe. Mamy XXI wiek, więc naprawdę nie ma usprawiedliwienia dla niekorzystania z narzędzi do współpracy. Jak już wspomniałem, w naszym zespole używamy aplikacji Nozbe[^5], w której wymieniamy się komentarzami do zadań przez cały czas.
 
 Istnieją programy pozwalające komentować praktycznie wszystko, promując lepszą kulturę pisanego słowa w Twoim zespole.
 
 - Piszecie kod? Na GitHubie[^6] można komentować każdą linijkę kodu.
-- Tworzycie dokument tekstowy? Dropbox Paper i Google Docs[^7] umożliwiają komentowanie każdego akapitu w tekście!
+- Tworzycie dokument tekstowy? Dropbox Paper czy Google Docs[^7] umożliwiają komentowanie każdego akapitu w tekście!
 - Macie pytania dotyczące konkretnego pliku? Interfejsy webowe Dropboksa i Boxa[^8] pozwalają dodawać informacje zwrotne do każdego pliku!
 
 To zaledwie kilka przykładów. Dodawanie komentarzy tworzy nawyk ciągłej wymiany informacji zwrotnych w zespole. Przestań więc wysyłać mailem dokumenty zapisane w Wordzie. Zacznij używać nowoczesnych narzędzi do współpracy online.
@@ -107,7 +107,7 @@ To zaledwie kilka przykładów. Dodawanie komentarzy tworzy nawyk ciągłej wymi
 
 Temat nowoczesnych sposobów prowadzenia spotkań rozwinę w kolejnych rozdziałach, więc tutaj tylko krótko wspomnę o najważniejszej rzeczy: wyznacz jedną osobę, która będzie zapisywać wnioski z każdego spotkania.
 
-Tworząc notatki ze spotkania, nie musisz notować kto i co powiedział w każdej minucie spotkania. Wypunktuj najważniejsze tematy, decyzje i najbliższe działania.
+Tworząc notatki ze spotkania, nie musisz notować, kto i co powiedział w każdej minucie spotkania. Wypunktuj najważniejsze tematy, decyzje i najbliższe działania.
 
 Ktoś te rzeczy musi zapisywać. Ponadto, muszą one być opublikowane w waszym wewnętrznym systemie, aby każdy mógł z łatwością uzyskać do nich dostęp. Dodatkowo, każdy powinien mieć możliwość komentowania tych notatek.
 
@@ -119,9 +119,9 @@ Ktoś te rzeczy musi zapisywać. Ponadto, muszą one być opublikowane w waszym 
 * **Większa przejrzystość** - każdy wie, co się dzieje i nikt nie czuje się wykluczony z dyskusji. Każdy może łatwo wszystko nadrobić.
 * **Nie wszyscy muszą brać udział we wszystkich spotkaniach** - możesz zredukować liczbę uczestników do minimum. Każdy i tak będzie ze wszystkim na bieżąco.
 * **Lepsze i bardziej wartościowe informacje zwrotne** - mając do napisania komentarz, masz więcej czasu, aby przemyśleć swoją wypowiedź.
-* **Mniejszy chaos, brak stresu, lepsza produktywność** - gdy każdy wie, co się dzieje i gdzie co się znajduje, łatwiej skupić się na następnym zadaniu. Twój umysł nie będzie płatać figi ani Tobie, ani pozostałym osobom z Twojego zespołu.
+* **Mniejszy chaos, brak stresu, lepsza produktywność** - gdy każdy wie, co się dzieje i gdzie co się znajduje, łatwiej skupić się na następnym zadaniu. Twój umysł nie będzie płatać figli ani Tobie, ani pozostałym osobom z Twojego zespołu.
 
-## Konkluzja: kultywuj zwyczaj zapisywania informacji!
+## To, co najważniejsze: kultywuj zwyczaj zapisywania informacji!
 
 Zacznij od siebie. Rób notatki. Zachęć do tego swój zespół i stwórzcie kulturę pisemnego feedbacku. Kiedy wszystko jest spisane, łatwiej do tego wrócić, podlinkować, odwołać się do tego, czy poprawić.
 
