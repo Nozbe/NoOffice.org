@@ -5,7 +5,7 @@ redirect_from:
  - /p1pl/
 part: one
 title: Źle wykorzystujesz swoje biuro!
-subtitle: "Niezależnie od tego, czy Twój zespół pracuje w biurze, czy nie, czas zmienić wasz sposób pracy"
+subtitle: "Niezależnie od tego, czy Twój zespół spotyka się w biurze, czy nie, czas zmienić wasz sposób pracy"
 ---
 
 
@@ -19,7 +19,7 @@ Nie żebym nie lubił ładnych wnętrz…
 
 > Te aspekty wizualne rzadko jednak usprawniają pracę zespołu, bo główny problem leży u podstaw naszego myślenia.
 
-Przez lata rozmów z przedsiębiorcami i usprawniania pracy w naszym własnym, zdalnym zespole, zidentyfikowaliśmy trzy główne problemy, z jakimi mierzą się współczesne biura i pracujące w nich zespoły.
+Przez lata rozmów z przedsiębiorcami i usprawniania pracy we własnym, zdalnym zespole, zidentyfikowaliśmy trzy główne problemy, z jakimi mierzą się współczesne biura i pracujące w nich osoby.
 
 ## Trzy grzechy główne nowoczesnych biur
 
@@ -27,7 +27,7 @@ Przez lata rozmów z przedsiębiorcami i usprawniania pracy w naszym własnym, z
 2. ***Open space*** - większość przestrzeni biurowych jest naprawdę bardzo „otwarta”, więc pracujący w nich ludzie mają trudności ze skupieniem się na pracy. Jest w nich za dużo bodźców dźwiękowych i wizualnych.
 3. **Jak praca, to tylko w biurze!** - fizyczna przestrzeń biura tworzy sztuczne ograniczenia zmuszające firmy do polegania na biurze (tj. na papierach, dokumentach, spotkaniach, tablicach suchościeralnych…), co znacząco utrudnia, a nawet uniemożliwia pracę poza nim.
 
-W tej sekcji poruszę każdy z tych problemów. Postaram się pokazać, jak – z jednej strony – wykorzystać posiadane biuro jeszcze skuteczniej, a z drugiej – jak uniezależnić się od fizycznych ograniczeń biura. Bo, jak już dobrze wiesz: „praca nie jest miejscem, do którego się chodzi, ale czynnością, którą się wykonuje”.
+W tej części poruszę każdy z tych problemów. Postaram się pokazać, jak – z jednej strony – wykorzystać posiadane biuro jeszcze skuteczniej, a z drugiej – jak uniezależnić się od fizycznych ograniczeń biura. Bo, jak już dobrze wiesz: „praca nie jest miejscem, do którego się chodzi, ale tym, co się robi”.
 
 ## Samo biuro firmy nie czyni
 
@@ -41,7 +41,7 @@ Zanim zagłębisz się w lekturę tej części książki, zadaj sobie następuj�
 
 - Czy posiadanie biura czyni Twoją firmę lepszą?
 - Czy zwiększa skuteczność Twoich działań?
-- Czy wpływa na poprawę jakości życia członków zespołu?
+- Czy posiadanie przestrzeni biurowej wpływa na poprawę jakości życia członków zespołu?
 - Czy podnosi wydajność Twojego zespołu?
 - Czy pozwala Ci zatrudniać najlepsze talenty, na jakie Cię stać?
 - Jaki jest faktyczny cel posiadania przez Ciebie biura?
