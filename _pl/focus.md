@@ -11,7 +11,7 @@ subtitle: "All you need is love… i więcej czasu na pracę w skupieniu, by sku
 * TOC
 {:toc}
 
-Co zrobić, by zespół pracował efektywniej? Dać mu nowoczesne narzędzia? Więcej gadżetów? Lepsze benefity? Fajniejsze biurka czy krzesła? Być może… Jednak moim zdaniem, najważniejsze, co możesz zrobić jako lider, to zapewnić pracownikom przestrzeń do pracy w skupieniu.
+Co zrobić, by zespół pracował efektywniej? Dać mu nowoczesne narzędzia? Więcej gadżetów? Lepsze benefity? Droższe biurka czy krzesła? Być może… Jednak moim zdaniem, najważniejsze, co możesz zrobić jako lider, to zapewnić pracownikom przestrzeń do pracy w skupieniu.
 
 ## Dlaczego koncentracja jest w dzisiejszych czasach tak ważna?
 
@@ -25,11 +25,11 @@ Pracownicy umysłowi, jak sama nazwa wskazuje, wykorzystują do pracy swój umys
 
 Poniosą jednak porażkę, jeśli ciągle będą bombardowani spotkaniami, mailami i powiadomieniami, czy zagadywani przez pozostałe osoby z zespołu, choćby tylko „na minutkę”.
 
-Najgorsze, że większość menadżerów wcale nie pomaga im unikać tych przeszkód! Planują spotkania mimo braku agendy i wymyślają coraz to bardziej kreatywne sposoby, aby przyciągać uwagę członków zespołu. A przecież powinni w tym czasie ich chronić i pomagać im w skupieniu się na wykonywanych zadaniach. W końcu na tym polega ich praca!
+Najgorsze, że większość managerów wcale nie pomaga im unikać tych przeszkód! Planują spotkania mimo braku agendy i wymyślają coraz to bardziej kreatywne sposoby, aby przyciągać uwagę członków zespołu. A przecież powinni w tym czasie ich chronić i pomagać im w skupieniu się na wykonywanych zadaniach. W końcu na tym polega ich praca!
 
 ## Jak osiągnąć i utrzymać koncentrację w pracy?
 
-Głównym celem każdego menadżera powinno być zapewnienie zespołowi długich bloków pracy w skupieniu. Poniżej kilka wskazówek.
+Głównym celem każdego managera i każdej managerki powinno być zapewnienie zespołowi długich bloków pracy w skupieniu. Poniżej kilka wskazówek.
 
 ### Kwestionuj każde spotkanie i rozmowę indywidualną
 
@@ -37,7 +37,7 @@ Spotkania stanowią odrębny temat, którym zajmę się w kolejnych rozdziałach
 
 ### Proś o zgodę na rozmowę
 
-Jeśli już naprawdę musisz z kimś porozmawiać, nie podchodź do niego tak po prostu i nie zaczynaj rozmowy. Wyślij mu wiadomość i zapytaj, czy ma wolną chwilę. Pozwól mu dokończyć to, nad czym pracuje, i dopiero później rozmawiaj z nim o swoich sprawach. Albo jeszcze lepiej – w wiadomości zawrzyj również informację, czego rozmowa ma dotyczyć, by mógł zjawić się przygotowany.
+Jeśli już naprawdę musisz z jakąś osobą porozmawiać, nie podchodź do niej tak po prostu i nie zaczynaj rozmowy. Wyślij jej wiadomość i zapytaj, czy ma wolną chwilę. Pozwól jej dokończyć to, nad czym pracuje, i dopiero później rozmawiaj z nią o swoich sprawach. Albo jeszcze lepiej – w wiadomości zawrzyj również informację, czego rozmowa ma dotyczyć, by mogła zjawić się przygotowana.
 
 ### Strzeż luk w kalendarzu
 
@@ -51,19 +51,19 @@ Wprowadź do zespołu trochę luzu. Daj swoim współpracownikom szansę na to, 
 
 ## Stwórz środowisko do pracy w skupieniu
 
-Jeśli masz wpływ na aranżację biura, dopilnuj, aby pracownicy nie siedzieli za blisko siebie. Powyłączaj niepotrzebne powiadomienia i stwórz kulturę pracy, w której odpowiedzi na ASAP (z ang. skrót od As Soon As Possible, czyli „tak szybko, jak to tylko możliwe”) nie są normą. Mało co wymaga natychmiastowej reakcji. Nie wymagaj jej od innych, ale też sam jej nie forsuj.
+Jeśli masz wpływ na aranżację biura, dopilnuj, aby pracownicy nie siedzieli za blisko siebie. Powyłączaj niepotrzebne powiadomienia i stwórz kulturę pracy, w której odpowiedzi tu i teraz nie są normą. Mało co wymaga natychmiastowej reakcji. Nie wymagaj jej od innych, i ty też jej nie forsuj.
 
 Ustalaj oczekiwania i wyraźnie je komunikuj. W Nozbe wygląda to tak, że każdy, kto skończy swoją część zadania, komunikuje to w komentarzu do tego zadania i, jeśli jest taka potrzeba, deleguje je komuś innemu. Następnie, zabiera się za kolejne zadanie ze swojej listy bo wie, że ta druga osoba wykona swoją część, jak tylko skończy to, co robiła. Nic się nie stanie jeśli poczekasz jakiś czas.
 
 Nie bądź osobą, która chce mieć wszystko „na już” i nie wymagaj tego od innych. To toksyczne. Takie zachowanie nie promuje dobrej i skutecznej pracy, a co najwyżej wywołuje w zespole stres.
 
-> Głównym priorytetem każdego menadżera powinna być maksymalizacja czasu na pracę w skupieniu.
+> Głównym priorytetem każdego managera i każdej managerki powinna być maksymalizacja czasu na pracę w skupieniu.
 
 ## Otwarte biura wysysają z nas koncentrację jak odkurzacz
 
-Z definicji, nowoczesne biuro to biuro o otwartej przestrzeni, gdzie wszyscy siedzą blisko siebie. Bez ścian. Bez barier. Bez miejsca dla siebie.
+Z definicji, nowoczesne biuro to biuro z otwartą przestrzenią, gdzie wszyscy siedzą blisko siebie. Bez ścian. Bez barier. Bez miejsca dla siebie.
 
-Menadżerowie i kadra kierownicza to wprost uwielbiają. Są przekonani, że w takich warunkach pomysły płyną jak szalone, a kreatywność sięga zenitu, bo ludzie mogą prowadzić ze sobą spontaniczne rozmowy.
+Kadra kierownicza to wprost uwielbia. Zwierzchnicy są przekonani, że w takich warunkach pomysły płyną jak szalone, a kreatywność sięga zenitu, bo ludzie mogą prowadzić ze sobą spontaniczne rozmowy.
 
 Cała Dolina Krzemowa wypełniona jest takimi biurami. Facebook zbudował największe biuro typu *open space* na świecie z pomocą uznanej firmy architektonicznej. Z kolei Apple zbudował „statek kosmiczny”, który też ma duże, otwarte przestrzenie biurowe. Skoro Apple, Facebook i cała reszta Doliny Krzemowej tak pracują, to musi to być dobre, prawda?
 
@@ -89,7 +89,7 @@ Jeśli zależy Ci, by zespół pracował skutecznie i w maksymalnym skupieniu, s
 2) Jeśli masz wątpliwości odnośnie tego, czy zaprojektować biuro w bardziej „otwarty sposób”, patrz punkt 1.
 3) Jeśli już koniecznie chcesz mieć biuro typu *open space*, poniżej znajdziesz kilka rad i wskazówek, jak je usprawnić.
 
-### Kilka rad dla zespołów, które chcą skupić się na… skupieniu w pracy
+### Kilka rad dla zespołów, które chcą skoncentrować się na… koncentracji na pracy
 
 Co wziąć pod uwagę, projektując przestrzeń biurową.
 
@@ -102,9 +102,9 @@ Co wziąć pod uwagę, projektując przestrzeń biurową.
 
 ## Krótka historia o tym, jak zespół jednego z moich znajomych zbojkotował pomysł przeniesienia do biura typu *open space*.
 
-Jeden z moich znajomych pracuje w dużym, tradycyjnym biurze, które liczy ponad 2 tys. pracowników. Ostatnio firma dobudowała nowe skrzydło, w którym stworzono *open space*.
+Jeden z moich znajomych pracuje w dużym, tradycyjnym biurze, które mieści ponad 2 tys. pracowników. Ostatnio firma dobudowała nowe skrzydło, w którym stworzono *open space*.
 
-Problem w tym, że każdy w zespole zdążył się już przyzwyczaić do tego, że ma własne biuro. Tego zresztą wymaga ich praca, bo przez większość dnia analizują i przygotowują długie i skomplikowane dokumenty. Można więc powiedzieć, że praca w skupieniu to ich chleb powszedni. A teraz nagle szef każe im się przenieść do *open space'a*.
+Problem w tym, że każdy w zespole zdążył się już przyzwyczaić do tego, że ma własne biuro. Tego zresztą wymaga ich praca, bo przez większość dnia analizują i przygotowują długie i skomplikowane dokumenty. Można więc powiedzieć, że praca w skupieniu to ich chleb powszedni. A teraz nagle szef każe im się przenieść do *open space'u*.
 
 Zespół odmówił.
 
@@ -114,11 +114,11 @@ Po długich dyskusjach i debatach, kierownictwo firmy się poddało. Zostawili z
 
 Smutna część tej historii jest taka, że sytuacja ta niczego ich nie nauczyła. Skoro najważniejszy dział w całej firmie nie chce pracować w „otwartym biurze”, to może jednak nie jest to najlepszy pomysł?
 
-## Konkluzja: strzeż czasu, który Twój zespół poświęca na pracę w skupieniu!
+## To, co najważniejsze: strzeż czasu, który Twój zespół poświęca na pracę w skupieniu!
 
-Jeśli praca nie jest miejscem, do którego się chodzi tylko czynnością, którą się wykonuje – zadbaj o to, aby tak właśnie było w Twoim zespole. Jako menadżer, zrób wszystko, co możesz, by zmaksymalizować czas, jaki Twój zespół poświęca na pracę w skupieniu. Jako współpracownik, szanuj pracę pozostałych osób z zespołu. Pozwól im kończyć to, co robią. Pozwól im się skoncentrować. Pozwól im skutecznie wykonywać swoją pracę. I sam postępuj podobnie.
+Jeśli praca nie jest miejscem, do którego się chodzi tylko tym, co się robi – zadbaj o to, aby tak właśnie było w Twoim zespole. Jako manager lub managerka, zrób wszystko, co możesz, by zmaksymalizować czas, jaki Twój zespół poświęca na pracę w skupieniu. Jako współpracownik lub współpracowniczka, szanuj pracę pozostałych osób z zespołu. Pozwól im kończyć to, co robią. Pozwól im się skoncentrować. Pozwól im skutecznie wykonywać swoją pracę.
 
-A jeśli chcesz dowiedzieć się więcej o pracy w skupieniu i o tym, jak osiągnąć skupienie w pracy, polecam lekturę książki Cala Newporta, pt. *Praca głęboka. Jak odnieść sukces w świecie, w którym ciągle coś nas rozprasza*[^3].
+A jeśli chcesz dowiedzieć się więcej o pracy w skupieniu i o tym, jak dbać o koncentrację w pracy, polecam lekturę książki Cala Newporta, pt. *Praca głęboka. Jak odnieść sukces w świecie, w którym ciągle coś nas rozprasza*[^3].
 
 [^1]: Na temat [niechętnego stosunku Doliny Krzemowej do pracy w modelu zdalnym](https://sliwinski.com/sv-remote/), [otwartych biur](https://sliwinski.com/3-productivity-tips-and-tricks-for-open-space/), szczególnie o [siedzibie Facebooka](https://sliwinski.com/openoffice/), a ostatnio też o dokumencie [„Modern Worplace”](https://sliwinski.com/workplace/) pisałem na moim blogu.
 
