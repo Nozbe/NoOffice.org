@@ -5,13 +5,13 @@ redirect_from:
  - /8pl/
 part: one
 title: Kłóć się, spieraj i zaangażuj!
-subtitle: "Nie bój się konstruktywnych sporów, które popychają Twój zespół do przodu!"
+subtitle: "Nie bój się konstruktywnych sporów, które rozwijają Twój zespół!"
 ---
 
 * TOC
 {:toc}
 
-W tym rozdziale przejdę do praktycznych aspektów związanych z prowadzeniem spotkań i omówię, jak podejmować lepsze decyzje w drodze konstruktywnych dyskusji i kłótni.
+W tym rozdziale przejdę do praktycznych aspektów związanych z prowadzeniem spotkań i omówię, jak podejmować lepsze decyzje w drodze konstruktywnych dyskusji, a nawet kłótni.
 
 ## Inteligentni ludzie mają różne opinie
 
@@ -21,9 +21,9 @@ Jak już wspomniałem we wstępie do tej książki, kiedy zatrudniałem pierwsze
 
 W swojej książce o Stevie Jobsie, Ken Segall[^1] wielokrotnie powtarza, że wbrew powszechnie panującej opinii, CEO i współzałożyciel Apple’a nie podejmował decyzji samodzielnie. Polegał na „małych grupach utalentowanych ludzi”. Ludzi, którym ufał i którzy nie bali się wyrażać i bronić swoich racji.
 
-Opisując, jak wyglądała praca w Pixarze, słynnym studiu animacji znanym z takich produkcji, jak „Toy Story” czy „Nemo”, Ed Cutmull[^2] wspomina o tzw. „naradach zespołu mózgowców” (ang. Braintrust). Była to grupa osób, które regularnie recenzowały wszystkie projekty filmowe Pixara. Najpierw oglądali film, a potem każdy mówił szczerze, co sądzi. Nie było żadnej hierarchii, wszyscy w grupie byli równi, niemal jak rycerze Okrągłego Stołu z legendy o Królu Arturze[^3].
+Opisując, jak wyglądała praca w Pixarze, słynnym studiu animacji znanym z takich produkcji, jak „Toy Story” czy „Nemo”, Ed Cutmull[^2] wspomina o tzw. „naradach zespołu mózgów” (ang. Braintrust). Była to grupa osób, które regularnie recenzowały wszystkie projekty filmowe Pixara. Najpierw oglądali film, a potem każdy mówił szczerze, co sądzi. Nie było żadnej hierarchii, wszyscy w grupie byli równi, niemal jak rycerze Okrągłego Stołu z legendy o Królu Arturze[^3].
 
-Członkowie takiej grupy muszą reprezentować różne punkty widzenia i specjalności, ale muszą kierować się podobnymi wartościami. Muszą czuć się komfortowo w swoim towarzystwie i mieć pewność, że ich pozycja w firmie nie jest zagrożona.
+Członkowie takiej grupy mają reprezentować różne punkty widzenia i specjalności, ale muszą kierować się podobnymi wartościami. Muszą czuć się komfortowo w swoim towarzystwie i mieć pewność, że ich pozycja w firmie nie jest zagrożona.
 
 Sami wprowadziliśmy tę koncepcję w naszym zespole i sprawdza się świetnie. Wykorzystujemy ją na naszym spotkaniu „dyrektorów”, w którym uczestniczą:
 
@@ -34,9 +34,9 @@ Sami wprowadziliśmy tę koncepcję w naszym zespole i sprawdza się świetnie. 
 * Waldemar, CFO,
 * i ja, założyciel i CEO Nozbe.
 
-Mimo że to ja jestem szefem firmy, nie podejmuję żadnych większych decyzji samodzielnie. Omawiamy je wspólnie i jeśli ktoś chce wyjść z jakąś propozycją, musi przekonać do niej całą grupę. Osoby te tworzą nasz firmowy „zespół mózgowców”.
+Mimo że to ja jestem szefem firmy, nie podejmuję żadnych większych decyzji samodzielnie. Omawiamy je wspólnie i jeśli ktoś chce wyjść z jakąś propozycją, musi przekonać do niej całą grupę. Osoby te tworzą nasz firmowy „zespół mózgów”.
 
-Zasada ta z powodzeniem sprawdza się również na spotkaniu „mózgowców od designu”, czyli grupy osób, które biorą udział w spotkaniach odnośnie designu Nozbe. Decydują oni, które funkcje są wdrażane (i jak) w Nozbe i Nozbe Teams. Do tej grupy należą:
+Zasada ta z powodzeniem sprawdza się również na spotkaniu „mózgów od designu”, czyli grupy osób, które biorą udział w spotkaniach odnośnie designu Nozbe. Decydują oni, które funkcje są wdrażane (i jak) w Nozbe i Nozbe Teams. Do tej grupy należą:
 
 * Hubert, główny designer,
 * Iwona, szefowa działu obsługi klienta,
@@ -49,9 +49,9 @@ Znów, sześć osób i koniec. Różnorodna grupa, reprezentująca różne punkt
 
 ## Każdy mówi to, co myśli. Szczerze.
 
-Członkowie tych grup wiedzą, że nie zostaną zwolnieni za szczerość. Co więcej, istnienie grupy „Dyrektorów” oznacza, że jako CEO firmy nie mogę nikogo zwolnić tylko dlatego, że mam taki kaprys. Jeśli uważam, że ktoś nie pasuje już do firmy, muszę uargumentować swoją decyzję przed grupą dyrektorów i uzyskać ich zgodę.
+Członkowie tych grup wiedzą, że nie zostaną zwolnieni za szczerość. Co więcej, istnienie grupy dyrektorów oznacza, że jako CEO firmy nie mogę nikogo zwolnić tylko dlatego, że mam taki kaprys. Jeśli uważam, że ktoś nie pasuje już do firmy, muszę uargumentować swoją decyzję przed grupą dyrektorów i uzyskać ich zgodę.
 
-To samo dotyczy funkcji czy wyglądu naszych produktów. Choć zespół inżynierów ma wiele do powiedzenia w sprawie poprawek błędów i może kierować się własnymi kryteriami, jeśli chodzi o drobne usprawnienia, żadna większa funkcja w Nozbe Personal ani Nozbe Teams nie przejdzie, o ile nie zostanie zaakceptowana przez „grupę mózgowców od designu”. Cały proces odbywa się zgodnie z krokami opisanymi w poprzednim rozdziale – trzeba przygotować temat, wpisać go do agendy, opracować i przedyskutować go na piśmie, a potem na cotygodniowym spotkaniu grupy „Design”.
+To samo dotyczy funkcji czy wyglądu naszych produktów. Choć zespół inżynierów ma wiele do powiedzenia w sprawie poprawek błędów i może kierować się własnymi kryteriami, jeśli chodzi o drobne usprawnienia, żadna większa funkcja w Nozbe nie przejdzie, o ile nie zostanie zaakceptowana przez „grupę mózgów od designu”. Cały proces odbywa się zgodnie z krokami opisanymi w poprzednim rozdziale – trzeba przygotować temat, wpisać go do agendy, opracować i przedyskutować go na piśmie, a potem na cotygodniowym spotkaniu grupy „Design”.
 
 Niewątpliwie, zbudowanie tak dobrych relacji wymaga czasu. Większość osób w naszym zespole zna się od lat, ma mocną pozycję w firmie i nie boi się mówić, co myśli.
 
@@ -63,25 +63,25 @@ Proponując nowy pomysł, staramy skupić się na problemie, a nie na rozwiązan
 
 > Zakochaj się w problemie. Określ problem, a dopiero potem badaj potencjalne rozwiązania.
 
-Tym podejściem kierujemy się w Nozbe, szczególnie projektując nowe funkcje do naszych aplikacji. Mamy setki tysięcy użytkowników z całego świata, którzy codziennie proszą nas o dodanie takich albo innych funkcji. Wówczas pytamy ich: *„jaki problem ma rozwiązać ta funkcja – daj nam jakiś przykład z życia”*. Chcemy rozwiązywać najczęstsze problemy, z jakimi borykają się użytkownicy. Nie chcemy dodawać niezliczonych funkcji do naszych produktów, które mogłyby przeszkadzać innym użytkownikom.
+Tym podejściem kierujemy się w Nozbe, szczególnie projektując nowe funkcje do naszej aplikacji. Mamy setki tysięcy użytkowników z całego świata, którzy codziennie proszą nas o dodanie takich albo innych funkcji. Wówczas pytamy ich: *„jaki problem ma rozwiązać ta funkcja – daj nam jakiś przykład z życia”*. Chcemy rozwiązywać najczęstsze problemy, z jakimi borykają się użytkownicy. Nie chcemy dodawać niezliczonych funkcji do naszych produktów, które mogłyby przeszkadzać innym użytkownikom.
 
 ### Wskazówka 2.: miej mocne opinie, ale lekko się ich trzymaj
 
-Kiedy wkładasz wysiłek w przeanalizowanie problemu, opracowanie go, a następnie wymyślenie sposobu rozwiązania go, przywiązujesz się do niego. W końcu, włożyłeś w to całe serce.
+Kiedy wkładasz wysiłek w przeanalizowanie problemu, opracowanie go, a następnie wymyślenie sposobu rozwiązania go, przywiązujesz się do niego. W końcu, włożyłeś/-aś w to całe serce.
 
 I to jest właśnie idealny moment na zastosowanie myślenia „miej mocne opinie, ale trzymaj się ich lekko”[^4].
 
-Zasadniczo oznacza to, że przestudiowałeś problem i, bazując na swojej intuicji, wybrałeś rozwiązanie, do którego jesteś silnie przekonany, dopóki reszta zespołu Ci nie udowodni, że jesteś w błędzie.
+Zasadniczo oznacza to, że warto przestudiować problem i, bazując na swojej intuicji, wybrać rozwiązanie, do którego jest się silnie przekonanym… dopóki reszta zespołu nie udowodni Ci, że jesteś w błędzie.
 
-Co więcej, jako autor rozwiązania powinieneś aktywnie zachęcić pozostałe osoby do podważenia Twojego toku myślenia. Musisz schować swoje ego i zapomnieć o tym, że propozycja, którą przygotowałeś jest „Twoim” rozwiązaniem. Teraz jest po prostu „rozwiązaniem”, które jest dobre tylko, jeśli zaakceptują je otaczający Cię mądrzy ludzie.
+Co więcej, autor rozwiązania powinien aktywnie zachęcać pozostałe osoby do podważenia jego toku myślenia. Musisz schować swoje ego i zapomnieć o tym, że przygotowana przez Ciebie propozycja jest „Twoim” rozwiązaniem. Teraz jest po prostu „rozwiązaniem”, które jest dobre tylko, jeśli zaakceptują je otaczający Cię mądrzy ludzie.
 
-Nie zliczę, ile razy, zjawiłem się na spotkaniu działu designu przekonany o jednym, tylko po to, by dać się z tego myślenia wyprowadzić i na końcu całkowicie zmienić swoje zdanie. Patrzenie na to, jak Twój pomysł umiera bywa przykre, ale z drugiej strony odkrywanie nowych, lepszych rozwiązań w toku całego procesu bywa naprawdę satysfakcjonujące.
+Nie zliczę, ile razy, zjawiłem się na spotkaniu działu designu przekonany o jednym, tylko po to, by dać się z tego myślenia wyprowadzić i na końcu całkowicie zmienić zdanie. Patrzenie na to, jak Twój pomysł umiera bywa przykre, ale z drugiej strony odkrywanie nowych, lepszych rozwiązań w toku całego procesu bywa naprawdę satysfakcjonujące.
 
-### Wskazówka 3.: nie zgadzaj się i zaangażuj się
+### Wskazówka 3.: nie zgadzaj się, ale się zaangażuj 
 
 Cytat ten przypisywany jest szefowi Amazona, Jeffowi Bezosowi, ale w rzeczywistości koncepcja ta jest dużo starsza.[^5]
 
-Gdyby nie ona, rzadko bylibyśmy w stanie cokolwiek zdziałać. Problem jednak w tym, że nawet jeśli macie w firmie „grupy mózgowców”, w obrębie których toczycie świetne dyskusje, to współtworzą je osoby o różnych poglądach i opiniach a, co za tym idzie, mogą czasami nie być w stanie wybrać jednego rozwiązania.
+Gdyby nie ona, rzadko bylibyśmy w stanie cokolwiek zdziałać. Problem jednak w tym, że nawet jeśli macie w firmie „grupy mózgów”, w obrębie których toczycie świetne dyskusje, to współtworzą je osoby o różnych poglądach i opiniach, a co za tym idzie, mogą czasami nie być w stanie wybrać jednego rozwiązania.
 
 Trzeba jednak iść do przodu. Co wtedy robimy?
 
@@ -101,9 +101,9 @@ Przez lata toczyliśmy wiele gorących dyskusji i prawda jest taka, że uwielbia
 
 To wymaga przyzwyczajenia i pokory. Musimy nauczyć się utrzymać ego w ryzach. Dyskutując na różne tematy, warto pamiętać o wzajemnym szacunku. Podważamy pomysł drugiej osoby, ale jej nie atakujemy. Wszyscy jesteśmy ludźmi. Mamy uczucia. I czasem ktoś te uczucia może zranić.
 
-Sytuacje te stawiają przed nami wyzwanie, wyciągają nas ze strefy komfortu, wywołują frustrację, ale ostatecznie sprawiają, że kochamy naszą pracę jeszcze bardziej. W rezultacie, rozwijamy się nie tylko jako ludzie, ale też jako zespół, bo zaczynamy dostrzegać punkty widzenia, których nigdy wcześniej nie braliśmy pod uwagę.
+Sytuacje te stawiają przed nami wyzwanie, wyciągają nas ze strefy komfortu, wywołują frustrację, ale ostatecznie sprawiają, że kochamy naszą pracę jeszcze bardziej. W rezultacie rozwijamy się nie tylko jako ludzie, ale też jako zespół, bo zaczynamy dostrzegać punkty widzenia, których nigdy wcześniej nie braliśmy pod uwagę.
 
-## Konkluzja: konstruktywne kłótnie pomagają nam podejmować lepsze decyzje
+## To, co najważniejsze: konstruktywne kłótnie pomagają nam podejmować lepsze decyzje
 
 W zespole, powinniśmy unikać „myślenia grupowego” i ślepego podążania za liderem. Nie powinniśmy natomiast unikać zdrowej dawki konstruktywnych kłótni czy dyskusji. Jest to po prostu coś, do czego zespół musi przywyknąć, aby podejmować lepsze decyzje.
 
