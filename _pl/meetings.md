@@ -5,7 +5,7 @@ redirect_from:
  - /7pl/
 part: one
 title: Nie wymagaj udziału w spotkaniach
-subtitle: "Zmień swoje podejście do spotkań i przestań marnować czas wszystkich osób dookoła"
+subtitle: "Zmień swoje podejście do spotkań i przestań marnować czas wszystkich w firmie"
 ---
 
 * TOC
@@ -39,16 +39,15 @@ Z biegiem lat, wypracowaliśmy w naszym zespole zestaw zasad, którymi kierujemy
 
 Niżej rozwinę każdy z tych punktów:
 
-## Spotkania są cykliczne
+## Spotkania są regularne
 
-Co do zasady unikamy spontanicznych spotkań. Ograniczamy się do kilku regularnych zebrań, które odbywają się raz w tygodniu:
+Co do zasady unikamy spontanicznych spotkań. Ograniczamy się do kilku cyklicznych zebrań, które odbywają się raz w tygodniu:
 
 - spotkanie programistów - w każdy poniedziałek o 10.00 rano (czas trwania: maks. 1 godzina);
 - spotkanie dyrektorów - w każdy poniedziałek o 14:00 (czas trwania: 1-1,5 godziny);
 - spotkanie działu obsługi klienta: w każdy wtorek o godz. 9:00 rano (czas trwania: 1-1,5 godziny);
-- spotkanie działu design: w każdy wtorek o godz. 14:00 (czas trwania: maks. 2 godziny);
-- spotkanie działu marketingu: w każdą środę o godz. 12:00 (czas trwania: 1-1,5 godziny);
-- spotkanie nt. strategii rozwoju produktu: w każdy czwartek o godz. 15:00 (czas trwania: maks. 1 godzina).
+- spotkanie działu design: we wtorek o godz. 14:00 (czas trwania: maks. 2 godziny);
+- spotkanie działu marketingu: w środy o godz. 10:30 (czas trwania: 1-1,5 godziny).
 
 Największą zaletą tych spotkań jest to, że są jasno określone. Są zapisane w firmowym kalendarzu i każdy w zespole wie:
 
@@ -77,7 +76,7 @@ Ten punkt jest kluczowy. Jeśli spotkanie nie ma agendy, to nie ma powodu, aby w
 
 Sama agenda to jednak za mało.
 
-Wszystkie tematy wpisane do planu zebrania muszą być dobrze opracowane. Jeśli nikt nie poświęcił czasu na opracowanie danego tematu – nie omawiamy go. Każdy z tematów jest przygotowywany przez jedną osobę.
+Wszystkie tematy wpisane do planu zebrania muszą być dobrze opracowane. Jeśli nikt nie poświęcił czasu na opracowanie danego zagadnienia – nie omawiamy go. Każdy z tematów jest przygotowywany przez jedną osobę.
 
 Spotkanie to nie czas na prezentację pomysłów.
 
@@ -91,9 +90,9 @@ Aby to się jednak mogło udać…
 
 Z podobnego podejścia słynie Jeff Bezos.[^2] Przed rozpoczęciem dyskusji, każdy czyta dokumentację w kompletnej ciszy i dopiero kiedy wszyscy skończą, przechodzą do omawiania tematów.
 
-To dobry pierwszy krok, ale my przenosimy nasze spotkania na zupełnie nowy poziom. Osobiście potrzebuję więcej czasu na wyrobienie sobie opinii na dany temat, dlatego wolę przeczytać dokumentację kilka godzin lub nawet dni przed spotkaniem, by sobie wszystko dobrze przemyśleć.
+To dobry pierwszy krok, ale my przenosimy spotkania na zupełnie nowy poziom. Osobiście potrzebuję więcej czasu na wyrobienie sobie opinii na dany temat, dlatego wolę przeczytać dokumentację kilka godzin lub nawet dni przed spotkaniem, by sobie wszystko dobrze przemyśleć.
 
-Jak już wspomniałem w rozdziale 5. poświęconym notowaniu informacji, w Nozbe używamy do tego celu aplikacji do wspólnego tworzenia dokumentów, która pozwala nam komentować każdy paragraf pisanego tekstu. W ten sposób, mamy „spotkanie przed spotkaniem”, bo pierwsza wymiana zdań odbywa się w komentarzach na kilka godzin przed zebraniem, gdzie dyskutujemy nad konkretnymi fragmentami tekstu. Dzięki temu, późniejsze spotkanie, które odbywa się w czasie rzeczywistym, przebiega dużo efektywniej. Do tego czasu, najważniejsze punkty są już omówione w komentarzach, więc możemy od razu przejść do meritum.
+Jak już wspomniałem w rozdziale 5. poświęconym notowaniu informacji, w Nozbe używamy do tego celu aplikacji do wspólnego tworzenia dokumentów, która pozwala nam komentować każdy akapit pisanego tekstu. W ten sposób, mamy „spotkanie przed spotkaniem”, bo pierwsza wymiana zdań odbywa się w komentarzach na kilka dni lub godzin przed zebraniem, gdzie dyskutujemy nad konkretnymi fragmentami tekstu. Dzięki temu, późniejsze spotkanie, które odbywa się w czasie rzeczywistym, przebiega dużo efektywniej. Do tego czasu, najważniejsze punkty są już omówione w komentarzach, więc możemy od razu przejść do meritum.
 
 By jednak było to możliwe, dokumentacja musi być przegotowana z wyprzedzeniem. Kierujemy się zasadą, że wszystkie zagadnienia muszą być opisane najpóźniej do wieczora dnia poprzedzającego spotkanie.
 
@@ -103,9 +102,9 @@ Najlepiej całkowicie ich unikać. Ani Ty, ani nikt w Twoim zespole nie jest aż
 
 Czasem robimy krótką burzę mózgów, ale trwa ona maksymalnie 15 minut. Potem zapisujemy wszystkie pomysły i wyznaczamy osobę, która zgłębi każdy temat i opracuje go na kolejne spotkanie.
 
-## Spotkana statusowe? Zamień je na „spotkania integracyjne”
+## Spotkania statusowe? Zamień je na „spotkania integracyjne”
 
-W Nozbe, nie robimy spotkań statusowych. Bo jaki miałyby one sens? Jak już wspomniałem w rozdziale 6., komunikujemy się poprzez projekty i zadania, więc, aby sprawdzić status danego projektu/zadania, wchodzimy do naszego systemu. Nie mamy potrzeby, by dodatkowo robić to werbalnie.
+W Nozbe nie organizujemy spotkań statusowych. Bo jaki miałyby one sens? Jak już wspomniałem w rozdziale 6., komunikujemy się poprzez projekty i zadania, więc, aby sprawdzić status danego projektu/zadania, wchodzimy do naszego systemu. Nie mamy potrzeby, by dodatkowo robić to werbalnie.
 
 Ponieważ jednak jesteśmy firmą pracującą w 100% zdalnie, nie chcę by ktokolwiek w zespole czuł się osamotniony. Brak biura oznacza brak spotkań z zespołem, co powoduje, że z czasem może zacząć doskwierać nam samotność. Dlatego właśnie, mamy spotkania dyrektorów, programistów, działu obsługi klienta i działu marketingu. Choć agendy tych spotkań nie obfitują w dużą ilość tematów do rozmowy, to przeważnie i tak się odbywają, bo mamy dzięki nim okazję się zobaczyć, opowiedzieć, nad czym w danym tygodniu pracujemy… i zwyczajnie pobyć trochę w swoim towarzystwie.
 
@@ -119,7 +118,7 @@ Staramy się, by w spotkaniach nie brało udziału za wiele osób. Liczba uczest
 
 Steve Jobs[^3] przed każdym spotkaniem rozglądał się po sali konferencyjnej i wypraszał wszystkie osoby, których obecność uważał za zbędną. Po prostu wyrzucał ludzi ze spotkania, jeśli uważał, że nie mają wystarczających powodów, by w nim uczestniczyć. To dość radykalne podejście, ale poniekąd je rozumiem.
 
-Szukamy osób, które mogą wnieść jak najwięcej do danego spotkania i zdarza się, że najważniejsze osoby w zespole nie biorą udziału w ważnych spotkaniach, ponieważ wolimy, aby wykorzystywały czas w lepszy sposób.
+Szukamy osób, które mogą wnieść jak najwięcej do danego spotkania i zdarza się, że osoby, które w innej firmie zostałyby zaproszone w pierwszej kolejności, nie biorą udziału w ważnych spotkaniach, ponieważ wolimy, aby wykorzystywały czas w lepszy sposób.
 
 Na przykład, nasz CTO nie bierze udziału we wtorkowych spotkaniach działu designu. Nadal jednak mamy jego wkład, ponieważ czyta agendę i powiązane z nią dokumenty, więc może przekazać swoje uwagi przed spotkaniem. W podobny sposób, prosimy o komentarz również inne osoby z zespołu.
 
@@ -135,13 +134,13 @@ Wiem, że ciągle to powtarzam, ale, tak jak wspomniałem w rozdziale 4.: zapisu
 
 > Przygotowuj tematy przed spotkaniem, a po zakończeniu zebrania, zapisuj wszystkie wnioski. Dzięki temu, każdy będzie czuł się tak, jakby uczestniczył w spotkaniu, bo będzie o wszystkim poinformowany.
 
-## Konkluzja: dobre spotkania są cykliczne, nieobowiązkowe i dobrze przygotowane.
+## To, co najważniejsze: dobre spotkania są cykliczne, nieobowiązkowe i dobrze przygotowane
 
 Unikaj spontanicznych zebrań. Zamiast tego, przestaw się na spotkania cykliczne, trwające nie dłużej niż 2 godziny, zapraszaj tylko tyle osób, ile to konieczne i za każdym razem dopilnuj, aby spotkanie miało agendę i kończyło się wnioskami lub utworzeniem nowych zadań. Tylko wtedy, członkowie zespołu będą czuć, że mają kontrolę nad kalendarzem i będą mogli planować czas wokół spotkań i dłuższych bloków skupienia.
 
 Jako uzupełnienie do tego rozdziału, polecam lekturę książki *Read This Before Our Next Meeting*, której autorem jest Al Pittampali[^4].
 
-[^1]: W Nozbe do spotkań używamy aplikacji [Zoom](https://zoom.us), a każde spotkanie ma swój dedykowany, wirtualny pokój. Aby przejść do spotkania, wystarczy kliknąć w odpowiedni link w kalendarzu.
+[^1]: W Nozbe do spotkań używamy aplikacji [Zoom](https://zoom.us), a każde spotkanie ma swój osobny, wirtualny pokój. Aby przejść do spotkania, wystarczy kliknąć w odpowiedni link w kalendarzu.
 
 [^2]: Artykuł [„Jeff Bezos Knows How to Run a Meeting. Here's How He Does It. On Inc.”](https://www.inc.com/justin-bariso/jeff-bezos-knows-how-to-run-a-meeting-here-are-his-three-simple-rules.html)
 
