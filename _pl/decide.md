@@ -5,7 +5,7 @@ redirect_from:
  - /11pl/
 part: one
 title: Podejmuj lepsze decyzje
-subtitle: "Podejmuj decyzje szybciej, ale poświęć dość czasu na ich skuteczną implementację."
+subtitle: "Decyduj szybciej, ale zapewnij czas na bezpieczną weryfikację"
 ---
 
 * TOC
@@ -15,7 +15,7 @@ subtitle: "Podejmuj decyzje szybciej, ale poświęć dość czasu na ich skutecz
 
 W tym rozdziale chciałbym szerzej poruszyć temat „piramidy komunikacji” i jej praktycznych zastosowań. Nie znajdziesz tu jednak, żadnych mądrych akronimów takich, jak S.M.A.R.T., tylko opis procesu decyzyjnego, który stosujemy w naszym zespole. Zacznę od jego omówienia, a potem przytoczę dwa przykłady.
 
-## Zespół powinien czuć się na tyle pewnie, aby samodzielnie podejmować mniejsze decyzje
+## Pracownicy powinni czuć się na tyle pewnie, by samodzielnie podejmować mniejsze decyzje
 
 Mikrozarządzanie to przeszłość. A przynajmniej tak powinno być w małym zespole. Każdy jego członek jest ekspertem w swojej dziedzinie i jeśli widzi, że coś można zmienić lub poprawić, powinien po prostu zaufać intuicji i to zrobić.
 
@@ -23,30 +23,30 @@ Warto kierować się zasadą:
 
 > Nie proś o pozwolenie, proś o przebaczenie!
 
-Małe decyzje pociągają za sobą małe konsekwencje, więc nawet jak ktoś popełni błąd czy nawet dwa, to zwykle łatwo da się to naprawić. Zawsze mówię nowym pracownikom, że nie zostaną zwolnieni za popełnianie błędów; co najwyżej - za niewystarczająco szybkie działanie, niewykonywanie powierzonych zadań, czy niewnoszenie żadnej wartości.
+Małe decyzje pociągają za sobą małe konsekwencje, więc nawet, jeśli ktoś popełni błąd czy nawet dwa, zwykle łatwo da się to naprawić. Zawsze mówię nowym pracownikom, że nie zostaną zwolnieni za popełnianie błędów; co najwyżej - za niewystarczająco szybkie działanie, niewykonywanie powierzonych zadań, czy niewnoszenie żadnej wartości.
 
 ## Większe decyzje trzeba podejmować świadomie
 
-Przez „większe decyzje” rozumiem te sprawy, które angażują więcej osób – przez udział w procesie decyzyjnym lub wpływ, jaki wywrze na nich ta decyzja. Choć, z jednej strony, tego typu decyzje nie powinny być podejmowane pod wpływem impulsu, to z drugiej, nowoczesny zespół nie może pozwolić sobie na tracenie czasu w oczekiwaniu na to, aż ktoś w końcu podejmie jakąś decyzję. Aby tego uniknąć, opracowaliśmy proces, który częściowo omówiłem już w poprzednich rozdziałach, ale omówię go jeszcze raz w skrócie.
+Przez „większe decyzje” rozumiem te sprawy, które angażują więcej osób – przez udział w procesie decyzyjnym lub wpływ, jaki wywrze na nich ta decyzja. Choć, z jednej strony, tego typu decyzje nie powinny być podejmowane pod wpływem impulsu, z drugiej, nowoczesny zespół nie może pozwolić sobie na tracenie czasu w oczekiwaniu na to, aż ktoś w końcu podejmie jakąś decyzję. Aby tego uniknąć, opracowaliśmy proces, który częściowo omówiłem już w poprzednich rozdziałach, ale omówię go jeszcze raz w skrócie.
 
 ## Zastosuj prosty, 5-stopniowy proces decyzyjny
 
-Zacznij od określenia problemu, który chcesz rozwiązać. Następnie, poświęć trochę czasu, by go przemyśleć, zrobić *research* i wymyślić rozwiązanie. Potem, opracuj je dla siebie i pozostałych osób z zespołu. W ostatnim kroku przedyskutujcie go na najbliższym, cotygodniowym zebraniu i albo wprowadźcie zmiany, albo przejdźcie do wdrożenia.
+Zacznij od określenia problemu, który chcesz rozwiązać. Następnie, poświęć trochę czasu, by go przemyśleć, zrobić *research* i wymyślić rozwiązanie. Potem, opracuj je dla siebie i pozostałych osób z zespołu. W ostatnim kroku przedyskutujcie go na najbliższym, cotygodniowym zebraniu i, albo wprowadźcie zmiany, albo przejdźcie do wdrożenia.
 
 Prawda, że proste? A oto jak wygląda proces implementacji nowej funkcji w naszej aplikacji:
 
 ### Krok 1. Określ problem
 
-Po rozmowie z paroma klientami i wysłuchaniu ich historii zrozumiałem, że potrzebują rozwiązania konkretnego problemu w Nozbe Teams.
+Po rozmowie z paroma klientami i wysłuchaniu ich historii zrozumiałem, że potrzebują rozwiązania konkretnego problemu w Nozbe.
 
-Zamiast pisać do menadżera produktu: *„Hej, musimy dodać funkcję XYZ do Nozbe Teams!”*, robię coś innego. Tworzę zadanie z tym problemem w naszym wspólnym projekcie „Design Nozbe Teams” i planuję kilka godzin następnego dnia na przemyślenie go i opracowanie propozycji rozwiązania.
+Zamiast pisać do managera produktu: *„Hej, musimy dodać funkcję XYZ do Nozbe!”*, robię coś innego. Tworzę zadanie z tym problemem w naszym wspólnym projekcie „Nozbe Design” i planuję kilka godzin następnego dnia na przemyślenie go i opracowanie propozycji rozwiązania.
 
 ### Krok 2. Zbadaj temat i opracuj rozwiązanie
 
 Pora na *research*. W moim przypadku składa się on z pięciu kroków.
 
 - Przeglądam stare zadania i dokumenty, sprawdzając, czy nie próbowaliśmy już rozwiązywać tego problemu w przeszłości.
-- Czytam w internecie, jak inne firmy radzą sobie z podobnymi sytuacjami.
+- Czytam w Internecie, jak inne firmy radzą sobie z podobnymi sytuacjami.
 - Szukam książek lub artykułów na dany temat.
 - Oglądam na ten temat filmiki na YouTubie.
 - Pytam o zdanie pozostałe osoby z zespołu, wywołując je w komentarzu do mojego zadania.
@@ -55,13 +55,13 @@ Ważne jest, by poświęcić dość czasu na gruntowny *research*. Daję sobie c
 
 ### Krok 3. Opracuj temat dla siebie i pozostałych osób z zespołu
 
-Wiem, że kolejne spotkanie działu designu odbędzie się we wtorek, więc najpóźniej do poniedziałku wieczorem opracowuję propozycję rozwiązania problemu w dokumencie na Dropbox Paper. Kiedy skończę, aktualizuję zadanie w Nozbe Teams i przenoszę je do sekcji „agenda następnego spotkania”, by dać znać pozostałym osobom, że chcę omówić ten temat na najbliższym zebraniu.
+Wiem, że kolejne spotkanie działu designu odbędzie się we wtorek, więc najpóźniej do poniedziałku wieczorem opracowuję propozycję rozwiązania problemu w dokumencie na Dropbox Paper. Kiedy skończę, aktualizuję zadanie w Nozbe i przenoszę je do sekcji „agenda następnego spotkania”, by dać znać pozostałym osobom, że chcę omówić ten temat na najbliższym zebraniu.
 
 Opracowuję temat w taki sposób, aby pozostali uczestnicy spotkania mogli opublikować komentarze do wtorku rano przed spotkaniem. Dzięki temu dyskusja odbywa się przed spotkaniem i wiele kwestii rozwiązujemy już na tym etapie.
 
 ### Krok 4. Omów rozwiązanie na spotkaniu
 
-Zanim spotkanie się rozpocznie, wszyscy obecni w sali (w naszym przypadku w „wirtualnej sali”), zapoznali się już z problemem, przeczytali rozwiązanie i opublikowali pierwsze komentarze.
+Zanim spotkanie się rozpocznie, wszyscy obecni w sali (w naszym przypadku w „wirtualnym pokoju” w aplikacji Zoom), zapoznali się już z problemem, przeczytali rozwiązanie i opublikowali pierwsze komentarze.
 
 Dzięki temu nie tracimy czasu na prezentację rozwiązania, tylko od razu przechodzimy do meritum, czyli dyskusji na temat niuansów i problemów. W rozdziale 8 wyjaśniłem już, jak rozmawiamy, dyskutujemy i spieramy się na naszych spotkaniach działu designu, aby finalnie dojść do porozumienia.
 
@@ -81,17 +81,17 @@ Ponieważ zespół Nozbe skupia się na działaniu, czasem trudno nam czekać ca
 
 Nie tak szybko…
 
-W większości przypadków, poświęcenie kilku dodatkowych dni na przeanalizowanie decyzji i zebranie dodatkowego feedbacku nie jest niczym złym, a może sprawić, że decyzja będzie lepsza.
+W większości przypadków poświęcenie kilku dodatkowych dni na przeanalizowanie decyzji i zebranie dodatkowego feedbacku nie jest niczym złym, a może sprawić, że decyzja będzie lepsza.
 
-> Zaufaj intuicji w przypadku małych decyzji, ale większym poświęć kilka dni.
+> Zaufaj intuicji w przypadku małych decyzji, ale poważniejszym - poświęć kilka dni.
 
 I to jest właśnie powód, dla którego organizowanie regularnych i opcjonalnych, cotygodniowych spotkań (które omówiłem już w rozdziale 7) ma tak duży sens. Zamiast podejmować decyzję dzisiaj, wiem, że mogę poświęcić nieco więcej czasu na jej przeanalizowanie, przemyślenie, opracowanie, zebranie feedbacku i przedyskutowanie jej na kolejnym spotkaniu. Decyzja opóźni się o kilka dni, ale będzie lepsza.
 
-W wielu przypadkach, te kilka dodatkowych dni potrafi zrobić dużą różnicę. Zyskuje się czas na to, aby zobaczyć dodatkowy kontekst i zebrać więcej informacji. Z drugiej strony, to tylko dodatkowy tydzień. Nie spędzamy nad problemem nie wiadomo, ile czasu i unikamy paraliżu decyzyjnego[^1].
+W wielu przypadkach kilka dodatkowych dni potrafi zrobić dużą różnicę. Zyskuje się czas na to, aby zobaczyć dodatkowy kontekst i zebrać więcej informacji. Z drugiej strony, to tylko dodatkowy tydzień. Nie spędzamy nad problemem nie wiadomo, ile czasu i unikamy paraliżu decyzyjnego[^1].
 
 ## Jak mądrzej podejmować decyzje
 
-Wykonałeś pięć powyższych kroków, ale nadal trapią cię wątpliwości? Może to jednak nie to? Może to za wcześnie? Może jest jakiś lepszy sposób? Na szczęście mamy kilka rozwiązań, które w takich sytuacjach pomagają ruszyć z miejsca.
+Masz już za sobą pięć powyższych kroków, ale nadal trapią cię wątpliwości? Może to jednak nie to? Może to za wcześnie? Może jest jakiś lepszy sposób? Na szczęście mamy kilka rozwiązań, które w takich sytuacjach pomagają ruszyć z miejsca.
 
 ### Najlepsza metoda? Najtańszym kosztem.
 
@@ -101,11 +101,11 @@ W naszych produktach często dodajemy nową funkcję bez zapowiadania jej klient
 
 ## Ogranicz wpływ decyzji do niewielkiej grupy osób
 
-Kiedy nie jesteśmy pewni słuszności decyzji, ograniczamy liczbę osób, na które będzie miała wpływ. W naszych produktach, a zwłaszcza w Nozbe Teams, udostępniamy najnowsze funkcje wyłącznie naszemu zespołowi. Nazywamy to „dogfoodingiem” [^2] (w tłum. z ang. jedzenie własnej karmy dla psów).
+Kiedy nie jesteśmy pewni słuszności decyzji, ograniczamy liczbę osób, na które będzie miała wpływ. W naszych produktach, a zwłaszcza w Nozbe, udostępniamy najnowsze funkcje wyłącznie naszemu zespołowi. Nazywamy to „dogfoodingiem” [^2].
 
 Wprowadzając w firmie nową politykę, zwykle ograniczamy ją do paru osób lub jednego działu i obserwujemy, czy się sprawdzi. Zbieramy feedback i dopiero potem wdrażamy ją w całym zespole.
 
-Praktyka ta jest bardzo popularna w działaniach marketingowych. Specjaliści od marketingu najpierw poddają rozwiązanie testom na mniejszej grupie, a dopiero potem rozszerzają je na szersze grono osób.
+Praktyka ta jest bardzo popularna w działaniach marketingowych. Specjaliści od marketingu najpierw poddają rozwiązanie testom na mniejszej grupie, a dopiero potem rozszerzają je na kolejne osoby.
 
 ### Zaplanuj datę weryfikacji decyzji
 
@@ -113,11 +113,11 @@ Zakładamy, że każda decyzja jest tymczasowa. Bardzo często, po podjęciu dec
 
 Na takim spotkaniu analizujemy, co poszło dobrze, a co nie i co wymaga poprawy. Zwykle organizujemy w tym celu wideokonferencję, na której gospodarz spotkania udostępnia pozostałym uczestnikom ekran z mapą myśli ze wszystkimi punktami dyskusji. Każdy wyraża swoją opinię i mapa jest na bieżąco aktualizowana. Po spotkaniu gospodarz zapisuje wnioski i sugestie na przyszłość.
 
-## Konkluzja: poświęć odpowiednio dużo czasu na podjęcie decyzji!
+## To, co najważniejsze: poświęć odpowiednio dużo czasu na podjęcie ostatecznej decyzji!
 
 Poważniejszym decyzjom warto poświęcić nieco więcej czasu, bo ludzie mają tendencję do podejmowania ich pochopnie. Wykonaj kroki opisane powyżej i nie bój się wdrażać rozwiązań najtańszym kosztem.
 
-Niektóre elementy naszego procesu były inspirowane książką Ryana Singera pt. *Shape Up*[^3], której lekturę też polecam.
+Niektóre elementy naszego procesu były inspirowane książką Ryana Singera pt. *Shape Up*[^3], której lekturę polecam.
 
 [^1]: ["W razie wątpliwości - atakuj" - artykuł Mariusza Kapusty o paraliżu decyzyjnym/analitycznym](http://productivemag.pl/2/w-razie-watpliwosci-z-atakuj)
 
