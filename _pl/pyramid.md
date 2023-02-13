@@ -4,7 +4,7 @@ redirect_from:
  - /piramida/
  - /10pl/
 part: one
-title: Postaw na głowie współpracę w swoim zespole
+title: Postaw na głowie współpracę w zespole
 subtitle: "Jak odkryliśmy piramidę komunikacji, która pozwala nam pracować efektywniej"
 ---
 
@@ -13,7 +13,7 @@ subtitle: "Jak odkryliśmy piramidę komunikacji, która pozwala nam pracować e
 
 ## Tradycja jest przereklamowana
 
-Kiedy ludzie zaczynają ze sobą współpracować – czy to w firmie, czy w zespole – początkowo nie mają pojęcia, jak koordynować wszystkie sprawy. Uczą się tego na bieżąco, zwykle przez naśladowanie innych firm. Wszyscy mają biura? My też musimy je mieć! Organizują spotkania podsumowujące, statusowe, końcowe? Zróbmy to samo… Wtedy na pewno nam się uda, prawda? Z czasem, wiele z tych praktyk biznesowych przechodzi do tradycji. I na tym właśnie polega cały problem:
+Kiedy ludzie zaczynają ze sobą współpracować – czy to w firmie, czy w zespole – początkowo nie mają pojęcia, jak wszystko skoordynować. Uczą się tego na bieżąco, zwykle przez naśladowanie innych firm. Wszyscy mają biura? My też musimy je mieć! Organizują spotkania podsumowujące, statusowe, końcowe? Zróbmy to samo… Wtedy na pewno nam się uda, prawda? Z czasem, wiele z tych praktyk biznesowych przechodzi do tradycji. I na tym właśnie polega cały problem:
 
 > Ludzie przykładają zbyt dużą wagę do „tradycji”. Są przekonani, że *skoro tak się robi od X lat, to na pewno jest to dobre*. Ale czy faktycznie jest?
 
@@ -23,33 +23,33 @@ Zatrudniając swoich pierwszych pracowników, nie miałem zielonego pojęcia o p
 
 ## Tradycyjna współpraca zespołowa zaczyna się od spotkań
 
-Jak pisałem w rozdziale 7, by móc cokolwiek wspólnie zdziałać, ludzie przyzwyczaili się do częstych spotkań. Starają się upchnąć choć trochę czasu na faktyczną pracę między oficjalnymi spotkaniami projektowymi i nieoficjalnymi, spontanicznymi rozmowami. To z kolei skutkuje pracą do późna oraz frustracją wywołaną tym, że nie jesteśmy w stanie zrobić niczego pożytecznego w czasie standardowych godzin pracy. To nie jest efektywne. Powinno być odwrotnie!
+Jak pisałem w rozdziale 7, ludzie przyzwyczaili się do częstych spotkań, uznając je za warunek współdziałania. Starają się upchnąć choć trochę czasu na faktyczną pracę między oficjalnymi zebraniami projektowymi i nieoficjalnymi, spontanicznymi rozmowami. To z kolei skutkuje pracą do późna oraz frustracją wywołaną tym, że nie jesteśmy w stanie zrobić niczego pożytecznego w czasie standardowych godzin pracy. To nie jest efektywne. Powinno być odwrotnie!
 
 ## Postaw rzeczywistą pracę na pierwszym miejscu
 
-Jak już pisałem w rozdziale 4, w Nozbe najbardziej cenimy sobie pracę w skupieniu. W końcu, po to zatrudniamy ludzi do zespołu – by wykonywali faktyczną pracę, a nie tylko brali udział w spotkaniach, czy wymieniali się wiadomościami na czacie. Dlatego, staram się stać na straży czasu mojego zespołu i dawać mu przestrzeń do owocnego realizowania obowiązków.
+Jak już pisałem w rozdziale 4, w Nozbe najbardziej cenimy sobie pracę w skupieniu. W końcu, po to zatrudniamy ludzi do zespołu – by wykonywali faktyczną pracę, a nie tylko brali udział w spotkaniach, czy wymieniali się wiadomościami na czacie. Dlatego, staram się stać na straży czasu moich pracowników i dawać im przestrzeń do spokojnego realizowania obowiązków.
 
-Większość czasu powinniśmy spędzać na pracy w skupieniu. Jest to tzw. praca na poziomie 1. Na tym poziomie komunikujemy się przez efekty naszej pracy.
+Większość czasu powinniśmy spędzać na pracy w skupieniu. Jest to tzw. praca  głęboka. Na tym poziomie komunikujemy się przez efekty naszej pracy.
 
-W zależności od roli w firmie, musisz mieć czas na pisanie, liczenie, programowanie, rysowanie, streszczanie, tworzenie map myśli, analizowanie, a potem zapisywanie tych rzeczy w dokumentach, projektach lub zadaniach tak, aby inni mogli widzieć efekty Twojej pracy i pomagać Ci w jej realizacji. Wykonałeś już w skupieniu swoją pracę, więc przyszła pora na poziom 2.
+W zależności od roli w firmie, musisz mieć czas na pisanie, liczenie, programowanie, rysowanie, streszczanie, tworzenie map myśli, analizowanie, a potem zapisywanie tych rzeczy w dokumentach, projektach, raportach lub zadaniach tak, aby inni mogli widzieć efekty Twojej pracy i pomagać Ci w jej realizacji. Gdy praca w skupieniu jest wykonana, przychodzi pora na poziom 2 komunikacji.
 
 ## Przekazuj i otrzymuj informacje zwrotne
 
-Nie, nie znaczy to, że nadszedł czas na organizację spotkania. Większość informacji zwrotnych, które ze sobą wymieniamy, jest asynchroniczna. Kończysz zadanie, przesyłasz jego efekt do współpracownika i czekasz na przemyślany feedback.
+Nie, nie znaczy to, że nadszedł czas na organizację spotkania. Większość informacji zwrotnych przekazujemy sobie w sposób asynchroniczny. Kończysz zadanie, przesyłasz jego efekt do współpracownika i czekasz na przemyślany feedback.
 
-Nie wykonujesz do niego „szybkiego telefonu”, aby pokazać mu efekty swojej pracy i spytać go o pierwsze wrażenie. To nie jest feedback. To pułapka!
+Nie wykonujesz do niego „szybkiego telefonu”, aby opowiedzieć mu o efektach swojej pracy i spytać go o pierwsze wrażenie. To nie jest feedback. To pułapka!
 
-Jak już pisałem w rozdziale 5 i 6 poświęconym zapisywaniu informacji i rezygnacji z maila, przekazujesz informacje zwrotne w formie pisemnego komentarza lub serii komentarzy w dogodnym dla drugiej strony czasie.
+Jak już pisałem w rozdziale 5 i 6 poświęconym zapisywaniu informacji i rezygnacji z maili, lepiej przekazywać informacje zwrotne w formie pisemnego komentarza lub serii komentarzy, które ktoś może odczytać w dogodnym dla siebie czasie.
 
-W takim systemie, każdy pracuje we własnym tempie. Najpierw spędzasz czas na pracy w skupieniu, a potem poświęcasz go na sprawdzanie i analizowanie efektów pracy innych osób, aby wyrazić wartościową opinię. Tylko w ten sposób będą mogli się uczyć i rozwijać.
+W takim systemie każdy pracuje we własnym tempie. Najpierw spędzasz czas na pracy w skupieniu, a potem poświęcasz go na sprawdzanie i analizowanie efektów pracy innych osób, aby wyrazić wartościową opinię. Tylko w ten sposób będą mogli się uczyć i rozwijać.
 
 Dobry feedback wymaga czasu. Ale jest tego warty! Dzięki informacjom zwrotnym otrzymanym od osób reprezentujących różne punkty widzenia i poziomy ekspertyzy można podnosić jakość swej pracy.
 
 ## Szybka wymiana zdań przez wiadomości tekstowe
 
-Przeważnie, większość czasu spędzamy na poziomie 1 (praca w skupieniu) i poziomie 2 (przekazywanie informacji zwrotnych). Czasem jednak, gdy zbliżasz się do końca zadania, musisz ten proces nieco przyspieszyć i to jest właśnie moment na szybką wymianę informacji.
+W naszej firmie większość czasu spędzamy na poziomie 1 (praca w skupieniu) i poziomie 2 (przekazywanie informacji zwrotnych). Czasem jednak, gdy zbliżasz się do końca zadania, musisz ten proces nieco przyspieszyć i to jest właśnie moment na szybką wymianę informacji.
 
-Wszystko nadal odbywa się w formie pisemnej. W Nozbe, używamy w tym celu aplikacji do czatowania, np. Slacka albo iMessage, lub po prostu wymieniamy się szybkimi i krótkimi komentarzami w naszym narzędziu do zarządzania zadaniami – Nozbe Teams. Ta szybka interakcja pomaga nam w szybszym dotarciu do mety, a jednocześnie pozostawia po sobie pisemny ślad. Dzięki temu, każdy z zespołu może dołączyć do dyskusji albo, już na późniejszym etapie, sprawdzić, jak doprowadziliśmy konkretny projekt do realizacji. To jest poziom 3.
+Wszystko nadal odbywa się w formie pisemnej. W Nozbe, używamy w tym celu aplikacji do czatowania, np. Slacka albo iMessage, lub po prostu wymieniamy się szybkimi i krótkimi komentarzami w naszym narzędziu do zarządzania zadaniami – Nozbe. Ta szybka interakcja pomaga nam w szybszym dotarciu do mety, a jednocześnie pozostawia po sobie pisemny ślad. Dzięki temu, każdy z zespołu może dołączyć do dyskusji albo, już na późniejszym etapie, sprawdzić, jak doprowadziliśmy konkretny projekt do realizacji. To jest poziom 3.
 
 ## Zdzwaniamy się, gdy pisanie zajęłoby za dużo czasu
 
@@ -59,15 +59,15 @@ W Nozbe, rozwijając nową funkcję jednego z naszych produktów, pracujemy w gr
 
 Ponieważ szanujemy wzajemnie swój czas, najpierw rozmawiamy na czacie i planujemy rozmowę. Unikamy też przerywania sobie pracy spontanicznymi telefonami. Najpierw pytamy drugą osobę, kiedy jest najlepszy czas na rozmowę, by mogła skończyć to, nad czym aktualnie pracuje.
 
-Wspominamy też na czacie, czego rozmowa ma dotyczyć i ile czasu będziemy potrzebować, na przykład: *„Czy masz 10-15 minut, żeby pogadać o postępach nad funkcją XYZ?”*.
+Wspominamy też na czacie, czego rozmowa ma dotyczyć i ile czasu będziemy potrzebować, na przykład: *„Czy masz 10-15 minut, żeby pogadać o postępach pracy nad funkcją XYZ?”*.
 
-Gdy już dojdzie do rozmowy, staramy się, aby była krótka. Pilnujemy, by dotyczyła wyłącznie sprawy, w której się zdzwoniliśmy. Po rozmowie, aktualizujemy komentarze do omawianych zadań, aby potwierdzić to, co uzgodniliśmy na piśmie. Dzięki temu osoby, które nie brały udziału w rozmowie będą mogły prześledzić, czego dotyczyła. Następnie, wracamy do pracy w skupieniu.
+Gdy już dojdzie do rozmowy, staramy się, aby była krótka. Pilnujemy, by dotyczyła wyłącznie sprawy, w której się zdzwoniliśmy. Po rozmowie, aktualizujemy komentarze do omawianych zadań, aby to, co uzgodniliśmy, potwierdzić na piśmie. Dzięki temu osoby, które nie brały udziału w rozmowie będą mogły prześledzić, czego dotyczyła. Następnie, wracamy do pracy w skupieniu.
 
 ## Spotkajmy się, gdy to naprawdę konieczne
 
-Jak już wspomniałem w rozdziale 7, planujemy regularne spotkania i przeprowadzamy je tylko wtedy, gdy są naprawdę konieczne. Po ukończeniu pracy w skupieniu (poziom 1), przekazaniu wszystkich informacji zwrotnych (poziom 2), doprecyzowaniu wszystkich spraw (poziomy 3 i 4), pora na dyskusje końcowe. To jest nasz poziom 5 i właśnie dlatego nasze spotkania są tak efektywne. A wszystko dzięki temu, że organizujemy je dopiero po ukończeniu większości naszej pracy. Gdy wszystkie dane są już przygotowane, a wszystko jest już tylko kwestią dopięcia spraw na ostatni guzik.
+Jak już wiesz, planujemy regularne spotkania i przeprowadzamy je tylko wtedy, gdy są naprawdę konieczne. Po ukończeniu pracy w skupieniu (poziom 1), przekazaniu wszystkich informacji zwrotnych (poziom 2), doprecyzowaniu wszystkich spraw (poziomy 3 i 4), pora na dyskusje końcowe. To jest nasz poziom 5 i właśnie dlatego nasze spotkania są tak efektywne. A wszystko dzięki temu, że organizujemy je dopiero po ukończeniu większości pracy. Gdy wszystkie dane są już przygotowane i pozostaje już tylko dopięcie spraw na ostatni guzik.
 
-Większość zadań i projektów nie musi być omawiana na spotkaniach. Jesteśmy w stanie dograć szczegóły na poziomach 1-3 i już więcej nie musimy o nich rozmawiać. Uzgadniamy wszystko w komentarzach i od razu przechodzimy do realizacji zadań.
+Większość zadań i projektów nie musi być omawiana na spotkaniach. Jesteśmy w stanie dograć szczegóły na poziomach 1-3 i już więcej nie musimy o nich rozmawiać. Uzgadniamy wszystko w komentarzach i od razu przechodzimy do realizacji.
 
 ## Nazywamy to „piramidą komunikacji”
 
@@ -76,14 +76,14 @@ Oto poziomy komunikacji zespołowej omawiane w tym rozdziale:
 * **Poziom 1 - praca w skupieniu**, czyli poziom pracy głębokiej;
 * **Poziom 2 - informacje zwrotne**, czyli poziom WDYT[^1];
 * **Poziom 3 - wiadomości na bieżąco**, czyli poziom wiadomości bezpośrednich;
-* **Poziom 4 - rozmowa jeden na jeden**, czyli poziom „powiedz mi...”;
-* **Poziom 5 - spotkania**, czyli poziom komunikacji twarzą w twarz.
+* **Poziom 4 - rozmowa jeden na jeden**, czyli dogadajmy szcegóły;
+* **Poziom 5 - spotkania**.
 
-W tradycyjnym środowisku pracy większość osób spędza niemal cały swój czas na poziomie 5, czyli na długich spotkaniach, potem na poziomie 4, przerywając sobie pracę rozmowami, następnie na poziomie 3, próbując koordynować wszystkie sprawy przez czata i rzadko zostaje im czas na poziom 2, czyli na przekazanie wartościowego feedbacku, czy poziom 1, czyli skupienie się na skutecznej realizacji zadań.
+W tradycyjnym środowisku pracy większość osób spędza niemal cały swój czas na poziomie 5, czyli na długich spotkaniach, potem na poziomie 4, przerywając sobie pracę rozmowami, następnie na poziomie 3, próbując koordynować wszystkie sprawy przez czat i rzadko zostaje im czas na poziom 2, czyli na przekazanie wartościowego feedbacku, czy poziom 1, czyli skupienie się na skutecznej realizacji zadań.
 
-Dlatego właśnie nazywamy to „piramidą komunikacji” i realizujemy ją poprzez odwrócenie jej do góry nogami!
+Dlatego właśnie nazywamy to „piramidą komunikacji” i realizujemy ją poprzez odwrócenie jej "tradycyjnej" formy do góry nogami!
 
-Większość czasu spędzamy na pracy w skupieniu (poziom 1), ale dużo czasu poświęcamy również na przekazywanie przemyślanego feedbacku (poziom 2), a w razie konieczności, również na komunikację przez wiadomości tekstowe (poziom 3), a gdy stanie się to prawdziwą koniecznością, na krótko się zdzwaniamy (poziom 4), a dopiero na ostatnim miejscu mamy nasze cotygodniowe spotkania (poziom 5), które są całkowicie fakultatywne.
+Większość czasu spędzamy na pracy w skupieniu (poziom 1), ale dużo czasu poświęcamy również na przekazywanie przemyślanego feedbacku (poziom 2), a w razie konieczności, również na komunikację przez wiadomości tekstowe (poziom 3), a gdy stanie się to prawdziwą koniecznością, na krótko się zdzwaniamy (poziom 4). Dopiero na ostatnim miejscu mamy nasze cotygodniowe spotkania (poziom 5), które są całkowicie fakultatywne.
 
 ## Poziomy 1-2 są asynchroniczne, a poziomy 3-5 odbywają się w czasie rzeczywistym
 
@@ -91,14 +91,14 @@ Poziomy 1-2 w odróżnieniu od poziomów 3-5 realizowane są całkowicie asynchr
 
 I to właśnie na tych poziomach powinniśmy spędzać większość czasu, a znacznie mniej na poziomach 3-5. I dlatego nazywamy to odwróconą piramidą komunikacji.
 
-## Konkluzja: sprawdź, ile czasu spędzasz na poszczególnych poziomach piramidy.
+## To, co najważniejsze: sprawdź, ile czasu spędzasz na poszczególnych poziomach piramidy.
 
-Zanim zastosujesz piramidę komunikacji w swoim zespole, przez kolejny tydzień lub dwa przeanalizuj, na co przeznaczasz czas. Czy był to czas spędzony na pracy w skupieniu? Na przekazywaniu informacji zwrotnych? Ile czasu spędziłeś na wymianie wiadomości tekstowych, rozmowach głosowych czy spotkaniach?
+Zanim zastosujesz piramidę komunikacji w swoim zespole, przez kolejny tydzień lub dwa przeanalizuj, na co przeznaczasz czas. Czy był to czas spędzony na pracy w skupieniu? Na przekazywaniu informacji zwrotnych? Ile czasu poszło na wymianę wiadomości tekstowych, rozmowy czy spotkania?
 
-> W idealnym świecie, większość czasu spędzalibyśmy na pracy w skupieniu (poziom 1), trochę mniej na przekazywaniu informacji zwrotnych (poziom 2), znacznie mniej na wymianie wiadomości tekstowych (poziom 3) i najmniej, jak to możliwe na rozmowach głosowych (poziom 4) i spotkaniach (poziom 5).
+> W idealnym świecie, większość czasu spędzalibyśmy na pracy w skupieniu (poziom 1), trochę mniej na przekazywaniu informacji zwrotnych (poziom 2), znacznie mniej na wymianie wiadomości tekstowych (poziom 3) i najmniej, jak to możliwe, na rozmowach (poziom 4) i spotkaniach (poziom 5).
 
-Szerzej o koncepcji „piramidy komunikacji” i aplikacjach, z pomocą których ją realizujemy w naszym zespole, piszę w mojej książce „No Office Apps” dostępnej bezpłatnie w wersji elektronicznej[^2].
+Szerzej o koncepcji „piramidy komunikacji” i aplikacjach, z pomocą których ją realizujemy w naszym zespole, piszę w mojej książce „No Office: Narzędzia do pracy zdalnej” dostępnej bezpłatnie w wersji elektronicznej[^2].
 
-[^1]: WDYT to skrót od „What Do You Think?” (z ang. co myślisz?), a jednocześnie pytanie, które często zadajemy w naszym zespole.
+[^1]: WDYT to skrót od „What Do You Think?” (z ang. co sądzisz?), a jednocześnie pytanie, które często zadajemy w naszym zespole.
 
-[^2]: [Pobierz moją bezpłatną książkę „No Office apps” w formacie PDF](https://files.nozbe.com/books/NoOffice-Narzedzia-do-pracy-zdalnej.pdf)
+[^2]: [Pobierz moją bezpłatną książkę „No Office: Narzędzia do pracy zdalnej” w formacie PDF](https://files.nozbe.com/books/NoOffice-Narzedzia-do-pracy-zdalnej.pdf)
