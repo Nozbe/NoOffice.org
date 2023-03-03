@@ -21,23 +21,23 @@ Nie rozumiem firm, które traktują zarabianie pieniędzy jako coś więcej niż
 
 Problem w tym, że po osiągnięciu finansowego celu, ludzie tracą zainteresowanie pracą. Skoro chodzi tylko o pieniądze, kto by się przejmował jakością pracy. Liczy się tylko, żeby zdobyć tę premię, bez względu na cenę!
 
-> Nie chcesz, by Twój zespół był podekscytowany zarabianymi pieniędzmi tylko pracą.
+> Chcesz, by Twój zespół ekscytował się pracą, a nie zarabianymi pieniędzmi.
 
 ## Zapomnij o *rozmowach o pieniądzach*
 
-Rozmawianie o pieniądzach nie należy do najprzyjemniejszych rzeczy – zwłaszcza, gdy są przedmiotem negocjacji. Strona, która płaci, chce zapłacić jak najmniej, a druga strona, chce dostać jak najwięcej. Obie strony dążą do osiągnięcia sprzecznych celów, wskutek czego rezultat negocjacji rzadko bywa zadowalający.
+Rozmawianie o pieniądzach nie należy do najprzyjemniejszych – zwłaszcza, gdy są przedmiotem negocjacji. Strona, która płaci, chce zapłacić jak najmniej, a druga strona, chce dostać jak najwięcej. Obie strony dążą do osiągnięcia sprzecznych celów, wskutek czego rezultat negocjacji rzadko bywa zadowalający.
 
-Kilka lat temu, zainspirowany innymi firmami[^2], postanowiłem to zmienić, wprowadzając *formułę wynagrodzeń* – przewidywalny wzór, który służy do wyliczania pensji każdej osoby z zespołu.
+Kilka lat temu, zainspirowany innymi firmami[^2], postanowiłem wprowadzić *formułę wynagrodzeń* – przewidywalny wzór, który służy do wyliczania pensji każdej osoby z zespołu.
 
 ## Formuła wynagrodzeń – sprawiedliwy sposób obliczania pensji
 
 Dlaczego stosujemy formułę wynagrodzeń?
 
-1. **Aby zagwarantować równe traktowanie wszystkich osób w zespole** – istnienie formuły wynagrodzeń eliminuje indywidualne negocjowanie stawek, a także duże dysproporcje w zarobkach między poszczególnymi osobami z zespołu. Formuła wynagrodzeń gwarantuje, że każdy otrzymuje sprawiedliwe wynagrodzenie w stosunku do pozostałych osób z zespołu, które wykonują podobną pracę.
-2. **Aby zapewnić coroczne podwyżki wynagrodzenia** – cokolwiek się wydarzy, formuła wynagrodzeń gwarantuje automatyczne, coroczne podwyżki. Wynagrodzenie nigdy nie będzie więc niższe niż od tego, które pracownicy dostają obecnie.
+1. **Aby zagwarantować równe traktowanie wszystkich osób w zespole** – istnienie formuły wynagrodzeń eliminuje indywidualne negocjowanie stawek, a także duże dysproporcje w zarobkach między poszczególnymi osobami z zespołu. Formuła wynagrodzeń gwarantuje, że każdy otrzymuje sprawiedliwe wynagrodzenie w stosunku do pozostałych członków zespołu, które wykonują podobną pracę.
+2. **Aby zapewnić coroczne podwyżki wynagrodzenia** – cokolwiek się wydarzy, formuła wynagrodzeń gwarantuje automatyczne, coroczne podwyżki. Wynagrodzenie nigdy nie będzie więc niższe od tego, które pracownicy dostają obecnie.
 3. **Aby każdy mógł z łatwością przewidzieć swoją pensję** – kwestia ta gwarantuje pracownikom poczucie bezpieczeństwa – każdy wie, ile zarabia w tej chwili i z łatwością może przewidzieć, o ile wzrośnie jego wynagrodzenie w przyszłym roku. Firmie z kolei ułatwia to szacowanie wydatków i prognozowanie budżetu, żeby utrzymać dobrą kondycję finansową.
 
-Po tym wstępie, czas na konkrety, czyli jak wprowadziliśmy formułę wynagrodzeń w naszym zespole. Nie jest to uniwersalna formuła i wiele firm stosuje inne podejście. To jest nasza metoda i za kilka lat prawdopodobnie ją zmienimy. Jeśli jesteś właścicielem firmy albo menedżerem, mam nadzieję, że poniższy opis posłuży Ci za inspirację i dobry punkt wyjścia do stworzenia własnej formuły do wyliczania pensji.
+Po tym wstępie, czas na konkrety, czyli jak wprowadziliśmy formułę wynagrodzeń w naszym zespole. Nie jest to uniwersalna formuła i wiele firm stosuje inne podejście. To jest nasza metoda i za kilka lat prawdopodobnie ją zmienimy. Jeśli jesteś właścicielem firmy albo managerem, mam nadzieję, że poniższy opis posłuży Ci za inspirację i dobry punkt wyjścia do stworzenia własnej formuły do wyliczania pensji.
 
 ## Komponenty formuły wynagrodzeń w Nozbe
 
@@ -49,7 +49,7 @@ Wynagrodzenie bazowe to wartość rynkowa pensji, jaką zarabiają pracownicy z 
 
 Celem całego zespołu jest wspólne działanie na rzecz *zwiększenia wynagrodzenia bazowego*, które jest uwarunkowane wzrostem dochodów firmy. Dzięki temu cały zespół otrzymuje podwyżkę w jednakowym momencie.
 
-> Wzrost wynagrodzenia podstawowego **jest głównym celem**, do którego dążymy. Zależy nam żeby firma była w dobrej kondycji finansowej, by w przyszłym roku wszyscy mogli cieszyć się podwyżką.
+> Wzrost wynagrodzenia podstawowego **jest głównym celem**, do którego dążymy. Zależy nam, żeby firma była w dobrej kondycji finansowej, by w przyszłym roku wszyscy mogli cieszyć się podwyżką.
 
 W naszym zespole są różne kategorie pracowników:
 
@@ -79,13 +79,13 @@ Poziom jest celem drugorzędnym, ponieważ jest celem osobistym. O ile dobrze wy
 
 Tagi są dodatkowymi obowiązkami, które dana osoba wykonuje w firmie. Są to różne dodatkowe zadania, które nie wynikają bezpośrednio z opisu stanowiska pracy.
 
-Na przykład, osoba pracująca w dziale obsługi klienta, która jest również odpowiedzialna za niektóre zadania marketingowe, może otrzymać tag *Marketing*. Programista front-endowy, który jest odpowiedzialny za platformę Android, może otrzymać tag *Platforma*. Nasza koordynatorka treści, Magda, która odpowiada również za redakcję tej książki, organizuje też różne sprawy firmowe – np. rekrutacje nowych pracowników, dlatego otrzymuje tag *Koordynacja*.
+Na przykład, osoba pracująca w dziale obsługi klienta, która jest również odpowiedzialna za niektóre zadania marketingowe, może otrzymać tag *Marketing*. Programista front-endowy, który jest odpowiedzialny za platformę Android, może otrzymać tag *Platforma*. Nasza koordynatorka sprzedaży, Magda, która odpowiada również za redakcję tej książki, organizuje też różne sprawy firmowe – np. rekrutację nowych pracowników, dlatego otrzymuje tag *Koordynacja*.
 
-Ważna uwaga: pracownicy z poziomu VP i CXO tworzący tzw. zespół „dyrektorów”, nie otrzymują z tego tytułu żadnych dodatkowych. Nie miałoby to sensu. Każdy z dyrektorów w naszej firmie robi wiele rzeczy i *wykonuje różne obowiązki*, więc moglibyśmy sobie przyznać wszystkie możliwe tagi.
+Ważna uwaga: pracownicy z poziomu VP i CXO tworzący tzw. zespół „dyrektorów”, nie otrzymują z tego tytułu żadnych dodatkowych punktów. Nie miałoby to sensu. Każdy z dyrektorów w naszej firmie robi wiele rzeczy i *wykonuje różne obowiązki*, więc moglibyśmy sobie przyznać wszystkie możliwe tagi.
 
 ## Formuła wynagrodzeń – wzór
 
-Najpierw mnożymy wszystkie parametry przez ich wagę. Dodajemy do siebie *czas* przepracowany w firmie, *poziom* osobisty* i *tagi*:
+Najpierw mnożymy wszystkie parametry przez ich wagę. Dodajemy do siebie *czas* przepracowany w firmie, *poziom umiejętności* i *tagi*:
 
 **Dodatki** = waga Czasu x Czas + waga Poziomu x Poziom + waga Tagów x Tagi
 
@@ -125,7 +125,7 @@ Dostanie więc podwyżkę, ale wysiłek zespołowy opłaciłby się bardziej.
 
 Rekrutując do zespołu nowe osoby, możemy z łatwością opublikować przewidywane wynagrodzenie na danym stanowisku. Wyliczamy je za pomocą formuły wynagrodzeń, różnicując dane o jeden-dwa punkty i otrzymujemy *widełki płacowe*. To jest kwota, którą możemy zapłacić na tym stanowisku. Ani mniej, ani więcej.
 
-Z perspektywy szefa firmy wprowadzenie formuły wynagrodzeń znacząco ułatwiło mi moją pracę.
+Z perspektywy szefa firmy wprowadzenie formuły wynagrodzeń znacząco ułatwiło mi pracę.
 
 * Zatrudniając nowe osoby do zespołu, dyrektorzy nie muszą pytać mnie: *„ile powinniśmy zapłacić za pracę na tym stanowisku?”*, tylko samodzielnie wyliczają pensję za pomocą formuły wynagrodzeń.
 * W naszej firmie, nie negocjujemy już wysokości pensji. Możemy rozmawiać o rozwoju osobistym, ale nie o pieniądzach.
@@ -133,17 +133,17 @@ Z perspektywy szefa firmy wprowadzenie formuły wynagrodzeń znacząco ułatwił
 
 ## Równość szans bez względu na płeć lub kolor skóry!
 
-Nie rozumiem dlaczego w 2020 roku ciągle wracamy do tego tematu. Jako ojciec trzech córek, chcę by w przyszłości zarabiały tyle samo co ich koledzy po fachu. *Formuła wynagrodzeń* nie bierze pod uwagę takich cech, jak płeć czy kolor skóry. Zresztą, tak powinno być od zawsze!
+Nie rozumiem dlaczego w XXI wieku ciągle wracamy do tego tematu. Jako ojciec trzech córek, chcę by w przyszłości zarabiały tyle samo co ich koledzy po fachu. *Formuła wynagrodzeń* nie bierze pod uwagę takich cech, jak płeć czy kolor skóry. Zresztą, tak powinno być od zawsze!
 
 ## Minusy formuły wynagrodzeń
 
 Choć wierzę, że taki system wynagrodzeń warto wprowadzić w każdym zespole, ma on też swoje minusy.
 
-* Biznes ma to do siebie, że, niektórzy ludzie lubią negocjować stawki albo wierzą, że są warci więcej od innych. Ten system nie jest dla nich. Będą czuć, że jest dla nich niesprawiedliwy i albo odejdą z zespołu, albo w ogóle nie zechcą do niego dołączyć.
+* Biznes ma to do siebie, że niektórzy ludzie lubią negocjować stawki albo wierzą, że są warci więcej od innych. Ten system nie jest dla nich. Będą czuć, że jest dla nich niesprawiedliwy i albo odejdą z zespołu, albo w ogóle nie zechcą do niego dołączyć.
 * System ten praktycznie uniemożliwia werbowanie pracowników z innych firm, bo nie będziesz w stanie zaoferować im lepszych stawek (brak indywidualnych negocjacji). Chyba, że sami zechcą z Tobą pracować, bo wcieliłeś w życie rady i wskazówki z tej książki i stworzyłeś środowisko, którego chcą być częścią.
 * Konkurencja będzie miała łatwiejsze zadanie jeśli chodzi o werbowanie pracowników z Twojej firmy, ponieważ będzie mogła przebić Twoją ofertę.
 
-Są to ważne kwestie, ale mimo wszystko wolę pracować w zespole, w którym nie wałkujemy w kółko tematu pensji, bo zostawiamy go *formule wynagrodzeń. Moją jedyną obawą jest to, czy firma będzie generować wystarczająco duży dochód, abyśmy mogli co roku *podnosić wynagrodzenie bazowe*, a zespół mógł zarabiać dobre pieniądze, pracując w trybie #NoOffice.
+Są to ważne kwestie, ale mimo wszystko wolę pracować w zespole, w którym nie wałkujemy w kółko tematu pensji, bo zostawiamy go *formule wynagrodzeń*. Moją jedyną obawą jest to, czy firma będzie generować wystarczająco duży dochód, abyśmy mogli co roku *podnosić wynagrodzenie bazowe*, a zespół mógł zarabiać dobre pieniądze, pracując w trybie #NoOffice.
 
 ## Konkluzja: w kwestiach finansowych, zdaj się na formułę wynagrodzeń!
 
