@@ -11,27 +11,27 @@ subtitle: "Wprowadź elastyczne godziny pracy i wydziel bloki niezakłóconego c
 * TOC
 {:toc}
 
-## Zapomnij o pracy od 9-17 lub przynajmniej uznaj taki tryb za opcjonalny!
+## Zapomnij o pracy od 9 do 17 lub przynajmniej uznaj taki tryb za opcjonalny!
 
-Jest prawdą powszechnie uznaną, że osobie wykonującej dobrą pracę brak do szczęścia tylko siedzenia w biurze od 9-17[^1].
+Jest prawdą powszechnie uznaną, że osobie wykonującej dobrą pracę brak do szczęścia tylko siedzenia w biurze od 9 do 17[^1].
 
 Dlaczego tak? Dlaczego od 9 do 17? Dlaczego od 9:00 do 17:00, od poniedziałku do piątku?
 
-Przeciętny człowiek wstaje rano, je śniadanie i jedzie do pracy, którą zaczyna o 9:00 rano. Pracuje przez bite 8 godzin i o 17:00 wychodzi z pracy, aby zdążyć na wspólny posiłek z rodziną o 18:00. To jest amerykański sen…
+Przeciętny człowiek wstaje rano, je śniadanie i jedzie do pracy, którą zaczyna o 9:00 rano. Pracuje przez bite 8 godzin i o 17:00 wychodzi z pracy, aby zdążyć na wspólny posiłek z rodziną o 18:00. Taki "American dream"…
 
 Ale czy na pewno? Czy wszyscy tak pracujemy? Czy wszyscy jesteśmy tacy sami?
 
 ### Nie wszyscy są na tym samym etapie życia
 
-Niektórzy mają małe dzieci, które trzeba odwieźć, a potem odebrać ze szkoły. Niektórzy mają nastoletnie dzieci, które nie wymagają wiele opieki, a jeszcze inni w ogóle ich nie mają. Niektórzy mają partnerów, a inni są singlami. Niektórzy mają po dwadzieścia kilka lat, a inni są po trzydziestce, czterdziestce, pięćdziesiątce czy sześćdziesiątce...
+Niektórzy mają małe dzieci, które trzeba odwieźć, a potem odebrać ze szkoły. Niektórzy mają nastoletnie dzieci, które nie wymagają wiele opieki, a jeszcze inni w ogóle ich nie mają. Niektórzy mają partnerów, a inni są singlami. Niektórzy mają po dwadzieścia kilka lat, a inni są po trzydziestce, czterdziestce, pięćdziesiątce czy sześćdziesiątce…
 
 Powyższe czynniki wpływają na schemat dnia każdego z nas. Nie możemy zakładać, że każda osoba powinna stosować się do trybu pracy od 9 do 17, bo mamy różne sytuacje życiowe.
 
-Ponadto, są osoby, które lubią wstawać wcześnie rano. Inne wolą pospać dłużej. Niektórzy są *nocnymi markami* i są najbardziej produktywni w nocy. Po co więc zmuszać ich do pracy od 9 do 17?
+Ponadto, są osoby, które lubią wstawać wcześnie rano. Inne wolą pospać dłużej. Niektórzy są nocnymi markami i są najbardziej produktywni w nocy. Po co więc zmuszać ich do pracy od 9 do 17?
 
 ### Zapomnijmy o systemie zmianowym jak z fabryki
 
-Sam fakt, że masz biuro, nie musi znaczyć, że Twój zespół ma w nim siedzieć od 9 do 17. Biuro powinno być narzędziem do wykonywania pracy a nie wyznaczać godziny pracy. Biuro nie jest fabryką, do której przychodzisz, żeby stać przy taśmie lub przekręcać wihajstry.
+Sam fakt, że masz biuro, nie musi znaczyć, że Twój zespół ma w nim siedzieć od 9 do 17. Biuro powinno być narzędziem do wykonywania pracy, a nie wyznaczać godziny pracy. Biuro nie jest fabryką, do której przychodzisz, żeby stać przy taśmie lub przekręcać wihajstry.
 
 Każda osoba w zespole powinna móc sama tworzyć własny harmonogram pracy. Przychodzić do pracy z samego rana, jeśli tak preferuje, móc wychodzić z niej w ciągu dnia, aby pozałatwiać sprawy lub skorzystać z ładnej pogody i pospacerować. Lub, jeśli woli, przychodzić na „wieczorną zmianę”.
 
@@ -54,22 +54,23 @@ O *idealnym tygodniu pracy* usłyszałem po raz pierwszy od mojego przyjaciela i
 Każdy z nas jest inny i dlatego powinien sam planować idealny tydzień. W moim przypadku wygląda on następująco:
 
 - Poniedziałek – zarządzanie/produkt. Przez pierwszą połowę dnia, zajmuję się zarządzaniem i biorę udział w spotkaniu *dyrektorów*. Drugą połowę dnia spędzam, pracując nad produktem.
-- Wtorek – produkt. Przeglądam wszystkie propozycje, oczekujące zadania, postępy nad funkcjami, w których tworzenie jestem zaangażowany, a także uczestniczę w spotkaniu grupy *design*.
-- Środa – marketing. W środy mamy spotkania działu *marketingu*, na którym przekazuję feedback zespołowi marketingowemu. Co dwa tygodnie mamy też spotkania *działu obsługi klienta*, na których dyskutujemy nad różnymi usprawnieniami.
-- Czwartek – pisanie. W tym dniu nie mam zaplanowanych żadnych spotkań. Zajmuję się pisaniem artykułów i materiałów marketingowych, przygotowuję się do wywiadów, itp.
+- Wtorek – marketing. W środy mamy spotkania działu *marketingu*, na którym przekazuję feedback zespołowi marketingowemu. Co dwa tygodnie mamy też spotkania *działu obsługi klienta*, na których dyskutujemy nad różnymi usprawnieniami.
+- Środa – produkt. Przeglądam wszystkie propozycje, oczekujące zadania, postępy nad funkcjami, w których tworzenie jestem zaangażowany, a także uczestniczę w spotkaniu grupy *design*.
+- Czwartek – pisanie. W tym dniu nie mam zaplanowanych żadnych spotkań z zespołem. Zajmuję się pisaniem artykułów i materiałów marketingowych, przygotowuję się do wywiadów oraz rozmawiam z klientami.
 - Piątek – przegląd tygodnia. Wykonuję przegląd minionego tygodnia i przygotowuję się do nadchodzącego. Więcej na temat tego, jak wyglądają piątki w Nozbe przeczytasz w jednym z kolejnych rozdziałów.
 
 Jak widać powyżej, mój plan tygodnia skupia się wokół spotkań i obowiązków wynikających z roli CEO i dyrektora marketingu odpowiedzialnego za wizję naszej firmy. Mam wiele różnych zadań, a schemat tygodnia ułatwia mi się na nich skoncentrować.
 
 ### Stwórz idealne środowisko pracy dla swojego zespołu lub działu
 
-Te same zasady można wdrożyć wśród osób, z którymi pracujesz. Dzięki temu, zespół będzie mógł ustalić, że „w tym dniu robimy to i to”, a w pozostałe dni zajmujemy się innymi rzeczami. Chodzi o to, aby uzgodnić, kiedy potrzebne są wszystkie ręce na pokładzie. Taki schemat pozwala każdemu zaplanować czas na pracę w skupieniu. Oto kilka pomysłów, z którymi eksperymentowaliśmy w naszych zespołach:
+Te same zasady można wdrożyć wśród osób, z którymi pracujesz. Dzięki temu zespół będzie mógł ustalić, że „w tym dniu robimy to i to”, a w pozostałe dni zajmujemy się innymi rzeczami. Chodzi o to, aby uzgodnić, kiedy potrzebne są wszystkie ręce na pokładzie. Taki schemat pozwala każdemu zaplanować czas na pracę w skupieniu. Oto kilka pomysłów, z którymi eksperymentowaliśmy w naszych zespołach:
 
 * *Poprawkowe poniedziałki* - nasi inżynierowie traktują poniedziałek jako *rozgrzewkę* przed całym tygodniem. Przeglądają zgłoszone błędy w aplikacjach i starają się je w tym dniu naprawić.
-* *Projektowe wtorki* - w tym dniu odbywa się spotkanie działu design i zachęcamy wszystkich do przejrzenia tematów, specyfikacji i innych dokumentów i podzielenia się opiniami na temat designu naszych aplikacji.
-* *Feedbackowe środy* - we środy odbywają się spotkania działu marketingu, który wykorzystuje ten dzień również do tego, aby uzyskać informacje zwrotne od zespołu odnośnie swojej pracy.
+* *Feedbackowe wtorki* - we wtorki odbywają się spotkania działu marketingu, który wykorzystuje ten dzień również do tego, aby uzyskać informacje zwrotne od zespołu odnośnie swojej pracy.
 
-Tego typu pomysły pomagają każdemu w zespole wejść w określony rytm pracy, zachęcając do bardziej świadomego podejścia do planowania swojej pracy. Dzięki temu, każdy zyskuje większą kontrolę nad swoją pracą, wie, nad czym będzie pracować i czego może oczekiwać od pozostałych osób.
+* *Projektowe środy* - w tym dniu odbywa się spotkanie działu design i zachęcamy wszystkich do przejrzenia tematów, specyfikacji i innych dokumentów i podzielenia się opiniami na temat designu naszych aplikacji.
+
+Tego typu pomysły pomagają każdemu w zespole wejść w określony rytm pracy i zachęcają do bardziej świadomego podejścia do planowania swojej pracy. Dzięki temu, każdy zyskuje większą kontrolę nad swoją pracą, wie, nad czym będzie pracować i czego może oczekiwać od pozostałych osób.
 
 ## Codziennie znajdź dwie godziny na pracę w skupieniu
 
@@ -79,7 +80,7 @@ Z pracą w zespole jest taki problem, że dzieje się tak wiele różnych rzeczy
 
 Jako fanatyk produktywności, przez ostatnie lata eksperymentowałem z wieloma technikami i rozwiązaniami mającymi na celu poprawę mojej produktywności[^3]. Niedawno odkryłem, że tym, co sprawdza się u mnie najlepiej, jest praca w długich, niczym nie zakłóconych blokach czasowych, podczas których mogę skupić się na konkretnym zadaniu. Jak długich? Przynajmniej dwugodzinnych.
 
-Dokładnie tak. Potrzebuję dwóch godzin, aby pchnąć daną sprawę do przodu. Aby opracować temat, napisać post na bloga, przekazać konstruktywny feedback w strategicznym temacie.[^4]
+Dokładnie tak. Potrzebuję dwóch godzin, aby pchnąć daną sprawę do przodu. Aby opracować temat, napisać wpis na bloga, przekazać konstruktywny feedback w strategicznym temacie.[^4]
 
 Dlaczego dwóch godzin? W moim przypadku zwykle wygląda to następująco:
 
