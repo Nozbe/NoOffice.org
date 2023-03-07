@@ -13,7 +13,7 @@ subtitle: "Zaoferuj pracownikom udogodnienia, które budują dobre nawyki, zach�
 
 ## Nie zachęcaj ludzi do spędzania czasu w biurze
 
-Szczególnie w mojej branży – świecie IT i startupów – fajnie jest mieć biuro, którym można się pochwalić. Dbałość o detale, automaty z napojami i przekąskami, stoły z piłkarzykami, strefy relaksu, sale fitness, miejsca z konsolami do gier… czego dusza zapragnie. Wszystkie te rzeczy mają sprawić, że ludzie będą czuć się lepiej w biurze.
+Szczególnie w mojej branży – świecie IT i startupów – fajnie jest mieć biuro, którym można się pochwalić. Dbałość o detale, nowoczesny design, piłkarzyki, strefy relaksu, sale fitness, miejsca z konsolami do gier… czego dusza zapragnie. Wszystkie te rzeczy mają sprawić, że ludzie będą czuć się lepiej w biurze.
 
 Ale biuro służy do pracy, a nie spędzania czasu.
 
@@ -23,7 +23,7 @@ Nie mogłem pojąć, dlaczego Google – firma, w której pracują jedni z najm�
 
 ## Udogodnienia i korzyści powinny motywować ludzi do efektywniejszej pracy
 
-Jeśli chcesz zainwestować w swój zespół i dać mu prawdziwe udogodnienia, daj pracownikom biurka, więcej przestrzeni do pracy, albo – jeszcze lepiej – prywatne biura, komfortowe fotele biurowe, biurka stojące, po dwa-trzy dodatkowe monitory, ergonomiczne klawiatury, większe tablice suchościeralne i wyciszone sale konferencyjne.
+Jeśli chcesz zainwestować w swój zespół i dać mu prawdziwe udogodnienia, daj pracownikom biurka, więcej przestrzeni do pracy, albo – jeszcze lepiej – prywatne biura, komfortowe krzesła biurowe, biurka stojące, dwa dodatkowe monitory, ergonomiczne klawiatury, większe tablice suchościeralne i wyciszone sale konferencyjne.
 
 Te rzeczy naprawdę mogą sprawić, że zespół będzie pracować lepiej.
 
@@ -42,7 +42,7 @@ Doświadczenie nauczyło mnie, że dostając coś za darmo, ludzie tego nie doce
 * Potrzebujesz nowego komputera? Wybierz taki, jaki chcesz. My zapłacimy połowę, a Ty dopłacisz drugą część.
 * Potrzebujesz nowe biurko? Krzesło biurowe? Dodatkowy monitor? Znajdź taki, który Ci odpowiada, a my zapłacimy połowę jego ceny plus podatki. Dodatkowo, oferujmy możliwość spłaty danej rzeczy w miesięcznych ratach. Oczywiście bez odsetek!
 
-W zależności od tego, co kupuje, po dwóch latach komputer, smartfon, urządzenie biurowe przechodzi na własność pracownika. Wykreślamy go z firmowej ewidencji, a pracownik może zrobić z nim, co chce: zatrzymać, sprzedać lub oddać komuś innemu. O szczegóły możesz zapytać swojego księgowego.
+Bez względu na to, co kupuje, po dwóch latach komputer, smartfon, urządzenie biurowe przechodzi na własność pracownika. Wykreślamy go z firmowej ewidencji, a pracownik może zrobić z nim, co chce: zatrzymać, sprzedać lub oddać komuś innemu. O szczegóły możesz zapytać swojego księgowego.
 
 Z tego, co zaobserwowaliśmy, ludzie wolą mieć sprzęt na, którym pracują, na własność i jeśli mogą go mieć za połowę ceny, naprawdę to doceniają. Ponadto, pracując na własnym sprzęcie, dużo bardziej o niego dbają.
 
@@ -51,14 +51,14 @@ Z tego, co zaobserwowaliśmy, ludzie wolą mieć sprzęt na, którym pracują, n
 Dofinansowujemy również następujące dodatki.
 
 * Lekcje j. angielskiego – dla większości naszych pracowników językiem ojczystym nie jest angielski tylko polski, ale oficjalnym językiem, którego używamy w zespole jest właśnie angielski. Dlatego, do określonej kwoty w miesiącu opłacamy również lekcje j. angielskiego, a po jej przekroczeniu pracownik dopłaca resztę.
-* Karnety na siłownię – negocjujemy specjalne ceny za karnety na siłownię, dzięki czemu możemy kupić je taniej niż normalnie. Pracownik płaci połowę, a my dopłacamy resztę. W ten sposób staramy się zachęcać zespół do aktywnego trybu życia.
-* Konferencje, kursy online i książki – są darmowe do pewnej kwoty, a po jej przekroczeniu, są dofinansowywane przez firmę. W naszym zespole, wszyscy lubimy uczyć się nowych rzeczy, dlatego z przyjemnością wydajemy pieniądze na naukę.
+* Karnety na zajęcia sportowe – negocjujemy specjalne ceny za karnety na siłownię, baseny itp. dzięki czemu możemy kupić je taniej niż normalnie. Pracownik płaci połowę, a my dopłacamy resztę. W ten sposób staramy się zachęcać zespół do aktywnego trybu życia.
+* Konferencje, kursy online i książki – są w pełni refundowane do pewnej kwoty, a po jej przekroczeniu, są dofinansowywane przez firmę. W naszym zespole, wszyscy lubimy uczyć się nowych rzeczy, dlatego z przyjemnością wydajemy pieniądze na naukę.
 
 Jest wiele pomysłów i rzeczy, których jeszcze nie testowaliśmy. Niektóre firmy oferują miesięczny urlop co X lat na oderwanie się od pracy i naładowanie baterii. Inne, oferują stypendia na realizację pasji. W praktyce oznacza to, że, gdy ktoś chce nauczyć się czegoś niezwiązanego z pracą, firma będzie to wspierać i pomoże mu za to zapłacić.
 
 ## Pozwól ludziom dzielić się tym, co robią poza pracą
 
-W Nozbe lubimy dzielić się ze sobą tym, co robimy w weekend lub poza pracą. Na kanale #random w naszym wewnętrznym czacie dzielimy się zdjęciami pokazującymi nasze zainteresowania, osiągnięcia i inne projektami niezwiązane z pracą. Na spotkaniach firmowych, które odbywają się dwa razy w roku (szerzej ten temat omówię w kolejnych rozdziałach), przygotowujemy nawet prezentacje o naszych zainteresowaniach. Chcemy, by osoby z zespołu były kimś więcej niż tylko osobami z opisów swoich stanowisk pracy.
+W Nozbe lubimy dzielić się ze sobą tym, co robimy w weekend lub poza pracą. Na kanale #random na naszym wewnętrznym czacie dzielimy się zdjęciami pokazującymi nasze zainteresowania, osiągnięcia i inne projekty niezwiązane z pracą. Na spotkaniach firmowych, które odbywają się dwa razy w roku (szerzej ten temat omówię w kolejnych rozdziałach), przygotowujemy nawet prezentacje o naszych zainteresowaniach. Chcemy, by osoby z zespołu były kimś więcej niż tylko osobami z opisów swoich stanowisk w firmie.
 
 ## Daj zespołowi możliwość wspierania celów charytatywnych z firmowych pieniędzy!
 
@@ -76,13 +76,13 @@ Dodatkowo, osobiste darowizny pracowników na cele charytatywne są podwajane pr
 
 ### Jeśli tylko możemy, staramy się pomagać!
 
-Dzięki funduszowi charytatywnemu możemy wspierać ważne dla nas cele. A tych na świecie jest wiele, podobnie jak osób w potrzebie.
+Dzięki funduszowi charytatywnemu możemy wspierać ważne dla nas cele. A tych na świecie nie brakuje, podobnie jak osób w potrzebie.
 
-Ponieważ przekazujemy te pieniądze na oddzielne konto w momencie opłacania podatków, nie jesteśmy już emocjonalnie do nich przywiązani i nie tratujemy ich jak swoich. Pożegnaliśmy się już z nimi i możemy przeznaczyć je na szczytne cele.
+Ponieważ przekazujemy te pieniądze na oddzielne konto w momencie opłacania podatków, nie jesteśmy już emocjonalnie do nich przywiązani i nie tratujemy ich jak swoich. Pożegnaliśmy się już z nimi i możemy przeznaczyć je na pomaganie.
 
 ## Konkluzja: oferuj korzyści, które naprawdę pomagają ludziom!
 
-Korzyści i udogodnienia, które oferujesz swoim pracownikom, nie powinny służyć zachęcaniu ich do dłuższej pracy. Już i tak za dużo pracują, a jeśli tego nie robią to znaczy, że masz poważniejsze problemy, których nie rozwiążą żadne dodatkowe korzyści i dodatki płacowe. Te ostatnie powinny koncentrować się na tym, aby pomagać ludziom w byciu lepszymi. Powinieneś ich zachęcać do tego, by mieli życie poza pracą. Tylko wtedy będą czuć prawdziwą motywację do tego, by dawać z siebie to, co najlepsze.
+Korzyści i dodatki, które oferujesz swoim pracownikom, nie powinny służyć zachęcaniu ich do dłuższej pracy. Już i tak za dużo pracują, a jeśli tego nie robią to znaczy, że masz poważniejsze problemy, których nie rozwiążą żadne prezenty ani dodatki płacowe. Te ostatnie powinny koncentrować się na tym, aby pomagać ludziom w rozwoju. Powinieneś ich zachęcać do tego, by mieli życie poza pracą. Tylko wtedy będą czuć prawdziwą motywację do tego, by dawać z siebie to, co najlepsze.
 
 Jeśli chcesz dowiedzieć się więcej na ten temat, polecam świetną książkę *Punished by Rewards* autorstwa Alfiego Kohna[^1].
 
