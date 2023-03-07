@@ -21,7 +21,7 @@ Słysząc słowo „pilne”, „ASAP” czy „teraz”, od razu się za to zab
 
 Właśnie z tego powodu, w poprzednich rozdziałach książki tak bardzo starałem się podkreślić to, jak ważna jest praca w skupieniu, cykliczne, ale regularne spotkania, zapisywanie informacji i komunikowanie się z zespołem przez zadania.
 
-Jednak, nawet jeśli uważałeś i stworzyłeś świetny system, i tak wymaga on regularnego przeglądu, aby zapewnić, że *najważniejsze rzeczy są nadal najważniejsze*.[^1]
+Jednak, nawet jeśli wszystko to już wiesz i udało Ci się stworzyć świetny system, i tak wymaga on regularnego przeglądu, aby upewnić się, że *najważniejsze rzeczy są nadal najważniejsze*.[^1]
 
 ## Zaplanuj cotygodniowe spotkanie ze sobą
 
@@ -29,13 +29,13 @@ W książce pt. *Getting Things Done, czyli sztuka bezstresowej efektywności* D
 
 Nawyk przeglądu tygodniowego jest trudny do opanowania, ale niezwykle przydatny. Składa się z pięciu kroków:[^3]
 
-1. Uporządkuj swoje skrzynki spraw (przychodzące dokumenty, e-maile itp.)
+1. Uporządkuj swoje skrzynki spraw (przychodzące dokumenty, maile itp.)
 2. Przypomnij sobie swoje cele.
 3. Przejrzyj kalendarz i dziennik z minionego tygodnia.
 4. Przejrzyj kalendarz na nadchodzący tydzień.
 5. Przejrzyj wszystkie projekty i zadania.
 
-Brzmi łatwo, ale w rzeczywistości wymaga dużo pracy. Maile i inne przychodzące dokumenty ciągle się piętrzą. Mamy problem z określeniem naszych celów. Kalendarz jest pełen zobowiązań, których się podjęliśmy, ale których już nie chcemy robić. Mamy zdecydowanie za dużo zadań i projektów!
+Brzmi łatwo, ale w rzeczywistości wymaga dużo pracy. Maile i różne przychodzące dokumenty ciągle się piętrzą. Mamy problem z określeniem celów. Kalendarz jest pełen zobowiązań, których się podjęliśmy, ale których już nie chcemy robić. Mamy zdecydowanie za dużo zadań i projektów!
 
 W rezultacie, pierwszy przegląd może zająć Ci bardzo dużo czasu – nawet cały dzień! Zrób go i tak, podziękujesz mi później. Jeśli jednak będziesz wykonywać go regularnie, każdy kolejny przegląd nie powinien zająć Ci dłużej niż dwie godziny.
 
@@ -43,19 +43,19 @@ Dwie godziny?! To przecież też długo… Nieprawda.
 
 > Przegląd tygodnia powinien być Twoim najważniejszym spotkaniem w tygodniu, ponieważ dotyczy wyłącznie Ciebie, Twoich celów i Twojego czasu. A jak wiesz, czas jest bezcenny.
 
-Policz, ile minut lub godzin zmarnowałeś w minionym tygodniu na piciu kawy, spotkaniach, czy przeglądaniu mediów społecznościowych. Jestem pewien, że uzbierają się z tego przynajmniej dwie godziny. Wpisz przegląd do swojego kalendarza i po prostu go wykonaj. Postaw siebie na pierwszym miejscu. Zrób to dla siebie i wszystkich dookoła.
+Policz, ile minut lub godzin upłynęło Ci w minionym tygodniu na piciu kawy, spotkaniach, czy przeglądaniu mediów społecznościowych. Jestem pewien, że uzbierają się z tego przynajmniej dwie godziny. Wpisz przegląd do swojego kalendarza i po prostu go wykonaj. Postaw siebie na pierwszym miejscu. Zrób to dla siebie i wszystkich dookoła.
 
 Jeśli latasz samolotami to na pewno znasz formułkę, by w przypadku konieczności skorzystania z masek tlenowych, najpierw założyć ją sobie, a dopiero potem pomóc innym. Nawet dziecku.
 
-Przegląd tygodniowy jest jak maska tlenowa. Żadne inne spotkanie nie powinno być ważniejsze. Bez niego nie będziesz mógł służyć swojemu zespołowi czy rodzinie tak dobrze, jakbyś chciał.
+Przegląd tygodniowy jest jak maska tlenowa. Żadne inne spotkanie nie powinno być ważniejsze. Bez niego nie będziesz móc służyć swojemu zespołowi czy rodzinie tak dobrze, jak to możliwe.
 
-## Całodniowe spotkanie z samym sobą raz na kwartał
+## Całodniowe spotkanie ze sobą raz na kwartał
 
 W jednym z podcastów,[^4] Greg McKeown wspomniał o *kwartalnym mini-urlopie*. Jest to dzień wolny, który bierzesz po to, aby dokonać przeglądu minionego kwartału i zaplanować cele na nadchodzący.
 
-Z biegiem lat odkryłem, że kwartalne przeglądy są o wiele potężniejsze od *noworocznych postanowień*, które wyznaczam sobie na początku roku, aby po kilku tygodniach zupełnie o nich zapomnieć.
+Z biegiem lat odkryłem, że kwartalne przeglądy są o wiele bardziej wartościowe od *noworocznych postanowień*, które wyznaczamy sobie na początku roku, aby po kilku tygodniach zupełnie o nich zapomnieć.
 
-> Wykonywanie regularnego przeglądu pracy, celów, metryk i wszystkich spraw osobistych z ostatnich trzech miesięcy i zaplanowanie nadchodzącego kwartału jest jedną z potężniejszych strategii, które pozwalają mi zwiększyć produktywność.
+> Wykonywanie regularnego przeglądu pracy, celów, metryk i wszystkich spraw osobistych z ostatnich trzech miesięcy i zaplanowanie nadchodzącego kwartału jest jedną ze skuteczniejszych strategii, które pozwalają mi zwiększyć produktywność.
 
 Ponadto, jak wiele rzeczy w moim życiu, składa się tylko z pięciu kroków:[^5]
 
@@ -70,26 +70,26 @@ Ta część ma na celu przypomnieć Ci o najważniejszych celach i sferach życi
 
 > „Jeśli nie wiesz, dokąd zmierzasz, każda droga będzie dobra”.
 
-Upewnij się, że wiesz dokąd chcesz dotrzeć.
+Upewnij się, że wiesz, dokąd chcesz dotrzeć.
 
 ### Krok 2. Przeanalizuj miniony kwartał
 
-Sprawdź, jakie zdarzenia miały miejsce.
+Sprawdź, co się wydarzyło.
 
 * Przejrzyj wpisy w swoim dzienniku z ostatnich trzech miesięcy.
-* Przejrzyj wpisy w swoim kalendarzu z ostatnich trzech miesięcy.
+* Przejrzyj wpisy w kalendarzu z ostatnich trzech miesięcy.
 * Przeanalizuj i spójrz trzeźwym okiem na miniony kwartał.
 * Wypisz nazwy minionych trzech miesięcy, zostawiając przestrzeń na wypisanie swoich sukcesów i porażek.
 
-Nie spiesz się. Przejrzyj wszystkie zapiski z ostatnich trzech miesięcy i wypisz swoje sukcesy i porażki. Niech przyświeca Ci cel: *„nie ma porażek, są tylko lekcje”.*
+Nie spiesz się. Przejrzyj wszystkie zapiski z ostatnich trzech miesięcy i wypisz swoje sukcesy i niepowodzenia. Niech przyświeca Ci cel: *„nie ma porażek, są tylko lekcje”.*
 
 ### Krok 3. Zaplanuj cele na nadchodzący kwartał
 
 Teraz nadszedł czas na zaplanowanie kolejnego kwartału.
 
-* Jeszcze raz wróć i przeanalizuj swoje życiowe cele na najbliższych pięć lat oraz na nadchodzący raz.
-* Wypisz nazwy nadchodzących trzech miesięcy, zostawiając przestrzeń na wypisanie swoich celów i planów.
-* Przejrzyj swój kalendarz na najbliższe trzy miesiące i upewnij się, że wszystkie wpisane do niego zobowiązania są adekwatne (jeśli nie, spróbuj je re-negocjować).
+* Jeszcze raz wróć i przeanalizuj swoje życiowe cele na najbliższe pięć lat oraz na nadchodzący rok.
+* Wypisz nazwy trzech przyszłych miesięcy, zostawiając przestrzeń na wypisanie swoich celów i planów.
+* Przejrzyj swój kalendarz na najbliższe trzy miesiące i upewnij się, że wszystkie wpisane do niego zobowiązania są adekwatne (jeśli nie, spróbuj je zaktualizować).
 
 Skoncentruj się na wyznaczeniu kluczowych celów na każdy miesiąc. Nie musisz zagłębiać się w szczegóły. Zaplanuj najważniejsze cele, kluczowe obszary, którymi chcesz zająć się w poszczególnych miesiącach.
 
@@ -116,11 +116,11 @@ Upewnij się, że wyciągasz konkretne lekcje ze swoich ostatnich sukcesów i po
 Planowanie zakończone – możesz zrobić sobie zasłużoną przerwę. Zjedz coś, idź na spacer… A gdy wrócisz, przeanalizuj wszystko jeszcze raz – tak miniony, jak i nadchodzący kwartał i upewnij się, że wszystko jest powiązane z Twoimi nadrzędnymi celami.
 
 * Raz jeszcze przeanalizuj swoje działania z minionego kwartału – określ, co było sukcesem, a co się nie udało.
-* Zweryfikuj swoje plany i cele na najbliższe trzy miesiące i upewnij się, że na liście są tylko najistotniejsze sprawy. Nie bądź jednak przesadnie ambitny.
+* Zweryfikuj swoje plany i cele na najbliższe trzy miesiące i upewnij się, że na liście są tylko najistotniejsze sprawy. Nie przesadzaj jednak z ambicjami.
 
 ## Nakłoń zespół do robienia obydwu przeglądów
 
-W naszej firmie, wykonujemy przeglądu co tydzień i co kwartał. Szerzej opiszę, jak wprowadziliśmy przeglądy tygodniowe w naszym zespole w kolejnym rozdziale.
+W naszej firmie, wykonujemy przeglądy co tydzień i co kwartał. Szerzej opiszę, jak wprowadziliśmy przeglądy tygodniowe w naszym zespole w kolejnym rozdziale.
 
 Jeśli chodzi o przeglądy kwartalne, wygląda to następująco:
 
@@ -131,7 +131,7 @@ Jako CEO, odbywam rozmowy jeden na jeden z dyrektorami. Po ukończeniu wszystkic
 
 ### Indywidualne rozmowy dotyczą luźnych tematów
 
-Cieszę się z tego, że raz na trzy miesiące możemy odbyć ze sobą indywidualne rozmowy. Jest to ważne zwłaszcza w zdalnie pracującym zespole takim jak nasz, gdzie nie widujemy się ze sobą tak często, jak miałoby to miejsce w tradycyjnym biurze.
+Cieszę się z tego, że raz na trzy miesiące możemy odbyć ze sobą indywidualne rozmowy. Jest to ważne zwłaszcza w zdalnie pracującym zespole takim, jak nasz, gdzie nie widujemy się ze sobą tak często, jak miałoby to miejsce w tradycyjnym biurze.
 
 Każda osoba z zespołu dzieli się niektórymi częściami swojego kwartalnego przeglądu z przełożonym, a przynajmniej płynącymi z niego wnioskami.
 
@@ -145,9 +145,9 @@ Po wykonaniu wszystkich przeglądów i indywidualnych rozmowach, tworzymy propoz
 
 Wiele z tych kwestii poruszam później w comiesięcznych vlogach (patrz: rozdział 9).
 
-## Konkluzja: poświęć czas na zrobienie przeglądu swojej pracy i życia!
+## Konkluzja: poświęć czas na zrobienie przeglądu pracy i życia!
 
-Najważniejszy wniosek z tego rozdziału to przeanalizować, jak wykorzystujesz swój czas poprzez tygodniowy i kwartalny przegląd swojej pracy i spraw osobistych oraz traktowanie ich jako inwestycji. Inwestycji w lepszą przyszłość, mądrzejszego Ciebie i zdrowszy zespół. Koniecznie więc znajdź na to czas.
+Najważniejszy wniosek z tego rozdziału to przeanalizować, jak wykorzystujesz swój czas poprzez tygodniowy i kwartalny przegląd swojej pracy i spraw osobistych oraz traktowanie ich jako inwestycji. Inwestycji w lepszą przyszłość, rozwój i zdrowszy zespół. Koniecznie więc znajdź na to czas.
 
 Najlepszą książką, która zainspiruje Cię do działania po tym rozdziale to *Esencjalista. Mniej, ale lepiej* Grega McKeowna.[^6]
 
