@@ -5,7 +5,7 @@ redirect_from:
  - /p2pl/
 part: two
 title: "A gdyby nie było biura?"
-subtitle: "Najważniejsze nie jest biuro tylko praca, którą należy wykonać."
+subtitle: "Nie chodzi o biuro, tylko o pracę, którą należy wykonać."
 ---
 
 * TOC
@@ -23,7 +23,7 @@ Gdy biuro jest tylko narzędziem, z którego możesz, ale nie musisz korzystać.
 
 Wróćmy do myśli przewodniej tej książki:
 
-Praca nie jest miejscem, do którego się chodzi, tylko tym, co się robi.
+Praca to nie miejsce, do którego się chodzi, tylko to, co się robi.
 
 To, czy masz biuro czy nie, każesz pracownikom codziennie do niego przychodzić lub nie - zależy od Ciebie, przełożonego lub sytuacji Twojego zespołu. Samo biuro jest środkiem, nie celem.
 
@@ -39,7 +39,7 @@ Nie gódźmy się na mniej, bo tak **robiliśmy dotychczas**, tylko zdefiniujmy 
 
 W kolejnych rozdziałach będę szerzej omawiał tematy związane z nowoczesnym stylem pracy, które nakreśliłem w części 1.
 
-Wszystko, o czym piszę, jest poparte praktyką i bazuje na naszych doświadczeniach w firmie Nozbe, która od ponad 13 lat funkcjonuje w pełni zdalnie, a także na przykładach innych - dużo większych niż nasza - firm rezygnujących z biur.
+Wszystko, o czym piszę, jest poparte praktyką i bazuje na naszych doświadczeniach w firmie Nozbe, która od 2007 roku funkcjonuje w pełni zdalnie, a także na przykładach innych - dużo większych niż nasza - firm rezygnujących z biur.
 
 W pierwszej kolejności musimy rozprawić się z pewnym ważnym, choć niewygodnym tematem, jakim jest zaufanie w pracy.
 
