@@ -5,7 +5,7 @@ redirect_from:
  - /18pl/
 part: two
 title: Miejcie do siebie zaufanie
-subtitle: "Kontrola w pracy jest dobra, ale zaufanie w to, że zadania zostanie wykonana, jest lepsze!"
+subtitle: "Kontrola w pracy jest dobra, ale zaufanie co do tego, że zadania zostaną wykonane, jest lepsze!"
 ---
 
 * TOC
@@ -13,9 +13,9 @@ subtitle: "Kontrola w pracy jest dobra, ale zaufanie w to, że zadania zostanie 
 
 ## Co jest ważniejsze? Zaufanie czy kontrola?
 
-W świecie biznesu zwykło się mówić: *zaufanie jest dobre, ale kontrola lepsza*. W praktyce oznacza to, że możesz ufać ludziom, że będą wykonywać swoją pracę, ale powinieneś ich kontrolować.
+W świecie biznesu zwykło się mówić: *zaufanie jest dobre, ale kontrola lepsza*. W praktyce oznacza to, że możesz ufać ludziom, że będą wykonywać swoją pracę, ale lepiej jednak ich kontrolować.
 
-Kontrola jest ważna. Ale nie w tradycyjnym znaczeniu tego słowa, rozumiana jako kontrolowanie pracowników i doszukiwanie się błędów w ich pracy, ale jako pomaganie im w osiąganiu celów. Ale o tym więcej za chwilę…
+Kontrola jest ważna. Ale nie w tradycyjnym znaczeniu tego słowa, rozumiana jako kontrolowanie pracowników i doszukiwanie się błędów w ich pracy. Raczek jako pomaganie im w osiąganiu celów. Ale o tym więcej za chwilę…
 
 Najpierw kilka słów o tym, dlaczego w prowadzeniu firmy #NoOffice za kluczowe uważam stworzenie atmosfery opartej na zaufaniu.
 
@@ -25,14 +25,14 @@ Czas na nowe powiedzenie:
 
 ## Jak kontrolować, czy pracownicy faktycznie wykonują pracę?
 
-Za każdym razem, gdy ktoś pyta mnie o to, jak wygląda zarządzanie zdalnym zespołem, zaczyna od tego, że nie widzę przecież jak ludzie pracują. Są u siebie w domach, a ja nie mam jak sprawdzić, czy w tym czasie oglądają filmy, robią inne rzeczy, czy faktycznie wykonują powierzoną im pracę.
+Za każdym razem, gdy ktoś pyta mnie o to, jak wygląda zarządzanie zdalnym zespołem, zaczyna od tego, że nie widzę przecież jak ludzie pracują. Są u siebie w domach, a ja nie mam jak sprawdzić, czy w tym czasie oglądają filmy, robią inne rzeczy, czy faktycznie wykonują powierzone im zadania.
 
 Odwracam wtedy pytanie: 
 
 - *A w jaki sposób Ty kontrolujesz ludzi w tradycyjnym biurze?*
 Na co pada odpowiedź:
 - *Widzę, co robią!*
-Wówczas ponawiam pytanie:
+Wówczas pytam:
 - *No tak, widzisz, że tam są, ale skąd wiesz, czy naprawdę pracują?*
 
 ### W biurze łatwo udawać zapracowanego
@@ -54,11 +54,11 @@ Kilka dni temu widziałem w sieci dyskusję na temat sposobów śledzenia pracow
 - instalowanie kamer internetowych w domach pracowników lub szpiegowanie ich za pośrednictwem oprogramowania do wideokonferencji;
 - instalowanie oprogramowania śledzącego ruchy myszką, wykonującego zrzuty ekranów w regularnych odstępach czasu lub przesyłającego historię z przeglądarki na firmowe serwery;
 - regularne raporty godzinowe dotyczące postępów w realizacji zadań;
-- lub niespodziewane telefony o losowych porach, aby sprawdzić, czym pracownik się zajmuje.
+- niespodziewane telefony o losowych porach, aby sprawdzić, czym pracownik się zajmuje.
 
-Szczerze mówiąc, już samo tworzenie tej listy przyprawiło mnie o mdłości.
+Szczerze mówiąc, już samo spisanie powyższych punktów przyprawiło mnie o mdłości.
 
-Serio? Firmy zatrudniają profesjonalistów (nawiasem mówiąc, dorosłych ludzi) i zamiast ich w taki sposób traktować, zakładają, że są bandą złodziei i kłamców?
+Serio? Firmy zatrudniają profesjonalistów (nawiasem mówiąc, dorosłych ludzi) i zamiast ich jako takich traktować, zakładają, że są bandą złodziei i kłamców?
 
 ### W pracy zdalnej, aby być widocznym trzeba demonstrować wyniki swojej pracy
 
@@ -74,25 +74,25 @@ W naszym zespole, choć dzielą nas setki kilometrów, realizujemy nasze zadania
 
 ### Po pierwsze – zaufanie przekłada się na świetną pracę
 
-Jak już wspomniałem w rozdziale 2, zatrudniłem Tomka, mojego pierwszego programistę dlatego, że był ode mnie dużo lepszy. Powierzenie mu całej bazy kodu Nozbe wymagało z mojej strony sporego zaufania. Obecnie mamy w firmie grupę programistów, z których każdy jest dużo lepszy ode mnie i nie pozwalają mi już nawet kodować. To samo dotyczy naszego zespołu produktowego, marketingowego i działu obsługi klienta.
+Jak już wspomniałem w rozdziale 2, zatrudniłem Tomka, mojego pierwszego programistę dlatego, że był ode mnie dużo lepszy. Powierzenie mu całej bazy danych Nozbe wymagało z mojej strony sporego zaufania. Obecnie mamy w firmie grupę programistów, z których każdy jest dużo lepszy ode mnie i nie pozwalają mi już nawet dotykac kodu aplikacji. To samo dotyczy naszego zespołu produktowego, marketingowego i działu obsługi klienta.
 
-W wielu firmach jest jednak odwrotnie – ludzie boją się zatrudniać lepszych ekspertów od samych siebie. Ci *mikromenadżerowie* muszą kontrolować pracowników, bo nie mają do nich zaufania i nie wierzą w ich zdolności i chęci do wykonywania dobrej pracy.
+W wielu firmach jest jednak odwrotnie – ludzie boją się zatrudniać ekspertów lepszych od samych siebie. Ci *mikromanagerowie* muszą kontrolować pracowników, bo nie mają do nich zaufania i nie wierzą w ich zdolności i chęci do wykonywania dobrej pracy.
 
 Miej zaufanie do swoich ekspertów. Zatrudniaj profesjonalistów i pozwól im wykonywać swoją pracę!
 
-Najważniejsze jest ufanie ludziom i temu, że będą w stanie dostarczyć rezultaty, których zespół oczekuje. Prawdziwi profesjonaliści docenią to, że ufasz ich kompetencjom i dajesz im przestrzeń do wykonywania swojej pracy. A prawda jest taka, że z dużym prawdopodobieństwem wykonają ją dużo lepiej niż zrobiłby to menadżer czy szef firmy.
+Najważniejsze jest wiara w ludzi i w to, że będą w stanie dostarczyć rezultaty, których zespół oczekuje. Prawdziwi profesjonaliści docenią to, że ufasz ich kompetencjom i dajesz im przestrzeń do realizowania zadań. A prawda jest taka, że z dużym prawdopodobieństwem wykonają je dużo lepiej niż zrobiłby to manager czy szef firmy.
 
 ### Po drugie – zaufanie przekłada się na lepszy feedback
 
 Mając do siebie zaufanie, ludzie chętniej wymieniają się feedbackiem. Dawanie informacji zwrotnych nie bez powodu znajduje się niemal na szczycie naszej *piramidy komunikacji*, którą omawiałem w rozdziale 10.
 
-W kulturze organizacyjnej opartej na zaufaniu dawanie informacji zwrotnych *staje się nawykiem*.
+W kulturze organizacyjnej opartej na zaufaniu wyrażanie swoich opinii *staje się nawykiem*.
 
-Aby budować zaufanie i zachęcać zespół do dzielenia się feedbackiem, używamy narzędzi internetowych, które umożliwiają komentowanie pracy. Ponadto większość naszych projektów w Nozbe Teams jest domyślnie dostępna dla całego zespołu. Dzięki temu dostajemy cenny feedback od różnych osób z zespołu, co pozwala nam jeszcze bardziej udoskonalać pracę.
+Aby budować zaufanie i zachęcać zespół do dzielenia się feedbackiem, używamy narzędzi internetowych, które umożliwiają komentowanie pracy. Ponadto większość naszych projektów w Nozbe jest domyślnie dostępna dla całego zespołu. Dzięki temu dostajemy cenny feedback od różnych osób z zespołu, co pozwala jeszcze bardziej udoskonalać pracę.
 
 ### Po trzecie – jeśli w zespole jest zaufanie, ludzie chętnie sobie pomagają
 
-Gdy w zespole panuje kultura zaufania, menadżer nie musi kontrolować tego, czy ludzie pracują.
+Gdy w zespole panuje kultura zaufania, manager nie musi kontrolować tego, czy ludzie pracują.
 
 Jego rolą staje się *służenie i pomaganie* zespołowi.
 
@@ -100,7 +100,7 @@ Do jego zadań należy usuwanie wszelkich przeszkód stojących przed pracownika
 
 Niedawno obejrzałem amerykański serial medyczny o nazwie *New Amsterdam*[^1]. Główny bohater jest dyrektorem szpitala i każdej napotkanej osobie – nieważne, czy jest to inny lekarz, pielęgniarka czy woźny – zadaje to samo pytanie: *„Jak mogę pomóc?”*.
 
-### Po czwarte – zaufanie przekłada się na lepszą produktywność
+### Po czwarte – zaufanie przekłada się na produktywność
 
 Z chwilą wybuchu pandemii koronawirusa wiele osób zaczęło pracować z domu – niektórzy po raz pierwszy w życiu. Sytuacja była ekstremalna, ponieważ większość ludzi nie miała odpowiednio zorganizowanej przestrzeni do pracy ani sprzętu. Dodatkowo, musieli sobie jakoś radzić z obecnością dzieci i współmałżonków, współlokatorów.
 
@@ -108,9 +108,9 @@ Przygotowując się do napisania tej książki, odbyłem wiele rozmów z właśc
 
 I wiesz co? Największym zaskoczeniem było dla nich to, że ludzie w ogóle pracowali! Co więcej, wcale nie pracowali mniej niż w biurze!
 
-Co za odkrycie! Ludzie naprawdę pracują. Na przekór wszystkim i wszystkiemu. Dlatego właśnie, wprowadzanie tych wszystkich mechanizmów kontrolowania pracowników zdalnych uważam za absurdalne.
+Co za odkrycie! Bez bezpośredniego nadzoru ludzie naprawdę pracują. Na przekór wszystkim i wszystkiemu. Dlatego właśnie, wprowadzanie wszystkich tych mechanizmów kontrolowania pracowników zdalnych uważam za absurdalne.
 
-> Ludzie pracujący zdalnie nie pracują za mało – pracują za dużo.
+> Ludzie pracujący zdalnie nie pracują za mało. Pracują za dużo!
 
 Dlatego też, we wcześniejszych rozdziałach mówiłem o tym, że powinno dać się pracownikom wolną rękę w kwestii godzin pracy i zaoferować udogodnienia, które zachęcą ich do posiadania życia poza pracą.
 
@@ -130,7 +130,7 @@ Cały zespół nie musi słono płacić z powodu kilku incydentów.
 
 ## Zaufanie = współpraca!
 
-W języku niemieckim „pracownik” to „Mitarbeiter”, co dosłownie oznacza „współpracownik”. Bardzo podoba mi się to, jak obrazuje sposób, w jaki ludzie powinni pracować w zespole. Razem i z wzajemnym zaufaniem do siebie. Nieważne, czy jesteś szefem, menadżerem czy szeregowym pracownikiem firmy.
+W języku niemieckim „pracownik” to „Mitarbeiter”, co dosłownie oznacza „współpracownik”. Bardzo podoba mi się to, jak obrazuje sposób, w jaki ludzie powinni pracować w zespole. Razem i z wzajemnym zaufaniem do siebie. Nieważne, czy jesteś szefem, managerem czy szeregowym pracownikiem firmy.
 
 Wszyscy jesteście *Mitarbeiterami*, czyli *współpracownikami*.
 
@@ -138,7 +138,7 @@ Pracujecie razem, w imię wspólnego celu.
 
 ## Konkluzja: stwórz kulturę opartą na zaufaniu
 
-Ludzie chcą pracować w środowisku opartym na zaufaniu. Chcą być częścią zespołu, w którym czują, że darzy się ich zaufaniem, że będą wykonywać pracę, do której zostali zatrudnieni. W miejscu, w którym mogą eksperymentować, a czasem zaliczyć porażkę. Gdzie będą mogli być sobą. Gdzie motywacja nie jest wynikiem korporacyjnych technik i sztuczek, ale bierze się z chęci wykonywania świetnej pracy.
+Ludzie chcą pracować w środowisku opartym na zaufaniu. Chcą być częścią zespołu, w którym czują, że ufa się, że będą wykonywać pracę, do której zostali zatrudnieni. W miejscu, w którym mogą eksperymentować, a czasem zaliczyć porażkę. Gdzie będą mogli być sobą. Gdzie motywacja nie jest wynikiem korporacyjnych technik i sztuczek, ale bierze się z chęci wykonywania świetnej pracy.
 
 Sparafrazujmy nasze motto:
 
