@@ -5,7 +5,7 @@ redirect_from:
  - /11es/
 part: one
 title: Toma decisiones más inteligentes
-subtitle: "Decide más rápido, pero tómate el tiempo suficiente para hacer bien las cosas".
+subtitle: "Decide más rápido, pero tómate el tiempo suficiente para hacer bien las cosas."
 ---
 
 * TOC
