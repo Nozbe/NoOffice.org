@@ -22,7 +22,7 @@ Law- or policy-based jobs are often slowest to adapt, but in many countries, goi
 
 Modern companies need to have a process that converts paper documents to digital ones. Today's scanners or scanning apps not only do it very quickly but they can also perform OCR[^1] on a scanned document. This way, the content of each digitized piece of paper is actually searchable.
 
-Finding old receipts by going through folders of physical papers isa thing of the past. In a digital world, you can now find things in an instant.
+Finding old receipts by going through folders of physical papers is a thing of the past. In a digital world, you can now find things in an instant.
 
 ## Step one: Create a process of going paperless
 
