@@ -103,6 +103,6 @@ My favorite book on this subject is *Rework*[^5], which has lots of ideas on a m
 
 [^1]: Sorry, couldn't help myself: to ridicule the 9 to 5 concept, I simply paraphrased the first sentence from one of my favorite novels, *Pride and Prejudice* by Jane Austen: *"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."*
 [^2]: Check out his article on the subject: [How to Better Control Your Time by Designing Your Ideal Week](https://michaelhyatt.com/ideal-week/)
-[^3]: One of my favorite hacks was the [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique).
+[^3]: One of my favorite hacks was the [Pomodoro Technique](https://nozbe.com/blog/how-to-manage-work-pomodoro-technique/).
 [^4]: I wrote about this [first on my blog](https://sliwinski.com/2hours/) and later extended it to a [Core Hours episode on The Podcast](https://sliwinski.com/thepodcast-204/).
 [^5]: [Rework](https://basecamp.com/books/rework) by [Jason Fried](https://twitter.com/jasonfried) and [David Heinemeier Hansson](https://dhh.dk)
