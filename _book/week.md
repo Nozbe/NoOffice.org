@@ -83,7 +83,7 @@ That's right. I need two hours of uninterrupted time to move something forward. 
 Why two hours? Because the time usually goes like this:
 
 * In the first 30 minutes, I turn off notifications or silence my phone and start thinking about the problem. I gather all the links and resources needed to tackle the issue.
-* In the next30 minutes, I start working. I create the first rough draft, idea or outline.
+* In the next 30 minutes, I start working. I create the first rough draft, idea or outline.
 * And I still have at least one hour to work on it and flesh it out. I've thought about the problem, I'm focused, I'm warmed up… and now, I can get to work.
 * After two hours, I will have usually created something that I can send to the team for feedback, or I have the momentum to keep going and finish it up for another 30-60 minutes.
 
