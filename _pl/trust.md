@@ -4,7 +4,7 @@ redirect_from:
  - /zaufanie/
  - /18pl/
 part: two
-title: Miejcie do siebie zaufanie
+title: Zaufanie zamiast kontroli
 subtitle: "Kontrola w pracy jest dobra, ale zaufanie co do tego, że zadania zostaną wykonane, jest lepsze!"
 ---
 
