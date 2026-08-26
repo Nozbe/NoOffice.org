@@ -94,12 +94,12 @@ As we ship our app Nozbe Teams weekly, our VP of Product vlogs every week to mak
 
 Basically, I vlog about anything I'd love for my team members to know to ensure we're all on the same page. I try to briefly summarize all the things that have happened since my last vlog:
 
-– Milestones of our apps that have been shipped to customers
-– Challenges we're facing as a team
-– What's going on in each department
-– Who's joining or who's leaving the team
-– Address issues people have been raising recently
-– Major policy changes – I very often explain the nuances in the video
+- Milestones of our apps that have been shipped to customers
+- Challenges we're facing as a team
+- What's going on in each department
+- Who's joining or who's leaving the team
+- Address issues people have been raising recently
+- Major policy changes – I very often explain the nuances in the video
 
 ## The one thing: Vlogging is the best way to update your team
 

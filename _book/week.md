@@ -52,11 +52,11 @@ I first learned about the idea of an *ideal workweek* from my friend and mentor,
 
 Everyone is different and should have the agency to design their own perfect workweek. Here's mine:
 
-– Monday – CEO/Product. The first half of Monday, I do business work and have my *directors* meeting. The second half of the day, I work on product.
-– Tuesday – Product. I review all proposals, pending tasks, and the progress on the features with which I'm involved, plus we have our *design* meeting.
-– Wednesday – Marketing. I have our *marketing* meeting, where I give feedback to the marketing team. Every two weeks, I have our *support* improvement meeting.
-– Thursday – Writing. I don't have any meetings. Instead, I write a lot – blog posts, marketing stuff, preparation for interviews, etc.
-– Friday – Review. I review my week and prepare for the next one. More on Fridays at Nozbe in an upcoming chapter.
+- Monday – CEO/Product. The first half of Monday, I do business work and have my *directors* meeting. The second half of the day, I work on product.
+- Tuesday – Product. I review all proposals, pending tasks, and the progress on the features with which I'm involved, plus we have our *design* meeting.
+- Wednesday – Marketing. I have our *marketing* meeting, where I give feedback to the marketing team. Every two weeks, I have our *support* improvement meeting.
+- Thursday – Writing. I don't have any meetings. Instead, I write a lot – blog posts, marketing stuff, preparation for interviews, etc.
+- Friday – Review. I review my week and prepare for the next one. More on Fridays at Nozbe in an upcoming chapter.
 
 As you can see, my plan revolves around the regular meetings we have and my responsibilities as the CEO, VP of Marketing and chief visionary behind Nozbe. I wear many hats, so my week accommodates for that and helps me work in a focused way.
 
